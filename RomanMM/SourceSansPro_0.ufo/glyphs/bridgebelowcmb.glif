@@ -3,22 +3,33 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-106" y="-136" type="line"/>
-      <point x="106" y="-136" type="line"/>
-      <point x="106" y="-108" type="line"/>
-      <point x="-106" y="-108" type="line"/>
+<<<<<<< HEAD
+      <point x="90" y="-230" type="line"/>
+      <point x="116" y="-230" type="line"/>
+      <point x="116" y="-86" type="line"/>
+      <point x="-116" y="-86" type="line"/>
+      <point x="-116" y="-230" type="line"/>
+      <point x="-90" y="-230" type="line"/>
+      <point x="-90" y="-114" type="line"/>
+      <point x="90" y="-114" type="line"/>
+=======
+      <point x="-116" y="-114" type="line"/>
+      <point x="116" y="-114" type="line"/>
+      <point x="116" y="-86" type="line"/>
+      <point x="-116" y="-86" type="line"/>
     </contour>
     <contour>
-      <point x="-106" y="-212" type="line"/>
-      <point x="-80" y="-212" type="line"/>
-      <point x="-80" y="-108" type="line"/>
-      <point x="-106" y="-108" type="line"/>
+      <point x="-116" y="-230" type="line"/>
+      <point x="-90" y="-230" type="line"/>
+      <point x="-90" y="-86" type="line"/>
+      <point x="-116" y="-86" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="-212" type="line"/>
-      <point x="106" y="-212" type="line"/>
-      <point x="106" y="-108" type="line"/>
-      <point x="80" y="-108" type="line"/>
+      <point x="90" y="-230" type="line"/>
+      <point x="116" y="-230" type="line"/>
+      <point x="116" y="-86" type="line"/>
+      <point x="90" y="-86" type="line"/>
+>>>>>>> bb3dd84... Updates the design of some mark glyphs. Removes some extra font.OTF file.
     </contour>
     <contour>
       <point x="0" y="-22" type="move" name="_belowLC"/>
@@ -28,6 +39,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bridgebelowcmb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

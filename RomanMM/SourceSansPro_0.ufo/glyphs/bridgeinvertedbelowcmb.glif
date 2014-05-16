@@ -3,31 +3,60 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-106" y="-190" type="line"/>
-      <point x="106" y="-190" type="line"/>
-      <point x="106" y="-162" type="line"/>
-      <point x="-106" y="-162" type="line"/>
+      <point x="-116" y="-234" type="line"/>
+      <point x="116" y="-234" type="line"/>
+<<<<<<< HEAD
+      <point x="116" y="-90" type="line"/>
+      <point x="90" y="-90" type="line"/>
+      <point x="90" y="-206" type="line"/>
+      <point x="-90" y="-206" type="line"/>
+=======
+      <point x="116" y="-206" type="line"/>
+      <point x="-116" y="-206" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="-190" type="line"/>
-      <point x="106" y="-190" type="line"/>
-      <point x="106" y="-86" type="line"/>
-      <point x="80" y="-86" type="line"/>
+      <point x="90" y="-234" type="line"/>
+      <point x="116" y="-234" type="line"/>
+      <point x="116" y="-90" type="line"/>
+      <point x="90" y="-90" type="line"/>
     </contour>
     <contour>
-      <point x="-106" y="-190" type="line"/>
-      <point x="-80" y="-190" type="line"/>
-      <point x="-80" y="-86" type="line"/>
-      <point x="-106" y="-86" type="line"/>
+      <point x="-116" y="-234" type="line"/>
+      <point x="-90" y="-234" type="line"/>
+>>>>>>> bb3dd84... Updates the design of some mark glyphs. Removes some extra font.OTF file.
+      <point x="-90" y="-90" type="line"/>
+      <point x="-116" y="-90" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="-22" type="move" name="_belowLC"/>
+      <point x="0.0" y="-22.0" type="move" name="_belowLC"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bridgeinvertedbelowcmb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

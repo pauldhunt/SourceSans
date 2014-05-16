@@ -2,12 +2,7 @@
 <glyph name="macronbelowcmb" format="1">
   <advance width="0"/>
   <outline>
-    <contour>
-      <point x="-112" y="-156" type="line"/>
-      <point x="110" y="-156" type="line"/>
-      <point x="110" y="-128" type="line"/>
-      <point x="-112" y="-128" type="line"/>
-    </contour>
+    <component base="macroncmb" yOffset="-764"/>
     <contour>
       <point x="0" y="-22" type="move" name="_belowLC"/>
     </contour>
@@ -16,7 +11,88 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-112</integer>
+                  <key>y</key>
+                  <integer>-156</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>110</integer>
+                  <key>y</key>
+                  <integer>-156</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>110</integer>
+                  <key>y</key>
+                  <integer>-128</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-112</integer>
+                  <key>y</key>
+                  <integer>-128</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macronbelowcmb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+<<<<<<< HEAD
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <real>0.5470588235294118</real>
+        <integer>1</integer>
+=======
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+>>>>>>> bb3dd84... Updates the design of some mark glyphs. Removes some extra font.OTF file.
+      </array>
     </dict>
   </lib>
 </glyph>

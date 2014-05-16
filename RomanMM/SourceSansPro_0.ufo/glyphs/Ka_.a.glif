@@ -48,14 +48,33 @@
       <point x="464" y="6"/>
       <point x="487" y="-12"/>
     </contour>
-    <contour>
-      <point x="308" y="682" type="move" name="aboveUC"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ka.a</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>546</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

@@ -94,14 +94,33 @@
       <point x="540" y="8"/>
       <point x="570" y="-12"/>
     </contour>
-    <contour>
-      <point x="309" y="502" type="move" name="aboveLC"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zhe.a</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>616</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
