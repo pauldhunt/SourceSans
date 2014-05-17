@@ -3,27 +3,6 @@
   <advance width="480"/>
   <outline>
     <contour>
-      <point x="86" y="-98" type="curve" smooth="yes"/>
-      <point x="86" y="-62"/>
-      <point x="106" y="-22"/>
-      <point x="154" y="10" type="curve"/>
-      <point x="180" y="4"/>
-      <point x="206" y="2"/>
-      <point x="212" y="2" type="curve" smooth="yes"/>
-      <point x="322" y="2" type="line" smooth="yes"/>
-      <point x="398" y="2"/>
-      <point x="438" y="-20"/>
-      <point x="438" y="-76" type="curve" smooth="yes"/>
-      <point x="438" y="-140"/>
-      <point x="366" y="-206"/>
-      <point x="252" y="-206" type="curve" smooth="yes"/>
-      <point x="146" y="-206"/>
-      <point x="86" y="-162"/>
-    </contour>
-    <contour>
-      <point x="54" y="-100" type="curve" smooth="yes"/>
-      <point x="54" y="-180"/>
-      <point x="128" y="-234"/>
       <point x="250" y="-234" type="curve" smooth="yes"/>
       <point x="384" y="-234"/>
       <point x="470" y="-154"/>
@@ -69,6 +48,9 @@
       <point x="126" y="18" type="line"/>
       <point x="82" y="-14"/>
       <point x="54" y="-58"/>
+      <point x="54" y="-100" type="curve" smooth="yes"/>
+      <point x="54" y="-180"/>
+      <point x="128" y="-234"/>
     </contour>
     <contour>
       <point x="240" y="180" type="curve" smooth="yes"/>
@@ -85,7 +67,25 @@
       <point x="310" y="180"/>
     </contour>
     <contour>
-      <point x="248" y="500" type="move" name="aboveLC"/>
+      <point x="252" y="-206" type="curve" smooth="yes"/>
+      <point x="146" y="-206"/>
+      <point x="86" y="-162"/>
+      <point x="86" y="-98" type="curve" smooth="yes"/>
+      <point x="86" y="-62"/>
+      <point x="106" y="-22"/>
+      <point x="154" y="10" type="curve"/>
+      <point x="180" y="4"/>
+      <point x="206" y="2"/>
+      <point x="212" y="2" type="curve" smooth="yes"/>
+      <point x="322" y="2" type="line" smooth="yes"/>
+      <point x="398" y="2"/>
+      <point x="438" y="-20"/>
+      <point x="438" y="-76" type="curve" smooth="yes"/>
+      <point x="438" y="-140"/>
+      <point x="366" y="-206"/>
+    </contour>
+    <contour>
+      <point x="248" y="502" type="move" name="aboveLC"/>
     </contour>
     <contour>
       <point x="250" y="-230" type="move" name="belowLC"/>
@@ -95,6 +95,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>g</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>480</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

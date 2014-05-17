@@ -3,10 +3,10 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="106" y="814" type="line"/>
-      <point x="62" y="814" type="line"/>
-      <point x="-32" y="710" type="line"/>
-      <point x="-2" y="710" type="line"/>
+      <point x="-22" y="710" type="line"/>
+      <point x="104" y="822" type="line"/>
+      <point x="82" y="846" type="line"/>
+      <point x="-36" y="726" type="line"/>
     </contour>
     <contour>
       <point x="0" y="682" type="move" name="_aboveUC"/>
@@ -16,6 +16,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>acutecmb.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

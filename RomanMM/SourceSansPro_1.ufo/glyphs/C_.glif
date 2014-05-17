@@ -3,15 +3,12 @@
   <advance width="586"/>
   <outline>
     <contour>
-      <point x="44" y="320" type="curve" smooth="yes"/>
-      <point x="44" y="98"/>
-      <point x="188" y="-12"/>
-      <point x="358" y="-12" type="curve" smooth="yes"/>
+      <point x="354" y="-12" type="curve" smooth="yes"/>
       <point x="438" y="-12"/>
       <point x="513" y="20"/>
       <point x="568" y="84" type="curve"/>
-      <point x="474" y="188" type="line"/>
-      <point x="446" y="158"/>
+      <point x="478" y="192" type="line"/>
+      <point x="450" y="162"/>
       <point x="410" y="136"/>
       <point x="360" y="136" type="curve" smooth="yes"/>
       <point x="276" y="136"/>
@@ -19,16 +16,19 @@
       <point x="220" y="326" type="curve" smooth="yes"/>
       <point x="220" y="444"/>
       <point x="286" y="514"/>
-      <point x="364" y="514" type="curve" smooth="yes"/>
+      <point x="362" y="514" type="curve" smooth="yes"/>
       <point x="406" y="514"/>
-      <point x="434" y="498"/>
-      <point x="466" y="470" type="curve"/>
+      <point x="438" y="494"/>
+      <point x="470" y="466" type="curve"/>
       <point x="560" y="576" type="line"/>
       <point x="514" y="622"/>
       <point x="444" y="662"/>
-      <point x="362" y="662" type="curve" smooth="yes"/>
+      <point x="358" y="662" type="curve" smooth="yes"/>
       <point x="194" y="662"/>
       <point x="44" y="538"/>
+      <point x="44" y="320" type="curve" smooth="yes"/>
+      <point x="44" y="98"/>
+      <point x="188" y="-12"/>
     </contour>
     <contour>
       <point x="348" y="672" type="move" name="aboveUC"/>
@@ -44,6 +44,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>586</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

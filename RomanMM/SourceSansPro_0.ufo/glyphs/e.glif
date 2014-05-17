@@ -3,9 +3,6 @@
   <advance width="478"/>
   <outline>
     <contour>
-      <point x="54" y="238" type="curve" smooth="yes"/>
-      <point x="54" y="82"/>
-      <point x="152" y="-12"/>
       <point x="272" y="-12" type="curve" smooth="yes"/>
       <point x="344" y="-12"/>
       <point x="384" y="12"/>
@@ -26,18 +23,21 @@
       <point x="260" y="490" type="curve" smooth="yes"/>
       <point x="154" y="490"/>
       <point x="54" y="394"/>
+      <point x="54" y="238" type="curve" smooth="yes"/>
+      <point x="54" y="82"/>
+      <point x="152" y="-12"/>
     </contour>
     <contour>
-      <point x="86" y="264" type="line"/>
-      <point x="96" y="386"/>
+      <point x="86" y="266" type="line"/>
+      <point x="96" y="388"/>
       <point x="174" y="462"/>
       <point x="260" y="462" type="curve" smooth="yes"/>
       <point x="350" y="462"/>
-      <point x="410" y="396"/>
-      <point x="410" y="264" type="curve"/>
+      <point x="410" y="398"/>
+      <point x="410" y="266" type="curve"/>
     </contour>
     <contour>
-      <point x="260" y="500" type="move" name="aboveLC"/>
+      <point x="260" y="502" type="move" name="aboveLC"/>
     </contour>
     <contour>
       <point x="256" y="-22" type="move" name="belowLC"/>
@@ -50,6 +50,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>e</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>478</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

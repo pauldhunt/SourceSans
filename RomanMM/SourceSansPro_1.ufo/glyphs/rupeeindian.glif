@@ -32,16 +32,38 @@
       <point x="68" y="448" type="line"/>
     </contour>
     <contour>
-      <point x="111" y="217" type="line"/>
       <point x="266" y="0" type="line"/>
       <point x="458" y="0" type="line"/>
       <point x="227" y="301" type="line"/>
+      <point x="111" y="217" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rupeeindian</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

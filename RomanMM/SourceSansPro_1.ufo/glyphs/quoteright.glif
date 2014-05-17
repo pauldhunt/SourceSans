@@ -20,7 +20,7 @@
       <point x="204" y="533"/>
       <point x="220" y="545" type="curve"/>
       <point x="169" y="618" type="line"/>
-      <point x="170" y="524" type="line" smooth="yes"/>
+      <point x="170" y="524" type="line"/>
       <point x="170" y="464"/>
       <point x="138" y="424"/>
       <point x="74" y="396" type="curve"/>
@@ -30,6 +30,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quoteright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>320</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

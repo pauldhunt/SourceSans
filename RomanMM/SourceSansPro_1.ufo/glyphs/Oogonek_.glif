@@ -3,9 +3,6 @@
   <advance width="692"/>
   <outline>
     <contour>
-      <point x="248" y="-130" type="curve" smooth="yes"/>
-      <point x="248" y="-192"/>
-      <point x="302" y="-228"/>
       <point x="370" y="-228" type="curve" smooth="yes"/>
       <point x="408" y="-228"/>
       <point x="456" y="-212"/>
@@ -34,6 +31,9 @@
       <point x="312" y="-10" type="curve"/>
       <point x="284" y="-34"/>
       <point x="248" y="-76"/>
+      <point x="248" y="-130" type="curve" smooth="yes"/>
+      <point x="248" y="-192"/>
+      <point x="302" y="-228"/>
     </contour>
     <contour>
       <point x="346" y="136" type="curve" smooth="yes"/>
@@ -57,6 +57,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Oogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>692</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
