@@ -58,11 +58,11 @@
 		<integer>-205</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>SourceSansPro-Master0</string>
+	<string>SourceSansPro-ExtraLight</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>Source Sans Pro Master0</string>
+	<string>Source Sans Pro ExtraLight</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-234</integer>
@@ -83,9 +83,11 @@
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
 	<key>postscriptWeightName</key>
-	<string></string>
+	<string>ExtraLight</string>
+	<key>styleMapFamilyName</key>
+	<string>0 : SourceSansPro_0.ufo / SourceSansPro_1.ufo</string>
 	<key>styleName</key>
-	<string>Master0</string>
+	<string>ExtraLight</string>
 	<key>trademark</key>
 	<string>Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.</string>
 	<key>unitsPerEm</key>

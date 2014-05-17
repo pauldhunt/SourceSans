@@ -36,17 +36,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-<<<<<<< HEAD
         <real>0.30000000000000004</real>
         <integer>1</integer>
         <real>0.5470588235294118</real>
         <integer>1</integer>
-=======
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
->>>>>>> bb3dd84... Updates the design of some mark glyphs. Removes some extra font.OTF file.
       </array>
     </dict>
   </lib>
