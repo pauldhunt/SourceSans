@@ -175,13 +175,8 @@ lookup DECOMPOSITION {
 		sub ocircumflex by o circumflexcmb;
 		sub Omacron by O macroncmb;
 		sub omacron by o macroncmb;
-<<<<<<< HEAD
-		sub Yi by I dieresiscmb;
-		sub yi by dotlessi dieresiscmb;
-=======
 		sub Yi by Iukran dieresiscmb;
 		sub yi by iukran dieresiscmb;
->>>>>>> bb3dd84... Updates the design of some mark glyphs. Removes some extra font.OTF file.
 } DECOMPOSITION;
 
 feature ccmp { # Glyph Composition / Decomposition
