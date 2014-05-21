@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresismacron.sc" format="1">
+  <advance width="444"/>
+  <outline>
+    <component base="A.sc"/>
+    <component base="dieresismacron.cap" xOffset="222" yOffset="-120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

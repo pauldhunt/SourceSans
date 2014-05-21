@@ -37,6 +37,9 @@
       <point x="344" y="310" type="curve"/>
     </contour>
     <contour>
+      <point x="272" y="0" type="move" name="baseLC"/>
+    </contour>
+    <contour>
       <point x="272" y="522" type="move" name="aboveLC"/>
     </contour>
     <contour>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Saltillo.sc" format="1">
+  <advance width="248"/>
+  <outline>
+    <contour>
+      <point x="112" y="172" type="line"/>
+      <point x="136" y="172" type="line"/>
+      <point x="140" y="448" type="line"/>
+      <point x="140" y="510" type="line"/>
+      <point x="108" y="510" type="line"/>
+      <point x="108" y="448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -90,6 +90,10 @@
 	<string>Adieresis_.glif</string>
 	<key>Adieresis.sc</key>
 	<string>Adieresis_.sc.glif</string>
+	<key>Adieresismacron</key>
+	<string>Adieresismacron_.glif</string>
+	<key>Adieresismacron.sc</key>
+	<string>Adieresismacron_.sc.glif</string>
 	<key>Adotbelow</key>
 	<string>Adotbelow_.glif</string>
 	<key>Adotbelow.sc</key>
@@ -144,6 +148,10 @@
 	<string>Alphaiotasublenisgrave_.glif</string>
 	<key>Alphaiotasublenistilde</key>
 	<string>Alphaiotasublenistilde_.glif</string>
+	<key>Alphalatin</key>
+	<string>Alphalatin_.glif</string>
+	<key>Alphalatin.sc</key>
+	<string>Alphalatin_.sc.glif</string>
 	<key>Alphalenis</key>
 	<string>Alphalenis_.glif</string>
 	<key>Alphalenisacute</key>
@@ -178,6 +186,10 @@
 	<string>B_.sc.glif</string>
 	<key>B.sups</key>
 	<string>B_.sups.glif</string>
+	<key>Bdotbelow</key>
+	<string>Bdotbelow_.glif</string>
+	<key>Bdotbelow.sc</key>
+	<string>Bdotbelow_.sc.glif</string>
 	<key>Be</key>
 	<string>Be_.glif</string>
 	<key>Be.sc</key>
@@ -186,6 +198,10 @@
 	<string>Beta_.glif</string>
 	<key>Beta.sc</key>
 	<string>Beta_.sc.glif</string>
+	<key>Bhook</key>
+	<string>Bhook_.glif</string>
+	<key>Bhook.sc</key>
+	<string>Bhook_.sc.glif</string>
 	<key>Blinebelow</key>
 	<string>Blinebelow_.glif</string>
 	<key>Blinebelow.sc</key>
@@ -234,16 +250,28 @@
 	<string>Chi_.glif</string>
 	<key>Chi.sc</key>
 	<string>Chi_.sc.glif</string>
+	<key>Chook</key>
+	<string>Chook_.glif</string>
+	<key>Chook.sc</key>
+	<string>Chook_.sc.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>D.sc</key>
 	<string>D_.sc.glif</string>
 	<key>D.sups</key>
 	<string>D_.sups.glif</string>
+	<key>Dafrican</key>
+	<string>Dafrican_.glif</string>
+	<key>Dafrican.sc</key>
+	<string>Dafrican_.sc.glif</string>
 	<key>Dcaron</key>
 	<string>Dcaron_.glif</string>
 	<key>Dcaron.sc</key>
 	<string>Dcaron_.sc.glif</string>
+	<key>Dcircumflexbelow</key>
+	<string>Dcircumflexbelow_.glif</string>
+	<key>Dcircumflexbelow.sc</key>
+	<string>Dcircumflexbelow_.sc.glif</string>
 	<key>Dcroat</key>
 	<string>Dcroat_.glif</string>
 	<key>Dcroat.sc</key>
@@ -262,6 +290,10 @@
 	<string>Delta_.math.glif</string>
 	<key>Delta.sc</key>
 	<string>Delta_.sc.glif</string>
+	<key>Dhook</key>
+	<string>Dhook_.glif</string>
+	<key>Dhook.sc</key>
+	<string>Dhook_.sc.glif</string>
 	<key>Dje</key>
 	<string>Dje_.glif</string>
 	<key>Dje.sc</key>
@@ -296,6 +328,10 @@
 	<string>Ecaron_.glif</string>
 	<key>Ecaron.sc</key>
 	<string>Ecaron_.sc.glif</string>
+	<key>Ecedilla</key>
+	<string>Ecedilla_.glif</string>
+	<key>Ecedilla.sc</key>
+	<string>Ecedilla_.sc.glif</string>
 	<key>Ecircumflex</key>
 	<string>Ecircumflex_.glif</string>
 	<key>Ecircumflex.sc</key>
@@ -384,6 +420,10 @@
 	<string>Eogonek_.glif</string>
 	<key>Eogonek.sc</key>
 	<string>Eogonek_.sc.glif</string>
+	<key>Eopen</key>
+	<string>Eopen_.glif</string>
+	<key>Eopen.sc</key>
+	<string>Eopen_.sc.glif</string>
 	<key>Epsilon</key>
 	<string>Epsilon_.glif</string>
 	<key>Epsilon.sc</key>
@@ -418,6 +458,10 @@
 	<string>Esdescender_.glif</string>
 	<key>Esdescender.sc</key>
 	<string>Esdescender_.sc.glif</string>
+	<key>Esh</key>
+	<string>Esh_.glif</string>
+	<key>Esh.sc</key>
+	<string>Esh_.sc.glif</string>
 	<key>Eta</key>
 	<string>Eta_.glif</string>
 	<key>Eta.sc</key>
@@ -472,14 +516,26 @@
 	<string>Etilde_.glif</string>
 	<key>Etilde.sc</key>
 	<string>Etilde_.sc.glif</string>
+	<key>Eturned</key>
+	<string>Eturned_.glif</string>
+	<key>Eturned.sc</key>
+	<string>Eturned_.sc.glif</string>
 	<key>Euro</key>
 	<string>Euro_.glif</string>
+	<key>Ezh</key>
+	<string>Ezh_.glif</string>
+	<key>Ezh.sc</key>
+	<string>Ezh_.sc.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>F.sc</key>
 	<string>F_.sc.glif</string>
 	<key>F.sups</key>
 	<string>F_.sups.glif</string>
+	<key>Fhook</key>
+	<string>Fhook_.glif</string>
+	<key>Fhook.sc</key>
+	<string>Fhook_.sc.glif</string>
 	<key>Fita</key>
 	<string>Fita_.glif</string>
 	<key>Fita.sc</key>
@@ -498,6 +554,10 @@
 	<string>Gamma_.glif</string>
 	<key>Gamma.sc</key>
 	<string>Gamma_.sc.glif</string>
+	<key>Gammalatin</key>
+	<string>Gammalatin_.glif</string>
+	<key>Gammalatin.sc</key>
+	<string>Gammalatin_.sc.glif</string>
 	<key>Gbreve</key>
 	<string>Gbreve_.glif</string>
 	<key>Gbreve.sc</key>
@@ -542,6 +602,10 @@
 	<string>Gje_.glif</string>
 	<key>Gje.sc</key>
 	<string>Gje_.sc.glif</string>
+	<key>Glottalstoplatin</key>
+	<string>Glottalstoplatin_.glif</string>
+	<key>Glottalstoplatin.sc</key>
+	<string>Glottalstoplatin_.sc.glif</string>
 	<key>Gmacron</key>
 	<string>Gmacron_.glif</string>
 	<key>Gmacron.sc</key>
@@ -586,8 +650,16 @@
 	<string>Hdotbelow_.glif</string>
 	<key>Hdotbelow.sc</key>
 	<string>Hdotbelow_.sc.glif</string>
+	<key>Hhook</key>
+	<string>Hhook_.glif</string>
+	<key>Hhook.sc</key>
+	<string>Hhook_.sc.glif</string>
 	<key>Hsmall</key>
 	<string>Hsmall_.glif</string>
+	<key>Hturned</key>
+	<string>Hturned_.glif</string>
+	<key>Hturned.sc</key>
+	<string>Hturned_.sc.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>I.alt</key>
@@ -634,6 +706,10 @@
 	<string>Idieresis_.alt.glif</string>
 	<key>Idieresis.sc</key>
 	<string>Idieresis_.sc.glif</string>
+	<key>Idieresisacute</key>
+	<string>Idieresisacute_.glif</string>
+	<key>Idieresisacute.sc</key>
+	<string>Idieresisacute_.sc.glif</string>
 	<key>Idotaccent</key>
 	<string>Idotaccent_.glif</string>
 	<key>Idotaccent.alt</key>
@@ -720,6 +796,10 @@
 	<string>Iotadieresis_.sc.glif</string>
 	<key>Iotagrave</key>
 	<string>Iotagrave_.glif</string>
+	<key>Iotalatin</key>
+	<string>Iotalatin_.glif</string>
+	<key>Iotalatin.sc</key>
+	<string>Iotalatin_.sc.glif</string>
 	<key>Iotalenis</key>
 	<string>Iotalenis_.glif</string>
 	<key>Iotalenisacute</key>
@@ -738,6 +818,10 @@
 	<string>Ishort_.sc.glif</string>
 	<key>Ismall</key>
 	<string>Ismall_.glif</string>
+	<key>Istroke</key>
+	<string>Istroke_.glif</string>
+	<key>Istroke.sc</key>
+	<string>Istroke_.sc.glif</string>
 	<key>Itilde</key>
 	<string>Itilde_.glif</string>
 	<key>Itilde.alt</key>
@@ -808,6 +892,10 @@
 	<string>Kdotbelow_.glif</string>
 	<key>Kdotbelow.sc</key>
 	<string>Kdotbelow_.sc.glif</string>
+	<key>Khook</key>
+	<string>Khook_.glif</string>
+	<key>Khook.sc</key>
+	<string>Khook_.sc.glif</string>
 	<key>Kje</key>
 	<string>Kje_.glif</string>
 	<key>Kje.a</key>
@@ -838,6 +926,10 @@
 	<string>Lcaron_.glif</string>
 	<key>Lcaron.sc</key>
 	<string>Lcaron_.sc.glif</string>
+	<key>Lcircumflexbelow</key>
+	<string>Lcircumflexbelow_.glif</string>
+	<key>Lcircumflexbelow.sc</key>
+	<string>Lcircumflexbelow_.sc.glif</string>
 	<key>Lcommaaccent</key>
 	<string>Lcommaaccent_.glif</string>
 	<key>Lcommaaccent.sc</key>
@@ -906,6 +998,10 @@
 	<string>Ncaron_.glif</string>
 	<key>Ncaron.sc</key>
 	<string>Ncaron_.sc.glif</string>
+	<key>Ncircumflexbelow</key>
+	<string>Ncircumflexbelow_.glif</string>
+	<key>Ncircumflexbelow.sc</key>
+	<string>Ncircumflexbelow_.sc.glif</string>
 	<key>Ncommaaccent</key>
 	<string>Ncommaaccent_.glif</string>
 	<key>Ncommaaccent.sc</key>
@@ -922,6 +1018,10 @@
 	<string>Ngrave_.glif</string>
 	<key>Ngrave.sc</key>
 	<string>Ngrave_.sc.glif</string>
+	<key>Nhookleft</key>
+	<string>Nhookleft_.glif</string>
+	<key>Nhookleft.sc</key>
+	<string>Nhookleft_.sc.glif</string>
 	<key>Nje</key>
 	<string>Nje_.glif</string>
 	<key>Nje.sc</key>
@@ -956,6 +1056,10 @@
 	<string>Oacute_.glif</string>
 	<key>Oacute.sc</key>
 	<string>Oacute_.sc.glif</string>
+	<key>Obar</key>
+	<string>Obar_.glif</string>
+	<key>Obar.sc</key>
+	<string>Obar_.sc.glif</string>
 	<key>Obarcyr</key>
 	<string>Obarcyr_.glif</string>
 	<key>Obarcyr.sc</key>
@@ -1004,6 +1108,10 @@
 	<string>Odieresiscyr_.glif</string>
 	<key>Odieresiscyr.sc</key>
 	<string>Odieresiscyr_.sc.glif</string>
+	<key>Odieresismacron</key>
+	<string>Odieresismacron_.glif</string>
+	<key>Odieresismacron.sc</key>
+	<string>Odieresismacron_.sc.glif</string>
 	<key>Odotbelow</key>
 	<string>Odotbelow_.glif</string>
 	<key>Odotbelow.sc</key>
@@ -1052,6 +1160,10 @@
 	<string>Omacronacute_.glif</string>
 	<key>Omacronacute.sc</key>
 	<string>Omacronacute_.sc.glif</string>
+	<key>Omacrongrave</key>
+	<string>Omacrongrave_.glif</string>
+	<key>Omacrongrave.sc</key>
+	<string>Omacrongrave_.sc.glif</string>
 	<key>Omega</key>
 	<string>Omega_.glif</string>
 	<key>Omega.math</key>
@@ -1126,14 +1238,26 @@
 	<string>Oogonek_.glif</string>
 	<key>Oogonek.sc</key>
 	<string>Oogonek_.sc.glif</string>
+	<key>Oopen</key>
+	<string>Oopen_.glif</string>
+	<key>Oopen.sc</key>
+	<string>Oopen_.sc.glif</string>
 	<key>Oslash</key>
 	<string>Oslash_.glif</string>
 	<key>Oslash.sc</key>
 	<string>Oslash_.sc.glif</string>
+	<key>Oslashacute</key>
+	<string>Oslashacute_.glif</string>
+	<key>Oslashacute.sc</key>
+	<string>Oslashacute_.sc.glif</string>
 	<key>Otilde</key>
 	<string>Otilde_.glif</string>
 	<key>Otilde.sc</key>
 	<string>Otilde_.sc.glif</string>
+	<key>Otildeacute</key>
+	<string>Otildeacute_.glif</string>
+	<key>Otildeacute.sc</key>
+	<string>Otildeacute_.sc.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
 	<key>P.sc</key>
@@ -1152,6 +1276,10 @@
 	<string>Phi_.glif</string>
 	<key>Phi.sc</key>
 	<string>Phi_.sc.glif</string>
+	<key>Phook</key>
+	<string>Phook_.glif</string>
+	<key>Phook.sc</key>
+	<string>Phook_.sc.glif</string>
 	<key>Pi</key>
 	<string>Pi_.glif</string>
 	<key>Pi.sc</key>
@@ -1210,6 +1338,14 @@
 	<string>Rsmall_.glif</string>
 	<key>Rsmallinverted</key>
 	<string>Rsmallinverted_.glif</string>
+	<key>Rstroke</key>
+	<string>Rstroke_.glif</string>
+	<key>Rstroke.sc</key>
+	<string>Rstroke_.sc.glif</string>
+	<key>Rtail</key>
+	<string>Rtail_.glif</string>
+	<key>Rtail.sc</key>
+	<string>Rtail_.sc.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>S.sc</key>
@@ -1220,6 +1356,10 @@
 	<string>Sacute_.glif</string>
 	<key>Sacute.sc</key>
 	<string>Sacute_.sc.glif</string>
+	<key>Saltillo</key>
+	<string>Saltillo_.glif</string>
+	<key>Saltillo.sc</key>
+	<string>Saltillo_.sc.glif</string>
 	<key>Scaron</key>
 	<string>Scaron_.glif</string>
 	<key>Scaron.sc</key>
@@ -1294,6 +1434,10 @@
 	<string>Tcedilla_.glif</string>
 	<key>Tcedilla.sc</key>
 	<string>Tcedilla_.sc.glif</string>
+	<key>Tcircumflexbelow</key>
+	<string>Tcircumflexbelow_.glif</string>
+	<key>Tcircumflexbelow.sc</key>
+	<string>Tcircumflexbelow_.sc.glif</string>
 	<key>Tcommaaccent</key>
 	<string>Tcommaaccent_.glif</string>
 	<key>Tcommaaccent.sc</key>
@@ -1310,6 +1454,10 @@
 	<string>Theta_.glif</string>
 	<key>Theta.sc</key>
 	<string>Theta_.sc.glif</string>
+	<key>Thook</key>
+	<string>Thook_.glif</string>
+	<key>Thook.sc</key>
+	<string>Thook_.sc.glif</string>
 	<key>Thorn</key>
 	<string>Thorn_.glif</string>
 	<key>Thorn.sc</key>
@@ -1318,6 +1466,10 @@
 	<string>Tlinebelow_.glif</string>
 	<key>Tlinebelow.sc</key>
 	<string>Tlinebelow_.sc.glif</string>
+	<key>Tretroflex</key>
+	<string>Tretroflex_.glif</string>
+	<key>Tretroflex.sc</key>
+	<string>Tretroflex_.sc.glif</string>
 	<key>Tse</key>
 	<string>Tse_.glif</string>
 	<key>Tse.sc</key>
@@ -1340,6 +1492,10 @@
 	<string>Uacutedblcyr_.glif</string>
 	<key>Uacutedblcyr.sc</key>
 	<string>Uacutedblcyr_.sc.glif</string>
+	<key>Ubar</key>
+	<string>Ubar_.glif</string>
+	<key>Ubar.sc</key>
+	<string>Ubar_.sc.glif</string>
 	<key>Ubreve</key>
 	<string>Ubreve_.glif</string>
 	<key>Ubreve.sc</key>
@@ -1450,6 +1606,10 @@
 	<string>Upsilondieresis_.sc.glif</string>
 	<key>Upsilongrave</key>
 	<string>Upsilongrave_.glif</string>
+	<key>Upsilonlatin</key>
+	<string>Upsilonlatin_.glif</string>
+	<key>Upsilonlatin.sc</key>
+	<string>Upsilonlatin_.sc.glif</string>
 	<key>Upsilonmacron</key>
 	<string>Upsilonmacron_.glif</string>
 	<key>Upsilontonos</key>
@@ -1474,6 +1634,10 @@
 	<string>Utilde_.glif</string>
 	<key>Utilde.sc</key>
 	<string>Utilde_.sc.glif</string>
+	<key>Utildeacute</key>
+	<string>Utildeacute_.glif</string>
+	<key>Utildeacute.sc</key>
+	<string>Utildeacute_.sc.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>V.sc</key>
@@ -1484,6 +1648,14 @@
 	<string>Ve_.glif</string>
 	<key>Ve.sc</key>
 	<string>Ve_.sc.glif</string>
+	<key>Vhook</key>
+	<string>Vhook_.glif</string>
+	<key>Vhook.sc</key>
+	<string>Vhook_.sc.glif</string>
+	<key>Vturned</key>
+	<string>Vturned_.glif</string>
+	<key>Vturned.sc</key>
+	<string>Vturned_.sc.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
 	<key>W.sc</key>
@@ -1506,6 +1678,10 @@
 	<string>Wgrave_.glif</string>
 	<key>Wgrave.sc</key>
 	<string>Wgrave_.sc.glif</string>
+	<key>Whook</key>
+	<string>Whook_.glif</string>
+	<key>Whook.sc</key>
+	<string>Whook_.sc.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>X.sc</key>
@@ -1562,6 +1738,10 @@
 	<string>Yhoi_.glif</string>
 	<key>Yhoi.sc</key>
 	<string>Yhoi_.sc.glif</string>
+	<key>Yhook</key>
+	<string>Yhook_.glif</string>
+	<key>Yhook.sc</key>
+	<string>Yhook_.sc.glif</string>
 	<key>Yi</key>
 	<string>Yi_.glif</string>
 	<key>Yi.a</key>
@@ -1716,6 +1896,10 @@
 	<string>acutecmb.glif</string>
 	<key>acutecmb.cap</key>
 	<string>acutecmb.cap.glif</string>
+	<key>acutemacroncmb</key>
+	<string>acutemacroncmb.glif</string>
+	<key>acutemacroncmb.cap</key>
+	<string>acutemacroncmb.cap.glif</string>
 	<key>acutemod</key>
 	<string>acutemod.glif</string>
 	<key>acyr</key>
@@ -1724,6 +1908,8 @@
 	<string>adieresis.glif</string>
 	<key>adieresis.alt</key>
 	<string>adieresis.alt.glif</string>
+	<key>adieresismacron</key>
+	<string>adieresismacron.glif</string>
 	<key>adotbelow</key>
 	<string>adotbelow.glif</string>
 	<key>adotbelow.alt</key>
@@ -1818,6 +2004,8 @@
 	<string>aogonek.glif</string>
 	<key>aogonek.alt</key>
 	<string>aogonek.alt.glif</string>
+	<key>apostrophedblmod</key>
+	<string>apostrophedblmod.glif</string>
 	<key>apostrophemod</key>
 	<string>apostrophemod.glif</string>
 	<key>approxequal</key>
@@ -1884,6 +2072,8 @@
 	<string>bar.glif</string>
 	<key>bardbl</key>
 	<string>bardbl.glif</string>
+	<key>bdotbelow</key>
+	<string>bdotbelow.glif</string>
 	<key>be</key>
 	<string>be.glif</string>
 	<key>be.srb</key>
@@ -2024,6 +2214,8 @@
 	<string>chedescender.glif</string>
 	<key>chi</key>
 	<string>chi.glif</string>
+	<key>chook</key>
+	<string>chook.glif</string>
 	<key>circledotted</key>
 	<string>circledotted.glif</string>
 	<key>circumflex</key>
@@ -2032,6 +2224,8 @@
 	<string>circumflexacute.glif</string>
 	<key>circumflexacute.cap</key>
 	<string>circumflexacute.cap.glif</string>
+	<key>circumflexbelowcmb</key>
+	<string>circumflexbelowcmb.glif</string>
 	<key>circumflexbreve</key>
 	<string>circumflexbreve.glif</string>
 	<key>circumflexbreve.cap</key>
@@ -2056,10 +2250,18 @@
 	<string>clickalveolar.glif</string>
 	<key>clickbilabial</key>
 	<string>clickbilabial.glif</string>
+	<key>clickdental</key>
+	<string>clickdental.glif</string>
+	<key>clicklateral</key>
+	<string>clicklateral.glif</string>
+	<key>clickretroflex</key>
+	<string>clickretroflex.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>colon.sups</key>
 	<string>colon.sups.glif</string>
+	<key>colonmod</key>
+	<string>colonmod.glif</string>
 	<key>colonmonetary</key>
 	<string>colonmonetary.glif</string>
 	<key>colontriangularhalfmod</key>
@@ -2108,6 +2310,8 @@
 	<string>dblprime.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
+	<key>dcircumflexbelow</key>
+	<string>dcircumflexbelow.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
 	<key>ddotbelow</key>
@@ -2212,6 +2416,8 @@
 	<string>ebreve.glif</string>
 	<key>ecaron</key>
 	<string>ecaron.glif</string>
+	<key>ecedilla</key>
+	<string>ecedilla.glif</string>
 	<key>ecircumflex</key>
 	<string>ecircumflex.glif</string>
 	<key>ecircumflexacute</key>
@@ -2386,6 +2592,8 @@
 	<string>eth.glif</string>
 	<key>etilde</key>
 	<string>etilde.glif</string>
+	<key>eturned</key>
+	<string>eturned.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclam.sc</key>
@@ -2536,6 +2744,10 @@
 	<string>gje.glif</string>
 	<key>glottalstop</key>
 	<string>glottalstop.glif</string>
+	<key>glottalstoplatin</key>
+	<string>glottalstoplatin.glif</string>
+	<key>glottalstopmod</key>
+	<string>glottalstopmod.glif</string>
 	<key>glottalstopreversed</key>
 	<string>glottalstopreversed.glif</string>
 	<key>glottalstopreversedmod</key>
@@ -2554,6 +2766,10 @@
 	<string>gravecmb.glif</string>
 	<key>gravecmb.cap</key>
 	<string>gravecmb.cap.glif</string>
+	<key>gravemacroncmb</key>
+	<string>gravemacroncmb.glif</string>
+	<key>gravemacroncmb.cmb</key>
+	<string>gravemacroncmb.cmb.glif</string>
 	<key>gravemod</key>
 	<string>gravemod.glif</string>
 	<key>greater</key>
@@ -2644,6 +2860,8 @@
 	<string>icyr.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
+	<key>idieresisacute</key>
+	<string>idieresisacute.glif</string>
 	<key>idotbelow</key>
 	<string>idotbelow.glif</string>
 	<key>ie</key>
@@ -2706,6 +2924,8 @@
 	<string>iotadieresistonos.glif</string>
 	<key>iotagrave</key>
 	<string>iotagrave.glif</string>
+	<key>iotalatin</key>
+	<string>iotalatin.glif</string>
 	<key>iotalenis</key>
 	<string>iotalenis.glif</string>
 	<key>iotalenisacute</key>
@@ -2776,6 +2996,8 @@
 	<string>kdotbelow.glif</string>
 	<key>kgreenlandic</key>
 	<string>kgreenlandic.glif</string>
+	<key>khook</key>
+	<string>khook.glif</string>
 	<key>kje</key>
 	<string>kje.glif</string>
 	<key>kje.a</key>
@@ -2806,6 +3028,8 @@
 	<string>lcaron.glif</string>
 	<key>lcaron.alt</key>
 	<string>lcaron.alt.glif</string>
+	<key>lcircumflexbelow</key>
+	<string>lcircumflexbelow.glif</string>
 	<key>lcommaaccent</key>
 	<string>lcommaaccent.glif</string>
 	<key>lcommaaccent.alt</key>
@@ -2870,6 +3094,8 @@
 	<string>llinebelow.alt.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
+	<key>lowlinecmb</key>
+	<string>lowlinecmb.glif</string>
 	<key>lownumeralsign</key>
 	<string>lownumeralsign.glif</string>
 	<key>lozenge</key>
@@ -2890,12 +3116,20 @@
 	<string>macronacute.glif</string>
 	<key>macronacute.cap</key>
 	<string>macronacute.cap.glif</string>
+	<key>macronacutecmb</key>
+	<string>macronacutecmb.glif</string>
+	<key>macronacutecmb.cap</key>
+	<string>macronacutecmb.cap.glif</string>
 	<key>macronbelowcmb</key>
 	<string>macronbelowcmb.glif</string>
 	<key>macroncmb</key>
 	<string>macroncmb.glif</string>
 	<key>macroncmb.cap</key>
 	<string>macroncmb.cap.glif</string>
+	<key>macrongravecmb</key>
+	<string>macrongravecmb.glif</string>
+	<key>macrongravecmb.cap</key>
+	<string>macrongravecmb.cap.glif</string>
 	<key>macronmod</key>
 	<string>macronmod.glif</string>
 	<key>macute</key>
@@ -2910,6 +3144,8 @@
 	<string>minus.glif</string>
 	<key>minusbelowcmb</key>
 	<string>minusbelowcmb.glif</string>
+	<key>minusmod</key>
+	<string>minusmod.glif</string>
 	<key>mlonglegturned</key>
 	<string>mlonglegturned.glif</string>
 	<key>mturned</key>
@@ -2936,6 +3172,8 @@
 	<string>nbspace.frac.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
+	<key>ncircumflexbelow</key>
+	<string>ncircumflexbelow.glif</string>
 	<key>ncommaaccent</key>
 	<string>ncommaaccent.glif</string>
 	<key>ndotaccent</key>
@@ -3016,6 +3254,8 @@
 	<string>odieresis.glif</string>
 	<key>odieresiscyr</key>
 	<string>odieresiscyr.glif</string>
+	<key>odieresismacron</key>
+	<string>odieresismacron.glif</string>
 	<key>odotbelow</key>
 	<string>odotbelow.glif</string>
 	<key>oe</key>
@@ -3048,6 +3288,8 @@
 	<string>omacron.glif</string>
 	<key>omacronacute</key>
 	<string>omacronacute.glif</string>
+	<key>omacrongrave</key>
+	<string>omacrongrave.glif</string>
 	<key>omega</key>
 	<string>omega.glif</string>
 	<key>omegaacute</key>
@@ -3168,8 +3410,12 @@
 	<string>ordmasculine.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
+	<key>oslashacute</key>
+	<string>oslashacute.glif</string>
 	<key>otilde</key>
 	<string>otilde.glif</string>
+	<key>otildeacute</key>
+	<string>otildeacute.glif</string>
 	<key>overline</key>
 	<string>overline.glif</string>
 	<key>overlinecmb</key>
@@ -3248,6 +3494,8 @@
 	<string>phi.alt.glif</string>
 	<key>philatin</key>
 	<string>philatin.glif</string>
+	<key>phook</key>
+	<string>phook.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
 	<key>plus</key>
@@ -3368,6 +3616,8 @@
 	<string>rlinebelow.glif</string>
 	<key>rlonglegturned</key>
 	<string>rlonglegturned.glif</string>
+	<key>rstroke</key>
+	<string>rstroke.glif</string>
 	<key>rtail</key>
 	<string>rtail.glif</string>
 	<key>rturned</key>
@@ -3382,6 +3632,8 @@
 	<string>s.sups.glif</string>
 	<key>sacute</key>
 	<string>sacute.glif</string>
+	<key>saltillo</key>
+	<string>saltillo.glif</string>
 	<key>sampi</key>
 	<string>sampi.glif</string>
 	<key>scaron</key>
@@ -3444,6 +3696,8 @@
 	<string>shha.glif</string>
 	<key>shook</key>
 	<string>shook.glif</string>
+	<key>shortequalsmod</key>
+	<string>shortequalsmod.glif</string>
 	<key>sigma</key>
 	<string>sigma.glif</string>
 	<key>sigma.end</key>
@@ -3504,6 +3758,8 @@
 	<string>tcaron.glif</string>
 	<key>tcedilla</key>
 	<string>tcedilla.glif</string>
+	<key>tcircumflexbelow</key>
+	<string>tcircumflexbelow.glif</string>
 	<key>tcommaaccent</key>
 	<string>tcommaaccent.glif</string>
 	<key>tdieresis</key>
@@ -3518,6 +3774,8 @@
 	<string>theta.glif</string>
 	<key>theta.alt</key>
 	<string>theta.alt.glif</string>
+	<key>thook</key>
+	<string>thook.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
@@ -3550,6 +3808,10 @@
 	<string>threequarters.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+	<key>tildeacutecmb</key>
+	<string>tildeacutecmb.glif</string>
+	<key>tildeacutecmb.cap</key>
+	<string>tildeacutecmb.cap.glif</string>
 	<key>tildebelowcmb</key>
 	<string>tildebelowcmb.glif</string>
 	<key>tildecmb</key>
@@ -3730,6 +3992,8 @@
 	<string>ustraightstroke.glif</string>
 	<key>utilde</key>
 	<string>utilde.glif</string>
+	<key>utildeacute</key>
+	<string>utildeacute.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>v.sups</key>
@@ -3742,6 +4006,8 @@
 	<string>variacmb.glif</string>
 	<key>ve</key>
 	<string>ve.glif</string>
+	<key>verticallineabovecmb</key>
+	<string>verticallineabovecmb.glif</string>
 	<key>verticallinebelowcmb</key>
 	<string>verticallinebelowcmb.glif</string>
 	<key>verticallinelowmod</key>
@@ -3764,6 +4030,8 @@
 	<string>wdieresis.glif</string>
 	<key>wgrave</key>
 	<string>wgrave.glif</string>
+	<key>whook</key>
+	<string>whook.glif</string>
 	<key>won</key>
 	<string>won.glif</string>
 	<key>wturned</key>
@@ -3802,6 +4070,8 @@
 	<string>ygrave.glif</string>
 	<key>yhoi</key>
 	<string>yhoi.glif</string>
+	<key>yhook</key>
+	<string>yhook.glif</string>
 	<key>yi</key>
 	<string>yi.glif</string>
 	<key>yi.a</key>

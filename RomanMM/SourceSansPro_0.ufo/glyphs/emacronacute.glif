@@ -3,7 +3,7 @@
   <advance width="478"/>
   <outline>
     <component base="e"/>
-    <component base="macronacute" xOffset="260"/>
+    <component base="macronacutecmb" xOffset="260"/>
   </outline>
   <lib>
     <dict>
