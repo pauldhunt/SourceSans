@@ -11,6 +11,14 @@
 	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>mask</string>
+	</array>
+	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -1187,12 +1195,14 @@
 				<string>sfthyphen</string>
 				<string>endash</string>
 				<string>emdash</string>
+				<string>twoemdash</string>
+				<string>threeemdash</string>
 				<string>figuredash</string>
 				<string>horizontalbar</string>
 				<string>periodcentered</string>
 				<string>bullet</string>
 				<string>underscore</string>
-				<string>overscore</string>
+				<string>overline</string>
 				<string>undertie</string>
 				<string>parenleft</string>
 				<string>parenright</string>
@@ -1235,6 +1245,7 @@
 				<string>at</string>
 				<string>at.case</string>
 				<string>numbersign</string>
+				<string>i.trk</string>
 				<string>zero.sups</string>
 				<string>one.sups</string>
 				<string>two.sups</string>
@@ -1599,9 +1610,107 @@
 				<string>figurespace</string>
 				<string>space.frac</string>
 				<string>nbspace.frac</string>
+				<string>NNBS</string>
 				<string>ZWNBS</string>
 				<string>fi</string>
 				<string>fl</string>
+				<string>Bhook</string>
+				<string>Oopen</string>
+				<string>Chook</string>
+				<string>chook</string>
+				<string>Dafrican</string>
+				<string>Dhook</string>
+				<string>Eturned</string>
+				<string>Eopen</string>
+				<string>Fhook</string>
+				<string>Gammalatin</string>
+				<string>Iotalatin</string>
+				<string>Istroke</string>
+				<string>Khook</string>
+				<string>khook</string>
+				<string>Nhookleft</string>
+				<string>Obar</string>
+				<string>Phook</string>
+				<string>phook</string>
+				<string>Esh</string>
+				<string>Thook</string>
+				<string>thook</string>
+				<string>Tretroflex</string>
+				<string>Upsilonlatin</string>
+				<string>Vhook</string>
+				<string>Yhook</string>
+				<string>yhook</string>
+				<string>Ezh</string>
+				<string>clickdental</string>
+				<string>clicklateral</string>
+				<string>clickretroflex</string>
+				<string>eturned</string>
+				<string>Adieresismacron</string>
+				<string>adieresismacron</string>
+				<string>Oslashacute</string>
+				<string>oslashacute</string>
+				<string>Ecedilla</string>
+				<string>ecedilla</string>
+				<string>Odieresismacron</string>
+				<string>odieresismacron</string>
+				<string>Glottalstoplatin</string>
+				<string>glottalstoplatin</string>
+				<string>Ubar</string>
+				<string>Vturned</string>
+				<string>Rstroke</string>
+				<string>rstroke</string>
+				<string>iotalatin</string>
+				<string>glottalstopmod</string>
+				<string>minusmod</string>
+				<string>apostrophedblmod</string>
+				<string>verticallineabovecmb</string>
+				<string>verticallineabovecmb.cap</string>
+				<string>circumflexbelowcmb</string>
+				<string>lowlinecmb</string>
+				<string>macronacutecmb</string>
+				<string>macronacutecmb.cap</string>
+				<string>gravemacroncmb</string>
+				<string>gravemacroncmb.cmb</string>
+				<string>macrongravecmb</string>
+				<string>macrongravecmb.cap</string>
+				<string>acutemacroncmb</string>
+				<string>acutemacroncmb.cap</string>
+				<string>Bdotbelow</string>
+				<string>bdotbelow</string>
+				<string>Dcircumflexbelow</string>
+				<string>dcircumflexbelow</string>
+				<string>Idieresisacute</string>
+				<string>idieresisacute</string>
+				<string>Lcircumflexbelow</string>
+				<string>lcircumflexbelow</string>
+				<string>Ncircumflexbelow</string>
+				<string>ncircumflexbelow</string>
+				<string>Otildeacute</string>
+				<string>otildeacute</string>
+				<string>Omacrongrave</string>
+				<string>omacrongrave</string>
+				<string>Tcircumflexbelow</string>
+				<string>tcircumflexbelow</string>
+				<string>Utildeacute</string>
+				<string>utildeacute</string>
+				<string>Rtail</string>
+				<string>Alphalatin</string>
+				<string>Whook</string>
+				<string>whook</string>
+				<string>Hhook</string>
+				<string>colonmod</string>
+				<string>shortequalsmod</string>
+				<string>Saltillo</string>
+				<string>saltillo</string>
+				<string>Hturned</string>
+				<string>tildeacutecmb</string>
+				<string>tildeacutecmb.cap</string>
+				<string>ha.001</string>
+				<string>overscore</string>
+				<string>yat.001</string>
+				<string>phi.001</string>
+				<string>phi.002</string>
+				<string>sha.001</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -2777,12 +2886,14 @@
 		<string>sfthyphen</string>
 		<string>endash</string>
 		<string>emdash</string>
+		<string>twoemdash</string>
+		<string>threeemdash</string>
 		<string>figuredash</string>
 		<string>horizontalbar</string>
 		<string>periodcentered</string>
 		<string>bullet</string>
 		<string>underscore</string>
-		<string>overscore</string>
+		<string>overline</string>
 		<string>undertie</string>
 		<string>parenleft</string>
 		<string>parenright</string>
@@ -2825,6 +2936,7 @@
 		<string>at</string>
 		<string>at.case</string>
 		<string>numbersign</string>
+		<string>i.trk</string>
 		<string>zero.sups</string>
 		<string>one.sups</string>
 		<string>two.sups</string>
@@ -3189,9 +3301,107 @@
 		<string>figurespace</string>
 		<string>space.frac</string>
 		<string>nbspace.frac</string>
+		<string>NNBS</string>
 		<string>ZWNBS</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>Bhook</string>
+		<string>Oopen</string>
+		<string>Chook</string>
+		<string>chook</string>
+		<string>Dafrican</string>
+		<string>Dhook</string>
+		<string>Eturned</string>
+		<string>Eopen</string>
+		<string>Fhook</string>
+		<string>Gammalatin</string>
+		<string>Iotalatin</string>
+		<string>Istroke</string>
+		<string>Khook</string>
+		<string>khook</string>
+		<string>Nhookleft</string>
+		<string>Obar</string>
+		<string>Phook</string>
+		<string>phook</string>
+		<string>Esh</string>
+		<string>Thook</string>
+		<string>thook</string>
+		<string>Tretroflex</string>
+		<string>Upsilonlatin</string>
+		<string>Vhook</string>
+		<string>Yhook</string>
+		<string>yhook</string>
+		<string>Ezh</string>
+		<string>clickdental</string>
+		<string>clicklateral</string>
+		<string>clickretroflex</string>
+		<string>eturned</string>
+		<string>Adieresismacron</string>
+		<string>adieresismacron</string>
+		<string>Oslashacute</string>
+		<string>oslashacute</string>
+		<string>Ecedilla</string>
+		<string>ecedilla</string>
+		<string>Odieresismacron</string>
+		<string>odieresismacron</string>
+		<string>Glottalstoplatin</string>
+		<string>glottalstoplatin</string>
+		<string>Ubar</string>
+		<string>Vturned</string>
+		<string>Rstroke</string>
+		<string>rstroke</string>
+		<string>iotalatin</string>
+		<string>glottalstopmod</string>
+		<string>minusmod</string>
+		<string>apostrophedblmod</string>
+		<string>verticallineabovecmb</string>
+		<string>verticallineabovecmb.cap</string>
+		<string>circumflexbelowcmb</string>
+		<string>lowlinecmb</string>
+		<string>macronacutecmb</string>
+		<string>macronacutecmb.cap</string>
+		<string>gravemacroncmb</string>
+		<string>gravemacroncmb.cmb</string>
+		<string>macrongravecmb</string>
+		<string>macrongravecmb.cap</string>
+		<string>acutemacroncmb</string>
+		<string>acutemacroncmb.cap</string>
+		<string>Bdotbelow</string>
+		<string>bdotbelow</string>
+		<string>Dcircumflexbelow</string>
+		<string>dcircumflexbelow</string>
+		<string>Idieresisacute</string>
+		<string>idieresisacute</string>
+		<string>Lcircumflexbelow</string>
+		<string>lcircumflexbelow</string>
+		<string>Ncircumflexbelow</string>
+		<string>ncircumflexbelow</string>
+		<string>Otildeacute</string>
+		<string>otildeacute</string>
+		<string>Omacrongrave</string>
+		<string>omacrongrave</string>
+		<string>Tcircumflexbelow</string>
+		<string>tcircumflexbelow</string>
+		<string>Utildeacute</string>
+		<string>utildeacute</string>
+		<string>Rtail</string>
+		<string>Alphalatin</string>
+		<string>Whook</string>
+		<string>whook</string>
+		<string>Hhook</string>
+		<string>colonmod</string>
+		<string>shortequalsmod</string>
+		<string>Saltillo</string>
+		<string>saltillo</string>
+		<string>Hturned</string>
+		<string>tildeacutecmb</string>
+		<string>tildeacutecmb.cap</string>
+		<string>ha.001</string>
+		<string>overscore</string>
+		<string>yat.001</string>
+		<string>phi.001</string>
+		<string>phi.002</string>
+		<string>sha.001</string>
 	</array>
 </dict>
 </plist>
