@@ -24,6 +24,8 @@
 	<string>A_brevedotbelow.glif</string>
 	<key>Abrevegrave</key>
 	<string>A_brevegrave.glif</string>
+	<key>Abrevehoi</key>
+	<string>Abrevehoi_.glif</string>
 	<key>Abrevetilde</key>
 	<string>A_brevetilde.glif</string>
 	<key>Acaron</key>
@@ -36,6 +38,8 @@
 	<string>A_circumflexdotbelow.glif</string>
 	<key>Acircumflexgrave</key>
 	<string>A_circumflexgrave.glif</string>
+	<key>Acircumflexhoi</key>
+	<string>Acircumflexhoi_.glif</string>
 	<key>Acircumflextilde</key>
 	<string>A_circumflextilde.glif</string>
 	<key>Acyr</key>
@@ -46,6 +50,8 @@
 	<string>A_dotbelow.glif</string>
 	<key>Agrave</key>
 	<string>A_grave.glif</string>
+	<key>Ahoi</key>
+	<string>A_hoi.glif</string>
 	<key>Aie</key>
 	<string>A_ie.glif</string>
 	<key>Alpha</key>
@@ -126,6 +132,8 @@
 	<string>E_circumflexdotbelow.glif</string>
 	<key>Ecircumflexgrave</key>
 	<string>E_circumflexgrave.glif</string>
+	<key>Ecircumflexhoi</key>
+	<string>Ecircumflexhoi_.glif</string>
 	<key>Ecircumflextilde</key>
 	<string>E_circumflextilde.glif</string>
 	<key>Ecyr</key>
@@ -140,6 +148,8 @@
 	<string>E_f.glif</string>
 	<key>Egrave</key>
 	<string>E_grave.glif</string>
+	<key>Ehoi</key>
+	<string>Ehoi_.glif</string>
 	<key>El</key>
 	<string>E_l.glif</string>
 	<key>Em</key>
@@ -240,6 +250,8 @@
 	<string>I_acute_alt.glif</string>
 	<key>Ibreve</key>
 	<string>I_breve.glif</string>
+	<key>Ibreve.alt</key>
+	<string>Ibreve_.alt.glif</string>
 	<key>Icaron</key>
 	<string>I_caron.glif</string>
 	<key>Icaron.alt</key>
@@ -276,6 +288,10 @@
 	<string>I_grave_alt.glif</string>
 	<key>Igravecyr</key>
 	<string>I_gravecyr.glif</string>
+	<key>Ihoi</key>
+	<string>Ihoi_.glif</string>
+	<key>Ihoi.alt</key>
+	<string>Ihoi_.alt.glif</string>
 	<key>Imacron</key>
 	<string>I_macron.glif</string>
 	<key>Imacron.alt</key>
@@ -402,6 +418,8 @@
 	<string>O_circumflexdotbelow.glif</string>
 	<key>Ocircumflexgrave</key>
 	<string>O_circumflexgrave.glif</string>
+	<key>Ocircumflexhoi</key>
+	<string>Ocircumflexhoi_.glif</string>
 	<key>Ocircumflextilde</key>
 	<string>O_circumflextilde.glif</string>
 	<key>Ocyr</key>
@@ -414,6 +432,8 @@
 	<string>O_dotbelow.glif</string>
 	<key>Ograve</key>
 	<string>O_grave.glif</string>
+	<key>Ohoi</key>
+	<string>Ohoi_.glif</string>
 	<key>Ohorn</key>
 	<string>O_horn.glif</string>
 	<key>Ohornacute</key>
@@ -422,6 +442,8 @@
 	<string>O_horndotbelow.glif</string>
 	<key>Ohorngrave</key>
 	<string>O_horngrave.glif</string>
+	<key>Ohornhoi</key>
+	<string>Ohornhoi_.glif</string>
 	<key>Ohorntilde</key>
 	<string>O_horntilde.glif</string>
 	<key>Ohungarumlaut</key>
@@ -562,6 +584,8 @@
 	<string>U_dotbelow.glif</string>
 	<key>Ugrave</key>
 	<string>U_grave.glif</string>
+	<key>Uhoi</key>
+	<string>Uhoi_.glif</string>
 	<key>Uhorn</key>
 	<string>U_horn.glif</string>
 	<key>Uhornacute</key>
@@ -570,6 +594,8 @@
 	<string>U_horndotbelow.glif</string>
 	<key>Uhorngrave</key>
 	<string>U_horngrave.glif</string>
+	<key>Uhornhoi</key>
+	<string>Uhornhoi_.glif</string>
 	<key>Uhorntilde</key>
 	<string>U_horntilde.glif</string>
 	<key>Uhungarumlaut</key>
@@ -634,6 +660,8 @@
 	<string>Y_eru.glif</string>
 	<key>Ygrave</key>
 	<string>Y_grave.glif</string>
+	<key>Yhoi</key>
+	<string>Yhoi_.glif</string>
 	<key>Yi</key>
 	<string>Y_i.glif</string>
 	<key>Ytilde</key>
@@ -696,6 +724,10 @@
 	<string>abrevegrave.glif</string>
 	<key>abrevegrave.alt</key>
 	<string>abrevegrave_alt.glif</string>
+	<key>abrevehoi</key>
+	<string>abrevehoi.glif</string>
+	<key>abrevehoi.alt</key>
+	<string>abrevehoi.alt.glif</string>
 	<key>abrevetilde</key>
 	<string>abrevetilde.glif</string>
 	<key>abrevetilde.alt</key>
@@ -720,6 +752,10 @@
 	<string>acircumflexgrave.glif</string>
 	<key>acircumflexgrave.alt</key>
 	<string>acircumflexgrave_alt.glif</string>
+	<key>acircumflexhoi</key>
+	<string>acircumflexhoi.glif</string>
+	<key>acircumflexhoi.alt</key>
+	<string>acircumflexhoi.alt.glif</string>
 	<key>acircumflextilde</key>
 	<string>acircumflextilde.glif</string>
 	<key>acircumflextilde.alt</key>
@@ -752,6 +788,10 @@
 	<string>agrave.glif</string>
 	<key>agrave.alt</key>
 	<string>agrave_alt.glif</string>
+	<key>ahoi</key>
+	<string>ahoi.glif</string>
+	<key>ahoi.alt</key>
+	<string>ahoi.alt.glif</string>
 	<key>aie</key>
 	<string>aie.glif</string>
 	<key>alpha</key>
@@ -862,6 +902,10 @@
 	<string>brevegrave.glif</string>
 	<key>brevegrave.cap</key>
 	<string>brevegrave_cap.glif</string>
+	<key>brevehoi</key>
+	<string>brevehoi.glif</string>
+	<key>brevehoi.cap</key>
+	<string>brevehoi.cap.glif</string>
 	<key>brevetilde</key>
 	<string>brevetilde.glif</string>
 	<key>brevetilde.cap</key>
@@ -942,6 +986,10 @@
 	<string>circumflexgrave.glif</string>
 	<key>circumflexgrave.cap</key>
 	<string>circumflexgrave_cap.glif</string>
+	<key>circumflexhoi</key>
+	<string>circumflexhoi.glif</string>
+	<key>circumflexhoi.cap</key>
+	<string>circumflexhoi.cap.glif</string>
 	<key>circumflextilde</key>
 	<string>circumflextilde.glif</string>
 	<key>circumflextilde.cap</key>
@@ -1086,6 +1134,8 @@
 	<string>ecircumflexdotbelow.glif</string>
 	<key>ecircumflexgrave</key>
 	<string>ecircumflexgrave.glif</string>
+	<key>ecircumflexhoi</key>
+	<string>ecircumflexhoi.glif</string>
 	<key>ecircumflextilde</key>
 	<string>ecircumflextilde.glif</string>
 	<key>ecyr</key>
@@ -1102,6 +1152,8 @@
 	<string>egrave.glif</string>
 	<key>egrave.sups</key>
 	<string>egrave_sups.glif</string>
+	<key>ehoi</key>
+	<string>ehoi.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>eight.dnom</key>
@@ -1342,6 +1394,10 @@
 	<string>hdotbelow.glif</string>
 	<key>hlinebelow</key>
 	<string>hlinebelow.glif</string>
+	<key>hoicmb</key>
+	<string>hoicmb.glif</string>
+	<key>hoicmb.cap</key>
+	<string>hoicmb.cap.glif</string>
 	<key>horizontalbar</key>
 	<string>horizontalbar.glif</string>
 	<key>horncmb</key>
@@ -1388,6 +1444,8 @@
 	<string>igrave.glif</string>
 	<key>igravecyr</key>
 	<string>igravecyr.glif</string>
+	<key>ihoi</key>
+	<string>ihoi.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>imacron</key>
@@ -1614,6 +1672,8 @@
 	<string>o_sups.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
+	<key>obar</key>
+	<string>obar.glif</string>
 	<key>obarcyr</key>
 	<string>obarcyr.glif</string>
 	<key>obreve</key>
@@ -1628,6 +1688,8 @@
 	<string>ocircumflexdotbelow.glif</string>
 	<key>ocircumflexgrave</key>
 	<string>ocircumflexgrave.glif</string>
+	<key>ocircumflexhoi</key>
+	<string>ocircumflexhoi.glif</string>
 	<key>ocircumflextilde</key>
 	<string>ocircumflextilde.glif</string>
 	<key>ocyr</key>
@@ -1648,6 +1710,8 @@
 	<string>ogonekcmb_cap.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
+	<key>ohoi</key>
+	<string>ohoi.glif</string>
 	<key>ohorn</key>
 	<string>ohorn.glif</string>
 	<key>ohornacute</key>
@@ -1656,6 +1720,8 @@
 	<string>ohorndotbelow.glif</string>
 	<key>ohorngrave</key>
 	<string>ohorngrave.glif</string>
+	<key>ohornhoi</key>
+	<string>ohornhoi.glif</string>
 	<key>ohorntilde</key>
 	<string>ohorntilde.glif</string>
 	<key>ohungarumlaut</key>
@@ -1716,8 +1782,12 @@
 	<string>oslash.glif</string>
 	<key>otilde</key>
 	<string>otilde.glif</string>
-	<key>overscore</key>
-	<string>overscore.glif</string>
+	<key>overline</key>
+	<string>overline.glif</string>
+	<key>overlinecmb</key>
+	<string>overlinecmb.glif</string>
+	<key>overlinecmb.cap</key>
+	<string>overlinecmb.cap.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
 	<key>p.sups</key>
@@ -2100,6 +2170,8 @@
 	<string>udotbelow.glif</string>
 	<key>ugrave</key>
 	<string>ugrave.glif</string>
+	<key>uhoi</key>
+	<string>uhoi.glif</string>
 	<key>uhorn</key>
 	<string>uhorn.glif</string>
 	<key>uhornacute</key>
@@ -2108,6 +2180,8 @@
 	<string>uhorndotbelow.glif</string>
 	<key>uhorngrave</key>
 	<string>uhorngrave.glif</string>
+	<key>uhornhoi</key>
+	<string>uhornhoi.glif</string>
 	<key>uhorntilde</key>
 	<string>uhorntilde.glif</string>
 	<key>uhungarumlaut</key>
@@ -2200,6 +2274,8 @@
 	<string>yeru.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
+	<key>yhoi</key>
+	<string>yhoi.glif</string>
 	<key>yi</key>
 	<string>yi.glif</string>
 	<key>ytilde</key>

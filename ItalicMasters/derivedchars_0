@@ -1409,9 +1409,9 @@ EndDerived
 EndDerived
 
 /napostrophe DerivedName
-(n) 177 0 Base
-712 Width
-(quoteright) -159 0 AddCentered
+(n) 170 0 Base
+672 Width
+(quoteright) -151 0 AddCentered
 EndDerived
 
 /ograve DerivedName
@@ -2689,36 +2689,37 @@ EndDerived
 EndDerived
 
 /Epsilontonos DerivedName
-(Epsilon) 20 0 Base
-530 Width
+(Epsilon) 18 0 Base
+502 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Etatonos DerivedName
-(Eta) 20 0 Base
-654 Width
+(Eta) 18 0 Base
+616 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Iotatonos DerivedName
-(Iota) 20 0 Base
-252 Width
+(Iota) 18 0 Base
+230 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Iotadieresis DerivedName
 (Idieresis) Base
+212 Width
 EndDerived
 
 /Omicrontonos DerivedName
 (Omicron) 10 0 Base
-658 Width
+622 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Upsilontonos DerivedName
 (Upsilon) 80 0 Base
-516 Width
+502 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
@@ -2759,7 +2760,7 @@ EndDerived
 
 /omicrontonos DerivedName
 (omicron) Base
-(tonoscmb) AddCentered
+(tonoscmb) -36 0 AddCentered
 EndDerived
 
 /upsilontonos DerivedName
@@ -4103,6 +4104,7 @@ EndDerived
 
 /Yi DerivedName
 (Idieresis) Base
+212 Width
 EndDerived
 
 /Je DerivedName
@@ -4144,7 +4146,7 @@ EndDerived
 
 /Abrevecyr DerivedName
 (Acyr) Base
-(brevecmb.cyrcap) AddCentered
+(brevecmb.cyrcap) -32 0 AddCentered
 EndDerived
 
 /Aie DerivedName
@@ -4153,7 +4155,7 @@ EndDerived
 
 /Iebreve DerivedName
 (Ie) Base
-(brevecmb.cyrcap) 26 0 AddCentered
+(brevecmb.cyrcap) -16 0 AddCentered
 EndDerived
 
 /Schwacyr DerivedName
@@ -4167,7 +4169,7 @@ EndDerived
 
 /Odieresiscyr DerivedName
 (Ocyr) Base
-(dieresiscmb.cap) AddCentered
+(dieresiscmb.cap) -36 0 AddCentered
 EndDerived
 
 /Obarcyr DerivedName
@@ -4192,13 +4194,22 @@ EndDerived
 (e) Base
 EndDerived
 
+/icyr DerivedName
+(u) Base
+504 Width
+EndDerived
+
 /ishort DerivedName
 (icyr) Base
-(brevecmb.cyr) 1 2 AddCentered
+(brevecmb.cyr) -48 0 AddCentered
 EndDerived
 
 /ocyr DerivedName
 (o) 4 0 Base
+EndDerived
+
+/pe DerivedName
+(n) Base
 EndDerived
 
 /er DerivedName
@@ -4207,6 +4218,10 @@ EndDerived
 
 /es DerivedName
 (c) Base
+EndDerived
+
+/te DerivedName
+(m) Base
 EndDerived
 
 /dze DerivedName
@@ -4219,6 +4234,10 @@ EndDerived
 
 /ha DerivedName
 (x) Base
+EndDerived
+
+/sha DerivedName
+(mturned) Base
 EndDerived
 
 /iegrave DerivedName
@@ -4256,13 +4275,13 @@ EndDerived
 EndDerived
 
 /igravecyr DerivedName
-(icyr) Base
-(gravecmb) 1 2 AddCentered
+(ugrave) 0 1 Base
+504 Width
 EndDerived
 
 /ushort DerivedName
 (ucyr) Base
-(brevecmb.cyr) 12 0 AddCentered
+(brevecmb.cyr) -60 0 AddCentered
 EndDerived
 
 /Delta.math DerivedName
@@ -4373,7 +4392,7 @@ EndDerived
 
 /abrevecyr DerivedName
 (acyr) Base
-(brevecmb.cyr) 9 0 AddCentered
+(brevecmb.cyr) -52 0 AddCentered
 EndDerived
 
 /aie DerivedName
@@ -4382,7 +4401,7 @@ EndDerived
 
 /iebreve DerivedName
 (ie) Base
-(brevecmb.cyr) 21 0 AddCentered
+(brevecmb.cyr) -44 0 AddCentered
 EndDerived
 
 /schwacyr DerivedName
@@ -4390,13 +4409,12 @@ EndDerived
 EndDerived
 
 /imacroncyr DerivedName
-(icyr) Base
-(macroncmb) 1 2 AddCentered
+(umacron) Base
+504 Width
 EndDerived
 
 /odieresiscyr DerivedName
-(ocyr) Base
-(dieresiscmb) AddCentered
+(odieresis) 4 0 Base
 EndDerived
 
 /obarcyr DerivedName
@@ -4405,12 +4423,12 @@ EndDerived
 
 /umacroncyr DerivedName
 (ucyr) Base
-(macroncmb) 12 0 AddCentered
+(macroncmb) -60 0 AddCentered
 EndDerived
 
 /uacutedblcyr DerivedName
 (ucyr) Base
-(hungarumlautcmb) 12 0 AddCentered
+(hungarumlautcmb) -60 0 AddCentered
 EndDerived
 
 /f_f_i DerivedName

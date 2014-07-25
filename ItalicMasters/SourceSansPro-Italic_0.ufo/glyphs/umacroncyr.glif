@@ -2,7 +2,7 @@
 <glyph name="umacroncyr" format="1">
   <advance width="408"/>
   <outline>
-    <component base="y"/>
+    <component base="ucyr"/>
     <component base="macroncmb" xOffset="144"/>
   </outline>
   <lib>

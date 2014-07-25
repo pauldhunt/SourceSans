@@ -2,7 +2,7 @@
 <glyph name="abrevecyr" format="1">
   <advance width="558"/>
   <outline>
-    <component base="a"/>
+    <component base="acyr"/>
     <component base="brevecmb.cyr" xOffset="220"/>
   </outline>
   <lib>

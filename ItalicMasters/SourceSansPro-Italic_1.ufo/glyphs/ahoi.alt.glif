@@ -3,7 +3,7 @@
   <advance width="522"/>
   <outline>
     <component base="a.alt"/>
-    <component base="hoicmb" xOffset="210"/>
+    <component base="hoicmb" xOffset="200"/>
   </outline>
   <lib>
     <dict>

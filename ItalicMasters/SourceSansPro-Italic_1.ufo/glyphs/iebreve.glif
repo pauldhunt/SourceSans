@@ -2,7 +2,7 @@
 <glyph name="iebreve" format="1">
   <advance width="502"/>
   <outline>
-    <component base="e"/>
+    <component base="ie"/>
     <component base="brevecmb.cyr" xOffset="212"/>
   </outline>
   <lib>

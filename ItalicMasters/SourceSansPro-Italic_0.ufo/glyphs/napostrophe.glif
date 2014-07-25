@@ -2,8 +2,8 @@
 <glyph name="napostrophe" format="1">
   <advance width="672"/>
   <outline>
-    <component base="quoteright"/>
     <component base="n" xOffset="170"/>
+    <component base="quoteright"/>
   </outline>
   <lib>
     <dict>

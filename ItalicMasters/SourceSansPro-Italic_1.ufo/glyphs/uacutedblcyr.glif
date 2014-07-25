@@ -2,7 +2,7 @@
 <glyph name="uacutedblcyr" format="1">
   <advance width="518"/>
   <outline>
-    <component base="y"/>
+    <component base="ucyr"/>
     <component base="hungarumlautcmb" xOffset="194"/>
   </outline>
   <lib>

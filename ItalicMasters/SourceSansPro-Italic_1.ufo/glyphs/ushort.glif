@@ -2,7 +2,7 @@
 <glyph name="ushort" format="1">
   <advance width="518"/>
   <outline>
-    <component base="y"/>
+    <component base="ucyr"/>
     <component base="brevecmb.cyr" xOffset="194"/>
   </outline>
   <lib>

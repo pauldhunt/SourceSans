@@ -1676,6 +1676,8 @@
 	<string>o_sups.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
+	<key>obar</key>
+	<string>obar.glif</string>
 	<key>obarcyr</key>
 	<string>obarcyr.glif</string>
 	<key>obreve</key>
@@ -1784,8 +1786,8 @@
 	<string>oslash.glif</string>
 	<key>otilde</key>
 	<string>otilde.glif</string>
-	<key>overscore</key>
-	<string>overscore.glif</string>
+	<key>overline</key>
+	<string>overline.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
 	<key>p.sups</key>

@@ -193,7 +193,7 @@ EndDerived
 
 /Ahoi DerivedName
 (A) Base
-(hoicmb.cap) -4 0 AddCentered
+(hoicmb.cap) -37 0 AddCentered
 EndDerived
 
 /Acircumflexacute DerivedName
@@ -208,7 +208,7 @@ EndDerived
 
 /Acircumflexhoi DerivedName
 (A) Base
-(circumflexhoi.cap) -4 0 AddCentered
+(circumflexhoi.cap) -36 0 AddCentered
 EndDerived
 
 /Acircumflextilde DerivedName
@@ -234,7 +234,7 @@ EndDerived
 
 /Abrevehoi DerivedName
 (A) Base
-(brevehoi.cap) -4 0 AddCentered
+(brevehoi.cap) -36 0 AddCentered
 EndDerived
 
 /Abrevetilde DerivedName
@@ -349,7 +349,7 @@ EndDerived
 
 /Ehoi DerivedName
 (E) Base
-(hoicmb.cap) 12 0 AddCentered
+(hoicmb.cap) -24 0 AddCentered
 EndDerived
 
 /Etilde DerivedName
@@ -369,7 +369,7 @@ EndDerived
 
 /Ecircumflexhoi DerivedName
 (E) Base
-(circumflexhoi.cap) 12 0 AddCentered
+(circumflexhoi.cap) -23 0 AddCentered
 EndDerived
 
 /Ecircumflextilde DerivedName
@@ -480,7 +480,7 @@ EndDerived
 
 /Ihoi DerivedName
 (I) Base
-(hoicmb.cap) AddCentered
+(hoicmb.cap) -43 0 AddCentered
 EndDerived
 
 /Idotbelow DerivedName
@@ -646,7 +646,7 @@ EndDerived
 
 /Ohoi DerivedName
 (O) Base
-(hoicmb.cap) AddCentered
+(hoicmb.cap) -37 0 AddCentered
 EndDerived
 
 /Obreve DerivedName
@@ -666,7 +666,7 @@ EndDerived
 
 /Ocircumflexhoi DerivedName
 (O) Base
-(circumflexhoi.cap) AddCentered
+(circumflexhoi.cap) -36 0 AddCentered
 EndDerived
 
 /Ocircumflextilde DerivedName
@@ -692,7 +692,7 @@ EndDerived
 
 /Ohornhoi DerivedName
 (Ohorn) Base
-(hoicmb.cap) AddCentered
+(hoicmb.cap) -59 0 AddCentered
 EndDerived
 
 /Ohorntilde DerivedName
@@ -878,7 +878,7 @@ EndDerived
 
 /Uhoi DerivedName
 (U) Base
-(hoicmb.cap) AddCentered
+(hoicmb.cap) -35 0 AddCentered
 EndDerived
 
 /Uhornacute DerivedName
@@ -893,7 +893,7 @@ EndDerived
 
 /Uhornhoi DerivedName
 (Uhorn) Base
-(hoicmb.cap) -10 0 AddCentered
+(hoicmb.cap) -53 0 AddCentered
 EndDerived
 
 /Uhorntilde DerivedName
@@ -958,7 +958,7 @@ EndDerived
 
 /Yhoi DerivedName
 (Y) Base
-(hoicmb.cap) AddCentered
+(hoicmb.cap) -44 0 AddCentered
 EndDerived
 
 /Ytilde DerivedName
@@ -1043,7 +1043,7 @@ EndDerived
 
 /ahoi DerivedName
 (a) Base
-(hoicmb) 13 0 AddCentered
+(hoicmb) -59 0 AddCentered
 EndDerived
 
 /acircumflexacute DerivedName
@@ -1058,7 +1058,7 @@ EndDerived
 
 /acircumflexhoi DerivedName
 (a) Base
-(circumflexhoi) 13 0 AddCentered
+(circumflexhoi) -59 0 AddCentered
 EndDerived
 
 /acircumflextilde DerivedName
@@ -1084,7 +1084,7 @@ EndDerived
 
 /abrevehoi DerivedName
 (a) Base
-(brevehoi) 13 0 AddCentered
+(brevehoi) -59 0 AddCentered
 EndDerived
 
 /abrevetilde DerivedName
@@ -1186,7 +1186,7 @@ EndDerived
 
 /ehoi DerivedName
 (e) Base
-(hoicmb) 9 0 AddCentered
+(hoicmb) -29 0 AddCentered
 EndDerived
 
 /etilde DerivedName
@@ -1206,7 +1206,7 @@ EndDerived
 
 /ecircumflexhoi DerivedName
 (e) Base
-(circumflexhoi) 9 0 AddCentered
+(circumflexhoi) -39 -2 AddCentered
 EndDerived
 
 /ecircumflextilde DerivedName
@@ -1307,7 +1307,7 @@ EndDerived
 
 /ihoi DerivedName
 (dotlessi) Base
-(hoicmb) AddCentered
+(hoicmb) -54 0 AddCentered
 EndDerived
 
 /idotbelow DerivedName
@@ -1461,7 +1461,7 @@ EndDerived
 
 /ohoi DerivedName
 (o) Base
-(hoicmb) AddCentered
+(hoicmb) -50 0 AddCentered
 EndDerived
 
 /obreve DerivedName
@@ -1481,7 +1481,7 @@ EndDerived
 
 /ocircumflexhoi DerivedName
 (o) Base
-(circumflexhoi) AddCentered
+(circumflexhoi) -50 0 AddCentered
 EndDerived
 
 /ocircumflextilde DerivedName
@@ -1507,7 +1507,7 @@ EndDerived
 
 /ohornhoi DerivedName
 (ohorn) Base
-(hoicmb) AddCentered
+(hoicmb) -53 0 AddCentered
 EndDerived
 
 /ohorntilde DerivedName
@@ -1693,7 +1693,7 @@ EndDerived
 
 /uhoi DerivedName
 (u) Base
-(hoicmb) 1 0 AddCentered
+(hoicmb) -58 0 AddCentered
 EndDerived
 
 /uhornacute DerivedName
@@ -1708,7 +1708,7 @@ EndDerived
 
 /uhornhoi DerivedName
 (uhorn) Base
-(hoicmb) -12 0 AddCentered
+(hoicmb) -70 0 AddCentered
 EndDerived
 
 /uhorntilde DerivedName
@@ -1773,7 +1773,7 @@ EndDerived
 
 /yhoi DerivedName
 (y) Base
-(hoicmb) 5 0 AddCentered
+(hoicmb) -65 0 AddCentered
 EndDerived
 
 /ytilde DerivedName
@@ -1854,7 +1854,7 @@ EndDerived
 
 /Ihoi.alt DerivedName
 (I.alt) Base
-(hoicmb.cap) AddCentered
+(hoicmb.cap) -43 0 AddCentered
 EndDerived
 
 /Idotbelow.alt DerivedName
@@ -1864,7 +1864,7 @@ EndDerived
 
 /Ibreve.alt DerivedName
 (I.alt) Base
-(brevecmb.cap) AddCentered
+(brevecmb.cap) -43 0 AddCentered
 EndDerived
 
 /alphalatin DerivedName
@@ -1923,7 +1923,7 @@ EndDerived
 
 /ahoi.alt DerivedName
 (a.alt) Base
-(hoicmb) 16 0 AddCentered
+(hoicmb) -61 0 AddCentered
 EndDerived
 
 /acircumflexacute.alt DerivedName
@@ -1938,7 +1938,7 @@ EndDerived
 
 /acircumflexhoi.alt DerivedName
 (a.alt) Base
-(circumflexhoi) 16 0 AddCentered
+(circumflexhoi) -61 0 AddCentered
 EndDerived
 
 /acircumflextilde.alt DerivedName
@@ -1964,7 +1964,7 @@ EndDerived
 
 /abrevehoi.alt DerivedName
 (a.alt) Base
-(brevehoi) 16 0 AddCentered
+(brevehoi) -61 0 AddCentered
 EndDerived
 
 /abrevetilde.alt DerivedName
@@ -4098,7 +4098,7 @@ EndDerived
 
 /Gje DerivedName
 (Ghe) Base
-(acutecmb.cap) 33 0 AddCentered
+(acutecmb.cap) AddCentered
 EndDerived
 
 /Iukran DerivedName
@@ -4108,6 +4108,7 @@ EndDerived
 
 /Yi DerivedName
 (Idieresis) Base
+312 Width
 EndDerived
 
 /Je DerivedName
@@ -4149,7 +4150,7 @@ EndDerived
 
 /Abrevecyr DerivedName
 (Acyr) Base
-(brevecmb.cyrcap) AddCentered
+(brevecmb.cyrcap) -37 0 AddCentered
 EndDerived
 
 /Aie DerivedName
@@ -4158,7 +4159,7 @@ EndDerived
 
 /Iebreve DerivedName
 (Ie) Base
-(brevecmb.cyrcap) 12 0 AddCentered
+(brevecmb.cyrcap) -24 0 AddCentered
 EndDerived
 
 /Schwacyr DerivedName
@@ -4197,13 +4198,21 @@ EndDerived
 (e) Base
 EndDerived
 
+/icyr DerivedName
+(u) Base
+EndDerived
+
 /ishort DerivedName
 (icyr) Base
-(brevecmb.cyr) 6 0 AddCentered
+(brevecmb.cyr) -58 0 AddCentered
 EndDerived
 
 /ocyr DerivedName
 (o) Base
+EndDerived
+
+/pe DerivedName
+(n) Base
 EndDerived
 
 /er DerivedName
@@ -4212,6 +4221,10 @@ EndDerived
 
 /es DerivedName
 (c) Base
+EndDerived
+
+/te DerivedName
+(m) Base
 EndDerived
 
 /dze DerivedName
@@ -4224,6 +4237,10 @@ EndDerived
 
 /ha DerivedName
 (x) Base
+EndDerived
+
+/sha DerivedName
+(mturned) Base
 EndDerived
 
 /iegrave DerivedName
@@ -4261,13 +4278,12 @@ EndDerived
 EndDerived
 
 /igravecyr DerivedName
-(icyr) Base
-(gravecmb) 6 0 AddCentered
+(ugrave) Base
 EndDerived
 
 /ushort DerivedName
 (ucyr) Base
-(brevecmb.cyr) 5 0 AddCentered
+(brevecmb.cyr) -65 0 AddCentered
 EndDerived
 
 /Delta.math DerivedName
@@ -4378,7 +4394,7 @@ EndDerived
 
 /abrevecyr DerivedName
 (acyr) Base
-(brevecmb.cyr) 13 0 AddCentered
+(brevecmb.cyr) -59 0 AddCentered
 EndDerived
 
 /aie DerivedName
@@ -4387,7 +4403,7 @@ EndDerived
 
 /iebreve DerivedName
 (ie) Base
-(brevecmb.cyr) 9 0 AddCentered
+(brevecmb.cyr) -39 0 AddCentered
 EndDerived
 
 /schwacyr DerivedName
@@ -4395,13 +4411,11 @@ EndDerived
 EndDerived
 
 /imacroncyr DerivedName
-(icyr) Base
-(macroncmb) 5 0 AddCentered
+(umacron) Base
 EndDerived
 
 /odieresiscyr DerivedName
-(ocyr) Base
-(dieresiscmb) AddCentered
+(odieresis) Base
 EndDerived
 
 /obarcyr DerivedName
@@ -4410,12 +4424,12 @@ EndDerived
 
 /umacroncyr DerivedName
 (ucyr) Base
-(macroncmb) 5 0 AddCentered
+(macroncmb) -65 0 AddCentered
 EndDerived
 
 /uacutedblcyr DerivedName
 (ucyr) Base
-(hungarumlautcmb) 5 0 AddCentered
+(hungarumlautcmb) -65 0 AddCentered
 EndDerived
 
 /f_f_i DerivedName

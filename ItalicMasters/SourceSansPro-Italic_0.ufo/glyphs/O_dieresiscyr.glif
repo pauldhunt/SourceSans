@@ -2,7 +2,7 @@
 <glyph name="Odieresiscyr" format="1">
   <advance width="612"/>
   <outline>
-    <component base="O"/>
+    <component base="Ocyr"/>
     <component base="dieresiscmb.cap" xOffset="270"/>
   </outline>
   <lib>

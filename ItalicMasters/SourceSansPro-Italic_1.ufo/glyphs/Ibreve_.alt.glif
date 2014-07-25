@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ahoi" format="1">
-  <advance width="562"/>
+<glyph name="Ibreve.alt" format="1">
+  <advance width="382"/>
   <outline>
-    <component base="A"/>
-    <component base="hoicmb.cap" xOffset="244"/>
+    <component base="I.alt"/>
+    <component base="brevecmb.cap" xOffset="148"/>
   </outline>
   <lib>
     <dict>
@@ -24,12 +24,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Ahoi</string>
+          <string>Ibreve.alt</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>562</integer>
+          <integer>382</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

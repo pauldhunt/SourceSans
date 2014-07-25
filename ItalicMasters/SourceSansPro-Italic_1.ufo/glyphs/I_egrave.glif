@@ -2,8 +2,7 @@
 <glyph name="Iegrave" format="1">
   <advance width="536"/>
   <outline>
-    <component base="E"/>
-    <component base="gravecmb.cap" xOffset="244"/>
+    <component base="Egrave"/>
   </outline>
   <lib>
     <dict>

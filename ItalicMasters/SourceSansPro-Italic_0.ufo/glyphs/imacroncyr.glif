@@ -2,8 +2,7 @@
 <glyph name="imacroncyr" format="1">
   <advance width="504"/>
   <outline>
-    <component base="u"/>
-    <component base="macroncmb" xOffset="198"/>
+    <component base="umacron"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,7 @@
 <glyph name="yi" format="1">
   <advance width="214"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresiscmb" xOffset="62"/>
+    <component base="idieresis"/>
   </outline>
   <lib>
     <dict>

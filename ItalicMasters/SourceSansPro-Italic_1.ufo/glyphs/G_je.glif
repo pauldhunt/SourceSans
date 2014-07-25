@@ -2,7 +2,7 @@
 <glyph name="Gje" format="1">
   <advance width="504"/>
   <outline>
-    <component base="Gamma"/>
+    <component base="Ghe"/>
     <component base="acutecmb.cap" xOffset="252"/>
   </outline>
   <lib>
