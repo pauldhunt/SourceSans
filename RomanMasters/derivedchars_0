@@ -2138,10 +2138,10 @@ EndDerived
 EndDerived
 
 /ellipsis DerivedName
-(period) 40 0 Base
+(period) 62 0 Base
 1000 Width
-(period) 130 0 AddAdjacent
-(period) 130 0 AddAdjacent
+(period) 126 0 AddAdjacent
+(period) 126 0 AddAdjacent
 EndDerived
 
 /quotedbl DerivedName
