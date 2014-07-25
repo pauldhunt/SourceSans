@@ -170,32 +170,33 @@
       <point x="465" y="380"/>
       <point x="451" y="369"/>
     </contour>
-    <contour>
-      <point x="296.0" y="-22.0" type="move" name="belowLC"/>
-    </contour>
-    <contour>
-      <point x="296.0" y="0.0" type="move" name="baseLC"/>
-    </contour>
-    <contour>
-      <point x="296.0" y="502.0" type="move" name="aboveLC"/>
-    </contour>
-    <contour>
-      <point x="474.0" y="502.0" type="move" name="aboverightLC"/>
-    </contour>
-    <contour>
-      <point x="410.0" y="478.0" type="move" name="hornLC"/>
-    </contour>
-    <contour>
-      <point x="296.0" y="0.0" type="move" name="ogonekLC"/>
-    </contour>
-    <contour>
-      <point x="296.0" y="240.0" type="move" name="center"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circledotted</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>592</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

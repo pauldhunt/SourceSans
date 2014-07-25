@@ -3,14 +3,33 @@
   <advance width="408"/>
   <outline>
     <component base="y"/>
-    <contour>
-      <point x="248.0" y="502.0" type="move" name="aboveLC"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ucyr</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>408</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

@@ -26,14 +26,33 @@
       <point x="270" y="500" type="curve"/>
       <point x="108" y="500" type="line"/>
     </contour>
-    <contour>
-      <point x="202.0" y="522.0" type="move" name="aboveLC"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iota</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>286</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

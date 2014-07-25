@@ -31,14 +31,33 @@
       <point x="116" y="406"/>
       <point x="56" y="196"/>
     </contour>
-    <contour>
-      <point x="258.0" y="502.0" type="move" name="aboveLC"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>upsilon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>480</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
