@@ -106,11 +106,11 @@ EndDerived
 EndDerived
 
 /ringbelowcmb DerivedName
-(ringcmb) 0 -804 Base
+(ringcmb) -156 -804 Base
 EndDerived
 
 /caronbelowcmb DerivedName
-(caroncmb) 0 -794 Base
+(caroncmb) -156 -794 Base
 EndDerived
 
 /brevebelowcmb DerivedName
@@ -118,19 +118,19 @@ EndDerived
 EndDerived
 
 /breveinvertedbelowcmb DerivedName
-(breveinvertedcmb) 0 -800 Base
+(breveinvertedcmb) -156 -800 Base
 EndDerived
 
 /tildebelowcmb DerivedName
-(tildecmb) 0 -800 Base
+(tildecmb) -156 -800 Base
 EndDerived
 
 /macronbelowcmb DerivedName
-(macroncmb) -150 -770 Base
+(macroncmb) -156 -770 Base
 EndDerived
 
 /tildeoverlaycmb DerivedName
-(tildecmb) 0 -384 Base
+(tildecmb) -84 -384 Base
 EndDerived
 
 /perispomenicmb DerivedName
@@ -2474,10 +2474,10 @@ EndDerived
 EndDerived
 
 /oneseventh DerivedName
-(one.dnom) -20 270 Base
-778 Width
-(fraction) 169 0 AddCentered
-(seven.dnom) 418 0 AddCentered
+(one.dnom) 30 270 Base
+752 Width
+(fraction) 176 0 AddCentered
+(seven.dnom) 408 0 AddCentered
 EndDerived
 
 /oneeighth DerivedName
@@ -3942,8 +3942,8 @@ EndDerived
 EndDerived
 
 /dieresistonos DerivedName
-(dieresistonoscmb) 276 0 Base
-532 Width
+(dieresistonoscmb) 214 0 Base
+500 Width
 EndDerived
 
 /iotasubscript DerivedName
@@ -4113,7 +4113,8 @@ EndDerived
 
 /Kje DerivedName
 (Ka) Base
-(acutecmb.cap) -14 0 AddCentered
+516 Width
+(acutecmb.cap) -29 0 AddCentered
 EndDerived
 
 /Igravecyr DerivedName
@@ -4136,7 +4137,8 @@ EndDerived
 
 /Zhebreve DerivedName
 (Zhe) Base
-(brevecmb.cyrcap) -39 0 AddCentered
+714 Width
+(brevecmb.cyrcap) -59 0 AddCentered
 EndDerived
 
 /Palochka DerivedName
@@ -4271,7 +4273,8 @@ EndDerived
 
 /kje DerivedName
 (ka) Base
-(acutecmb) -18 0 AddCentered
+440 Width
+(acutecmb) -28 0 AddCentered
 EndDerived
 
 /igravecyr DerivedName
@@ -4354,13 +4357,9 @@ EndDerived
 (macronbelowcmb) -22 8 AddCentered
 EndDerived
 
-/Bsmall DerivedName
-(ve) Base
-EndDerived
-
 /gacute.alt DerivedName
 (g.alt) Base
-(acutecmb) 6 0 AddCentered
+(acutecmb) -56 0 AddCentered
 EndDerived
 
 /aeacute DerivedName
@@ -4383,7 +4382,8 @@ EndDerived
 
 /zhebreve DerivedName
 (zhe) Base
-(brevecmb.cyr) -65 0 AddCentered
+590 Width
+(brevecmb.cyr) -78 0 AddCentered
 EndDerived
 
 /palochka DerivedName
@@ -4433,11 +4433,13 @@ EndDerived
 
 /f_f_i DerivedName
 (f_f) Base
+705 Width
 (i) AddAdjacent
 EndDerived
 
 /f_f_l DerivedName
 (f_f) Base
+718 Width
 (l) AddAdjacent
 EndDerived
 

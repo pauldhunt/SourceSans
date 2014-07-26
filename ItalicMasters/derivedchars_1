@@ -1,8 +1,8 @@
-/SuperscriptX 0 DefineXShift
+/SuperscriptX 70 DefineXShift
 /SuperscriptY 368 DefineYShift
-/SubscriptX 0 DefineXShift
+/SubscriptX -40 DefineXShift
 /SubscriptY -190 DefineYShift
-/NumeratorX 0 DefineXShift
+/NumeratorX 50 DefineXShift
 /NumeratorY 260 DefineYShift
 
 /grave DerivedName
@@ -4354,10 +4354,6 @@ EndDerived
 /zlinebelow DerivedName
 (z) Base
 (macronbelowcmb) -32 8 AddCentered
-EndDerived
-
-/Bsmall DerivedName
-(ve) Base
 EndDerived
 
 /gacute.alt DerivedName
