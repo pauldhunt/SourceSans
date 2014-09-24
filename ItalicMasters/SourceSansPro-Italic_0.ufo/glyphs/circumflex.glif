@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="504"/>
+  <advance width="500"/>
   <outline>
-    <component base="circumflexcmb" xOffset="214"/>
+    <component base="circumflexcmb" xOffset="212"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>504</integer>
+          <integer>500</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

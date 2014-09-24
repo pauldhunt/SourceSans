@@ -3,7 +3,7 @@
   <advance width="440"/>
   <unicode hex="038A"/>
   <outline>
-    <component base="I" xOffset="128"/>
+    <component base="Iota" xOffset="128"/>
     <component base="tonos.cap"/>
   </outline>
   <lib>

@@ -3,7 +3,7 @@
   <advance width="540"/>
   <unicode hex="03CC"/>
   <outline>
-    <component base="o"/>
+    <component base="omicron"/>
     <component base="tonoscmb" xOffset="220"/>
   </outline>
   <lib>

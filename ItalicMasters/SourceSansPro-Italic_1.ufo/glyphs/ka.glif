@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ka" format="1">
-  <advance width="536"/>
+  <advance width="541"/>
   <outline>
     <contour>
-      <point x="8" y="0" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="206" y="188" type="line"/>
-      <point x="244" y="188" type="line"/>
-      <point x="317" y="0" type="line"/>
-      <point x="482" y="0" type="line"/>
-      <point x="370" y="260" type="line"/>
-      <point x="572" y="500" type="line"/>
-      <point x="396" y="500" type="line"/>
-      <point x="258" y="322" type="line"/>
-      <point x="232" y="322" type="line"/>
-      <point x="268" y="500" type="line"/>
-      <point x="108" y="500" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="259" y="190" type="line"/>
+      <point x="293" y="190" type="line"/>
+      <point x="357" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="403" y="324" type="line"/>
+      <point x="286" y="324" type="line"/>
+      <point x="321" y="500" type="line"/>
+      <point x="156" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="232" type="line"/>
+      <point x="457" y="306" type="line" smooth="yes"/>
+      <point x="481" y="344"/>
+      <point x="500" y="350"/>
+      <point x="523" y="350" type="curve" smooth="yes"/>
+      <point x="530" y="350"/>
+      <point x="536" y="348"/>
+      <point x="541" y="346" type="curve"/>
+      <point x="598" y="504" type="line"/>
+      <point x="586" y="510"/>
+      <point x="573" y="512"/>
+      <point x="557" y="512" type="curve" smooth="yes"/>
+      <point x="482" y="512"/>
+      <point x="430" y="492"/>
+      <point x="375" y="408" type="curve" smooth="yes"/>
+      <point x="279" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="522" type="move" name="aboveLC"/>
     </contour>
   </outline>
   <lib>
@@ -42,14 +60,14 @@
           <array>
           </array>
           <key>width</key>
-          <integer>536</integer>
+          <integer>541</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.4</real>
-        <real>0.4</real>
+        <real>0.0</real>
+        <real>0.0</real>
         <real>1.0</real>
       </array>
     </dict>

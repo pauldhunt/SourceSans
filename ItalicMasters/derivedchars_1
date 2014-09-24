@@ -106,11 +106,11 @@ EndDerived
 EndDerived
 
 /ringbelowcmb DerivedName
-(ringcmb) 0 -812 Base
+(ringcmb) -160 -812 Base
 EndDerived
 
 /caronbelowcmb DerivedName
-(caroncmb) 0 -804 Base
+(caroncmb) -136 -804 Base
 EndDerived
 
 /brevebelowcmb DerivedName
@@ -118,11 +118,11 @@ EndDerived
 EndDerived
 
 /breveinvertedbelowcmb DerivedName
-(breveinvertedcmb) 0 -814 Base
+(breveinvertedcmb) -156 -814 Base
 EndDerived
 
 /tildebelowcmb DerivedName
-(tildecmb) 0 -800 Base
+(tildecmb) -156 -800 Base
 EndDerived
 
 /macronbelowcmb DerivedName
@@ -130,7 +130,7 @@ EndDerived
 EndDerived
 
 /tildeoverlaycmb DerivedName
-(tildecmb) 0 -398 Base
+(tildecmb) -80 -398 Base
 EndDerived
 
 /perispomenicmb DerivedName
@@ -1409,9 +1409,9 @@ EndDerived
 EndDerived
 
 /napostrophe DerivedName
-(n) 300 0 Base
-882 Width
-(quoteright) -131 0 AddCentered
+(n) 296 0 Base
+854 Width
+(quoteright) -126 0 AddCentered
 EndDerived
 
 /ograve DerivedName
@@ -1508,11 +1508,6 @@ EndDerived
 /ohornhoi DerivedName
 (ohorn) Base
 (hoicmb) -53 0 AddCentered
-EndDerived
-
-/ohorntilde DerivedName
-(ohorn) Base
-(tildecmb) -40 0 AddCentered
 EndDerived
 
 /ohorndotbelow DerivedName
@@ -2218,171 +2213,171 @@ EndDerived
 EndDerived
 
 /zero.sups DerivedName
-(zero.dnom) SuperscriptX SuperscriptY 66 0 Base
+(zero.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /one.sups DerivedName
-(one.dnom) SuperscriptX SuperscriptY 66 0 Base
+(one.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /two.sups DerivedName
-(two.dnom) SuperscriptX SuperscriptY 66 0 Base
+(two.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /three.sups DerivedName
-(three.dnom) SuperscriptX SuperscriptY 66 0 Base
+(three.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /four.sups DerivedName
-(four.dnom) SuperscriptX SuperscriptY 66 0 Base
+(four.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /five.sups DerivedName
-(five.dnom) SuperscriptX SuperscriptY 66 0 Base
+(five.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /six.sups DerivedName
-(six.dnom) SuperscriptX SuperscriptY 66 0 Base
+(six.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /seven.sups DerivedName
-(seven.dnom) SuperscriptX SuperscriptY 66 0 Base
+(seven.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /eight.sups DerivedName
-(eight.dnom) SuperscriptX SuperscriptY 66 0 Base
+(eight.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /nine.sups DerivedName
-(nine.dnom) SuperscriptX SuperscriptY 66 0 Base
+(nine.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /parenleft.sups DerivedName
-(parenleft.dnom) SuperscriptX SuperscriptY 66 0 Base
+(parenleft.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /parenright.sups DerivedName
-(parenright.dnom) SuperscriptX SuperscriptY 66 0 Base
+(parenright.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /period.sups DerivedName
-(period.dnom) SuperscriptX SuperscriptY 66 0 Base
+(period.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /comma.sups DerivedName
-(comma.dnom) SuperscriptX SuperscriptY 66 0 Base
+(comma.dnom) SuperscriptX SuperscriptY -4 0 Base
 EndDerived
 
 /zero.subs DerivedName
-(zero.dnom) SubscriptX SubscriptY -40 20 Base
+(zero.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /one.subs DerivedName
-(one.dnom) SubscriptX SubscriptY -40 20 Base
+(one.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /two.subs DerivedName
-(two.dnom) SubscriptX SubscriptY -40 20 Base
+(two.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /three.subs DerivedName
-(three.dnom) SubscriptX SubscriptY -40 20 Base
+(three.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /four.subs DerivedName
-(four.dnom) SubscriptX SubscriptY -40 20 Base
+(four.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /five.subs DerivedName
-(five.dnom) SubscriptX SubscriptY -40 20 Base
+(five.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /six.subs DerivedName
-(six.dnom) SubscriptX SubscriptY -40 20 Base
+(six.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /seven.subs DerivedName
-(seven.dnom) SubscriptX SubscriptY -40 20 Base
+(seven.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /eight.subs DerivedName
-(eight.dnom) SubscriptX SubscriptY -40 20 Base
+(eight.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /nine.subs DerivedName
-(nine.dnom) SubscriptX SubscriptY -40 20 Base
+(nine.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /parenleft.subs DerivedName
-(parenleft.dnom) SubscriptX SubscriptY -40 20 Base
+(parenleft.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /parenright.subs DerivedName
-(parenright.dnom) SubscriptX SubscriptY -40 20 Base
+(parenright.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /period.subs DerivedName
-(period.dnom) SubscriptX SubscriptY -40 20 Base
+(period.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /comma.subs DerivedName
-(comma.dnom) SubscriptX SubscriptY -40 20 Base
+(comma.dnom) SubscriptX SubscriptY 0 20 Base
 EndDerived
 
 /zero.numr DerivedName
-(zero.dnom) NumeratorX NumeratorY 50 10 Base
+(zero.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /one.numr DerivedName
-(one.dnom) NumeratorX NumeratorY 50 10 Base
+(one.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /two.numr DerivedName
-(two.dnom) NumeratorX NumeratorY 50 10 Base
+(two.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /three.numr DerivedName
-(three.dnom) NumeratorX NumeratorY 50 10 Base
+(three.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /four.numr DerivedName
-(four.dnom) NumeratorX NumeratorY 50 10 Base
+(four.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /five.numr DerivedName
-(five.dnom) NumeratorX NumeratorY 50 10 Base
+(five.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /six.numr DerivedName
-(six.dnom) NumeratorX NumeratorY 50 10 Base
+(six.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /seven.numr DerivedName
-(seven.dnom) NumeratorX NumeratorY 50 10 Base
+(seven.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /eight.numr DerivedName
-(eight.dnom) NumeratorX NumeratorY 50 10 Base
+(eight.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /nine.numr DerivedName
-(nine.dnom) NumeratorX NumeratorY 50 10 Base
+(nine.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /parenleft.numr DerivedName
-(parenleft.dnom) NumeratorX NumeratorY 50 10 Base
+(parenleft.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /parenright.numr DerivedName
-(parenright.dnom) NumeratorX NumeratorY 50 10 Base
+(parenright.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /period.numr DerivedName
-(period.dnom) NumeratorX NumeratorY 50 10 Base
+(period.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /comma.numr DerivedName
-(comma.dnom) NumeratorX NumeratorY 50 10 Base
+(comma.dnom) NumeratorX NumeratorY 0 10 Base
 EndDerived
 
 /divisionslash DerivedName
@@ -2474,10 +2469,10 @@ EndDerived
 EndDerived
 
 /oneseventh DerivedName
-(one.dnom) -32 260 Base
-850 Width
-(fraction) 200 0 AddCentered
-(seven.dnom) 470 0 AddCentered
+(one.dnom) 10 270 Base
+824 Width
+(fraction) 197 0 AddCentered
+(seven.dnom) 452 0 AddCentered
 EndDerived
 
 /oneeighth DerivedName
@@ -2568,18 +2563,18 @@ EndDerived
 EndDerived
 
 /ringhalfrightmod DerivedName
-(ringhalfrightbelowcmb) 90 812 Base
-180 Width
+(ringhalfrightbelowcmb) 190 810 Base
+152 Width
 EndDerived
 
 /ringhalfleftmod DerivedName
-(ringhalfleftbelowcmb) 90 812 Base
-180 Width
+(ringhalfleftbelowcmb) 220 810 Base
+154 Width
 EndDerived
 
 /verticallinelowmod DerivedName
-(verticallinebelowcmb) 80 0 Base
-160 Width
+(verticallinebelowcmb) 30 0 Base
+150 Width
 EndDerived
 
 /primemod DerivedName
@@ -2684,42 +2679,43 @@ EndDerived
 EndDerived
 
 /Alphatonos DerivedName
-(Alpha) 60 0 Base
-644 Width
-(tonos.cap) AddFlushLeft
+(Alpha) 50 0 Base
+612 Width
+(tonos.cap) 10 0 AddFlushLeft
 EndDerived
 
 /Epsilontonos DerivedName
-(Epsilon) 140 0 Base
-696 Width
+(Epsilon) 128 0 Base
+664 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Etatonos DerivedName
-(Eta) 140 0 Base
-822 Width
+(Eta) 128 0 Base
+792 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Iotatonos DerivedName
-(Iota) 140 0 Base
-456 Width
+(Iota) 128 0 Base
+440 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Iotadieresis DerivedName
 (Idieresis) Base
+312 Width
 EndDerived
 
 /Omicrontonos DerivedName
-(Omicron) 110 0 Base
-802 Width
+(Omicron) 100 0 Base
+770 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
 /Upsilontonos DerivedName
-(Upsilon) 200 0 Base
-744 Width
+(Upsilon) 180 0 Base
+708 Width
 (tonos.cap) AddFlushLeft
 EndDerived
 
@@ -2762,7 +2758,7 @@ EndDerived
 
 /omicrontonos DerivedName
 (omicron) Base
-(tonoscmb) 4 0 AddCentered
+(tonoscmb) -50 0 AddCentered
 EndDerived
 
 /upsilontonos DerivedName
@@ -3942,13 +3938,13 @@ EndDerived
 EndDerived
 
 /tonos DerivedName
-(tonoscmb) 220 0 Base
-540 Width
+(tonoscmb) 280 0 Base
+560 Width
 EndDerived
 
 /dieresistonos DerivedName
-(dieresistonoscmb) 280 0 Base
-560 Width
+(dieresistonoscmb) 220 0 Base
+540 Width
 EndDerived
 
 /iotasubscript DerivedName
@@ -4033,6 +4029,7 @@ EndDerived
 
 /oxia.cap DerivedName
 (tonos.cap) Base
+140 Width
 EndDerived
 
 /Acyr DerivedName
@@ -4117,7 +4114,8 @@ EndDerived
 
 /Kje DerivedName
 (Ka) Base
-(acutecmb.cap) -6 0 AddCentered
+600 Width
+(acutecmb.cap) -12 0 AddCentered
 EndDerived
 
 /Igravecyr DerivedName
@@ -4172,8 +4170,7 @@ EndDerived
 EndDerived
 
 /Odieresiscyr DerivedName
-(Ocyr) Base
-(dieresiscmb.cap) AddCentered
+(Odieresis) Base
 EndDerived
 
 /Obarcyr DerivedName
@@ -4274,7 +4271,8 @@ EndDerived
 
 /kje DerivedName
 (ka) Base
-(acutecmb) -40 0 AddCentered
+536 Width
+(acutecmb) -42 0 AddCentered
 EndDerived
 
 /igravecyr DerivedName
@@ -4328,12 +4326,12 @@ EndDerived
 
 /macute DerivedName
 (m) Base
-(acutecmb) 12 0 AddCentered
+(acutecmb) -30 0 AddCentered
 EndDerived
 
 /mdotaccent DerivedName
 (m) Base
-(dotaccentcmb) 12 0 AddCentered
+(dotaccentcmb) -30 0 AddCentered
 EndDerived
 
 /kdotbelow DerivedName
@@ -4381,7 +4379,8 @@ EndDerived
 
 /zhebreve DerivedName
 (zhe) Base
-(brevecmb.cyr) -55 0 AddCentered
+751 Width
+(brevecmb.cyr) -60 0 AddCentered
 EndDerived
 
 /palochka DerivedName

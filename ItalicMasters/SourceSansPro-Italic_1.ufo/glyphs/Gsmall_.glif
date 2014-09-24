@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gsmall" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="277" y="-12" type="curve" smooth="yes"/>
+      <point x="353" y="-12"/>
+      <point x="428" y="16"/>
+      <point x="478" y="55" type="curve"/>
+      <point x="529" y="310" type="line"/>
+      <point x="317" y="310" type="line"/>
+      <point x="295" y="198" type="line"/>
+      <point x="366" y="198" type="line"/>
+      <point x="352" y="126" type="line"/>
+      <point x="341" y="120"/>
+      <point x="329" y="118"/>
+      <point x="315" y="118" type="curve" smooth="yes"/>
+      <point x="260" y="118"/>
+      <point x="231" y="164"/>
+      <point x="247" y="247" type="curve" smooth="yes"/>
+      <point x="266" y="344"/>
+      <point x="324" y="382"/>
+      <point x="369" y="382" type="curve" smooth="yes"/>
+      <point x="410" y="382"/>
+      <point x="424" y="369"/>
+      <point x="450" y="350" type="curve"/>
+      <point x="543" y="452" type="line"/>
+      <point x="506" y="487"/>
+      <point x="466" y="512"/>
+      <point x="384" y="512" type="curve" smooth="yes"/>
+      <point x="260" y="512"/>
+      <point x="114" y="418"/>
+      <point x="80" y="247" type="curve" smooth="yes"/>
+      <point x="44" y="67"/>
+      <point x="151" y="-12"/>
+    </contour>
+    <contour>
+      <point x="415" y="522" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="310" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Gsmall</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>503</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -2,7 +2,7 @@
 <glyph name="obarcyr" format="1">
   <advance width="540"/>
   <outline>
-    <component base="fita"/>
+    <component base="obar"/>
   </outline>
   <lib>
     <dict>

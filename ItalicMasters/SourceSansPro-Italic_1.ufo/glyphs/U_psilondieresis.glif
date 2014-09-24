@@ -3,8 +3,7 @@
   <advance width="528"/>
   <unicode hex="03AB"/>
   <outline>
-    <component base="Y"/>
-    <component base="dieresiscmb.cap" xOffset="220"/>
+    <component base="Ydieresis"/>
   </outline>
   <lib>
     <dict>

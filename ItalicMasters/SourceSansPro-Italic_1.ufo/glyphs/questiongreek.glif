@@ -2,8 +2,7 @@
 <glyph name="questiongreek" format="1">
   <advance width="310"/>
   <outline>
-    <component base="period" xOffset="54" yOffset="320"/>
-    <component base="comma"/>
+    <component base="semicolon"/>
   </outline>
   <lib>
     <dict>

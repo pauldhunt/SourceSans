@@ -2,7 +2,7 @@
 <glyph name="macronbelowcmb" format="1">
   <advance width="0"/>
   <outline>
-    <component base="macroncmb" xOffset="-150" yOffset="-770"/>
+    <component base="macroncmb" xOffset="-156" yOffset="-770"/>
     <contour>
       <point x="-6" y="-30" type="move" name="_belowLC"/>
     </contour>

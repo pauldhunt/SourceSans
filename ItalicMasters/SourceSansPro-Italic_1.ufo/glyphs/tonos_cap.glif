@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.cap" format="1">
-  <advance width="128"/>
+  <advance width="134"/>
   <outline>
     <contour>
-      <point x="125" y="436" type="line"/>
-      <point x="234" y="661" type="line"/>
-      <point x="96" y="661" type="line"/>
-      <point x="22" y="436" type="line"/>
+      <point x="80" y="450" type="line"/>
+      <point x="180" y="430" type="line"/>
+      <point x="285" y="650" type="line"/>
+      <point x="151" y="670" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,6 +23,51 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>72.32248009927571</real>
+                  <key>y</key>
+                  <integer>430</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>184.3224800992757</real>
+                  <key>y</key>
+                  <integer>430</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>252.3224800992757</real>
+                  <key>y</key>
+                  <integer>660</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>102.32248009927571</real>
+                  <key>y</key>
+                  <integer>660</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -33,14 +78,14 @@
           <array>
           </array>
           <key>width</key>
-          <integer>128</integer>
+          <integer>134</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.4</real>
-        <real>0.4</real>
+        <real>0.0</real>
+        <real>0.0</real>
         <real>1.0</real>
       </array>
     </dict>

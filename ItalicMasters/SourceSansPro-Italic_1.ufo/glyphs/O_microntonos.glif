@@ -3,7 +3,7 @@
   <advance width="770"/>
   <unicode hex="038C"/>
   <outline>
-    <component base="O" xOffset="100"/>
+    <component base="Omicron" xOffset="100"/>
     <component base="tonos.cap"/>
   </outline>
   <lib>

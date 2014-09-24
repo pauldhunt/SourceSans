@@ -1510,11 +1510,6 @@ EndDerived
 (hoicmb) -41 0 AddCentered
 EndDerived
 
-/ohorntilde DerivedName
-(ohorn) Base
-(tildecmb) AddCentered
-EndDerived
-
 /ohorndotbelow DerivedName
 (ohorn) Base
 (dotbelowcmb) -61 8 AddCentered
@@ -4170,8 +4165,7 @@ EndDerived
 EndDerived
 
 /Odieresiscyr DerivedName
-(Ocyr) Base
-(dieresiscmb.cap) -36 0 AddCentered
+(Odieresis) Base
 EndDerived
 
 /Obarcyr DerivedName
@@ -4442,4 +4436,3 @@ EndDerived
 718 Width
 (l) AddAdjacent
 EndDerived
-
