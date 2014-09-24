@@ -5,18 +5,18 @@ in user interface (UI) environments. In addition to a functional OpenType font, 
 source project provides all of the source files that were used to build this OpenType font
 by using the AFDKO makeotf tool.
 
-## Download font binaries (OTF, TTF, WOFF and EOT files)
+## Download the fonts (OTF, TTF, WOFF, EOT)
 
-The font binaries are available in the [release branch](../../tree/release).
-They can also be downloaded from [SourceForge](https://sourceforge.net/projects/sourcesans.adobe/files/).
+* [Latest release](../../releases/latest)
+* [All releases](../../releases)
 
-## Installation instructions
+## Font installation instructions
 
 * [Mac OS X](http://support.apple.com/kb/HT2509)
 * [Windows](http://windows.microsoft.com/en-us/windows-vista/install-or-uninstall-fonts)
-* [Linux/Unix-based systems](https://github.com/adobe/source-code-pro/issues/17#issuecomment-8967116)
+* [Linux/Unix-based systems](https://github.com/adobe-fonts/source-code-pro/issues/17#issuecomment-8967116)
 
-## Building from source
+## Building the fonts from source
 
 ### Requirements
 
@@ -53,4 +53,4 @@ Send suggestions for changes to the Source Sans OpenType font project maintainer
 
 ## Further information
 
-For information about the design and background of Source Sans, please refer to the [official font readme file](http://htmlpreview.github.io/?https://github.com/adobe/source-sans-pro/blob/master/SourceSansProReadMe.html).
+For information about the design and background of Source Sans, please refer to the [official font readme file](http://htmlpreview.github.io/?https://github.com/adobe-fonts/source-sans-pro/blob/master/SourceSansProReadMe.html).
