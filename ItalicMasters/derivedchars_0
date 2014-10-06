@@ -6,23 +6,23 @@
 /NumeratorY 270 DefineYShift
 
 /grave DerivedName
-(gravecmb) 214 0 Base
-504 Width
+(gravecmb) 212 0 Base
+500 Width
 EndDerived
 
 /acute DerivedName
-(acutecmb) 214 0 Base
-504 Width
+(acutecmb) 212 0 Base
+500 Width
 EndDerived
 
 /circumflex DerivedName
-(circumflexcmb) 214 0 Base
-504 Width
+(circumflexcmb) 212 0 Base
+500 Width
 EndDerived
 
 /caron DerivedName
-(caroncmb) 214 0 Base
-504 Width
+(caroncmb) 212 0 Base
+500 Width
 EndDerived
 
 /macronmod DerivedName
@@ -41,48 +41,48 @@ EndDerived
 EndDerived
 
 /tilde DerivedName
-(tildecmb) 214 0 Base
-504 Width
+(tildecmb) 212 0 Base
+500 Width
 EndDerived
 
 /dieresis DerivedName
-(dieresiscmb) 214 0 Base
-504 Width
+(dieresiscmb) 212 0 Base
+500 Width
 EndDerived
 
 /macron DerivedName
-(macroncmb) 214 0 Base
-504 Width
+(macroncmb) 212 0 Base
+500 Width
 EndDerived
 
 /breve DerivedName
-(brevecmb) 214 0 Base
-504 Width
+(brevecmb) 212 0 Base
+500 Width
 EndDerived
 
 /ring DerivedName
-(ringcmb) 214 0 Base
-504 Width
+(ringcmb) 212 0 Base
+500 Width
 EndDerived
 
 /hungarumlaut DerivedName
-(hungarumlautcmb) 214 0 Base
-504 Width
+(hungarumlautcmb) 212 0 Base
+500 Width
 EndDerived
 
 /dotaccent DerivedName
-(dotaccentcmb) 214 0 Base
-504 Width
+(dotaccentcmb) 212 0 Base
+500 Width
 EndDerived
 
 /cedilla DerivedName
-(cedillacmb) 214 0 Base
-504 Width
+(cedillacmb) 212 0 Base
+500 Width
 EndDerived
 
 /ogonek DerivedName
-(ogonekcmb) 214 0 Base
-504 Width
+(ogonekcmb) 212 0 Base
+500 Width
 EndDerived
 
 /overlinecmb DerivedName
@@ -2160,7 +2160,7 @@ EndDerived
 
 /quotedblbase DerivedName
 (quoteright) -132 -638 Base
-360 Width
+324 Width
 (quoteright) -80 -638 AddAdjacent
 EndDerived
 
@@ -2643,7 +2643,6 @@ EndDerived
 
 /Iota DerivedName
 (I) Base
-212 Width
 EndDerived
 
 /Kappa DerivedName
@@ -3947,18 +3946,18 @@ EndDerived
 EndDerived
 
 /lenis DerivedName
-(leniscmb) 266 0 Base
-532 Width
+(leniscmb) 250 0 Base
+500 Width
 EndDerived
 
 /psili DerivedName
-(leniscmb) 266 0 Base
-532 Width
+(leniscmb) 250 0 Base
+500 Width
 EndDerived
 
 /asper DerivedName
-(aspercmb) 266 0 Base
-532 Width
+(aspercmb) 250 0 Base
+500 Width
 EndDerived
 
 /varia DerivedName
@@ -3967,62 +3966,63 @@ EndDerived
 EndDerived
 
 /oxia DerivedName
-(tonoscmb) 266 0 Base
-532 Width
+(tonoscmb) 250 0 Base
+500 Width
 EndDerived
 
 /lenisgrave DerivedName
-(lenisgravecmb) 266 0 Base
-532 Width
+(lenisgravecmb) 250 0 Base
+500 Width
 EndDerived
 
 /aspergrave DerivedName
-(aspergravecmb) 266 0 Base
-532 Width
+(aspergravecmb) 250 0 Base
+500 Width
 EndDerived
 
 /lenisacute DerivedName
-(lenisacutecmb) 266 0 Base
-532 Width
+(lenisacutecmb) 250 0 Base
+500 Width
 EndDerived
 
 /asperacute DerivedName
-(asperacutecmb) 266 0 Base
-532 Width
+(asperacutecmb) 250 0 Base
+500 Width
 EndDerived
 
 /lenistilde DerivedName
-(lenistildecmb) 266 0 Base
-532 Width
+(lenistildecmb) 250 0 Base
+500 Width
 EndDerived
 
 /aspertilde DerivedName
-(aspertildecmb) 266 0 Base
-532 Width
+(aspertildecmb) 250 0 Base
+500 Width
 EndDerived
 
 /perispomeni DerivedName
-(tildecmb) 266 0 Base
-532 Width
+(tildecmb) 250 0 Base
+500 Width
 EndDerived
 
 /dialytikagrave DerivedName
-(dialytikagravecmb) 266 0 Base
-532 Width
+(dialytikagravecmb) 250 0 Base
+500 Width
 EndDerived
 
 /dialytikaacute DerivedName
-(dieresistonoscmb) 266 0 Base
-532 Width
+(dieresistonoscmb) 250 0 Base
+500 Width
 EndDerived
 
 /dialytikatilde DerivedName
-(dieresistilde) 266 0 Base
-532 Width
+(dieresistilde) 250 0 Base
+500 Width
 EndDerived
 
 /oxia.cap DerivedName
 (tonos.cap) Base
+20 Width
 EndDerived
 
 /Acyr DerivedName
@@ -4436,3 +4436,4 @@ EndDerived
 718 Width
 (l) AddAdjacent
 EndDerived
+

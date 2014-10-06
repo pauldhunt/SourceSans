@@ -2160,7 +2160,7 @@ EndDerived
 
 /quotedblbase DerivedName
 (quoteright) -100 -510 Base
-580 Width
+550 Width
 (quoteright) -70 -510 AddAdjacent
 EndDerived
 
@@ -2643,7 +2643,6 @@ EndDerived
 
 /Iota DerivedName
 (I) Base
-312 Width
 EndDerived
 
 /Kappa DerivedName

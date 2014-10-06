@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="1">
-  <advance width="192"/>
+  <advance width="324"/>
   <outline>
     <component base="quoteright" xOffset="-132" yOffset="-638"/>
     <component base="quoteright" xOffset="-10" yOffset="-638"/>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>192</integer>
+          <integer>324</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
