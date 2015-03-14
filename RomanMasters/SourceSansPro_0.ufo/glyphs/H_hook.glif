@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hhook" format="1">
+  <advance width="762"/>
+  <outline>
+    <contour>
+      <point x="444" y="-22" type="move" name="belowLC"/>
+    </contour>
+    <contour>
+      <point x="444" y="682" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="98" y="401" type="curve"/>
+      <point x="117" y="427" type="line"/>
+      <point x="92" y="447"/>
+      <point x="80" y="476"/>
+      <point x="80" y="512" type="curve" smooth="yes"/>
+      <point x="80" y="599"/>
+      <point x="138" y="632"/>
+      <point x="225" y="632" type="curve" smooth="yes"/>
+      <point x="251" y="632" type="line"/>
+      <point x="260" y="660" type="line"/>
+      <point x="224" y="660" type="line" smooth="yes"/>
+      <point x="116" y="660"/>
+      <point x="48" y="613"/>
+      <point x="48" y="514" type="curve" smooth="yes"/>
+      <point x="48" y="465"/>
+      <point x="65" y="425"/>
+    </contour>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="338" type="line"/>
+      <point x="630" y="338" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="662" y="660" type="line"/>
+      <point x="630" y="660" type="line"/>
+      <point x="630" y="366" type="line"/>
+      <point x="260" y="366" type="line"/>
+      <point x="260" y="660" type="line"/>
+      <point x="228" y="651" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

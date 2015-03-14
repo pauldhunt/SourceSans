@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rstroke" format="1">
+  <advance width="306"/>
+  <outline>
+    <contour>
+      <point x="20" y="218" type="line"/>
+      <point x="268" y="218" type="line"/>
+      <point x="268" y="246" type="line"/>
+      <point x="96" y="246" type="line"/>
+      <point x="20" y="242" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rstroke</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>306</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

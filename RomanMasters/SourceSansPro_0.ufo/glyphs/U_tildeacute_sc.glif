@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utildeacute.sc" format="1">
+  <advance width="564"/>
+  <outline>
+    <component base="U.sc"/>
+    <component base="tildeacutecmb.cap" xOffset="282.0" yOffset="-120.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

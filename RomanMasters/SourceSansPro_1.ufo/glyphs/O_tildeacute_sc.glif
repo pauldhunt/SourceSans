@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otildeacute.sc" format="1">
+  <advance width="626"/>
+  <outline>
+    <component base="O.sc"/>
+    <component base="tildeacutecmb.cap" xOffset="314.0" yOffset="-108.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

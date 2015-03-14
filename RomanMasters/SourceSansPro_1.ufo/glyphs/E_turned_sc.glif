@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eturned.sc" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="532" type="line"/>
+      <point x="64" y="532" type="line"/>
+      <point x="64" y="400" type="line"/>
+      <point x="264" y="400" type="line"/>
+      <point x="264" y="330" type="line"/>
+      <point x="92" y="330" type="line"/>
+      <point x="92" y="206" type="line"/>
+      <point x="264" y="206" type="line"/>
+      <point x="264" y="132" type="line"/>
+      <point x="54" y="132" type="line"/>
+      <point x="54" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

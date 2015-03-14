@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresismacron" format="1">
+  <advance width="536"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresismacron" xOffset="285"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
