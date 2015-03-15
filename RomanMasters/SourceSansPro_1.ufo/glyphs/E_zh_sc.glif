@@ -2,7 +2,7 @@
 <glyph name="Ezh.sc" format="1">
   <advance width="500"/>
   <outline>
-    <component base="ezh.sc"/>
+    <component base="ezh"/>
   </outline>
   <lib>
     <dict>
