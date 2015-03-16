@@ -1360,8 +1360,12 @@
 	<string>R_stroke_sc.glif</string>
 	<key>Rtail</key>
 	<string>R_tail.glif</string>
+	<key>Rtail.alt</key>
+	<string>R_tail_alt.glif</string>
 	<key>Rtail.sc</key>
 	<string>R_tail_sc.glif</string>
+	<key>Rtail.sca</key>
+	<string>R_tail_sca.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>S.sc</key>
