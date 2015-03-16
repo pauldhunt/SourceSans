@@ -540,8 +540,12 @@
 	<string>F__sups.glif</string>
 	<key>Fhook</key>
 	<string>F_hook.glif</string>
+	<key>Fhook.alt</key>
+	<string>F_hook_alt.glif</string>
 	<key>Fhook.sc</key>
 	<string>F_hook_sc.glif</string>
+	<key>Fhook.sca</key>
+	<string>F_hook_sca.glif</string>
 	<key>Fita</key>
 	<string>F_ita.glif</string>
 	<key>Fita.sc</key>
@@ -1026,8 +1030,12 @@
 	<string>N_grave_sc.glif</string>
 	<key>Nhookleft</key>
 	<string>N_hookleft.glif</string>
+	<key>Nhookleft.alt</key>
+	<string>N_hookleft_alt.glif</string>
 	<key>Nhookleft.sc</key>
 	<string>N_hookleft_sc.glif</string>
+	<key>Nhookleft.sca</key>
+	<string>N_hookleft_sca.glif</string>
 	<key>Nje</key>
 	<string>N_je.glif</string>
 	<key>Nje.sc</key>
