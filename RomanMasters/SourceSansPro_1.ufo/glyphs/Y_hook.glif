@@ -1,14 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <glyph name="Yhook" format="1">
-  <advance width="544"/>
+  <advance width="613"/>
   <outline>
-    <component base="Y"/>
+    <contour>
+      <point x="476.144" y="482" type="line" smooth="yes"/>
+      <point x="483.413" y="497.875"/>
+      <point x="493.435" y="510.142"/>
+      <point x="507.512" y="510.142" type="curve" smooth="yes"/>
+      <point x="525.03" y="510.142"/>
+      <point x="539.503" y="493.271"/>
+      <point x="547.262" y="477.136" type="curve"/>
+      <point x="646.95" y="559.829" type="line"/>
+      <point x="633.57" y="578.644"/>
+      <point x="616.993" y="599.861"/>
+      <point x="580.223" y="627.501" type="curve" smooth="yes"/>
+      <point x="548.446" y="651.388"/>
+      <point x="515.391" y="662"/>
+      <point x="484" y="662" type="curve" smooth="yes"/>
+      <point x="416.333" y="662"/>
+      <point x="363" y="620"/>
+      <point x="326" y="514" type="curve" smooth="yes"/>
+      <point x="275" y="369" type="line"/>
+      <point x="271" y="369" type="line"/>
+      <point x="254" y="420"/>
+      <point x="238" y="465"/>
+      <point x="222" y="514" type="curve"/>
+      <point x="174" y="650" type="line"/>
+      <point x="-10" y="650" type="line"/>
+      <point x="186" y="224" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="224" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
