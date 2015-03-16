@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <glyph name="Rstroke" format="1">
-  <advance width="630"/>
+  <advance width="658"/>
   <outline>
-    <component base="R"/>
+    <contour>
+      <point x="24" y="274" type="line"/>
+      <point x="386" y="274" type="line"/>
+      <point x="386" y="354" type="line"/>
+      <point x="100" y="354" type="line"/>
+      <point x="24" y="348" type="line"/>
+    </contour>
+    <component base="R" xOffset="28"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
