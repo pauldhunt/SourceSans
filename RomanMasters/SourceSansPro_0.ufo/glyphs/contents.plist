@@ -566,6 +566,8 @@
 	<string>G_amma_sc.glif</string>
 	<key>Gammalatin</key>
 	<string>G_ammalatin.glif</string>
+	<key>Gammalatin.alt</key>
+	<string>G_ammalatin_alt.glif</string>
 	<key>Gammalatin.sc</key>
 	<string>G_ammalatin_sc.glif</string>
 	<key>Gbreve</key>
