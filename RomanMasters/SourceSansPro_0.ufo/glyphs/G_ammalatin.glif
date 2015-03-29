@@ -1,8 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <glyph name="Gammalatin" format="1">
   <advance width="482"/>
   <outline>
-    <component base="V"/>
+    <contour>
+      <point x="244" y="-162" type="move" name="belowLC"/>
+    </contour>
+    <contour>
+      <point x="240" y="682" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="226" y="127" type="line"/>
+      <point x="258" y="127" type="line"/>
+      <point x="476" y="660" type="line"/>
+      <point x="444" y="660" type="line"/>
+      <point x="316" y="349" type="line" smooth="yes"/>
+      <point x="290" y="285"/>
+      <point x="272" y="237"/>
+      <point x="244" y="173" type="curve"/>
+      <point x="240" y="173" type="line"/>
+      <point x="212" y="237"/>
+      <point x="194" y="285"/>
+      <point x="168" y="349" type="curve" smooth="yes"/>
+      <point x="40" y="660" type="line"/>
+      <point x="6" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="-152" type="curve" smooth="yes"/>
+      <point x="300" y="-152"/>
+      <point x="326" y="-109"/>
+      <point x="326" y="-48" type="curve" smooth="yes"/>
+      <point x="326" y="3"/>
+      <point x="300" y="61"/>
+      <point x="262" y="149" type="curve"/>
+      <point x="220" y="149" type="line"/>
+      <point x="184" y="61"/>
+      <point x="158" y="3"/>
+      <point x="158" y="-48" type="curve" smooth="yes"/>
+      <point x="158" y="-109"/>
+      <point x="184" y="-152"/>
+    </contour>
+    <contour>
+      <point x="242" y="-120" type="curve" smooth="yes"/>
+      <point x="206" y="-120"/>
+      <point x="192" y="-89"/>
+      <point x="192" y="-50" type="curve" smooth="yes"/>
+      <point x="192" y="-7"/>
+      <point x="213" y="59"/>
+      <point x="240" y="113" type="curve"/>
+      <point x="244" y="113" type="line"/>
+      <point x="271" y="59"/>
+      <point x="292" y="-2"/>
+      <point x="292" y="-50" type="curve" smooth="yes"/>
+      <point x="292" y="-89"/>
+      <point x="278" y="-120"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -10,25 +61,20 @@
       <dict>
         <key>mask</key>
         <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
           <key>name</key>
           <string>Gammalatin</string>
+          <key>lib</key>
+          <dict/>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>482</integer>
+          <key>contours</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>anchors</key>
+          <array/>
         </dict>
       </dict>
     </dict>
