@@ -254,6 +254,8 @@
 	<string>C_hi.glif</string>
 	<key>Chi.sc</key>
 	<string>C_hi_sc.glif</string>
+	<key>Chilatin</key>
+	<string>C_hilatin.glif</string>
 	<key>Chook</key>
 	<string>C_hook.glif</string>
 	<key>Chook.sc</key>
@@ -2238,6 +2240,8 @@
 	<string>chedescender.glif</string>
 	<key>chi</key>
 	<string>chi.glif</string>
+	<key>chilatin</key>
+	<string>chilatin.glif</string>
 	<key>chook</key>
 	<string>chook.glif</string>
 	<key>circledotted</key>
