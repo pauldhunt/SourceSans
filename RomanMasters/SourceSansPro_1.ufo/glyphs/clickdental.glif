@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <glyph name="clickdental" format="1">
   <advance width="278"/>
   <outline>
-    <component base="bar"/>
+    <contour>
+      <point x="84" y="-92" type="line"/>
+      <point x="194" y="-92" type="line"/>
+      <point x="194" y="696" type="line"/>
+      <point x="84" y="696" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
