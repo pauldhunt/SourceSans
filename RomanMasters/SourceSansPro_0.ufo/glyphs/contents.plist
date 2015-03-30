@@ -610,6 +610,8 @@
 	<string>G_hook.glif</string>
 	<key>Ghook.sc</key>
 	<string>G_hook_sc.glif</string>
+	<key>Ghooksmall</key>
+	<string>G_hooksmall.glif</string>
 	<key>Gje</key>
 	<string>G_je.glif</string>
 	<key>Gje.sc</key>
