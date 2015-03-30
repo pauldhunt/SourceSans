@@ -1048,6 +1048,8 @@
 	<string>N_je_sc.glif</string>
 	<key>Nlinebelow</key>
 	<string>N_linebelow.glif</string>
+	<key>Nlongleg</key>
+	<string>N_longleg.glif</string>
 	<key>Nlinebelow.sc</key>
 	<string>N_linebelow_sc.glif</string>
 	<key>Nsmall</key>
@@ -3238,6 +3240,8 @@
 	<string>nje.glif</string>
 	<key>nlinebelow</key>
 	<string>nlinebelow.glif</string>
+	<key>nlongleg</key>
+	<string>nlongleg.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>nretroflex</key>

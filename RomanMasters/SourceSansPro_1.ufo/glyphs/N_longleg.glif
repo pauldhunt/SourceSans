@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<glyph name="Nlongleg" format="1">
+  <advance width="678"/>
+  <outline>
+    <contour>
+      <point x="378" y="672" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="634" y="-188" type="line"/>
+      <point x="634" y="330" type="line" smooth="yes"/>
+      <point x="634" y="572"/>
+      <point x="538" y="662"/>
+      <point x="411" y="662" type="curve" smooth="yes"/>
+      <point x="346" y="662"/>
+      <point x="288" y="638"/>
+      <point x="238" y="584" type="curve"/>
+      <point x="238" y="650" type="line"/>
+      <point x="72" y="650" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="244" y="438" type="line"/>
+      <point x="274" y="491"/>
+      <point x="322" y="514"/>
+      <point x="358" y="514" type="curve" smooth="yes"/>
+      <point x="422" y="514"/>
+      <point x="458" y="461"/>
+      <point x="458" y="330" type="curve" smooth="yes"/>
+      <point x="458" y="-188" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>name</key>
+          <string>Eng</string>
+          <key>lib</key>
+          <dict/>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>678</integer>
+          <key>contours</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>anchors</key>
+          <array/>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
