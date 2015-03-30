@@ -2524,6 +2524,8 @@
 	<string>eopen.glif</string>
 	<key>eopen.sups</key>
 	<string>eopen_sups.glif</string>
+	<key>eopenclosed</key>
+	<string>eopenclosed.glif</string>
 	<key>eopenreversed</key>
 	<string>eopenreversed.glif</string>
 	<key>eopenreversedclosed</key>
