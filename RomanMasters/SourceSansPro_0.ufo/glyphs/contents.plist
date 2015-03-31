@@ -2804,6 +2804,8 @@
 	<string>glottalstopstroke.glif</string>
 	<key>glottalstopstrokereversed</key>
 	<string>glottalstopstrokereversed.glif</string>
+	<key>glottalstopinverted</key>
+	<string>glottalstopinverted.glif</string>
 	<key>gmacron</key>
 	<string>gmacron.glif</string>
 	<key>gmacron.alt</key>
