@@ -3632,6 +3632,10 @@
 	<string>registered.glif</string>
 	<key>rfishhook</key>
 	<string>rfishhook.glif</string>
+	<key>rfishhookreversed</key>
+	<string>rfishhookreversed.glif</string>
+	<key>rfishhookreversedtail</key>
+	<string>rfishhookreversedtail.glif</string>
 	<key>rho</key>
 	<string>rho.glif</string>
 	<key>rhoasper</key>
