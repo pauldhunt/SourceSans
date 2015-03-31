@@ -866,6 +866,8 @@
 	<string>J_circumflex.glif</string>
 	<key>Jcircumflex.sc</key>
 	<string>J_circumflex_sc.glif</string>
+	<key>Jcrossedtail</key>
+	<string>J_crossedtail.glif</string>
 	<key>Je</key>
 	<string>J_e.glif</string>
 	<key>Je.sc</key>
