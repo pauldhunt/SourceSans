@@ -1226,6 +1226,8 @@
 	<string>O_megaiotasublenisgrave.glif</string>
 	<key>Omegaiotasublenistilde</key>
 	<string>O_megaiotasublenistilde.glif</string>
+	<key>Omegalatin</key>
+	<string>O_megalatin.glif</string>
 	<key>Omegalenis</key>
 	<string>O_megalenis.glif</string>
 	<key>Omegalenisacute</key>
@@ -3340,6 +3342,8 @@
 	<string>omegaaspergrave.glif</string>
 	<key>omegaaspertilde</key>
 	<string>omegaaspertilde.glif</string>
+	<key>omegaclosed</key>
+	<string>omegaclosed.glif</string>
 	<key>omegagrave</key>
 	<string>omegagrave.glif</string>
 	<key>omegaiotasub</key>
@@ -3366,6 +3370,8 @@
 	<string>omegaiotasublenistilde.glif</string>
 	<key>omegaiotasubtilde</key>
 	<string>omegaiotasubtilde.glif</string>
+	<key>omegalatin</key>
+	<string>omegalatin.glif</string>
 	<key>omegalenis</key>
 	<string>omegalenis.glif</string>
 	<key>omegalenisacute</key>
