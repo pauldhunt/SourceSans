@@ -944,6 +944,8 @@
 	<string>L_ambda.glif</string>
 	<key>Lambda.sc</key>
 	<string>L_ambda_sc.glif</string>
+	<key>Lbelt</key>
+	<string>L_belt.glif</string>
 	<key>Lcaron</key>
 	<string>L_caron.glif</string>
 	<key>Lcaron.sc</key>
@@ -3072,6 +3074,8 @@
 	<string>lambda.glif</string>
 	<key>lbelt</key>
 	<string>lbelt.glif</string>
+	<key>lbelthook</key>
+	<string>lbelthook.glif</string>
 	<key>lcaron</key>
 	<string>lcaron.glif</string>
 	<key>lcaron.alt</key>
