@@ -198,6 +198,8 @@
 	<string>B_eta.glif</string>
 	<key>Beta.sc</key>
 	<string>B_eta_sc.glif</string>
+	<key>Betalatin</key>
+	<string>B_etalatin.glif</string>
 	<key>Bhook</key>
 	<string>B_hook.glif</string>
 	<key>Bhook.alt</key>
@@ -2110,6 +2112,8 @@
 	<string>beta.glif</string>
 	<key>beta.alt</key>
 	<string>beta_alt.glif</string>
+	<key>betalatin</key>
+	<string>betalatin.glif</string>
 	<key>bhook</key>
 	<string>bhook.glif</string>
 	<key>blinebelow</key>
