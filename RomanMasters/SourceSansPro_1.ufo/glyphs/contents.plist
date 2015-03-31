@@ -1510,6 +1510,8 @@
 	<string>T_she.glif</string>
 	<key>Tshe.sc</key>
 	<string>T_she_sc.glif</string>
+	<key>Tturned</key>
+	<string>T_turned.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>U.sc</key>
@@ -3904,6 +3906,8 @@
 	<string>tse.glif</string>
 	<key>tshe</key>
 	<string>tshe.glif</string>
+	<key>tturned</key>
+	<string>tturned.glif</string>
 	<key>tugrik</key>
 	<string>tugrik.glif</string>
 	<key>two</key>
