@@ -3660,6 +3660,8 @@
 	<string>ringhalfrightmod.glif</string>
 	<key>rlinebelow</key>
 	<string>rlinebelow.glif</string>
+	<key>rlongleg</key>
+	<string>rlongleg.glif</string>
 	<key>rlonglegturned</key>
 	<string>rlonglegturned.glif</string>
 	<key>rstroke</key>
