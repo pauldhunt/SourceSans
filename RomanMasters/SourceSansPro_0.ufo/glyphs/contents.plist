@@ -3572,6 +3572,8 @@
 	<string>q.glif</string>
 	<key>q.sups</key>
 	<string>q_sups.glif</string>
+	<key>qhook</key>
+	<string>qhook.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
 	<key>question.sc</key>
