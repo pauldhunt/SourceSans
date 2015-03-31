@@ -2878,6 +2878,10 @@
 	<string>hryvnia.glif</string>
 	<key>hturned</key>
 	<string>hturned.glif</string>
+	<key>hturnedfishhook</key>
+	<string>hturnedfishhook.glif</string>
+	<key>hturnedfishhooktail</key>
+	<string>hturnedfishhooktail.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hungarumlautcmb</key>
