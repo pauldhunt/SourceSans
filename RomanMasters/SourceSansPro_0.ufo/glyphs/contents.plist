@@ -668,6 +668,8 @@
 	<string>H_dotbelow.glif</string>
 	<key>Hdotbelow.sc</key>
 	<string>H_dotbelow_sc.glif</string>
+	<key>Heng</key>
+	<string>H_eng.glif</string>
 	<key>Hhook</key>
 	<string>H_hook.glif</string>
 	<key>Hhook.sc</key>
@@ -2852,6 +2854,8 @@
 	<string>hcircumflex.glif</string>
 	<key>hdotbelow</key>
 	<string>hdotbelow.glif</string>
+	<key>heng</key>
+	<string>heng.glif</string>
 	<key>henghook</key>
 	<string>henghook.glif</string>
 	<key>hhook</key>
