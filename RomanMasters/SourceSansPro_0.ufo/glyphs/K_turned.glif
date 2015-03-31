@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<glyph name="Kturned" format="1">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="216" y="682" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="236" y="-22" type="move" name="belowLC"/>
+    </contour>
+    <contour>
+      <point x="450" y="660" type="line"/>
+      <point x="418" y="660" type="line"/>
+      <point x="418" y="426" type="line"/>
+      <point x="276" y="266" type="line"/>
+      <point x="50" y="660" type="line"/>
+      <point x="12" y="660" type="line"/>
+      <point x="252" y="242" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="416" y="380" type="line"/>
+      <point x="418" y="380" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>name</key>
+          <string>K</string>
+          <key>lib</key>
+          <dict/>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>550</integer>
+          <key>contours</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>anchors</key>
+          <array/>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

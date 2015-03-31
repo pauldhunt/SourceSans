@@ -926,6 +926,8 @@
 	<string>K_linebelow.glif</string>
 	<key>Klinebelow.sc</key>
 	<string>K_linebelow_sc.glif</string>
+	<key>Kturned</key>
+	<string>K_turned.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>L.sc</key>
@@ -3048,6 +3050,8 @@
 	<string>klinebelow.glif</string>
 	<key>koppa</key>
 	<string>koppa.glif</string>
+	<key>kturned</key>
+	<string>kturned.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>l.alt</key>
