@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<glyph name="Ltilde" format="1">
+  <advance width="521"/>
+  <outline>
+    <contour>
+      <point x="177" y="682" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="349" y="-22" type="move" name="belowLC"/>
+    </contour>
+    <contour>
+      <point x="268" y="290" type="curve" smooth="yes"/>
+      <point x="306" y="290"/>
+      <point x="346" y="316"/>
+      <point x="372" y="368" type="curve"/>
+      <point x="350" y="382" type="line"/>
+      <point x="326" y="334"/>
+      <point x="300" y="318"/>
+      <point x="270" y="318" type="curve" smooth="yes"/>
+      <point x="212" y="318"/>
+      <point x="164" y="410"/>
+      <point x="88" y="410" type="curve" smooth="yes"/>
+      <point x="50" y="410"/>
+      <point x="10" y="384"/>
+      <point x="-16" y="330" type="curve"/>
+      <point x="6" y="318" type="line"/>
+      <point x="30" y="366"/>
+      <point x="56" y="382"/>
+      <point x="86" y="382" type="curve" smooth="yes"/>
+      <point x="144" y="382"/>
+      <point x="192" y="290"/>
+    </contour>
+    <contour>
+      <point x="161" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="28" type="line"/>
+      <point x="193" y="28" type="line"/>
+      <point x="193" y="660" type="line"/>
+      <point x="161" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>name</key>
+          <string>L</string>
+          <key>lib</key>
+          <dict/>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>460</integer>
+          <key>contours</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>anchors</key>
+          <array/>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

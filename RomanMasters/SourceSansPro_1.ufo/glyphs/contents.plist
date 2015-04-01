@@ -986,6 +986,8 @@
 	<string>L_slash_sc.glif</string>
 	<key>Lsmall</key>
 	<string>L_small.glif</string>
+	<key>Ltilde</key>
+	<string>L_tilde.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>M.sc</key>
@@ -3166,6 +3168,8 @@
 	<string>lslash.glif</string>
 	<key>lslash.alt</key>
 	<string>lslash_alt.glif</string>
+	<key>ltilde</key>
+	<string>ltilde.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>m.sups</key>
