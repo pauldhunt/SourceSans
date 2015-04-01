@@ -2588,6 +2588,8 @@
 	<string>esdescender.glif</string>
 	<key>esh</key>
 	<string>esh.glif</string>
+	<key>eshcurl</key>
+	<string>eshcurl.glif</string>
 	<key>estimated</key>
 	<string>estimated.glif</string>
 	<key>eta</key>
@@ -2660,6 +2662,8 @@
 	<string>exclamquestion.glif</string>
 	<key>ezh</key>
 	<string>ezh.glif</string>
+	<key>ezhcurl</key>
+	<string>ezhcurl.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>f.sups</key>
