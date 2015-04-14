@@ -372,7 +372,6 @@
 	</array>
 	<key>@MMK_L_LDOT_LC_LEFT</key>
 	<array>
-		<string>ldot</string>
 		<string>ldot.alt</string>
 	</array>
 	<key>@MMK_L_LSLASH_LC</key>
@@ -395,7 +394,6 @@
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcommaaccent</string>
-		<string>Ldot</string>
 		<string>Ldotbelow</string>
 		<string>Ldotbelowmacron</string>
 		<string>Llinebelow</string>
@@ -936,7 +934,6 @@
 		<string>Lacute</string>
 		<string>Lcaron</string>
 		<string>Lcommaaccent</string>
-		<string>Ldot</string>
 		<string>Ldotbelow</string>
 		<string>Ldotbelowmacron</string>
 		<string>Llinebelow</string>
@@ -1040,7 +1037,6 @@
 		<string>lacute</string>
 		<string>lcaron</string>
 		<string>lcommaaccent</string>
-		<string>ldot</string>
 		<string>ldotbelow</string>
 		<string>ldotbelowmacron</string>
 		<string>llinebelow</string>

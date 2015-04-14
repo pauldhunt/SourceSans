@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ" format="1">
   <advance width="624"/>
-  <unicode hex="0132"/>
   <outline>
     <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="316" y="650" type="line"/>
+      <point x="156" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="-182" type="curve" smooth="yes"/>
+      <point x="424" y="-182"/>
+      <point x="478" y="-96"/>
+      <point x="500" y="8" type="curve" smooth="yes"/>
       <point x="628" y="650" type="line"/>
       <point x="468" y="650" type="line"/>
       <point x="342" y="16" type="line"/>
@@ -16,45 +25,10 @@
       <point x="196" y="-158" type="line"/>
       <point x="232" y="-176"/>
       <point x="264" y="-182"/>
-      <point x="300" y="-182" type="curve" smooth="yes"/>
-      <point x="424" y="-182"/>
-      <point x="478" y="-96"/>
-      <point x="500" y="8" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="26" y="0" type="line"/>
-      <point x="186" y="0" type="line"/>
-      <point x="316" y="650" type="line"/>
-      <point x="156" y="650" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>IJ</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>624</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

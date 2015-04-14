@@ -3,44 +3,19 @@
   <advance width="0"/>
   <outline>
     <contour>
+      <point x="157" y="572" type="line"/>
       <point x="185" y="572" type="line"/>
       <point x="211" y="706" type="line"/>
       <point x="71" y="706" type="line"/>
       <point x="66" y="678" type="line"/>
       <point x="178" y="678" type="line"/>
-      <point x="157" y="572" type="line"/>
     </contour>
     <contour>
-      <point x="98" y="502" type="move" name="_aboverightLC"/>
+      <point x="98" y="500" type="move" name="_aboverightLC"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>leftangleabovecmb</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>0</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

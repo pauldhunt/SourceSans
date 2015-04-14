@@ -3,13 +3,6 @@
   <advance width="484"/>
   <outline>
     <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="330" y="0" type="line"/>
-      <point x="286" y="-30"/>
-      <point x="238" y="-88"/>
-      <point x="238" y="-140" type="curve" smooth="yes"/>
-      <point x="238" y="-182"/>
-      <point x="266" y="-202"/>
       <point x="304" y="-202" type="curve" smooth="yes"/>
       <point x="320" y="-202"/>
       <point x="340" y="-196"/>
@@ -34,38 +27,16 @@
       <point x="508" y="634" type="line"/>
       <point x="514" y="660" type="line"/>
       <point x="172" y="660" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="286" y="-30"/>
+      <point x="238" y="-88"/>
+      <point x="238" y="-140" type="curve" smooth="yes"/>
+      <point x="238" y="-182"/>
+      <point x="266" y="-202"/>
     </contour>
     <contour>
-      <point x="362" y="682" type="move" name="aboveUC"/>
+      <point x="362" y="680" type="move" name="aboveUC"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Eogonek</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>484</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

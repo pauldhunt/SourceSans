@@ -31,10 +31,10 @@
       <point x="190" y="602"/>
     </contour>
     <contour>
-      <point x="104" y="502" type="move" name="_aboveLC"/>
+      <point x="136" y="680" type="move" name="aboveLC"/>
     </contour>
     <contour>
-      <point x="136" y="680" type="move" name="aboveLC"/>
+      <point x="104" y="500" type="move" name="_aboveLC"/>
     </contour>
   </outline>
   <lib>

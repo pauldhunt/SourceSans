@@ -19,7 +19,7 @@
       <point x="36.5818181818" y="712.0"/>
     </contour>
     <contour>
-      <point x="136" y="682" type="move" name="_aboveUC"/>
+      <point x="136" y="680" type="move" name="_aboveUC"/>
     </contour>
   </outline>
   <lib>

@@ -3,23 +3,23 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="28" y="680" type="line"/>
-      <point x="132" y="752" type="line"/>
-      <point x="136" y="752" type="line"/>
-      <point x="216" y="680" type="line"/>
-      <point x="290" y="724" type="line"/>
-      <point x="220" y="828" type="line"/>
-      <point x="72" y="828" type="line"/>
-      <point x="-34" y="724" type="line"/>
+      <point x="44" y="680" type="line"/>
+      <point x="148" y="752" type="line"/>
+      <point x="152" y="752" type="line"/>
+      <point x="232" y="680" type="line"/>
+      <point x="306" y="724" type="line"/>
+      <point x="236" y="828" type="line"/>
+      <point x="88" y="828" type="line"/>
+      <point x="-18" y="724" type="line"/>
     </contour>
     <contour>
-      <point x="286" y="761" type="line"/>
-      <point x="404" y="823" type="line"/>
-      <point x="362" y="895" type="line"/>
-      <point x="246" y="821" type="line"/>
+      <point x="302" y="761" type="line"/>
+      <point x="420" y="823" type="line"/>
+      <point x="378" y="895" type="line"/>
+      <point x="262" y="821" type="line"/>
     </contour>
     <contour>
-      <point x="135" y="682" type="move" name="_aboveUC"/>
+      <point x="134" y="670" type="move" name="_aboveUC"/>
     </contour>
   </outline>
   <lib>

@@ -3,20 +3,6 @@
   <advance width="684"/>
   <outline>
     <contour>
-      <point x="238" y="176" type="curve" smooth="yes"/>
-      <point x="238" y="56"/>
-      <point x="294" y="-12"/>
-      <point x="392" y="-12" type="curve" smooth="yes"/>
-      <point x="522" y="-12"/>
-      <point x="636" y="126"/>
-      <point x="636" y="304" type="curve" smooth="yes"/>
-      <point x="636" y="424"/>
-      <point x="574" y="490"/>
-      <point x="476" y="490" type="curve" smooth="yes"/>
-      <point x="346" y="490"/>
-      <point x="238" y="354"/>
-    </contour>
-    <contour>
       <point x="44" y="0" type="line"/>
       <point x="72" y="0" type="line"/>
       <point x="120" y="238" type="line"/>
@@ -27,6 +13,23 @@
       <point x="140" y="478" type="line"/>
     </contour>
     <contour>
+      <point x="392" y="-12" type="curve" smooth="yes"/>
+      <point x="522" y="-12"/>
+      <point x="636" y="126"/>
+      <point x="636" y="304" type="curve" smooth="yes"/>
+      <point x="636" y="424"/>
+      <point x="574" y="490"/>
+      <point x="476" y="490" type="curve" smooth="yes"/>
+      <point x="346" y="490"/>
+      <point x="238" y="354"/>
+      <point x="238" y="176" type="curve" smooth="yes"/>
+      <point x="238" y="56"/>
+      <point x="294" y="-12"/>
+    </contour>
+    <contour>
+      <point x="394" y="14" type="curve" smooth="yes"/>
+      <point x="312" y="14"/>
+      <point x="266" y="72"/>
       <point x="266" y="182" type="curve" smooth="yes"/>
       <point x="266" y="334"/>
       <point x="366" y="464"/>
@@ -36,38 +39,10 @@
       <point x="608" y="298" type="curve" smooth="yes"/>
       <point x="608" y="146"/>
       <point x="502" y="14"/>
-      <point x="394" y="14" type="curve" smooth="yes"/>
-      <point x="312" y="14"/>
-      <point x="266" y="72"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>yu</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>684</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

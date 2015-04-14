@@ -83,39 +83,10 @@
       <point x="244" y="-108"/>
     </contour>
     <contour>
-      <point x="294" y="522" type="move" name="aboveLC"/>
+      <point x="294" y="520" type="move" name="aboveLC"/>
     </contour>
     <contour>
       <point x="156" y="-230" type="move" name="belowLC"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>g.alt</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>512</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

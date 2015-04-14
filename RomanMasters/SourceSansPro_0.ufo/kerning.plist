@@ -1771,7 +1771,7 @@
 		<key>@MMK_R_PCT_COLON_RIGHT</key>
 		<integer>22</integer>
 		<key>@MMK_R_PCT_COMMA_RIGHT</key>
-		<integer>22</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_PCT_EMDASH_RIGHT</key>
 		<integer>-18</integer>
 		<key>@MMK_R_PCT_GUILLEFT_RIGHT</key>
@@ -4444,8 +4444,6 @@
 	<dict>
 		<key>@MMK_R_LAT_A_LC_RIGHT</key>
 		<integer>-16</integer>
-		<key>@MMK_R_LAT_G_LC_RIGHT</key>
-		<integer>-10</integer>
 		<key>@MMK_R_LAT_J_UC_RIGHT</key>
 		<integer>-20</integer>
 		<key>@MMK_R_LAT_S_UC_RIGHT</key>
@@ -5512,7 +5510,7 @@
 	<key>@MMK_L_LAT_S_LC_LEFT</key>
 	<dict>
 		<key>@MMK_R_LAT_T_LC_RIGHT</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_LAT_T_UC_RIGHT</key>
 		<integer>-20</integer>
 		<key>@MMK_R_LAT_V_UC_RIGHT</key>
@@ -5606,8 +5604,6 @@
 		<key>@MMK_R_LAT_HBAR_LC_RIGHT</key>
 		<integer>-10</integer>
 		<key>@MMK_R_LAT_O_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_S_LC_RIGHT</key>
 		<integer>-10</integer>
 		<key>@MMK_R_LAT_T_LC_RIGHT</key>
 		<integer>-20</integer>

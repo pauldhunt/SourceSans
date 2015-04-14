@@ -2,7 +2,7 @@
 <glyph name="cedilla" format="1">
   <advance width="532"/>
   <outline>
-    <component base="cedillacmb" xOffset="276"/>
+    <component base="cedillacmb" xOffset="266"/>
     <contour>
       <point x="276" y="0" type="move" name="_baseLC"/>
     </contour>

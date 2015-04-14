@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="clickalveolar" format="1">
-  <advance width="254"/>
+  <advance width="298"/>
   <outline>
     <contour>
-      <point x="6" y="332" type="line"/>
-      <point x="248" y="332" type="line"/>
-      <point x="248" y="360" type="line"/>
-      <point x="84" y="360" type="line"/>
-      <point x="6" y="356" type="line"/>
+      <point x="6" y="306" type="line"/>
+      <point x="290" y="306" type="line"/>
+      <point x="290" y="334" type="line"/>
+      <point x="84" y="334" type="line"/>
+      <point x="6" y="330" type="line"/>
     </contour>
     <contour>
-      <point x="6" y="182" type="line"/>
-      <point x="248" y="182" type="line"/>
-      <point x="248" y="210" type="line"/>
-      <point x="84" y="210" type="line"/>
-      <point x="6" y="206" type="line"/>
+      <point x="6" y="156" type="line"/>
+      <point x="290" y="156" type="line"/>
+      <point x="290" y="184" type="line"/>
+      <point x="84" y="184" type="line"/>
+      <point x="6" y="180" type="line"/>
     </contour>
-    <component base="bar" xOffset="24"/>
+    <contour>
+      <point x="140" y="-222" type="line"/>
+      <point x="170" y="-222" type="line"/>
+      <point x="170" y="722" type="line"/>
+      <point x="140" y="722" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -42,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>254</integer>
+          <integer>298</integer>
         </dict>
       </dict>
     </dict>

@@ -4,16 +4,6 @@
   <unicode hex="03BE"/>
   <outline>
     <contour>
-      <point x="28" y="136" type="curve" smooth="yes"/>
-      <point x="28" y="56"/>
-      <point x="86" y="16"/>
-      <point x="166" y="-4" type="curve" smooth="yes"/>
-      <point x="252" y="-26"/>
-      <point x="274" y="-46"/>
-      <point x="274" y="-70" type="curve" smooth="yes"/>
-      <point x="274" y="-104"/>
-      <point x="248" y="-138"/>
-      <point x="216" y="-172" type="curve"/>
       <point x="236" y="-186" type="line"/>
       <point x="266" y="-152"/>
       <point x="302" y="-110"/>
@@ -54,35 +44,20 @@
       <point x="232" y="374" type="line"/>
       <point x="146" y="344"/>
       <point x="28" y="266"/>
+      <point x="28" y="136" type="curve" smooth="yes"/>
+      <point x="28" y="56"/>
+      <point x="86" y="16"/>
+      <point x="166" y="-4" type="curve" smooth="yes"/>
+      <point x="252" y="-26"/>
+      <point x="274" y="-46"/>
+      <point x="274" y="-70" type="curve" smooth="yes"/>
+      <point x="274" y="-104"/>
+      <point x="248" y="-138"/>
+      <point x="216" y="-172" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>xi</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>383</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

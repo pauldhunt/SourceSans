@@ -3,6 +3,28 @@
   <advance width="575"/>
   <outline>
     <contour>
+      <point x="50" y="370" type="line"/>
+      <point x="78" y="370" type="line"/>
+      <point x="112" y="540" type="line"/>
+      <point x="128" y="642" type="line"/>
+      <point x="132" y="642" type="line"/>
+      <point x="174" y="418" type="line"/>
+      <point x="200" y="418" type="line"/>
+      <point x="330" y="642" type="line"/>
+      <point x="334" y="642" type="line"/>
+      <point x="310" y="540" type="line"/>
+      <point x="276" y="370" type="line"/>
+      <point x="304" y="370" type="line"/>
+      <point x="366" y="676" type="line"/>
+      <point x="324" y="676" type="line"/>
+      <point x="244" y="544" type="line"/>
+      <point x="196" y="456" type="line"/>
+      <point x="192" y="456" type="line"/>
+      <point x="178" y="544" type="line"/>
+      <point x="154" y="676" type="line"/>
+      <point x="112" y="676" type="line"/>
+    </contour>
+    <contour>
       <point x="496" y="358" type="curve" smooth="yes"/>
       <point x="534" y="358"/>
       <point x="568" y="376"/>
@@ -30,56 +52,9 @@
       <point x="397" y="407"/>
       <point x="434" y="358"/>
     </contour>
-    <contour>
-      <point x="50" y="370" type="line"/>
-      <point x="78" y="370" type="line"/>
-      <point x="112" y="540" type="line"/>
-      <point x="128" y="642" type="line"/>
-      <point x="132" y="642" type="line"/>
-      <point x="174" y="418" type="line"/>
-      <point x="200" y="418" type="line"/>
-      <point x="330" y="642" type="line"/>
-      <point x="334" y="642" type="line"/>
-      <point x="310" y="540" type="line"/>
-      <point x="276" y="370" type="line"/>
-      <point x="304" y="370" type="line"/>
-      <point x="366" y="676" type="line"/>
-      <point x="324" y="676" type="line"/>
-      <point x="244" y="544" type="line"/>
-      <point x="196" y="456" type="line"/>
-      <point x="192" y="456" type="line"/>
-      <point x="178" y="544" type="line"/>
-      <point x="154" y="676" type="line"/>
-      <point x="112" y="676" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>commercemark</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>575</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

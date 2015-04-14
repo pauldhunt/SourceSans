@@ -3,9 +3,6 @@
   <advance width="0"/>
   <outline>
     <component base="brevecmb" xOffset="-160" yOffset="-790"/>
-    <contour>
-      <point x="-6" y="-30" type="move" name="_belowLC"/>
-    </contour>
   </outline>
   <lib>
     <dict>

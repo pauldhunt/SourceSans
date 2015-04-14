@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="xi" format="1">
   <advance width="453"/>
-  <unicode hex="03BE"/>
   <outline>
     <contour>
-      <point x="20" y="152" type="curve" smooth="yes"/>
-      <point x="20" y="52"/>
-      <point x="92" y="14"/>
-      <point x="176" y="-8" type="curve" smooth="yes"/>
-      <point x="222" y="-20"/>
-      <point x="236" y="-32"/>
-      <point x="236" y="-56" type="curve" smooth="yes"/>
-      <point x="236" y="-90"/>
-      <point x="210" y="-122"/>
-      <point x="188" y="-146" type="curve"/>
       <point x="290" y="-188" type="line"/>
       <point x="338" y="-136"/>
       <point x="386" y="-65"/>
@@ -54,35 +43,20 @@
       <point x="208" y="346" type="line"/>
       <point x="108" y="316"/>
       <point x="20" y="256"/>
+      <point x="20" y="152" type="curve" smooth="yes"/>
+      <point x="20" y="52"/>
+      <point x="92" y="14"/>
+      <point x="176" y="-8" type="curve" smooth="yes"/>
+      <point x="222" y="-20"/>
+      <point x="236" y="-32"/>
+      <point x="236" y="-56" type="curve" smooth="yes"/>
+      <point x="236" y="-90"/>
+      <point x="210" y="-122"/>
+      <point x="188" y="-146" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>xi</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>453</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

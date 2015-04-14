@@ -1368,7 +1368,7 @@
 	</array>
 	<key>@MMK_L_LAT_LDOT_LC_LEFT</key>
 	<array>
-		<string>ldot</string>
+		<string>lcat</string>
 		<string>ldot.alt</string>
 	</array>
 	<key>@MMK_L_LAT_LSLASH_LC_LEFT</key>
@@ -1402,7 +1402,7 @@
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcommaaccent</string>
-		<string>Ldot</string>
+		<string>Lcat</string>
 		<string>Ldotbelow</string>
 		<string>Ldotbelowmacron</string>
 		<string>Llinebelow</string>
@@ -3160,7 +3160,7 @@
 		<string>Lacute</string>
 		<string>Lcaron</string>
 		<string>Lcommaaccent</string>
-		<string>Ldot</string>
+		<string>Lcat</string>
 		<string>Ldotbelow</string>
 		<string>Ldotbelowmacron</string>
 		<string>Llinebelow</string>
@@ -3310,7 +3310,7 @@
 		<string>lcaron.alt</string>
 		<string>lcommaaccent</string>
 		<string>lcommaaccent.alt</string>
-		<string>ldot</string>
+		<string>lcat</string>
 		<string>ldot.alt</string>
 		<string>ldotbelow</string>
 		<string>ldotbelow.alt</string>

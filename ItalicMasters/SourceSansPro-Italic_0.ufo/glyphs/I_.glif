@@ -9,7 +9,7 @@
       <point x="172" y="660" type="line"/>
     </contour>
     <contour>
-      <point x="202" y="682" type="move" name="aboveUC"/>
+      <point x="202" y="680" type="move" name="aboveUC"/>
     </contour>
     <contour>
       <point x="62" y="-30" type="move" name="belowLC"/>
@@ -18,33 +18,4 @@
       <point x="54" y="0" type="move" name="ogonekUC"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>I</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>218</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

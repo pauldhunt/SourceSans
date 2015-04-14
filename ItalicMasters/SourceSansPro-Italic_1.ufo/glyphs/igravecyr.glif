@@ -2,7 +2,8 @@
 <glyph name="igravecyr" format="1">
   <advance width="552"/>
   <outline>
-    <component base="ugrave"/>
+    <component base="icyr"/>
+    <component base="gravecmb" xOffset="228"/>
   </outline>
   <lib>
     <dict>
@@ -15,6 +16,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>ugrave</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -33,10 +47,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>0.4</real>
-        <real>1.0</real>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

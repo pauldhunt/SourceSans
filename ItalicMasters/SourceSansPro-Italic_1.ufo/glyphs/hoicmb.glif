@@ -19,10 +19,10 @@
       <point x="60" y="632" type="curve"/>
     </contour>
     <contour>
-      <point x="114.0" y="522.0" type="move" name="_aboveLC"/>
+      <point x="146" y="730" type="move" name="aboveLC"/>
     </contour>
     <contour>
-      <point x="146.0" y="730.0" type="move" name="aboveLC"/>
+      <point x="104" y="520" type="move" name="_aboveLC"/>
     </contour>
   </outline>
   <lib>

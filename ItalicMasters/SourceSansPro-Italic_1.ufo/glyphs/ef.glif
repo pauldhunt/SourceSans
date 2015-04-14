@@ -3,11 +3,6 @@
   <advance width="759"/>
   <outline>
     <contour>
-      <point x="174" y="-12" type="curve" smooth="yes"/>
-      <point x="204" y="-12"/>
-      <point x="244" y="16"/>
-      <point x="272" y="46" type="curve"/>
-      <point x="246" y="-58" type="line"/>
       <point x="222" y="-181" type="line"/>
       <point x="376" y="-181" type="line"/>
       <point x="400" y="-58" type="line"/>
@@ -37,6 +32,11 @@
       <point x="31" y="177" type="curve" smooth="yes"/>
       <point x="31" y="60"/>
       <point x="83" y="-12"/>
+      <point x="174" y="-12" type="curve" smooth="yes"/>
+      <point x="204" y="-12"/>
+      <point x="244" y="16"/>
+      <point x="272" y="46" type="curve"/>
+      <point x="246" y="-58" type="line"/>
     </contour>
     <contour>
       <point x="241" y="117" type="curve" smooth="yes"/>
@@ -54,6 +54,9 @@
       <point x="259" y="117"/>
     </contour>
     <contour>
+      <point x="475" y="117" type="curve" smooth="yes"/>
+      <point x="460" y="117"/>
+      <point x="445" y="120"/>
       <point x="433" y="134" type="curve"/>
       <point x="475" y="332" type="line"/>
       <point x="494" y="367"/>
@@ -64,38 +67,10 @@
       <point x="575" y="306" type="curve" smooth="yes"/>
       <point x="575" y="192"/>
       <point x="531" y="117"/>
-      <point x="475" y="117" type="curve" smooth="yes"/>
-      <point x="460" y="117"/>
-      <point x="445" y="120"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ef</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>759</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

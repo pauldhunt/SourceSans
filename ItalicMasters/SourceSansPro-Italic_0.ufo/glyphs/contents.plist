@@ -74,8 +74,6 @@
 	<string>B_eta.glif</string>
 	<key>Blinebelow</key>
 	<string>B_linebelow.glif</string>
-	<key>Bsmall</key>
-	<string>Bsmall_.glif</string>
 	<key>Bstroke</key>
 	<string>B_stroke.glif</string>
 	<key>C</key>
@@ -224,8 +222,6 @@
 	<string>G_je.glif</string>
 	<key>Gmacron</key>
 	<string>G_macron.glif</string>
-	<key>Gsmall</key>
-	<string>Gsmall_.glif</string>
 	<key>Gtilde</key>
 	<string>G_tilde.glif</string>
 	<key>H</key>
@@ -244,8 +240,6 @@
 	<string>H_circumflex.glif</string>
 	<key>Hdotbelow</key>
 	<string>H_dotbelow.glif</string>
-	<key>Hsmall</key>
-	<string>Hsmall_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>I.alt</key>
@@ -320,8 +314,6 @@
 	<string>I_otatonos.glif</string>
 	<key>Ishort</key>
 	<string>I_short.glif</string>
-	<key>Ismall</key>
-	<string>Ismall_.glif</string>
 	<key>Itilde</key>
 	<string>I_tilde.glif</string>
 	<key>Itilde.alt</key>
@@ -364,8 +356,6 @@
 	<string>L_caron.glif</string>
 	<key>Lcommaaccent</key>
 	<string>L_commaaccent.glif</string>
-	<key>Ldot</key>
-	<string>L_dot.glif</string>
 	<key>Ldotbelow</key>
 	<string>L_dotbelow.glif</string>
 	<key>Ldotbelowmacron</key>
@@ -376,8 +366,6 @@
 	<string>L_linebelow.glif</string>
 	<key>Lslash</key>
 	<string>L_slash.glif</string>
-	<key>Lsmall</key>
-	<string>Lsmall_.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>Macute</key>
@@ -408,8 +396,6 @@
 	<string>N_je.glif</string>
 	<key>Nlinebelow</key>
 	<string>N_linebelow.glif</string>
-	<key>Nsmall</key>
-	<string>Nsmall_.glif</string>
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>Nu</key>
@@ -418,8 +404,6 @@
 	<string>O_.glif</string>
 	<key>OE</key>
 	<string>O_E_.glif</string>
-	<key>OEsmall</key>
-	<string>OEsmall_.glif</string>
 	<key>Oacute</key>
 	<string>O_acute.glif</string>
 	<key>Obarcyr</key>
@@ -518,10 +502,6 @@
 	<string>R_ho.glif</string>
 	<key>Rlinebelow</key>
 	<string>R_linebelow.glif</string>
-	<key>Rsmall</key>
-	<string>Rsmall_.glif</string>
-	<key>Rsmallinverted</key>
-	<string>Rsmallinverted_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>Sacute</key>
@@ -688,8 +668,6 @@
 	<string>Y_i.glif</string>
 	<key>Yi.a</key>
 	<string>Yi_.a.glif</string>
-	<key>Ysmall</key>
-	<string>Ysmall_.glif</string>
 	<key>Ytilde</key>
 	<string>Y_tilde.glif</string>
 	<key>Yu</key>
@@ -852,12 +830,20 @@
 	<string>aring_alt.glif</string>
 	<key>arrowdown</key>
 	<string>arrowdown.glif</string>
+	<key>arrowdownleft</key>
+	<string>arrowdownleft.glif</string>
+	<key>arrowdownright</key>
+	<string>arrowdownright.glif</string>
 	<key>arrowleft</key>
 	<string>arrowleft.glif</string>
 	<key>arrowright</key>
 	<string>arrowright.glif</string>
 	<key>arrowup</key>
 	<string>arrowup.glif</string>
+	<key>arrowupleft</key>
+	<string>arrowupleft.glif</string>
+	<key>arrowupright</key>
+	<string>arrowupright.glif</string>
 	<key>asciicircum</key>
 	<string>asciicircum.glif</string>
 	<key>asciitilde</key>
@@ -982,6 +968,8 @@
 	<string>bridgeinvertedbelowcmb.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
+	<key>bsmall</key>
+	<string>bsmall.glif</string>
 	<key>bstroke</key>
 	<string>bstroke.glif</string>
 	<key>bullet</key>
@@ -1136,6 +1124,8 @@
 	<string>delta.glif</string>
 	<key>deposeemark</key>
 	<string>deposeemark.glif</string>
+	<key>dezh</key>
+	<string>dezh.glif</string>
 	<key>dhook</key>
 	<string>dhook.glif</string>
 	<key>dialytikaacute</key>
@@ -1500,6 +1490,8 @@
 	<string>greaterequal.glif</string>
 	<key>gscript</key>
 	<string>gscript.glif</string>
+	<key>gsmall</key>
+	<string>gsmall.glif</string>
 	<key>gtilde</key>
 	<string>gtilde.glif</string>
 	<key>gtilde.alt</key>
@@ -1552,6 +1544,8 @@
 	<string>horncmb.glif</string>
 	<key>hryvnia</key>
 	<string>hryvnia.glif</string>
+	<key>hsmall</key>
+	<string>hsmall.glif</string>
 	<key>hturned</key>
 	<string>hturned.glif</string>
 	<key>hungarumlaut</key>
@@ -1630,6 +1624,8 @@
 	<string>iotatonos.glif</string>
 	<key>ishort</key>
 	<string>ishort.glif</string>
+	<key>ismall</key>
+	<string>ismall.glif</string>
 	<key>istroke</key>
 	<string>istroke.glif</string>
 	<key>itilde</key>
@@ -1694,12 +1690,12 @@
 	<string>lcaron.glif</string>
 	<key>lcaron.alt</key>
 	<string>lcaron_alt.glif</string>
+	<key>lcat</key>
+	<string>lcat.glif</string>
 	<key>lcommaaccent</key>
 	<string>lcommaaccent.glif</string>
 	<key>lcommaaccent.alt</key>
 	<string>lcommaaccent_alt.glif</string>
-	<key>ldot</key>
-	<string>ldot.glif</string>
 	<key>ldot.alt</key>
 	<string>ldot_alt.glif</string>
 	<key>ldotbelow</key>
@@ -1768,6 +1764,8 @@
 	<string>lslash.glif</string>
 	<key>lslash.alt</key>
 	<string>lslash_alt.glif</string>
+	<key>lsmall</key>
+	<string>lsmall.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>m.sups</key>
@@ -1860,6 +1858,8 @@
 	<string>notequal.glif</string>
 	<key>nretroflex</key>
 	<string>nretroflex.glif</string>
+	<key>nsmall</key>
+	<string>nsmall.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>nu</key>
@@ -1906,6 +1906,8 @@
 	<string>odotbelow.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
+	<key>oesmall</key>
+	<string>oesmall.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
 	<key>ogonekcmb</key>
@@ -2170,6 +2172,10 @@
 	<string>rlinebelow.glif</string>
 	<key>rlonglegturned</key>
 	<string>rlonglegturned.glif</string>
+	<key>rsmall</key>
+	<string>rsmall.glif</string>
+	<key>rsmallinverted</key>
+	<string>rsmallinverted.glif</string>
 	<key>rtail</key>
 	<string>rtail.glif</string>
 	<key>rturned</key>
@@ -2386,6 +2392,8 @@
 	<string>tse.glif</string>
 	<key>tshe</key>
 	<string>tshe.glif</string>
+	<key>tturned</key>
+	<string>tturned.glif</string>
 	<key>tugrik</key>
 	<string>tugrik.glif</string>
 	<key>two</key>
@@ -2498,6 +2506,8 @@
 	<string>varia.glif</string>
 	<key>varia.cap</key>
 	<string>varia.cap.glif</string>
+	<key>variacmb</key>
+	<string>variacmb.glif</string>
 	<key>ve</key>
 	<string>ve.glif</string>
 	<key>verticallinebelowcmb</key>
@@ -2564,6 +2574,8 @@
 	<string>yhoi.glif</string>
 	<key>yi</key>
 	<string>yi.glif</string>
+	<key>ysmall</key>
+	<string>ysmall.glif</string>
 	<key>ytilde</key>
 	<string>ytilde.glif</string>
 	<key>yturned</key>

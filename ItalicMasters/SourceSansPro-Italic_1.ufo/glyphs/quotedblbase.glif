@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="1">
-  <advance width="550"/>
+  <advance width="450"/>
   <outline>
     <component base="quoteright" xOffset="-100" yOffset="-510"/>
     <component base="quoteright" xOffset="140" yOffset="-510"/>
@@ -16,6 +16,32 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>quoteright</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-100</integer>
+                <integer>-510</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>quoteright</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>140</integer>
+                <integer>-510</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -29,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>550</integer>
+          <integer>450</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_i" format="1">
-  <advance width="931.627115132"/>
+  <advance width="932"/>
   <outline>
     <component base="f_f"/>
     <component base="i" xOffset="656"/>
@@ -16,6 +16,32 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>f_f</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>i</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>656</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -29,15 +55,15 @@
           <array>
           </array>
           <key>width</key>
-          <real>931.627115132</real>
+          <integer>932</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <real>0.5470588235294118</real>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

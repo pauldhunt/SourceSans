@@ -3,7 +3,6 @@
   <advance width="435"/>
   <outline>
     <contour>
-      <point x="-10" y="-69" type="line"/>
       <point x="-27" y="-152" type="line"/>
       <point x="278" y="-152" type="line"/>
       <point x="450" y="708" type="line"/>
@@ -11,6 +10,7 @@
       <point x="128" y="625" type="line"/>
       <point x="213" y="625" type="line"/>
       <point x="74" y="-69" type="line"/>
+      <point x="-10" y="-69" type="line"/>
     </contour>
     <contour>
       <point x="155" y="-69" type="line"/>
@@ -21,31 +21,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bracketrightwhite</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>435</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

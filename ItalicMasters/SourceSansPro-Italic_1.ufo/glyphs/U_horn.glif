@@ -20,10 +20,10 @@
     </contour>
     <component base="U"/>
     <contour>
-      <point x="428" y="682" type="move" name="aboveUC"/>
+      <point x="290" y="-20" type="move" name="belowLC"/>
     </contour>
     <contour>
-      <point x="296" y="-22" type="move" name="belowLC"/>
+      <point x="428" y="670" type="move" name="aboveUC"/>
     </contour>
   </outline>
   <lib>
@@ -311,6 +311,13 @@
           <integer>680</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.4647058823529413</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

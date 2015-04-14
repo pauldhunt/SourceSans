@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="1">
   <advance width="537"/>
-  <unicode hex="03BA"/>
   <outline>
-    <contour>
-      <point x="251" y="209" type="line"/>
-      <point x="272" y="102"/>
-      <point x="293" y="41"/>
-      <point x="313" y="-11" type="curve"/>
-      <point x="490" y="0" type="line"/>
-      <point x="446" y="70"/>
-      <point x="396" y="172"/>
-      <point x="375" y="302" type="curve"/>
-    </contour>
     <contour>
       <point x="8" y="0" type="line"/>
       <point x="157" y="0" type="line"/>
@@ -37,34 +26,19 @@
       <point x="84" y="382"/>
       <point x="76" y="342" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="313" y="-11" type="curve"/>
+      <point x="490" y="0" type="line"/>
+      <point x="446" y="70"/>
+      <point x="396" y="172"/>
+      <point x="375" y="302" type="curve"/>
+      <point x="251" y="209" type="line"/>
+      <point x="272" y="102"/>
+      <point x="293" y="41"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>kappa</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>537</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

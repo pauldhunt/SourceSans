@@ -3,43 +3,18 @@
   <advance width="870"/>
   <outline>
     <contour>
-      <point x="625" y="0" type="line"/>
-      <point x="655" y="0" type="line"/>
       <point x="628" y="-172" type="line"/>
       <point x="752" y="-172" type="line"/>
       <point x="809" y="19" type="line"/>
       <point x="830" y="134" type="line"/>
       <point x="652" y="134" type="line"/>
+      <point x="625" y="0" type="line"/>
+      <point x="655" y="0" type="line"/>
     </contour>
     <component base="mturned"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>shcha</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>870</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

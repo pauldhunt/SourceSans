@@ -3,6 +3,10 @@
   <advance width="419"/>
   <outline>
     <contour>
+      <point x="-23" y="-176" type="line"/>
+      <point x="137" y="-176" type="line"/>
+      <point x="153" y="-67"/>
+      <point x="167" y="22"/>
       <point x="187" y="122" type="curve"/>
       <point x="355" y="122" type="line"/>
       <point x="376" y="226" type="line"/>
@@ -11,39 +15,13 @@
       <point x="425" y="374" type="line"/>
       <point x="449" y="498" type="line"/>
       <point x="112" y="498" type="line"/>
-      <point x="-23" y="-176" type="line"/>
-      <point x="137" y="-176" type="line"/>
-      <point x="153" y="-67"/>
-      <point x="167" y="22"/>
+    </contour>
+    <contour>
+      <point x="302" y="520" type="move" name="aboveLC"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>digamma</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>419</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

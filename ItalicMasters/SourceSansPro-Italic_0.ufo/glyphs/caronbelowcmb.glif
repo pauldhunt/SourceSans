@@ -4,7 +4,7 @@
   <outline>
     <component base="caroncmb" xOffset="-156" yOffset="-794"/>
     <contour>
-      <point x="-6" y="-22" type="move" name="_belowLC"/>
+      <point x="-6" y="-20" type="move" name="_belowLC"/>
     </contour>
   </outline>
   <lib>

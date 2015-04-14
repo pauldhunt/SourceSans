@@ -3,6 +3,9 @@
   <advance width="0"/>
   <outline>
     <contour>
+      <point x="-61" y="-242" type="line"/>
+      <point x="-33" y="-242" type="line"/>
+      <point x="-18" y="-166" type="line"/>
       <point x="54" y="-166" type="line"/>
       <point x="59" y="-138" type="line"/>
       <point x="-13" y="-138" type="line"/>
@@ -12,41 +15,13 @@
       <point x="-113" y="-138" type="line"/>
       <point x="-118" y="-166" type="line"/>
       <point x="-46" y="-166" type="line"/>
-      <point x="-61" y="-242" type="line"/>
-      <point x="-33" y="-242" type="line"/>
-      <point x="-18" y="-166" type="line"/>
     </contour>
     <contour>
-      <point x="-4" y="-22" type="move" name="_belowLC"/>
+      <point x="-4" y="-20" type="move" name="_belowLC"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>plusbelowcmb</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>0</integer>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
