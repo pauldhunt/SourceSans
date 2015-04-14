@@ -1994,13 +1994,13 @@
 				<string>fi</string>
 				<string>fl</string>
 				<string>ha.001</string>
-				<string>iogonek.d</string>
 				<string>ldot</string>
+				<string>iogonek.d</string>
+				<string>yat.001</string>
+				<string>yuan</string>
 				<string>phi.001</string>
 				<string>phi.002</string>
 				<string>sha.001</string>
-				<string>yat.001</string>
-				<string>yuan</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -3943,6 +3943,14 @@
 		<string>ZWNBS</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>ha.001</string>
+		<string>ldot</string>
+		<string>iogonek.d</string>
+		<string>yat.001</string>
+		<string>yuan</string>
+		<string>phi.001</string>
+		<string>phi.002</string>
+		<string>sha.001</string>
 	</array>
 </dict>
 </plist>

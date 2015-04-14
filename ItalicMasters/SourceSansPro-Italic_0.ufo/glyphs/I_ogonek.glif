@@ -28,7 +28,18 @@
       <point x="-14" y="-202"/>
     </contour>
     <contour>
-      <point x="202" y="680" type="move" name="aboveUC"/>
+      <point x="190" y="680" type="move" name="aboveUC"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.4647058823529413</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

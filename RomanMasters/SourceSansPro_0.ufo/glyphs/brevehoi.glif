@@ -35,7 +35,7 @@
       <point x="-28" y="694" type="curve"/>
     </contour>
     <contour>
-      <point x="0" y="502" type="move" name="_aboveLC"/>
+      <point x="0" y="500" type="move" name="_aboveLC"/>
     </contour>
   </outline>
   <lib>

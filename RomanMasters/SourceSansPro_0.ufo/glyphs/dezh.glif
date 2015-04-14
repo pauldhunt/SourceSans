@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dezh" format="1">
+  <advance width="844"/>
+  <outline>
+    <contour>
+      <point x="437" y="450" type="line"/>
+      <point x="522" y="450" type="line"/>
+      <point x="522" y="478" type="line"/>
+      <point x="437" y="478" type="line"/>
+    </contour>
+    <component base="d"/>
+    <component base="ezh" xOffset="448"/>
+  </outline>
+</glyph>

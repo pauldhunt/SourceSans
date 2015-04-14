@@ -32,39 +32,10 @@
       <point x="124" y="630" type="move" name="aboveLC"/>
     </contour>
     <contour>
-      <point x="194" y="-22" type="move" name="belowLC"/>
+      <point x="194" y="-20" type="move" name="belowLC"/>
     </contour>
     <contour>
       <point x="202" y="0" type="move" name="baseLC"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>t</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>302</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

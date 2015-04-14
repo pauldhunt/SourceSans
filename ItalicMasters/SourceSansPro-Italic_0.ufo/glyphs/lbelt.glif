@@ -26,6 +26,6 @@
       <point x="-2" y="371"/>
       <point x="34" y="340"/>
     </contour>
-    <component base="l" xOffset="24"/>
+    <component base="l"/>
   </outline>
 </glyph>

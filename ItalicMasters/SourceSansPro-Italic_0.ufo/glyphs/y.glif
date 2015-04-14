@@ -35,7 +35,7 @@
       <point x="248" y="500" type="move" name="aboveLC"/>
     </contour>
     <contour>
-      <point x="88" y="-240" type="move" name="belowLC"/>
+      <point x="88" y="-230" type="move" name="belowLC"/>
     </contour>
   </outline>
 </glyph>

@@ -52,6 +52,12 @@
       <point x="356" y="114"/>
       <point x="266" y="14"/>
     </contour>
+    <contour>
+      <point x="320" y="500" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="210" y="-20" type="move" name="belowLC"/>
+    </contour>
   </outline>
   <lib>
     <dict>

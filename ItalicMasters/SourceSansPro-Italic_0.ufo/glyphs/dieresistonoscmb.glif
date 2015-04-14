@@ -36,6 +36,9 @@
       <point x="184" y="614"/>
       <point x="194" y="606"/>
     </contour>
+    <contour>
+      <point x="100" y="500" type="move" name="_aboveLC"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -365,6 +365,8 @@
 				<string>Schwa</string>
 				<string>Eng</string>
 				<string>IJ</string>
+				<string>Lcat</string>
+				<string>IJacute</string>
 				<string>agrave</string>
 				<string>aacute</string>
 				<string>acircumflex</string>
@@ -442,7 +444,6 @@
 				<string>ihoi</string>
 				<string>idotbelow</string>
 				<string>iogonek</string>
-				<string>iogonek.d</string>
 				<string>ibreve</string>
 				<string>dotlessi</string>
 				<string>jcircumflex</string>
@@ -562,6 +563,8 @@
 				<string>eng</string>
 				<string>dotlessj</string>
 				<string>ij</string>
+				<string>lcat</string>
+				<string>ijacute</string>
 				<string>aturned</string>
 				<string>alphalatinturned</string>
 				<string>bhook</string>
@@ -571,7 +574,7 @@
 				<string>dhook</string>
 				<string>ereversed</string>
 				<string>alphalatin</string>
-				<string>Bsmall</string>
+				<string>bsmall</string>
 				<string>schwa</string>
 				<string>schwahookrhotic</string>
 				<string>eopen</string>
@@ -580,39 +583,42 @@
 				<string>dotlessjstroke</string>
 				<string>ghook</string>
 				<string>gscript</string>
-				<string>Gsmall</string>
+				<string>gsmall</string>
 				<string>gammalatin</string>
 				<string>ramshorn</string>
 				<string>hturned</string>
 				<string>hhook</string>
 				<string>henghook</string>
-				<string>Hsmall</string>
+				<string>hsmall</string>
 				<string>istroke</string>
-				<string>Ismall</string>
+				<string>ismall</string>
 				<string>jcrossedtail</string>
+				<string>kturned</string>
+				<string>lmiddletilde</string>
 				<string>lbelt</string>
 				<string>lretroflex</string>
 				<string>lezh</string>
-				<string>Lsmall</string>
+				<string>lsmall</string>
 				<string>mturned</string>
 				<string>mlonglegturned</string>
 				<string>mhook</string>
 				<string>nhookleft</string>
 				<string>nretroflex</string>
-				<string>Nsmall</string>
+				<string>nsmall</string>
 				<string>obar</string>
-				<string>OEsmall</string>
+				<string>oesmall</string>
 				<string>philatin</string>
 				<string>rturned</string>
 				<string>rlonglegturned</string>
 				<string>rhookturned</string>
 				<string>rtail</string>
 				<string>rfishhook</string>
-				<string>Rsmall</string>
-				<string>Rsmallinverted</string>
+				<string>rsmall</string>
+				<string>rsmallinverted</string>
 				<string>shook</string>
 				<string>esh</string>
 				<string>dotlessjstrokehook</string>
+				<string>tturned</string>
 				<string>tretroflex</string>
 				<string>ubar</string>
 				<string>upsilonlatin</string>
@@ -620,10 +626,12 @@
 				<string>vturned</string>
 				<string>wturned</string>
 				<string>yturned</string>
-				<string>Ysmall</string>
+				<string>ysmall</string>
 				<string>zretroflex</string>
 				<string>zcurl</string>
 				<string>ezh</string>
+				<string>dezh</string>
+				<string>tesh</string>
 				<string>glottalstop</string>
 				<string>glottalstopreversed</string>
 				<string>glottalstopstroke</string>
@@ -684,7 +692,6 @@
 				<string>l.alt</string>
 				<string>lacute.alt</string>
 				<string>lcaron.alt</string>
-				<string>ldot.alt</string>
 				<string>lcommaaccent.alt</string>
 				<string>ldotbelow.alt</string>
 				<string>ldotbelowmacron.alt</string>
@@ -1027,14 +1034,10 @@
 				<string>De</string>
 				<string>Ie</string>
 				<string>Zhe</string>
-				<string>Zhe.a</string>
-				<string>Zhe.b</string>
 				<string>Ze</string>
 				<string>Icyr</string>
 				<string>Ishort</string>
 				<string>Ka</string>
-				<string>Ka.a</string>
-				<string>Ka.b</string>
 				<string>El</string>
 				<string>Em</string>
 				<string>En</string>
@@ -1070,8 +1073,6 @@
 				<string>Nje</string>
 				<string>Tshe</string>
 				<string>Kje</string>
-				<string>Kje.a</string>
-				<string>Kje.b</string>
 				<string>Igravecyr</string>
 				<string>Ushort</string>
 				<string>Dzhe</string>
@@ -1081,15 +1082,9 @@
 				<string>Gheup</string>
 				<string>Ghestroke</string>
 				<string>Zhedescender</string>
-				<string>Zhedescender.a</string>
-				<string>Zhedescender.b</string>
 				<string>Zedescender</string>
 				<string>Kadescender</string>
-				<string>Kadescender.a</string>
-				<string>Kadescender.b</string>
 				<string>Kabashkir</string>
-				<string>Kabashkir.a</string>
-				<string>Kabashkir.b</string>
 				<string>Endescender</string>
 				<string>Esdescender</string>
 				<string>Ustraight</string>
@@ -1099,8 +1094,6 @@
 				<string>Shha</string>
 				<string>Palochka</string>
 				<string>Zhebreve</string>
-				<string>Zhebreve.a</string>
-				<string>Zhebreve.b</string>
 				<string>Abrevecyr</string>
 				<string>Aie</string>
 				<string>Iebreve</string>
@@ -1117,14 +1110,10 @@
 				<string>de</string>
 				<string>ie</string>
 				<string>zhe</string>
-				<string>zhe.a</string>
-				<string>zhe.b</string>
 				<string>ze</string>
 				<string>icyr</string>
 				<string>ishort</string>
 				<string>ka</string>
-				<string>ka.a</string>
-				<string>ka.b</string>
 				<string>el</string>
 				<string>em</string>
 				<string>en</string>
@@ -1160,8 +1149,6 @@
 				<string>nje</string>
 				<string>tshe</string>
 				<string>kje</string>
-				<string>kje.a</string>
-				<string>kje.b</string>
 				<string>igravecyr</string>
 				<string>ushort</string>
 				<string>dzhe</string>
@@ -1171,15 +1158,9 @@
 				<string>gheup</string>
 				<string>ghestroke</string>
 				<string>zhedescender</string>
-				<string>zhedescender.a</string>
-				<string>zhedescender.b</string>
 				<string>zedescender</string>
 				<string>kadescender</string>
-				<string>kadescender.a</string>
-				<string>kadescender.b</string>
 				<string>kabashkir</string>
-				<string>kabashkir.a</string>
-				<string>kabashkir.b</string>
 				<string>endescender</string>
 				<string>esdescender</string>
 				<string>ustraight</string>
@@ -1188,8 +1169,6 @@
 				<string>chedescender</string>
 				<string>shha</string>
 				<string>zhebreve</string>
-				<string>zhebreve.a</string>
-				<string>zhebreve.b</string>
 				<string>palochka</string>
 				<string>abrevecyr</string>
 				<string>aie</string>
@@ -1200,6 +1179,8 @@
 				<string>obarcyr</string>
 				<string>umacroncyr</string>
 				<string>uacutedblcyr</string>
+				<string>acyr.a</string>
+				<string>abrevecyr.a</string>
 				<string>be.srb</string>
 				<string>numero</string>
 				<string>ampersand</string>
@@ -1445,7 +1426,6 @@
 				<string>Lacute.sc</string>
 				<string>Lcaron.sc</string>
 				<string>Lcommaaccent.sc</string>
-				<string>Ldot.sc</string>
 				<string>Ldotbelow.sc</string>
 				<string>Ldotbelowmacron.sc</string>
 				<string>Llinebelow.sc</string>
@@ -1821,7 +1801,6 @@
 				<string>dollar</string>
 				<string>sterling</string>
 				<string>yen</string>
-				<string>yuan</string>
 				<string>Euro</string>
 				<string>cent</string>
 				<string>florin</string>
@@ -1887,6 +1866,9 @@
 				<string>radical</string>
 				<string>Delta.math</string>
 				<string>Omega.math</string>
+				<string>universal</string>
+				<string>existential</string>
+				<string>proportion</string>
 				<string>summation</string>
 				<string>product</string>
 				<string>litre</string>
@@ -1899,6 +1881,10 @@
 				<string>arrowupright</string>
 				<string>arrowdownright</string>
 				<string>arrowdownleft</string>
+				<string>arrowdblleft</string>
+				<string>arrowdblup</string>
+				<string>arrowdblright</string>
+				<string>arrowdbldown</string>
 				<string>squareblack</string>
 				<string>diamondblack</string>
 				<string>fisheye</string>
@@ -1967,6 +1953,8 @@
 				<string>dieresiscmb.cap</string>
 				<string>hoicmb</string>
 				<string>hoicmb.cap</string>
+				<string>candrabinducmb</string>
+				<string>candrabinducmb.cap</string>
 				<string>ringcmb</string>
 				<string>ringcmb.cap</string>
 				<string>hungarumlautcmb</string>
@@ -2016,6 +2004,7 @@
 				<string>perispomenicmb</string>
 				<string>perispomenicmb.cap</string>
 				<string>iotasubscriptcmb</string>
+				<string>macrondoublebelowcmb</string>
 				<string>breveinverteddoublecmb</string>
 				<string>dieresisacute</string>
 				<string>dieresisacute.cap</string>
@@ -2062,25 +2051,6 @@
 				<string>ZWNBS</string>
 				<string>fi</string>
 				<string>fl</string>
-				<string>IJacute</string>
-				<string>Lcat</string>
-				<string>abrevecyr.a</string>
-				<string>acyr.a</string>
-				<string>arrowdbldown</string>
-				<string>arrowdblleft</string>
-				<string>arrowdblright</string>
-				<string>arrowdblup</string>
-				<string>existential</string>
-				<string>ijacute</string>
-				<string>istroke.d</string>
-				<string>jcrossedtail.d</string>
-				<string>kturned</string>
-				<string>lcat</string>
-				<string>proportion</string>
-				<string>tturned</string>
-				<string>universal</string>
-				<string>zero.0c</string>
-				<string>zero.0o</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -5201,6 +5171,8 @@
 		<string>Schwa</string>
 		<string>Eng</string>
 		<string>IJ</string>
+		<string>Lcat</string>
+		<string>IJacute</string>
 		<string>agrave</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
@@ -5278,7 +5250,6 @@
 		<string>ihoi</string>
 		<string>idotbelow</string>
 		<string>iogonek</string>
-		<string>iogonek.d</string>
 		<string>ibreve</string>
 		<string>dotlessi</string>
 		<string>jcircumflex</string>
@@ -5398,6 +5369,8 @@
 		<string>eng</string>
 		<string>dotlessj</string>
 		<string>ij</string>
+		<string>lcat</string>
+		<string>ijacute</string>
 		<string>aturned</string>
 		<string>alphalatinturned</string>
 		<string>bhook</string>
@@ -5407,7 +5380,7 @@
 		<string>dhook</string>
 		<string>ereversed</string>
 		<string>alphalatin</string>
-		<string>Bsmall</string>
+		<string>bsmall</string>
 		<string>schwa</string>
 		<string>schwahookrhotic</string>
 		<string>eopen</string>
@@ -5416,39 +5389,42 @@
 		<string>dotlessjstroke</string>
 		<string>ghook</string>
 		<string>gscript</string>
-		<string>Gsmall</string>
+		<string>gsmall</string>
 		<string>gammalatin</string>
 		<string>ramshorn</string>
 		<string>hturned</string>
 		<string>hhook</string>
 		<string>henghook</string>
-		<string>Hsmall</string>
+		<string>hsmall</string>
 		<string>istroke</string>
-		<string>Ismall</string>
+		<string>ismall</string>
 		<string>jcrossedtail</string>
+		<string>kturned</string>
+		<string>lmiddletilde</string>
 		<string>lbelt</string>
 		<string>lretroflex</string>
 		<string>lezh</string>
-		<string>Lsmall</string>
+		<string>lsmall</string>
 		<string>mturned</string>
 		<string>mlonglegturned</string>
 		<string>mhook</string>
 		<string>nhookleft</string>
 		<string>nretroflex</string>
-		<string>Nsmall</string>
+		<string>nsmall</string>
 		<string>obar</string>
-		<string>OEsmall</string>
+		<string>oesmall</string>
 		<string>philatin</string>
 		<string>rturned</string>
 		<string>rlonglegturned</string>
 		<string>rhookturned</string>
 		<string>rtail</string>
 		<string>rfishhook</string>
-		<string>Rsmall</string>
-		<string>Rsmallinverted</string>
+		<string>rsmall</string>
+		<string>rsmallinverted</string>
 		<string>shook</string>
 		<string>esh</string>
 		<string>dotlessjstrokehook</string>
+		<string>tturned</string>
 		<string>tretroflex</string>
 		<string>ubar</string>
 		<string>upsilonlatin</string>
@@ -5456,10 +5432,12 @@
 		<string>vturned</string>
 		<string>wturned</string>
 		<string>yturned</string>
-		<string>Ysmall</string>
+		<string>ysmall</string>
 		<string>zretroflex</string>
 		<string>zcurl</string>
 		<string>ezh</string>
+		<string>dezh</string>
+		<string>tesh</string>
 		<string>glottalstop</string>
 		<string>glottalstopreversed</string>
 		<string>glottalstopstroke</string>
@@ -5520,7 +5498,6 @@
 		<string>l.alt</string>
 		<string>lacute.alt</string>
 		<string>lcaron.alt</string>
-		<string>ldot.alt</string>
 		<string>lcommaaccent.alt</string>
 		<string>ldotbelow.alt</string>
 		<string>ldotbelowmacron.alt</string>
@@ -5863,14 +5840,10 @@
 		<string>De</string>
 		<string>Ie</string>
 		<string>Zhe</string>
-		<string>Zhe.a</string>
-		<string>Zhe.b</string>
 		<string>Ze</string>
 		<string>Icyr</string>
 		<string>Ishort</string>
 		<string>Ka</string>
-		<string>Ka.a</string>
-		<string>Ka.b</string>
 		<string>El</string>
 		<string>Em</string>
 		<string>En</string>
@@ -5906,8 +5879,6 @@
 		<string>Nje</string>
 		<string>Tshe</string>
 		<string>Kje</string>
-		<string>Kje.a</string>
-		<string>Kje.b</string>
 		<string>Igravecyr</string>
 		<string>Ushort</string>
 		<string>Dzhe</string>
@@ -5917,15 +5888,9 @@
 		<string>Gheup</string>
 		<string>Ghestroke</string>
 		<string>Zhedescender</string>
-		<string>Zhedescender.a</string>
-		<string>Zhedescender.b</string>
 		<string>Zedescender</string>
 		<string>Kadescender</string>
-		<string>Kadescender.a</string>
-		<string>Kadescender.b</string>
 		<string>Kabashkir</string>
-		<string>Kabashkir.a</string>
-		<string>Kabashkir.b</string>
 		<string>Endescender</string>
 		<string>Esdescender</string>
 		<string>Ustraight</string>
@@ -5935,8 +5900,6 @@
 		<string>Shha</string>
 		<string>Palochka</string>
 		<string>Zhebreve</string>
-		<string>Zhebreve.a</string>
-		<string>Zhebreve.b</string>
 		<string>Abrevecyr</string>
 		<string>Aie</string>
 		<string>Iebreve</string>
@@ -5953,14 +5916,10 @@
 		<string>de</string>
 		<string>ie</string>
 		<string>zhe</string>
-		<string>zhe.a</string>
-		<string>zhe.b</string>
 		<string>ze</string>
 		<string>icyr</string>
 		<string>ishort</string>
 		<string>ka</string>
-		<string>ka.a</string>
-		<string>ka.b</string>
 		<string>el</string>
 		<string>em</string>
 		<string>en</string>
@@ -5996,8 +5955,6 @@
 		<string>nje</string>
 		<string>tshe</string>
 		<string>kje</string>
-		<string>kje.a</string>
-		<string>kje.b</string>
 		<string>igravecyr</string>
 		<string>ushort</string>
 		<string>dzhe</string>
@@ -6007,15 +5964,9 @@
 		<string>gheup</string>
 		<string>ghestroke</string>
 		<string>zhedescender</string>
-		<string>zhedescender.a</string>
-		<string>zhedescender.b</string>
 		<string>zedescender</string>
 		<string>kadescender</string>
-		<string>kadescender.a</string>
-		<string>kadescender.b</string>
 		<string>kabashkir</string>
-		<string>kabashkir.a</string>
-		<string>kabashkir.b</string>
 		<string>endescender</string>
 		<string>esdescender</string>
 		<string>ustraight</string>
@@ -6024,8 +5975,6 @@
 		<string>chedescender</string>
 		<string>shha</string>
 		<string>zhebreve</string>
-		<string>zhebreve.a</string>
-		<string>zhebreve.b</string>
 		<string>palochka</string>
 		<string>abrevecyr</string>
 		<string>aie</string>
@@ -6036,6 +5985,8 @@
 		<string>obarcyr</string>
 		<string>umacroncyr</string>
 		<string>uacutedblcyr</string>
+		<string>acyr.a</string>
+		<string>abrevecyr.a</string>
 		<string>be.srb</string>
 		<string>numero</string>
 		<string>ampersand</string>
@@ -6281,7 +6232,6 @@
 		<string>Lacute.sc</string>
 		<string>Lcaron.sc</string>
 		<string>Lcommaaccent.sc</string>
-		<string>Ldot.sc</string>
 		<string>Ldotbelow.sc</string>
 		<string>Ldotbelowmacron.sc</string>
 		<string>Llinebelow.sc</string>
@@ -6657,7 +6607,6 @@
 		<string>dollar</string>
 		<string>sterling</string>
 		<string>yen</string>
-		<string>yuan</string>
 		<string>Euro</string>
 		<string>cent</string>
 		<string>florin</string>
@@ -6723,6 +6672,9 @@
 		<string>radical</string>
 		<string>Delta.math</string>
 		<string>Omega.math</string>
+		<string>universal</string>
+		<string>existential</string>
+		<string>proportion</string>
 		<string>summation</string>
 		<string>product</string>
 		<string>litre</string>
@@ -6735,6 +6687,10 @@
 		<string>arrowupright</string>
 		<string>arrowdownright</string>
 		<string>arrowdownleft</string>
+		<string>arrowdblleft</string>
+		<string>arrowdblup</string>
+		<string>arrowdblright</string>
+		<string>arrowdbldown</string>
 		<string>squareblack</string>
 		<string>diamondblack</string>
 		<string>fisheye</string>
@@ -6803,6 +6759,8 @@
 		<string>dieresiscmb.cap</string>
 		<string>hoicmb</string>
 		<string>hoicmb.cap</string>
+		<string>candrabinducmb</string>
+		<string>candrabinducmb.cap</string>
 		<string>ringcmb</string>
 		<string>ringcmb.cap</string>
 		<string>hungarumlautcmb</string>
@@ -6852,6 +6810,7 @@
 		<string>perispomenicmb</string>
 		<string>perispomenicmb.cap</string>
 		<string>iotasubscriptcmb</string>
+		<string>macrondoublebelowcmb</string>
 		<string>breveinverteddoublecmb</string>
 		<string>dieresisacute</string>
 		<string>dieresisacute.cap</string>
@@ -6898,6 +6857,40 @@
 		<string>ZWNBS</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>iogonek.d</string>
+		<string>yuan</string>
+		<string>zhebreve.b</string>
+		<string>Zhebreve.a</string>
+		<string>Zhedescender.b</string>
+		<string>Zhedescender.a</string>
+		<string>Zhe.a</string>
+		<string>Zhebreve.b</string>
+		<string>kabashkir.b</string>
+		<string>Kabashkir.b</string>
+		<string>zhe.a</string>
+		<string>Zhe.b</string>
+		<string>zhedescender.b</string>
+		<string>zhedescender.a</string>
+		<string>kabashkir.a</string>
+		<string>istroke.d</string>
+		<string>Kabashkir.a</string>
+		<string>Kje.b</string>
+		<string>jcrossedtail.d</string>
+		<string>zhebreve.a</string>
+		<string>zhe.b</string>
+		<string>Kje.a</string>
+		<string>ka.b</string>
+		<string>ka.a</string>
+		<string>kje.b</string>
+		<string>kje.a</string>
+		<string>kadescender.a</string>
+		<string>kadescender.b</string>
+		<string>Kadescender.a</string>
+		<string>Kadescender.b</string>
+		<string>Ka.b</string>
+		<string>Ka.a</string>
+		<string>zero.0o</string>
+		<string>zero.0c</string>
 	</array>
 </dict>
 </plist>

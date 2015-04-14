@@ -32,14 +32,20 @@
       <point x="291" y="500" type="line"/>
       <point x="108" y="500" type="line"/>
     </contour>
+    <contour>
+      <point x="262" y="-20" type="move" name="belowLC"/>
+    </contour>
+    <contour>
+      <point x="262" y="520" type="move" name="aboveLC"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

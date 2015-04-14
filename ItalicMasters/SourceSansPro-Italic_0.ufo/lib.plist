@@ -27,7 +27,7 @@
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<real>258.7</real>
 			<key>isGlobal</key>
 			<integer>1</integer>
 			<key>magnetic</key>
@@ -35,9 +35,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>136</integer>
+			<integer>0</integer>
 			<key>y</key>
-			<integer>671</integer>
+			<integer>0</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -1994,12 +1994,12 @@
 				<string>fi</string>
 				<string>fl</string>
 				<string>ha.001</string>
+				<string>yuan</string>
 				<string>iogonek.d</string>
+				<string>yat.001</string>
 				<string>phi.001</string>
 				<string>phi.002</string>
 				<string>sha.001</string>
-				<string>yat.001</string>
-				<string>yuan</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -3942,6 +3942,16 @@
 		<string>ZWNBS</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>ha.001</string>
+		<string>yuan</string>
+		<string>iogonek.d</string>
+		<string>yat.001</string>
+		<string>phi.001</string>
+		<string>phi.002</string>
+		<string>sha.001</string>
+		<string>_Obarcyr</string>
+		<string>Obar</string>
+		<string>_Fita</string>
 	</array>
 </dict>
 </plist>

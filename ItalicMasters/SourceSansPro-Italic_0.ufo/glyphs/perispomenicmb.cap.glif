@@ -4,17 +4,17 @@
   <outline>
     <component base="tildecmb.cap"/>
     <contour>
-      <point x="0" y="680" type="move" name="_aboveUC"/>
+      <point x="136" y="680" type="move" name="_aboveUC"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>0.4</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <real>0.4647058823529413</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

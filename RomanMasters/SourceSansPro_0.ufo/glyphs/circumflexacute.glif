@@ -19,7 +19,7 @@
       <point x="82" y="652" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="502" type="move" name="_aboveLC"/>
+      <point x="0" y="500" type="move" name="_aboveLC"/>
     </contour>
   </outline>
   <lib>

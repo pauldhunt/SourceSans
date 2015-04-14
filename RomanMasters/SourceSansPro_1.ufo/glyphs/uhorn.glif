@@ -20,39 +20,21 @@
     </contour>
     <component base="u"/>
     <contour>
-      <point x="286.0" y="522.0" type="move" name="aboveLC"/>
+      <point x="300" y="520" type="move" name="aboveLC"/>
     </contour>
     <contour>
-      <point x="304.0" y="-22.0" type="move" name="belowLC"/>
+      <point x="290" y="-20" type="move" name="belowLC"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uhorn</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>578</integer>
-        </dict>
-      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.4647058823529413</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

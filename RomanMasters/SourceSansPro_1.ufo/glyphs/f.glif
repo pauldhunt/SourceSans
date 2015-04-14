@@ -28,39 +28,10 @@
       <point x="22" y="494" type="line"/>
     </contour>
     <contour>
-      <point x="230" y="741" type="move" name="aboveLC"/>
+      <point x="250" y="730" type="move" name="aboveUC"/>
     </contour>
     <contour>
-      <point x="174" y="-22" type="move" name="belowLC"/>
+      <point x="174" y="-20" type="move" name="belowLC"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>f</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>360</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

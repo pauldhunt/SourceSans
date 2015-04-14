@@ -11,17 +11,17 @@
     </contour>
     <component base="dotlessj"/>
     <contour>
-      <point x="116" y="500" type="move" name="aboveLC"/>
+      <point x="160" y="500" type="move" name="aboveLC"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <real>0.4647058823529413</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

@@ -1006,7 +1006,7 @@
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
 		<string>ccurl</string>
-		<string>Gsmall</string>
+		<string>gsmall</string>
 	</array>
 	<key>@MMK_L_LAT_C_SC_LEFT</key>
 	<array>
@@ -1369,7 +1369,6 @@
 	<key>@MMK_L_LAT_LDOT_LC_LEFT</key>
 	<array>
 		<string>lcat</string>
-		<string>ldot.alt</string>
 	</array>
 	<key>@MMK_L_LAT_LSLASH_LC_LEFT</key>
 	<array>
@@ -1391,7 +1390,6 @@
 		<string>L.sc</string>
 		<string>Lacute.sc</string>
 		<string>Lcommaaccent.sc</string>
-		<string>Ldot.sc</string>
 		<string>Ldotbelow.sc</string>
 		<string>Ldotbelowmacron.sc</string>
 		<string>Llinebelow.sc</string>
@@ -1781,11 +1779,11 @@
 		<string>utilde</string>
 		<string>mturned</string>
 		<string>mlonglegturned</string>
-		<string>Hsmall</string>
-		<string>Nsmall</string>
+		<string>hsmall</string>
+		<string>nsmall</string>
 		<string>hturned</string>
 		<string>rturned</string>
-		<string>Rsmallinverted</string>
+		<string>rsmallinverted</string>
 	</array>
 	<key>@MMK_L_LAT_U_SC_LEFT</key>
 	<array>
@@ -3088,7 +3086,6 @@
 		<string>Lacute.sc</string>
 		<string>Lcaron.sc</string>
 		<string>Lcommaaccent.sc</string>
-		<string>Ldot.sc</string>
 		<string>Ldotbelow.sc</string>
 		<string>Ldotbelowmacron.sc</string>
 		<string>Llinebelow.sc</string>
@@ -3311,7 +3308,6 @@
 		<string>lcommaaccent</string>
 		<string>lcommaaccent.alt</string>
 		<string>lcat</string>
-		<string>ldot.alt</string>
 		<string>ldotbelow</string>
 		<string>ldotbelow.alt</string>
 		<string>ldotbelowmacron</string>
@@ -3357,13 +3353,13 @@
 		<string>rlinebelow</string>
 		<string>eng</string>
 		<string>alphalatinturned</string>
-		<string>Bsmall</string>
-		<string>Hsmall</string>
-		<string>Lsmall</string>
+		<string>bsmall</string>
+		<string>hsmall</string>
+		<string>lsmall</string>
 		<string>nretroflex</string>
-		<string>Nsmall</string>
+		<string>nsmall</string>
 		<string>rtail</string>
-		<string>Rsmall</string>
+		<string>rsmall</string>
 		<string>mdotaccent</string>
 		<string>rdotaccent</string>
 		<string>mhook</string>
@@ -3465,9 +3461,9 @@
 		<string>dtail</string>
 		<string>dhook</string>
 		<string>ghook</string>
-		<string>Gsmall</string>
+		<string>gsmall</string>
 		<string>obar</string>
-		<string>OEsmall</string>
+		<string>oesmall</string>
 		<string>gacute.alt</string>
 		<string>philatin</string>
 	</array>

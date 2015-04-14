@@ -10,7 +10,18 @@
     </contour>
     <component base="O"/>
     <contour>
-      <point x="406" y="680" type="move" name="aboveUC"/>
+      <point x="390.0" y="680.0" type="move" name="aboveUC"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.4647058823529413</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

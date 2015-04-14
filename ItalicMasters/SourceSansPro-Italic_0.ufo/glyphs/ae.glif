@@ -78,5 +78,8 @@
       <point x="700" y="288"/>
       <point x="696" y="268" type="curve"/>
     </contour>
+    <contour>
+      <point x="430" y="500" type="move" name="aboveLC"/>
+    </contour>
   </outline>
 </glyph>

@@ -31,7 +31,7 @@
       <point x="66.8205128205" y="562.0"/>
     </contour>
     <contour>
-      <point x="0" y="522" type="move" name="_aboveLC"/>
+      <point x="0" y="520" type="move" name="_aboveLC"/>
     </contour>
     <contour>
       <point x="0" y="730" type="move" name="aboveLC"/>
