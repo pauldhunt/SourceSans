@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="gcommaaccent" format="1">
   <advance width="546"/>
   <outline>
     <component base="g"/>
-    <component base="commabelowcmb.alt" xOffset="280"/>
+    <component base="commabelowcmb.a" xOffset="280"/>
   </outline>
   <lib>
     <dict>

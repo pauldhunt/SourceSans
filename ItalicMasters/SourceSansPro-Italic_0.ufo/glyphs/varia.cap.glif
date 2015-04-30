@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="varia.cap" format="1">
   <advance width="20"/>
   <outline>
     <contour>
-      <point x="114" y="484" type="line"/>
-      <point x="139" y="490" type="line"/>
-      <point x="144" y="670" type="line"/>
-      <point x="107" y="664" type="line"/>
+      <point x="54" y="484" type="line"/>
+      <point x="79" y="490" type="line"/>
+      <point x="84" y="670" type="line"/>
+      <point x="47" y="664" type="line"/>
     </contour>
   </outline>
   <lib>

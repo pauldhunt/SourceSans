@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="udieresisacute" format="1">
   <advance width="578"/>
   <outline>
     <component base="u"/>
-    <component base="dieresisacute" xOffset="300"/>
+    <component base="dieresisacutecmb" xOffset="300"/>
   </outline>
   <lib>
     <dict>

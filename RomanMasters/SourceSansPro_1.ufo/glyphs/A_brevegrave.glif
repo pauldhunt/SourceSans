@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="Abrevegrave" format="1">
   <advance width="584"/>
   <outline>
     <component base="A"/>
-    <component base="brevegrave.cap" xOffset="288"/>
+    <component base="brevegravecmb.cap" xOffset="288"/>
   </outline>
   <lib>
     <dict>

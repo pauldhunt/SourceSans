@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="Udieresismacron" format="1">
   <advance width="654"/>
   <outline>
     <component base="U"/>
-    <component base="dieresismacron.cap" xOffset="292"/>
+    <component base="dieresismacroncmb.cap" xOffset="292"/>
   </outline>
   <lib>
     <dict>

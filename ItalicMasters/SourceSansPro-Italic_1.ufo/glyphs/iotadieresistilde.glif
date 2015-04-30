@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="iotadieresistilde" format="1">
   <advance width="286"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresistilde" xOffset="96"/>
+    <component base="dieresistildecmb" xOffset="96"/>
   </outline>
   <lib>
     <dict>

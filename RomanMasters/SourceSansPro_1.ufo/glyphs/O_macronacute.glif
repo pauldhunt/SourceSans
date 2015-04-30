@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="Omacronacute" format="1">
   <advance width="692"/>
   <outline>
     <component base="O"/>
-    <component base="macronacute.cap" xOffset="346"/>
+    <component base="macronacutecmb.cap" xOffset="346"/>
   </outline>
   <lib>
     <dict>
