@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="Chi.sc" format="1">
   <advance width="408"/>
   <outline>
     <component base="X.sc"/>
     <contour>
       <point x="208" y="560" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="216" y="-20" type="move" name="belowLC"/>
-    </contour>
-    <contour>
-      <point x="284" y="0" type="move" name="baseLC"/>
     </contour>
   </outline>
   <lib>

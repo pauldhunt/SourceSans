@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="A" format="1">
   <advance width="584"/>
   <outline>
@@ -33,5 +33,19 @@
     <contour>
       <point x="484" y="0" type="move" name="ogonekUC"/>
     </contour>
+    <contour>
+      <point x="500" y="0" type="move" name="baseLC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

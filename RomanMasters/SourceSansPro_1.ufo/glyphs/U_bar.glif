@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph name="Ubar" format="1">
+  <advance width="720"/>
+  <outline>
+    <contour>
+      <point x="22" y="316" type="line"/>
+      <point x="698" y="316" type="line"/>
+      <point x="698" y="396" type="line"/>
+      <point x="98" y="396" type="line"/>
+      <point x="22" y="390" type="line"/>
+    </contour>
+    <component base="U" xOffset="24"/>
+  </outline>
+</glyph>

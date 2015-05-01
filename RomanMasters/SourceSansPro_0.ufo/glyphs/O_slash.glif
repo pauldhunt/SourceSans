@@ -12,15 +12,18 @@
     <contour>
       <point x="328" y="680" type="move" name="aboveUC"/>
     </contour>
+    <contour>
+      <point x="324" y="0" type="move" name="baseLC"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <integer>1</integer>
-        <real>0.4647058823529413</real>
-        <real>0.30000000000000004</real>
-        <integer>1</integer>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

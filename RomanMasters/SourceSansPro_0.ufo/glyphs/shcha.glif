@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="shcha" format="1">
   <advance width="700"/>
   <outline>
@@ -12,5 +12,8 @@
       <point x="644" y="0" type="line"/>
     </contour>
     <component base="sha"/>
+    <contour>
+      <point x="353" y="500" type="move" name="aboveLC"/>
+    </contour>
   </outline>
 </glyph>

@@ -3,19 +3,25 @@
   <advance width="452"/>
   <outline>
     <contour>
-      <point x="356" y="478" type="line"/>
-      <point x="326" y="478" type="line"/>
-      <point x="326" y="346" type="line"/>
-      <point x="212" y="222" type="line"/>
-      <point x="74" y="478" type="line"/>
-      <point x="40" y="478" type="line"/>
-      <point x="194" y="198" type="line"/>
-      <point x="12" y="0" type="line"/>
-      <point x="48" y="0" type="line"/>
-      <point x="324" y="304" type="line"/>
-      <point x="326" y="304" type="line"/>
       <point x="326" y="-222" type="line"/>
       <point x="356" y="-222" type="line"/>
+      <point x="356" y="478" type="line"/>
+      <point x="326" y="478" type="line"/>
+      <point x="326" y="174" type="line"/>
+      <point x="324" y="174" type="line"/>
+      <point x="76" y="478" type="line"/>
+      <point x="40" y="478" type="line"/>
+      <point x="194" y="290" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="212" y="266" type="line"/>
+      <point x="326" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="226.0" y="500.0" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="226.0" y="-20.0" type="move" name="belowLC"/>
     </contour>
   </outline>
   <lib>
@@ -73,7 +79,7 @@
                   <key>x</key>
                   <integer>212</integer>
                   <key>y</key>
-                  <integer>212</integer>
+                  <integer>222</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -81,7 +87,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>46</integer>
+                  <integer>74</integer>
                   <key>y</key>
                   <integer>478</integer>
                 </dict>
@@ -91,7 +97,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>12</integer>
+                  <integer>40</integer>
                   <key>y</key>
                   <integer>478</integer>
                 </dict>
@@ -103,7 +109,7 @@
                   <key>x</key>
                   <integer>194</integer>
                   <key>y</key>
-                  <integer>188</integer>
+                  <integer>198</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -111,7 +117,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>40</integer>
+                  <integer>12</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -121,7 +127,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>76</integer>
+                  <integer>48</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -182,9 +188,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

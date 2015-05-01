@@ -30,6 +30,9 @@
       <point x="64" y="146"/>
       <point x="42" y="134" type="curve"/>
     </contour>
+    <contour>
+      <point x="302" y="520" type="move" name="aboveLC"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -345,6 +348,13 @@
           <integer>604</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

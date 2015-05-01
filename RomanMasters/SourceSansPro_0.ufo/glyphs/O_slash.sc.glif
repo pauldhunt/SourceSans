@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="Oslash.sc" format="1">
   <advance width="568"/>
   <outline>
@@ -35,6 +35,9 @@
       <point x="522" y="514" type="line"/>
       <point x="500" y="532" type="line"/>
       <point x="46" y="-4" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="560" type="move" name="aboveUC"/>
     </contour>
   </outline>
 </glyph>
