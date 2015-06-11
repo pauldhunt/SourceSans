@@ -199,8 +199,6 @@
 		<integer>-10</integer>
 		<key>@MMK_R_PCT_QUOTERIGHT_RIGHT</key>
 		<integer>-20</integer>
-		<key>zhe.a</key>
-		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_CYR_DJE_LC_LEFT</key>
 	<dict>
@@ -660,8 +658,6 @@
 		<integer>-20</integer>
 		<key>schwacyr</key>
 		<integer>-20</integer>
-		<key>zhe.a</key>
-		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_CYR_ES_SC_LEFT</key>
 	<dict>
@@ -777,8 +773,6 @@
 		<integer>20</integer>
 		<key>schwacyr</key>
 		<integer>-30</integer>
-		<key>zhe.a</key>
-		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_CYR_GHE_SC_LEFT</key>
 	<dict>
@@ -913,8 +907,6 @@
 		<integer>-40</integer>
 		<key>registered</key>
 		<integer>20</integer>
-		<key>zhe.a</key>
-		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_CYR_HA_LC_LEFT</key>
 	<dict>
@@ -1372,8 +1364,6 @@
 		<integer>40</integer>
 		<key>yi</key>
 		<integer>110</integer>
-		<key>zhe.a</key>
-		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_CYR_JE_SC_LEFT</key>
 	<dict>
@@ -1713,8 +1703,6 @@
 		<integer>-80</integer>
 		<key>registered</key>
 		<integer>-80</integer>
-		<key>zhe.a</key>
-		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_CYR_SOFT_SC_LEFT</key>
 	<dict>
@@ -1912,8 +1900,6 @@
 		<integer>-20</integer>
 		<key>slash</key>
 		<integer>-10</integer>
-		<key>zhe.a</key>
-		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_CYR_TE_SC_LEFT</key>
 	<dict>
@@ -2056,8 +2042,6 @@
 		<integer>-70</integer>
 		<key>slash</key>
 		<integer>-60</integer>
-		<key>zhe.a</key>
-		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_CYR_TSE_LC_LEFT</key>
 	<dict>
@@ -2493,8 +2477,6 @@
 		<integer>-40</integer>
 		<key>periodcentered</key>
 		<integer>-30</integer>
-		<key>zhe.a</key>
-		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_CYR_VE_LC_LEFT</key>
 	<dict>
@@ -7859,52 +7841,6 @@
 		<key>quoteleft.sc</key>
 		<integer>-30</integer>
 	</dict>
-	<key>Ka.a</key>
-	<dict>
-		<key>@MMK_R_CYR_BE_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_CHE_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_DE_LC_RIGHT</key>
-		<integer>20</integer>
-		<key>@MMK_R_CYR_EL_LC_RIGHT</key>
-		<integer>20</integer>
-		<key>@MMK_R_CYR_IZHITSA_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_ROUND_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_CYR_TE_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_UCYR_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_YAT_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_YA_LC_RIGHT</key>
-		<integer>-20</integer>
-	</dict>
-	<key>Ka.b</key>
-	<dict>
-		<key>@MMK_R_CYR_BE_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_CYR_CHE_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_DE_LC_RIGHT</key>
-		<integer>20</integer>
-		<key>@MMK_R_CYR_EL_LC_RIGHT</key>
-		<integer>20</integer>
-		<key>@MMK_R_CYR_IZHITSA_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_ROUND_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_CYR_TE_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_UCYR_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_YAT_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_YA_LC_RIGHT</key>
-		<integer>-20</integer>
-	</dict>
 	<key>Q.sc</key>
 	<dict>
 		<key>comma</key>
@@ -8548,48 +8484,6 @@
 		<integer>-30</integer>
 		<key>@MMK_R_LAT_Y_LC_RIGHT</key>
 		<integer>-30</integer>
-	</dict>
-	<key>ka.a</key>
-	<dict>
-		<key>@MMK_R_CYR_ACYR_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_BE_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_CHE_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_CYR_DZE_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_ECYR_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_ROUND_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_TE_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_UCYR_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_CYR_YAT_LC_RIGHT</key>
-		<integer>-20</integer>
-	</dict>
-	<key>ka.b</key>
-	<dict>
-		<key>@MMK_R_CYR_ACYR_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_BE_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_CHE_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_CYR_DZE_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_ECYR_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_ROUND_LC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_CYR_TE_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_CYR_UCYR_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_CYR_YAT_LC_RIGHT</key>
-		<integer>-20</integer>
 	</dict>
 	<key>lenis.cap</key>
 	<dict>

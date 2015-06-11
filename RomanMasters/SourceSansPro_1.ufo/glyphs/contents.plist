@@ -868,26 +868,14 @@
 	<string>K_.sups.glif</string>
 	<key>Ka</key>
 	<string>K_a.glif</string>
-	<key>Ka.a</key>
-	<string>K_a.a.glif</string>
-	<key>Ka.b</key>
-	<string>K_a.b.glif</string>
 	<key>Ka.sc</key>
 	<string>K_a.sc.glif</string>
 	<key>Kabashkir</key>
 	<string>K_abashkir.glif</string>
-	<key>Kabashkir.a</key>
-	<string>K_abashkir.a.glif</string>
-	<key>Kabashkir.b</key>
-	<string>K_abashkir.b.glif</string>
 	<key>Kabashkir.sc</key>
 	<string>K_abashkir.sc.glif</string>
 	<key>Kadescender</key>
 	<string>K_adescender.glif</string>
-	<key>Kadescender.a</key>
-	<string>K_adescender.a.glif</string>
-	<key>Kadescender.b</key>
-	<string>K_adescender.b.glif</string>
 	<key>Kadescender.sc</key>
 	<string>K_adescender.sc.glif</string>
 	<key>Kappa</key>
@@ -908,10 +896,6 @@
 	<string>K_hook.sc.glif</string>
 	<key>Kje</key>
 	<string>K_je.glif</string>
-	<key>Kje.a</key>
-	<string>K_je.a.glif</string>
-	<key>Kje.b</key>
-	<string>K_je.b.glif</string>
 	<key>Kje.sc</key>
 	<string>K_je.sc.glif</string>
 	<key>Klinebelow</key>
@@ -952,6 +936,10 @@
 	<string>L_commaaccent.glif</string>
 	<key>Lcommaaccent.sc</key>
 	<string>L_commaaccent.sc.glif</string>
+	<key>Ldot</key>
+	<string>Ldot_.glif</string>
+	<key>Ldot.sc</key>
+	<string>Ldot_.sc.glif</string>
 	<key>Ldotbelow</key>
 	<string>L_dotbelow.glif</string>
 	<key>Ldotbelow.sc</key>
@@ -1818,26 +1806,14 @@
 	<string>Z_eta.sc.glif</string>
 	<key>Zhe</key>
 	<string>Z_he.glif</string>
-	<key>Zhe.a</key>
-	<string>Z_he.a.glif</string>
-	<key>Zhe.b</key>
-	<string>Z_he.b.glif</string>
 	<key>Zhe.sc</key>
 	<string>Z_he.sc.glif</string>
 	<key>Zhebreve</key>
 	<string>Z_hebreve.glif</string>
-	<key>Zhebreve.a</key>
-	<string>Z_hebreve.a.glif</string>
-	<key>Zhebreve.b</key>
-	<string>Z_hebreve.b.glif</string>
 	<key>Zhebreve.sc</key>
 	<string>Z_hebreve.sc.glif</string>
 	<key>Zhedescender</key>
 	<string>Z_hedescender.glif</string>
-	<key>Zhedescender.a</key>
-	<string>Z_hedescender.a.glif</string>
-	<key>Zhedescender.b</key>
-	<string>Z_hedescender.b.glif</string>
 	<key>Zhedescender.sc</key>
 	<string>Z_hedescender.sc.glif</string>
 	<key>Zlinebelow</key>
@@ -3056,22 +3032,10 @@
 	<string>k.sups.glif</string>
 	<key>ka</key>
 	<string>ka.glif</string>
-	<key>ka.a</key>
-	<string>ka.a.glif</string>
-	<key>ka.b</key>
-	<string>ka.b.glif</string>
 	<key>kabashkir</key>
 	<string>kabashkir.glif</string>
-	<key>kabashkir.a</key>
-	<string>kabashkir.a.glif</string>
-	<key>kabashkir.b</key>
-	<string>kabashkir.b.glif</string>
 	<key>kadescender</key>
 	<string>kadescender.glif</string>
-	<key>kadescender.a</key>
-	<string>kadescender.a.glif</string>
-	<key>kadescender.b</key>
-	<string>kadescender.b.glif</string>
 	<key>kai</key>
 	<string>kai.glif</string>
 	<key>kappa</key>
@@ -3086,10 +3050,6 @@
 	<string>khook.glif</string>
 	<key>kje</key>
 	<string>kje.glif</string>
-	<key>kje.a</key>
-	<string>kje.a.glif</string>
-	<key>kje.b</key>
-	<string>kje.b.glif</string>
 	<key>klinebelow</key>
 	<string>klinebelow.glif</string>
 	<key>koppa</key>
@@ -3126,6 +3086,10 @@
 	<string>lcommaaccent.glif</string>
 	<key>lcommaaccent.a</key>
 	<string>lcommaaccent.a.glif</string>
+	<key>ldot</key>
+	<string>ldot.glif</string>
+	<key>ldot.a</key>
+	<string>ldot.a.glif</string>
 	<key>ldotbelow</key>
 	<string>ldotbelow.glif</string>
 	<key>ldotbelow.a</key>
@@ -4264,22 +4228,10 @@
 	<string>zeta.glif</string>
 	<key>zhe</key>
 	<string>zhe.glif</string>
-	<key>zhe.a</key>
-	<string>zhe.a.glif</string>
-	<key>zhe.b</key>
-	<string>zhe.b.glif</string>
 	<key>zhebreve</key>
 	<string>zhebreve.glif</string>
-	<key>zhebreve.a</key>
-	<string>zhebreve.a.glif</string>
-	<key>zhebreve.b</key>
-	<string>zhebreve.b.glif</string>
 	<key>zhedescender</key>
 	<string>zhedescender.glif</string>
-	<key>zhedescender.a</key>
-	<string>zhedescender.a.glif</string>
-	<key>zhedescender.b</key>
-	<string>zhedescender.b.glif</string>
 	<key>zlinebelow</key>
 	<string>zlinebelow.glif</string>
 	<key>zretroflex</key>

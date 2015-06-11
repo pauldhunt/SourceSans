@@ -2177,7 +2177,6 @@
 				<string>Bdotbelow.sc</string>
 				<string>Bhook.sc</string>
 				<string>Bhook.sa</string>
-				<string>Betalatin.sc</string>
 				<string>Chook.sc</string>
 				<string>Dcircumflexbelow.sc</string>
 				<string>Dafrican.sc</string>
@@ -2186,36 +2185,27 @@
 				<string>Eturned.sc</string>
 				<string>Eopen.sc</string>
 				<string>Fhook.sc</string>
-				<string>Fhook.sa</string>
 				<string>Gammalatin.sc</string>
-				<string>Heng.sc</string>
 				<string>Hturned.sc</string>
 				<string>Hhook.sc</string>
-				<string>Chilatin.sc</string>
 				<string>Idieresisacute.sc</string>
 				<string>Istroke.sc</string>
 				<string>Iotalatin.sc</string>
-				<string>Jcrossedtail.sc</string>
 				<string>Khook.sc</string>
 				<string>Kturned.sc</string>
 				<string>Lcircumflexbelow.sc</string>
 				<string>Lmiddletilde.sc</string>
-				<string>Lbelt.sc</string>
 				<string>Ncircumflexbelow.sc</string>
 				<string>Nhookleft.sc</string>
-				<string>Nhookleft.sa</string>
-				<string>Nlegrightlong.sc</string>
 				<string>Odieresismacron.sc</string>
 				<string>Otildeacute.sc</string>
 				<string>Omacrongrave.sc</string>
 				<string>Oslashacute.sc</string>
 				<string>Obar.sc</string>
 				<string>Oopen.sc</string>
-				<string>Omegalatin.sc</string>
 				<string>Phook.sc</string>
 				<string>Rstroke.sc</string>
 				<string>Rtail.sc</string>
-				<string>Rtail.sa</string>
 				<string>Esh.sc</string>
 				<string>Tcircumflexbelow.sc</string>
 				<string>Thook.sc</string>
@@ -2235,38 +2225,10 @@
 				<string>Oopen.sups</string>
 				<string>oopen.sups</string>
 				<string>eopen.sups</string>
-				<string>Ka.a</string>
-				<string>Ka.b</string>
-				<string>Kabashkir.a</string>
-				<string>Kabashkir.b</string>
-				<string>Kadescender.a</string>
-				<string>Kadescender.b</string>
-				<string>Kje.a</string>
-				<string>Kje.b</string>
-				<string>Zhe.a</string>
-				<string>Zhe.b</string>
-				<string>Zhebreve.a</string>
-				<string>Zhebreve.b</string>
-				<string>Zhedescender.a</string>
-				<string>Zhedescender.b</string>
-				<string>ka.a</string>
-				<string>ka.b</string>
-				<string>kabashkir.a</string>
-				<string>kabashkir.b</string>
-				<string>kadescender.a</string>
-				<string>kadescender.b</string>
-				<string>kje.a</string>
-				<string>kje.b</string>
-				<string>rfishhookreversedtail</string>
+				<string>yuan</string>
 				<string>tildeacutecmb</string>
 				<string>tildeacutecmb.cap</string>
-				<string>yuan</string>
-				<string>zhe.a</string>
-				<string>zhe.b</string>
-				<string>zhebreve.a</string>
-				<string>zhebreve.b</string>
-				<string>zhedescender.a</string>
-				<string>zhedescender.b</string>
+				<string>rfishhookreversedtail</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -7201,7 +7163,6 @@
 		<string>Bdotbelow.sc</string>
 		<string>Bhook.sc</string>
 		<string>Bhook.sa</string>
-		<string>Betalatin.sc</string>
 		<string>Chook.sc</string>
 		<string>Dcircumflexbelow.sc</string>
 		<string>Dafrican.sc</string>
@@ -7210,36 +7171,27 @@
 		<string>Eturned.sc</string>
 		<string>Eopen.sc</string>
 		<string>Fhook.sc</string>
-		<string>Fhook.sa</string>
 		<string>Gammalatin.sc</string>
-		<string>Heng.sc</string>
 		<string>Hturned.sc</string>
 		<string>Hhook.sc</string>
-		<string>Chilatin.sc</string>
 		<string>Idieresisacute.sc</string>
 		<string>Istroke.sc</string>
 		<string>Iotalatin.sc</string>
-		<string>Jcrossedtail.sc</string>
 		<string>Khook.sc</string>
 		<string>Kturned.sc</string>
 		<string>Lcircumflexbelow.sc</string>
 		<string>Lmiddletilde.sc</string>
-		<string>Lbelt.sc</string>
 		<string>Ncircumflexbelow.sc</string>
 		<string>Nhookleft.sc</string>
-		<string>Nhookleft.sa</string>
-		<string>Nlegrightlong.sc</string>
 		<string>Odieresismacron.sc</string>
 		<string>Otildeacute.sc</string>
 		<string>Omacrongrave.sc</string>
 		<string>Oslashacute.sc</string>
 		<string>Obar.sc</string>
 		<string>Oopen.sc</string>
-		<string>Omegalatin.sc</string>
 		<string>Phook.sc</string>
 		<string>Rstroke.sc</string>
 		<string>Rtail.sc</string>
-		<string>Rtail.sa</string>
 		<string>Esh.sc</string>
 		<string>Tcircumflexbelow.sc</string>
 		<string>Thook.sc</string>
@@ -7259,38 +7211,14 @@
 		<string>Oopen.sups</string>
 		<string>oopen.sups</string>
 		<string>eopen.sups</string>
-		<string>Ka.a</string>
-		<string>Ka.b</string>
-		<string>Kabashkir.a</string>
-		<string>Kabashkir.b</string>
-		<string>Kadescender.a</string>
-		<string>Kadescender.b</string>
-		<string>Kje.a</string>
-		<string>Kje.b</string>
-		<string>Zhe.a</string>
-		<string>Zhe.b</string>
-		<string>Zhebreve.a</string>
-		<string>Zhebreve.b</string>
-		<string>Zhedescender.a</string>
-		<string>Zhedescender.b</string>
-		<string>ka.a</string>
-		<string>ka.b</string>
-		<string>kabashkir.a</string>
-		<string>kabashkir.b</string>
-		<string>kadescender.a</string>
-		<string>kadescender.b</string>
-		<string>kje.a</string>
-		<string>kje.b</string>
-		<string>rfishhookreversedtail</string>
+		<string>yuan</string>
 		<string>tildeacutecmb</string>
 		<string>tildeacutecmb.cap</string>
-		<string>yuan</string>
-		<string>zhe.a</string>
-		<string>zhe.b</string>
-		<string>zhebreve.a</string>
-		<string>zhebreve.b</string>
-		<string>zhedescender.a</string>
-		<string>zhedescender.b</string>
+		<string>rfishhookreversedtail</string>
+		<string>ldot</string>
+		<string>Ldot</string>
+		<string>Ldot.sc</string>
+		<string>ldot.a</string>
 	</array>
 </dict>
 </plist>

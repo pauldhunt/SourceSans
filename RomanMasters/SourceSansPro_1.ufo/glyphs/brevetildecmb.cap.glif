@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevetildecmb.cap" format="1">
   <advance width="0"/>
   <outline>
     <contour>
       <point x="0" y="700" type="curve" smooth="yes"/>
-      <point x="102.315789474" y="700.0"/>
-      <point x="153.993373125" y="741.940358126"/>
+      <point x="102" y="700"/>
+      <point x="154" y="742"/>
       <point x="162" y="814" type="curve"/>
       <point x="82" y="828" type="line"/>
-      <point x="72.921315627" y="801.772689589"/>
-      <point x="51.7894736842" y="780.0"/>
+      <point x="73" y="802"/>
+      <point x="52" y="780"/>
       <point x="0" y="780" type="curve" smooth="yes"/>
-      <point x="-51.7894736842" y="780.0"/>
-      <point x="-72.921315627" y="801.772689589"/>
+      <point x="-52" y="780"/>
+      <point x="-73" y="802"/>
       <point x="-82" y="828" type="curve"/>
       <point x="-162" y="814" type="line"/>
-      <point x="-153.993373125" y="741.940358126"/>
-      <point x="-102.315789474" y="700.0"/>
+      <point x="-154" y="742"/>
+      <point x="-102" y="700"/>
     </contour>
     <contour>
       <point x="58" y="848" type="curve" smooth="yes"/>
       <point x="114" y="848"/>
-      <point x="152.311885445" y="881.173365225"/>
+      <point x="152" y="881"/>
       <point x="156" y="966" type="curve"/>
       <point x="76" y="976" type="line"/>
       <point x="72" y="950"/>
       <point x="62" y="940"/>
       <point x="46" y="940" type="curve" smooth="yes"/>
-      <point x="24.0" y="940.0"/>
+      <point x="24" y="940"/>
       <point x="-6" y="982"/>
       <point x="-58" y="982" type="curve" smooth="yes"/>
       <point x="-114" y="982"/>
-      <point x="-152.311885445" y="948.826634775"/>
+      <point x="-152" y="949"/>
       <point x="-156" y="864" type="curve"/>
       <point x="-76" y="854" type="line"/>
       <point x="-72" y="880"/>
       <point x="-62" y="890"/>
       <point x="-46" y="890" type="curve" smooth="yes"/>
-      <point x="-24.0" y="890.0"/>
+      <point x="-24" y="890"/>
       <point x="6" y="848"/>
     </contour>
     <contour>
