@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tenge" format="1">
+  <advance width="518"/>
+  <outline>
+    <contour>
+      <point x="177" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="426" y="422" type="line"/>
+      <point x="572" y="422" type="line"/>
+      <point x="589" y="506" type="line"/>
+      <point x="205" y="506" type="line"/>
+      <point x="131" y="500" type="line"/>
+      <point x="115" y="422" type="line"/>
+      <point x="261" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="550" type="line"/>
+      <point x="598" y="550" type="line"/>
+      <point x="614" y="634" type="line"/>
+      <point x="157" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="g" format="1">
   <advance width="518"/>
   <outline>
@@ -50,10 +50,10 @@
       <point x="242" y="22"/>
     </contour>
     <contour>
-      <point x="312" y="502" type="move" name="aboveLC"/>
+      <point x="300" y="500" type="move" name="aboveLC"/>
     </contour>
     <contour>
-      <point x="160" y="-254" type="move" name="belowLC"/>
+      <point x="170" y="-230" type="move" name="belowLC"/>
     </contour>
   </outline>
   <lib>

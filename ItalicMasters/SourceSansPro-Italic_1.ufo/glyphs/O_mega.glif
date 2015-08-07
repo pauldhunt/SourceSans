@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omega" format="1">
   <advance width="686"/>
-  <unicode hex="03A9"/>
   <outline>
     <contour>
       <point x="-8" y="0" type="line"/>
@@ -42,9 +41,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

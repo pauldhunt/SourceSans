@@ -4,29 +4,17 @@
   <outline>
     <component base="O"/>
     <contour>
-      <point x="434.0" y="682.0" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="298.0" y="-22.0" type="move" name="belowLC"/>
-    </contour>
-    <contour>
-      <point x="304.0" y="0.0" type="move" name="ogonekUC"/>
-    </contour>
-    <contour>
-      <point x="534.0" y="644.0" type="move" name="hornLC"/>
+      <point x="434" y="670" type="move" name="aboveUC"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>0.4</real>
-        <real>1.0</real>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

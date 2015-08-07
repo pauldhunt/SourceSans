@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="dieresiscmb" format="1">
   <advance width="0"/>
   <outline>
@@ -31,7 +31,7 @@
       <point x="68" y="602"/>
     </contour>
     <contour>
-      <point x="0" y="502" type="move" name="_aboveLC"/>
+      <point x="0" y="500" type="move" name="_aboveLC"/>
     </contour>
     <contour>
       <point x="0" y="674" type="move" name="aboveLC"/>

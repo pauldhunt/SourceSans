@@ -12,6 +12,7 @@
       <point x="-24" y="16" type="line"/>
     </contour>
     <contour>
+      <point x="14" y="26" type="line"/>
       <point x="216" y="396" type="line" smooth="yes"/>
       <point x="258" y="474"/>
       <point x="298" y="544"/>
@@ -21,14 +22,10 @@
       <point x="360" y="470"/>
       <point x="368" y="396" type="curve"/>
       <point x="412" y="26" type="line"/>
-      <point x="14" y="26" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

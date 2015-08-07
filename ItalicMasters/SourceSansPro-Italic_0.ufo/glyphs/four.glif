@@ -3,6 +3,7 @@
   <advance width="456"/>
   <outline>
     <contour>
+      <point x="248" y="0" type="line"/>
       <point x="276" y="0" type="line"/>
       <point x="315" y="194" type="line"/>
       <point x="406" y="194" type="line"/>
@@ -13,7 +14,6 @@
       <point x="10" y="210" type="line"/>
       <point x="8" y="194" type="line"/>
       <point x="287" y="194" type="line"/>
-      <point x="248" y="0" type="line"/>
     </contour>
     <contour>
       <point x="54" y="220" type="line"/>
@@ -28,33 +28,4 @@
       <point x="292" y="220" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>four</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>456</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

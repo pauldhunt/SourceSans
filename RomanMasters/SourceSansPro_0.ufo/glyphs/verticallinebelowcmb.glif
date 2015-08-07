@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="verticallinebelowcmb" format="1">
   <advance width="0"/>
   <outline>
@@ -9,7 +9,7 @@
       <point x="-10" y="-76" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="-22" type="move" name="_belowLC"/>
+      <point x="0" y="-20" type="move" name="_belowLC"/>
     </contour>
   </outline>
   <lib>

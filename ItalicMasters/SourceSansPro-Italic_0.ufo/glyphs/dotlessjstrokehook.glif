@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessjstrokehook" format="1">
+  <advance width="230"/>
+  <outline>
+    <contour>
+      <point x="50" y="238" type="line"/>
+      <point x="268" y="238" type="line"/>
+      <point x="274" y="266" type="line"/>
+      <point x="152" y="266" type="line"/>
+      <point x="55" y="262" type="line"/>
+    </contour>
+    <component base="esh"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

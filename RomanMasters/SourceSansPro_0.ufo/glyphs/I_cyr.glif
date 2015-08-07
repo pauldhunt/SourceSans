@@ -25,36 +25,7 @@
       <point x="100" y="660" type="line"/>
     </contour>
     <contour>
-      <point x="324" y="682" type="move" name="aboveUC"/>
+      <point x="324" y="680" type="move" name="aboveUC"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Icyr</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>640</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

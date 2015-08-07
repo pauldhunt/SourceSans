@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="tildecmb" format="1">
   <advance width="0"/>
   <outline>
@@ -25,7 +25,7 @@
       <point x="123" y="572"/>
     </contour>
     <contour>
-      <point x="114" y="522" type="move" name="_aboveLC"/>
+      <point x="104" y="520" type="move" name="_aboveLC"/>
     </contour>
   </outline>
   <lib>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="1">
   <advance width="504"/>
-  <unicode hex="0393"/>
   <outline>
     <contour>
       <point x="26" y="0" type="line"/>
@@ -11,15 +10,9 @@
       <point x="558" y="650" type="line"/>
       <point x="156" y="650" type="line"/>
     </contour>
-    <contour>
-      <point x="253.0" y="672.0" type="move" name="aboveUC"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

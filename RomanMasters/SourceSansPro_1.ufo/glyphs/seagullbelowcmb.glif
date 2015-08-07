@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="seagullbelowcmb" format="1">
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-195" y="-238" type="curve"/>
       <point x="-109" y="-250" type="line"/>
       <point x="-109.0" y="-193.0"/>
       <point x="-97.95" y="-179.0"/>
@@ -33,9 +32,10 @@
       <point x="-80" y="-74" type="curve" smooth="yes"/>
       <point x="-159.834710744" y="-74.0"/>
       <point x="-195.0" y="-129.0"/>
+      <point x="-195" y="-238" type="curve"/>
     </contour>
     <contour>
-      <point x="0" y="-22" type="move" name="_belowLC"/>
+      <point x="0" y="-20" type="move" name="_belowLC"/>
     </contour>
   </outline>
   <lib>

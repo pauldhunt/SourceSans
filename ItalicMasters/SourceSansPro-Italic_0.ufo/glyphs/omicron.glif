@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph name="omicron" format="1">
+  <advance width="500"/>
+  <unicode hex="03BF"/>
+  <outline>
+    <component base="o" xOffset="4"/>
+    <contour>
+      <point x="318" y="500" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="188" y="-20" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.6294117647058824</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

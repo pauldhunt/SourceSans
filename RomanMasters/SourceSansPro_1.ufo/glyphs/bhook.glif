@@ -50,36 +50,21 @@
       <point x="334" y="128"/>
     </contour>
     <contour>
-      <point x="297" y="-22" type="move" name="belowLC"/>
+      <point x="297" y="-20" type="move" name="belowLC"/>
+    </contour>
+    <contour>
+      <point x="290" y="730.0" type="move" name="aboveUC"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bhook</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>580</integer>
-        </dict>
-      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

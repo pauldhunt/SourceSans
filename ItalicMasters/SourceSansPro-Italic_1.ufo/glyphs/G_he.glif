@@ -4,20 +4,17 @@
   <outline>
     <component base="Gamma"/>
     <contour>
-      <point x="253.0" y="672.0" type="move" name="aboveUC"/>
+      <point x="370" y="670" type="move" name="aboveUC"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>0.4</real>
-        <real>1.0</real>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

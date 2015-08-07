@@ -1771,7 +1771,7 @@
 		<key>@MMK_R_PCT_COLON_RIGHT</key>
 		<integer>22</integer>
 		<key>@MMK_R_PCT_COMMA_RIGHT</key>
-		<integer>22</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_PCT_EMDASH_RIGHT</key>
 		<integer>-18</integer>
 		<key>@MMK_R_PCT_GUILLEFT_RIGHT</key>
@@ -4444,8 +4444,6 @@
 	<dict>
 		<key>@MMK_R_LAT_A_LC_RIGHT</key>
 		<integer>-16</integer>
-		<key>@MMK_R_LAT_G_LC_RIGHT</key>
-		<integer>-10</integer>
 		<key>@MMK_R_LAT_J_UC_RIGHT</key>
 		<integer>-20</integer>
 		<key>@MMK_R_LAT_S_UC_RIGHT</key>
@@ -5512,7 +5510,7 @@
 	<key>@MMK_L_LAT_S_LC_LEFT</key>
 	<dict>
 		<key>@MMK_R_LAT_T_LC_RIGHT</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_LAT_T_UC_RIGHT</key>
 		<integer>-20</integer>
 		<key>@MMK_R_LAT_V_UC_RIGHT</key>
@@ -5606,8 +5604,6 @@
 		<key>@MMK_R_LAT_HBAR_LC_RIGHT</key>
 		<integer>-10</integer>
 		<key>@MMK_R_LAT_O_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_S_LC_RIGHT</key>
 		<integer>-10</integer>
 		<key>@MMK_R_LAT_T_LC_RIGHT</key>
 		<integer>-20</integer>
@@ -6331,10 +6327,10 @@
 		<integer>-14</integer>
 		<key>@MMK_R_PCT_EMDASH_RIGHT</key>
 		<integer>0</integer>
-		<key>Ismall</key>
-		<integer>10</integer>
 		<key>asterisk</key>
 		<integer>0</integer>
+		<key>ismall</key>
+		<integer>10</integer>
 		<key>registered</key>
 		<integer>60</integer>
 		<key>slash</key>
@@ -7388,25 +7384,6 @@
 		<key>quoteleft.sc</key>
 		<integer>0</integer>
 	</dict>
-	<key>Ismall</key>
-	<dict>
-		<key>@MMK_R_LAT_F_LC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_LAT_G_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_O_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_O_UC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_T_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_V_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_W_LC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_Y_LC_RIGHT</key>
-		<integer>10</integer>
-	</dict>
 	<key>Izhitsa.sc</key>
 	<dict>
 		<key>@MMK_R_PCT_BRACERIGHT_RIGHT</key>
@@ -7452,36 +7429,6 @@
 		<key>@MMK_R_CYR_YAT_LC_RIGHT</key>
 		<integer>-30</integer>
 		<key>@MMK_R_CYR_YA_LC_RIGHT</key>
-		<integer>-10</integer>
-	</dict>
-	<key>Lsmall</key>
-	<dict>
-		<key>@MMK_R_LAT_A_SC_RIGHT</key>
-		<integer>20</integer>
-		<key>@MMK_R_LAT_O_SC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_S_SC_RIGHT</key>
-		<integer>-4</integer>
-		<key>@MMK_R_LAT_T_SC_RIGHT</key>
-		<integer>-80</integer>
-		<key>@MMK_R_LAT_U_SC_RIGHT</key>
-		<integer>-24</integer>
-		<key>@MMK_R_LAT_V_SC_RIGHT</key>
-		<integer>-54</integer>
-		<key>@MMK_R_LAT_W_SC_RIGHT</key>
-		<integer>-36</integer>
-		<key>@MMK_R_LAT_Y_SC_RIGHT</key>
-		<integer>-60</integer>
-		<key>@MMK_R_PCT_COMMA_RIGHT</key>
-		<integer>30</integer>
-		<key>hyphen.sc</key>
-		<integer>-20</integer>
-	</dict>
-	<key>Rsmall</key>
-	<dict>
-		<key>@MMK_R_LAT_Y_SC_RIGHT</key>
-		<integer>-4</integer>
-		<key>hyphen.sc</key>
 		<integer>-10</integer>
 	</dict>
 	<key>Shha</key>
@@ -7606,23 +7553,6 @@
 		<integer>10</integer>
 		<key>@MMK_R_PCT_GUILRIGHT_RIGHT</key>
 		<integer>-10</integer>
-	</dict>
-	<key>Ysmall</key>
-	<dict>
-		<key>@MMK_R_LAT_A_SC_RIGHT</key>
-		<integer>-30</integer>
-		<key>@MMK_R_LAT_J_SC_RIGHT</key>
-		<integer>-100</integer>
-		<key>@MMK_R_LAT_O_SC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_S_SC_RIGHT</key>
-		<integer>-10</integer>
-		<key>@MMK_R_LAT_Z_SC_RIGHT</key>
-		<integer>-20</integer>
-		<key>@MMK_R_PCT_COMMA_RIGHT</key>
-		<integer>-70</integer>
-		<key>hyphen.sc</key>
-		<integer>-30</integer>
 	</dict>
 	<key>asper.cap</key>
 	<dict>
@@ -8060,6 +7990,25 @@
 		<key>two.sc</key>
 		<integer>-10</integer>
 	</dict>
+	<key>ismall</key>
+	<dict>
+		<key>@MMK_R_LAT_F_LC_RIGHT</key>
+		<integer>-20</integer>
+		<key>@MMK_R_LAT_G_LC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_O_LC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_O_UC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_T_LC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_V_LC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_W_LC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_Y_LC_RIGHT</key>
+		<integer>10</integer>
+	</dict>
 	<key>ka.a</key>
 	<dict>
 		<key>@MMK_R_CYR_ACYR_LC_RIGHT</key>
@@ -8118,6 +8067,29 @@
 	<dict>
 		<key>@MMK_R_LAT_I_ALT_UC_RIGHT</key>
 		<integer>40</integer>
+	</dict>
+	<key>lsmall</key>
+	<dict>
+		<key>@MMK_R_LAT_A_SC_RIGHT</key>
+		<integer>20</integer>
+		<key>@MMK_R_LAT_O_SC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_S_SC_RIGHT</key>
+		<integer>-4</integer>
+		<key>@MMK_R_LAT_T_SC_RIGHT</key>
+		<integer>-80</integer>
+		<key>@MMK_R_LAT_U_SC_RIGHT</key>
+		<integer>-24</integer>
+		<key>@MMK_R_LAT_V_SC_RIGHT</key>
+		<integer>-54</integer>
+		<key>@MMK_R_LAT_W_SC_RIGHT</key>
+		<integer>-36</integer>
+		<key>@MMK_R_LAT_Y_SC_RIGHT</key>
+		<integer>-60</integer>
+		<key>@MMK_R_PCT_COMMA_RIGHT</key>
+		<integer>30</integer>
+		<key>hyphen.sc</key>
+		<integer>-20</integer>
 	</dict>
 	<key>nine.onum</key>
 	<dict>
@@ -8535,6 +8507,13 @@
 		<integer>10</integer>
 		<key>@MMK_R_LAT_Z_SC_RIGHT</key>
 		<integer>-20</integer>
+	</dict>
+	<key>rsmall</key>
+	<dict>
+		<key>@MMK_R_LAT_Y_SC_RIGHT</key>
+		<integer>-4</integer>
+		<key>hyphen.sc</key>
+		<integer>-10</integer>
 	</dict>
 	<key>rtail</key>
 	<dict>
@@ -9038,6 +9017,23 @@
 	<dict>
 		<key>yi.a</key>
 		<integer>10</integer>
+	</dict>
+	<key>ysmall</key>
+	<dict>
+		<key>@MMK_R_LAT_A_SC_RIGHT</key>
+		<integer>-30</integer>
+		<key>@MMK_R_LAT_J_SC_RIGHT</key>
+		<integer>-100</integer>
+		<key>@MMK_R_LAT_O_SC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_S_SC_RIGHT</key>
+		<integer>-10</integer>
+		<key>@MMK_R_LAT_Z_SC_RIGHT</key>
+		<integer>-20</integer>
+		<key>@MMK_R_PCT_COMMA_RIGHT</key>
+		<integer>-70</integer>
+		<key>hyphen.sc</key>
+		<integer>-30</integer>
 	</dict>
 	<key>yturned</key>
 	<dict>

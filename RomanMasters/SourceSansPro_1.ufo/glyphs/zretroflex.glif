@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="zretroflex" format="1">
   <advance width="474"/>
   <outline>
@@ -29,7 +29,7 @@
       <point x="314" y="-188"/>
     </contour>
     <contour>
-      <point x="252" y="522" type="move" name="aboveLC"/>
+      <point x="252" y="520" type="move" name="aboveLC"/>
     </contour>
   </outline>
   <lib>

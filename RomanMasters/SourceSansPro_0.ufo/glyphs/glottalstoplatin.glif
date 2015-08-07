@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph name="glottalstoplatin" format="1">
+  <advance width="392"/>
+  <outline>
+    <component base="glottalstop"/>
+  </outline>
+</glyph>

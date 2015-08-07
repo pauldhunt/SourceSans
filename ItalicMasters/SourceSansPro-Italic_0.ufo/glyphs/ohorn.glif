@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <glyph name="ohorn" format="1">
   <advance width="500"/>
   <outline>
@@ -20,10 +20,10 @@
     </contour>
     <component base="o"/>
     <contour>
-      <point x="318" y="502" type="move" name="aboveLC"/>
+      <point x="318" y="500" type="move" name="aboveLC"/>
     </contour>
     <contour>
-      <point x="188" y="-22" type="move" name="belowLC"/>
+      <point x="188" y="-20" type="move" name="belowLC"/>
     </contour>
   </outline>
   <lib>

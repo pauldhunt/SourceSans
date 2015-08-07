@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bridgebelowcmb" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-164" y="-218" type="line"/>
+      <point x="-86" y="-218" type="line"/>
+      <point x="-73" y="-156" type="line"/>
+      <point x="19" y="-156" type="line"/>
+      <point x="7" y="-218" type="line"/>
+      <point x="85" y="-218" type="line"/>
+      <point x="114" y="-76" type="line"/>
+      <point x="-136" y="-76" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-20" type="move" name="_belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

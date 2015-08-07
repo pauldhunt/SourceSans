@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph name="Betalatin" format="1">
+  <advance width="612"/>
+  <outline>
+    <contour>
+      <point x="72" y="-188" type="line"/>
+      <point x="222" y="-188" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="225" y="108" type="line"/>
+      <point x="72" y="0" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.3</real>
+        <integer>1</integer>
+        <real>0.547059</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

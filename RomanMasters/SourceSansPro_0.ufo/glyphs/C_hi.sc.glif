@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph name="Chi.sc" format="1">
+  <advance width="408"/>
+  <outline>
+    <component base="X.sc"/>
+    <contour>
+      <point x="208" y="560" type="move" name="aboveUC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.4647058823529413</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
