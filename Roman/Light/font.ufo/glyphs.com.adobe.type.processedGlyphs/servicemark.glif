@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="servicemark">
+<glyph format="2" name="servicemark">
   <advance width="610" />
   <outline>
     <contour>
@@ -47,8 +47,8 @@
     <contour>
       <point type="line" x="307" y="369" />
       <point type="line" x="344" y="369" />
-      <point name="hintSet0019" type="line" x="344" y="530" />
-      <point type="line" x="339" y="628" />
+      <point type="line" x="344" y="530" />
+      <point name="hintSet0020" type="line" x="339" y="628" />
       <point type="line" x="343" y="628" />
       <point type="line" x="426" y="417" />
       <point type="line" x="460" y="417" />
@@ -71,7 +71,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="86140f23d1f7be33bd7c13391aeb88e5b62e71f9dee5ee6f0d42bc9fec22d7c162ac352d0fa57a2e67bdfd2f2eb80c93fe5dd9da45813256fd225ecc5623f620">
+        <hintSetList id="a32572a3df663d3babf3c666fef281748b7fce1e86e1c1b29ad8bc117a22c5d8becd13d86ea42ae3ec44c429cd5b323a311966227f6e8a5f984be43eaabde4c2">
           <hintset pointTag="hintSet0000">
             <hstem pos="357" width="32" />
             <hstem pos="649" width="32" />
@@ -80,7 +80,7 @@
             <vstem pos="307" width="37" />
             <vstem pos="542" width="37" />
           </hintset>
-          <hintset pointTag="hintSet0019">
+          <hintset pointTag="hintSet0020">
             <hstem pos="357" width="32" />
             <hstem pos="417" width="47" />
             <hstem pos="628" width="48" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ramshorn">
+<glyph format="2" name="ramshorn">
   <advance width="541" />
   <outline>
     <contour>
@@ -61,7 +61,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="11a8591ad35f20d9509bdb8845713685a2959ff88ede7d8f62aa79340e8cdd91ffe6c1ebdbc037a1cd4ac813244a47894bc1cf140ac617d30954cd0c62043a3f">
+        <hintSetList id="e2b1255c885fa43e4678f819714ef88b0007592acaeeb81ab718aa0948cc7b62fc98e2d167cd1f87b2da63f3267ad562441d5fe22073c9f224215f44caf11c00">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="94" />
             <hstem pos="409" width="94" />

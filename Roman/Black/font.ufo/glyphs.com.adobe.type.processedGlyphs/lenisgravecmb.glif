@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lenisgravecmb">
-  <advance width="0" />
+<glyph format="2" name="lenisgravecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="-158" y="574" />
       <point x="-97" y="582" />
       <point x="-28" y="611" />
       <point type="curve" x="-28" y="686" />
-      <point x="-28" y="747" />
+      <point name="hintSet0002" x="-28" y="747" />
       <point x="-80" y="790" />
       <point type="curve" x="-200" y="794" />
       <point type="line" x="-208" y="700" />
@@ -29,8 +28,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="bf92e840f2ace65f691c44e79bacfda4f0b411df4a8bfcbf4d5260bd3be8161a0f3d940f733b05cbfadbcbd4cff7a2f3e988e334da734bc55c79e1dede7bdee3">
+        <hintSetList id="-140649-140668-140685-154643-158574-158696-170640-200794-208700-2776-28611-28686-28747-80790-97582100013480216457470556">
           <hintset pointTag="hintSet0000">
+            <hstem pos="556" width="246" />
+            <vstem pos="-140" width="112" />
+          </hintset>
+          <hintset pointTag="hintSet0002">
             <hstem pos="700" width="94" />
             <vstem pos="-140" width="112" />
           </hintset>

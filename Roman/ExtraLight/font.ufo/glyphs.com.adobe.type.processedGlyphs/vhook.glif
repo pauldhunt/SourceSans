@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="vhook">
+<glyph format="2" name="vhook">
   <advance width="512" />
   <outline>
     <contour>
@@ -37,7 +37,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="1e0dcd0d5a4502664bae2e97d1717a4e883fabc2bd2bac6cb4a59622656c837f024548a4ec34251e6d19e05e1a194687124db2e8181e2896f2feb92aa73c4c93">
+        <hintSetList id="79f3d0ef106b4d8a7d79ef4d8e3425fa6208696b77087809e3c5a21e7b52b11a183fe724d93ae07bd5669d5c654538456b7c4fb6d707ee414b2d30e4eba79eac">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />

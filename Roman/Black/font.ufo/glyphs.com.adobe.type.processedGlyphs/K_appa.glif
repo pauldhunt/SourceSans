@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Kappa">
+<glyph format="2" name="Kappa">
   <advance width="628" />
   <outline>
     <contour>
@@ -22,7 +22,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="628720l2440l244162l306250l4500l6380l406386l600650l412650l248408l244408l244650l72650l">
+        <hintSetList id="24402441622444082446502484083062504063864126504500600650628638072072650">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="650" width="-20" />

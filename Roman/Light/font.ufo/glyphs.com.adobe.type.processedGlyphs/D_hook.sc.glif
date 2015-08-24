@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Dhook.sc">
+  <advance width="630" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="95" y="295" />
+      <point type="line" x="116" y="324" />
+      <point x="94" y="339" />
+      <point x="85" y="362" />
+      <point type="curve" x="85" y="393" />
+      <point x="85" y="450" />
+      <point x="126" y="475" />
+      <point type="curve" x="184" y="475" />
+      <point type="line" x="187" y="475" />
+      <point type="line" x="187" y="0" />
+      <point type="line" x="319" y="0" />
+      <point x="490" y="0" />
+      <point x="575" y="100" />
+      <point type="curve" x="575" y="257" />
+      <point x="575" y="415" />
+      <point x="490" y="512" />
+      <point type="curve" x="318" y="512" />
+      <point type="line" x="187" y="512" />
+      <point x="102" y="512" />
+      <point x="47" y="473" />
+      <point type="curve" x="47" y="391" />
+      <point x="47" y="348" />
+      <point x="63" y="315" />
+    </contour>
+    <contour>
+      <point type="line" x="233" y="37" />
+      <point type="line" x="233" y="475" />
+      <point type="line" x="316" y="475" />
+      <point x="463" y="475" />
+      <point x="527" y="387" />
+      <point type="curve" x="527" y="257" />
+      <point x="527" y="119" />
+      <point x="463" y="37" />
+      <point type="curve" x="316" y="37" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="da8155b6ebbdc13f78eefa33ae7dc7270c02ae6559bab8b9f42c1b50515d23c5e5fae9144b0fe1d134ca85e624ef2e0075d7e76522c9d1bffbc60492842c3683">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="37" />
+            <hstem pos="475" width="37" />
+            <vstem pos="47" width="38" />
+            <vstem pos="187" width="46" />
+            <vstem pos="527" width="48" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

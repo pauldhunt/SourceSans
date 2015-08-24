@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ubreve">
+<glyph format="2" name="Ubreve">
   <advance width="672" />
   <outline>
     <contour>
@@ -43,7 +43,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="45beda342605ad79e21d4f7d4c6a4ae565b138882a16b1f9314a292498cd3fd5d6522379a152dc32993f4eff3408181cb64d1f0a9bdaf5d38980918e6ea7568d">
+        <hintSetList id="2f3aa02bcb1b8f2e12ceca1270868c59c9fbdfda7b7f4782f1bc6893abbea1f90b6f641c56e4ba42d189103dce75e5868104c02edc3b764d840ad4fcdf4a1f34">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="148" />
             <hstem pos="650" width="-20" />

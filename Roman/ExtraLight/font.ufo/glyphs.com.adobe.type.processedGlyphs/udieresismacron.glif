@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="udieresismacron">
+<glyph format="2" name="udieresismacron">
   <advance width="524" />
   <outline>
     <contour>
@@ -40,12 +40,6 @@
       <point x="158" y="602" />
     </contour>
     <contour>
-      <point type="line" x="140" y="746" />
-      <point type="line" x="382" y="746" />
-      <point type="line" x="382" y="774" />
-      <point type="line" x="140" y="774" />
-    </contour>
-    <contour>
       <point type="curve" x="348" y="602" />
       <point x="366" y="602" />
       <point x="380" y="616" />
@@ -59,12 +53,18 @@
       <point x="316" y="616" />
       <point x="330" y="602" />
     </contour>
+    <contour>
+      <point type="line" x="140" y="746" />
+      <point type="line" x="382" y="746" />
+      <point type="line" x="382" y="774" />
+      <point type="line" x="140" y="774" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a0f3ca90423043c7f57b295b081363dbf6ea3f3332da5ed2cc1922bd2cad440502607df524a0ff3cfd0c095bae34f41daefa48a15306d10a7e34ceb7b44d677c">
+        <hintSetList id="07780949a89cf0c795e37b866f34983f3897bfa25da2e76aac0604378afe4a3a085f6428ee6115ad66a0bdb9c2bf4f376f86334937bb4d4450e71a454706bef6">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="478" width="-20" />

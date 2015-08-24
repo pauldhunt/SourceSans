@@ -1,30 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphalatin">
+<glyph format="2" name="alphalatin">
   <advance width="573" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="242" y="-12" />
-      <point x="290" y="-12" />
-      <point x="339" y="14" />
-      <point type="curve" x="374" y="49" />
-      <point type="line" x="378" y="49" />
-      <point type="line" x="388" y="0" />
-      <point type="line" x="508" y="0" />
-      <point type="line" x="508" y="496" />
-      <point type="line" x="393" y="496" />
-      <point type="line" x="381" y="447" />
-      <point type="line" x="377" y="447" />
-      <point x="338" y="489" />
-      <point x="298" y="508" />
-      <point type="curve" x="248" y="508" />
-      <point x="144" y="508" />
-      <point x="39" y="410" />
-      <point type="curve" x="39" y="248" />
-      <point x="39" y="86" />
-      <point x="119" y="-12" />
-    </contour>
-    <contour>
-      <point type="curve" x="280" y="108" />
+      <point name="hintSet0000" type="curve" x="280" y="108" />
       <point x="223" y="108" />
       <point x="190" y="152" />
       <point type="curve" x="190" y="250" />
@@ -38,16 +17,64 @@
       <point x="337" y="120" />
       <point x="312" y="108" />
     </contour>
+    <contour>
+      <point type="curve" x="242" y="-12" />
+      <point x="292" y="-12" />
+      <point x="346" y="17" />
+      <point type="curve" x="379" y="54" />
+      <point type="line" x="383" y="54" />
+      <point name="hintSet0009" x="398" y="21" />
+      <point x="429" y="-1" />
+      <point type="curve" x="472" y="-1" />
+      <point x="498" y="-9" />
+      <point x="516" y="-9" />
+      <point type="curve" x="535" y="-2" />
+      <point x="537" y="-2" />
+      <point x="541" y="104" />
+      <point type="curve" x="542" y="104" />
+      <point x="537" y="102" />
+      <point x="533" y="107" />
+      <point type="curve" x="531" y="107" />
+      <point x="520" y="107" />
+      <point x="512" y="113" />
+      <point type="curve" x="512" y="135" />
+      <point x="510" y="135" />
+      <point x="508" y="417" />
+      <point type="curve" x="508" y="420" />
+      <point type="line" x="398" y="496" />
+      <point type="line" x="381" y="455" />
+      <point type="line" x="378" y="447" />
+      <point x="346" y="483" />
+      <point x="313" y="498" />
+      <point type="curve" x="274" y="498" />
+      <point x="181" y="504" />
+      <point x="87" y="427" />
+      <point type="curve" x="77" y="292" />
+      <point name="hintSet0020" x="56" y="159" />
+      <point x="105" y="59" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2d0f83ef3305f9352c032419991926e1764f56742786ab36960212fe3c9f921a31a1558caf1523eaf5a4242aac2fb41f612fe7e8c33514330185bdb39b5b78e7">
+        <hintSetList id="beba4babef85cbf9b2511e7656e5d07ca44f0d689245c52db8205e352fa4164d2a5e8695b6ce601e4b5e316c91b024c52cf077af24abf5dd93e93ee991333122">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="120" />
-            <hstem pos="388" width="120" />
-            <vstem pos="39" width="151" />
+            <hstem pos="388" width="110" />
+            <vstem pos="72" width="118" />
+            <vstem pos="361" width="147" />
+          </hintset>
+          <hintset pointTag="hintSet0009">
+            <hstem pos="-7" width="114" />
+            <hstem pos="388" width="110" />
+            <vstem pos="72" width="118" />
+            <vstem pos="361" width="147" />
+          </hintset>
+          <hintset pointTag="hintSet0020">
+            <hstem pos="-12" width="120" />
+            <hstem pos="388" width="110" />
+            <vstem pos="72" width="118" />
             <vstem pos="361" width="147" />
           </hintset>
         </hintSetList>

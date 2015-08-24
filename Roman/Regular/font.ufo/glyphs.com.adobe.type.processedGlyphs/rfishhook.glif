@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="rfishhook">
+<glyph format="2" name="rfishhook">
   <advance width="334" />
   <outline>
     <contour>
@@ -25,7 +25,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="334820l1640l164297l164383o210426o259426c285426o299424o321415c336484l315493o287498o251498c145498o82428o82314c">
+        <hintSetList id="14549816401642971643832104262514982594262854262874982994243154933214153343364848208231482428">
           <hintset pointTag="hintSet0000">
             <hstem pos="426" width="72" />
             <vstem pos="82" width="82" />

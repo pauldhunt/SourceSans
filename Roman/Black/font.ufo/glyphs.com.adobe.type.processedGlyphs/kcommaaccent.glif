@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="kcommaaccent">
+<glyph format="2" name="kcommaaccent">
   <advance width="568" />
   <outline>
     <contour>
@@ -38,10 +38,9 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7392b7b6aaf80edd1ba53f3d49f104e5d7e18f26458ba6e788412d91b3acdf7d0105eec274a03ef3b87d6c71d56100f033363fa42f05591658312c69b4bcaba4">
+        <hintSetList id="f5871dd91637e748ea61bb9e6370997db726586c6b350c8bd0d08e0b32f1fa69576f5efab3c1d1c04703c44e02b4c3ea7c6e6b559981ac46e770b80ede0437d7">
           <hintset pointTag="hintSet0000">
             <hstem pos="-244" width="66" />
-            <hstem pos="-110" width="60" />
             <hstem pos="21" width="-21" />
             <hstem pos="500" width="-20" />
             <hstem pos="696" width="-20" />

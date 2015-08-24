@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tenge">
+<glyph format="2" name="tenge">
   <advance width="472" />
   <outline>
     <contour>
@@ -24,7 +24,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="4722200l2500l250504l434504l434532l100532l34528l34504l220504l34612l434612l434640l34640l">
+        <hintSetList id="1005322200220504250025050434504345283461234640434504434532434612434640472">
           <hintset pointTag="hintSet0000">
             <hstem pos="504" width="28" />
             <hstem pos="612" width="28" />

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Nlegrightlong">
+  <advance width="659" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="476" y="-188" />
+      <point type="line" x="593" y="-188" />
+      <point type="line" x="593" y="333" />
+      <point x="593" y="577" />
+      <point x="505" y="666" />
+      <point type="curve" x="376" y="666" />
+      <point x="308" y="666" />
+      <point x="244" y="632" />
+      <point type="curve" x="196" y="578" />
+      <point type="line" x="196" y="654" />
+      <point type="line" x="83" y="654" />
+      <point type="line" x="83" y="0" />
+      <point type="line" x="199" y="0" />
+      <point type="line" x="199" y="476" />
+      <point x="235" y="531" />
+      <point x="297" y="565" />
+      <point type="curve" x="344" y="565" />
+      <point x="428" y="565" />
+      <point x="476" y="506" />
+      <point type="curve" x="476" y="333" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="1965781966541990199476235531244632297565308666344565376666428565476-188476333476506505666593-18859333359357765983083654">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="565" width="101" />
+            <vstem pos="83" width="116" />
+            <vstem pos="476" width="117" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

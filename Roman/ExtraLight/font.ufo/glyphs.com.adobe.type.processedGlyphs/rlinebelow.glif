@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="rlinebelow">
+<glyph format="2" name="rlinebelow">
   <advance width="306" />
   <outline>
     <contour>
@@ -24,17 +24,17 @@
       <point type="line" x="96" y="478" />
     </contour>
     <contour>
-      <point type="line" x="-12" y="-156" />
-      <point type="line" x="228" y="-156" />
-      <point type="line" x="228" y="-128" />
-      <point type="line" x="-12" y="-128" />
+      <point type="line" x="-10" y="-156" />
+      <point type="line" x="230" y="-156" />
+      <point type="line" x="230" y="-128" />
+      <point type="line" x="-10" y="-128" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="32bb1acb400347b46a935dde52811081111f3f3e8a250333adfade851db9545b07ea2f36c208595ccb412f1cf2fcf63fb30934418f348da26838817056ff9305">
+        <hintSetList id="64dd34f8467fabbb2412222dca6d5b285c77e5dc63ccb0a2e05b7f290faa2ce645ba8b4e5132b37b5ad189985f513bd693805adc726868eb87f3336e45f2b433">
           <hintset pointTag="hintSet0000">
             <hstem pos="-156" width="28" />
             <hstem pos="21" width="-21" />
@@ -44,7 +44,7 @@
           <hintset pointTag="hintSet0005">
             <hstem pos="-156" width="28" />
             <hstem pos="21" width="-21" />
-            <hstem pos="480" width="10" />
+            <hstem pos="460" width="20" />
             <vstem pos="96" width="30" />
           </hintset>
           <hintset pointTag="hintSet0006">

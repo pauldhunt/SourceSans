@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Gamma">
+<glyph format="2" name="Gamma">
   <advance width="521" />
   <outline>
     <contour>
@@ -15,7 +15,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="521770l2240l224528l488528l488652l77652l">
+        <hintSetList id="224022452848852848865252177077652">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="528" width="124" />

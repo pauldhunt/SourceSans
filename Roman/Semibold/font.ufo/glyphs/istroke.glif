@@ -3,12 +3,24 @@
   <advance width="296"/>
   <outline>
     <contour>
-      <point x="10" y="227" type="line"/>
-      <point x="282" y="227" type="line"/>
-      <point x="282" y="286" type="line"/>
-      <point x="94" y="286" type="line"/>
-      <point x="10" y="281" type="line"/>
+      <point x="148" y="512" type="move" name="aboveUC"/>
     </contour>
-    <component base="i" xOffset="17"/>
+    <contour>
+      <point x="148" y="0" type="move" name="baseLC"/>
+    </contour>
+    <contour>
+      <point x="148" y="-20" type="move" name="belowLC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

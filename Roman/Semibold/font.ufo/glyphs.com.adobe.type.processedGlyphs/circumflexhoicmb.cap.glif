@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="circumflexhoicmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-95" y="692" />
+      <point type="line" x="-2" y="762" />
+      <point type="line" x="2" y="762" />
+      <point type="line" x="95" y="692" />
+      <point type="line" x="141" y="725" />
+      <point type="line" x="50" y="820" />
+      <point type="line" x="-50" y="820" />
+      <point type="line" x="-141" y="725" />
+    </contour>
+    <contour>
+      <point type="line" x="126" y="752" />
+      <point x="183" y="758" />
+      <point x="230" y="780" />
+      <point type="curve" x="230" y="835" />
+      <point x="230" y="880" />
+      <point x="191" y="908" />
+      <point type="curve" x="97" y="912" />
+      <point type="line" x="86" y="860" />
+      <point x="135" y="857" />
+      <point x="154" y="847" />
+      <point type="curve" x="154" y="825" />
+      <point x="154" y="806" />
+      <point x="137" y="798" />
+      <point type="curve" x="115" y="793" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="058e988daab86ccfecad525389fe023b5eb292c6f97241490882d4d75e28db3cba819c3690c038e56700668988fd17c575b5cfa5f1cd4d3cf1f365e5c14972d8">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="762" width="58" />
+            <hstem pos="860" width="52" />
+            <vstem pos="154" width="76" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

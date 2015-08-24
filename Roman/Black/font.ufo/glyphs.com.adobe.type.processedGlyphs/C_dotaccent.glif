@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Cdotaccent">
+<glyph format="2" name="Cdotaccent">
   <advance width="586" />
   <outline>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ac51086ff7ef21986ff59c29cbf227a7a3c6cd98a489d8a468606bbec3f9294e2d3f3bb03900985b64b09a93569a970b94d95dd54ec2bbfe052de20e84cd835c">
+        <hintSetList id="e3115114c0805ac7deed09f0a1e56d21cf6b0cd9144ef55c156f63baca455d7660e7b94680c42dbbbe7bcaee8de12a7ceb72dbaa70b7876913be780e997eadbb">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="148" />
             <hstem pos="514" width="148" />

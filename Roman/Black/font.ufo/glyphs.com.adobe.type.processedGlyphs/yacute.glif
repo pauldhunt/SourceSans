@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="yacute">
+<glyph format="2" name="yacute">
   <advance width="542" />
   <outline>
     <contour>
@@ -32,17 +32,17 @@
       <point x="98" y="-188" />
     </contour>
     <contour>
-      <point type="line" x="296" y="572" />
-      <point type="line" x="486" y="730" />
-      <point type="line" x="370" y="844" />
-      <point type="line" x="212" y="656" />
+      <point type="line" x="300" y="572" />
+      <point type="line" x="490" y="730" />
+      <point type="line" x="374" y="844" />
+      <point type="line" x="216" y="656" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d2d2fbe8149c9c2dede4df7a20dbfef4cade285d6c45b81d324282191ba29b4b6ee492eace64c3f942cc245fa1f818ff189d40e5a20b3b396c44530dc8dff2b7">
+        <hintSetList id="36290e7e7f92137085a5d9c8a2fcfbbc6264a89e4dc147c2f7eb39fb165c8d209b5a4669250bcbd0f41d5c0124f54d8977f885fe57ed1c2ebbba37786110db35">
           <hintset pointTag="hintSet0000">
             <hstem pos="-188" width="134" />
             <hstem pos="500" width="-20" />

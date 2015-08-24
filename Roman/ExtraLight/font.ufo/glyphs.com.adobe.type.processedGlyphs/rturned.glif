@@ -1,16 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="rturned">
+<glyph format="2" name="rturned">
   <advance width="306" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="42" y="-12" />
-      <point x="100" y="-12" />
-      <point x="146" y="32" />
-      <point type="curve" x="178" y="90" />
-      <point type="line" x="180" y="90" />
-      <point type="line" x="184" y="0" />
-      <point type="line" x="210" y="0" />
-      <point type="line" x="210" y="478" />
+      <point name="hintSet0000" type="line" x="210" y="478" />
       <point type="line" x="180" y="478" />
       <point type="line" x="180" y="146" />
       <point x="142" y="52" />
@@ -22,13 +15,20 @@
       <point type="line" x="-4" y="-2" />
       <point x="12" y="-10" />
       <point x="26" y="-12" />
+      <point type="curve" x="42" y="-12" />
+      <point x="100" y="-12" />
+      <point x="146" y="32" />
+      <point type="curve" x="178" y="90" />
+      <point type="line" x="180" y="90" />
+      <point type="line" x="184" y="0" />
+      <point type="line" x="210" y="0" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="30642-12c100-12o14632o17890c18090l1840l2100l210478l180478l180146l14252o9018o4618c2818o2020o426c-4-2l12-10o26-12o">
+        <hintSetList id="-4-2100-1212-101425214632178901801461804781809018402020210021047826-12281830642-1242646189018">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="30" />
             <vstem pos="180" width="30" />

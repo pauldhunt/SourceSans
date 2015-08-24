@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.a" format="1">
+  <advance width="571"/>
+  <outline>
+    <component base="gscript"/>
+    <contour>
+      <point x="296" y="512" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="290" y="-212" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

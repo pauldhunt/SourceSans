@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="scircumflex">
+<glyph format="2" name="scircumflex">
   <advance width="431" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="59" y="607" />
-      <point type="line" x="104" y="564" />
-      <point type="line" x="226" y="667" />
-      <point type="line" x="230" y="667" />
-      <point type="line" x="352" y="564" />
-      <point type="line" x="397" y="607" />
-      <point type="line" x="286" y="742" />
-      <point type="line" x="170" y="742" />
-    </contour>
-    <contour>
-      <point type="curve" x="210" y="-12" />
+      <point name="hintSet0000" type="curve" x="210" y="-12" />
       <point x="334" y="-12" />
       <point x="401" y="56" />
       <point type="curve" x="401" y="140" />
@@ -52,12 +42,22 @@
       <point x="72" y="17" />
       <point x="143" y="-12" />
     </contour>
+    <contour>
+      <point type="line" x="108" y="564" />
+      <point type="line" x="230" y="667" />
+      <point type="line" x="234" y="667" />
+      <point type="line" x="356" y="564" />
+      <point type="line" x="401" y="607" />
+      <point type="line" x="290" y="742" />
+      <point type="line" x="174" y="742" />
+      <point type="line" x="63" y="607" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="aa9a370b882e02a4a61ec6cbe38a620ac23dc6017503368a90550b6f912c16b16c8943544670c17e781062cfcddcc6ccf6db77c8e7f02223c1bb3282080f8630">
+        <hintSetList id="f96a4a1bbaca424d5bb7c43bf9332ba3a86ae00d4610ba0aafcbd7ae3e9d61e65ff7c92e181922669a24c5b6f697f75d590d2ee0c228f1e4e36837b182e527a1">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="87" />
             <hstem pos="416" width="87" />

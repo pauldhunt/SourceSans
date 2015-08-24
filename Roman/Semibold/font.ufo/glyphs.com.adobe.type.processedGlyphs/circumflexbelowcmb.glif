@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="circumflexbelowcmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-124" y="-230" />
+      <point type="line" x="-2" y="-127" />
+      <point type="line" x="2" y="-127" />
+      <point type="line" x="124" y="-230" />
+      <point type="line" x="169" y="-187" />
+      <point type="line" x="58" y="-52" />
+      <point type="line" x="-58" y="-52" />
+      <point type="line" x="-169" y="-187" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-124-230-169-187-2-127-58-521000124-230169-1872-12758-52">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-127" width="75" />
+            <vstem pos="-169" width="338" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="acutemacroncmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-38" y="608" />
+      <point type="line" x="92" y="696" />
+      <point type="line" x="70" y="724" />
+      <point type="line" x="-56" y="630" />
+    </contour>
+    <contour>
+      <point type="line" x="-120" y="814" />
+      <point type="line" x="-120" y="786" />
+      <point type="line" x="120" y="786" />
+      <point type="line" x="120" y="814" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-120786-120814-38608-5663010001207861208147072492696">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="786" width="28" />
+            <vstem pos="-120" width="240" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

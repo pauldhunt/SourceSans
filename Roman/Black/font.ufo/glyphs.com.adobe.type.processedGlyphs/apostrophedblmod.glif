@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="apostrophedblmod">
+  <advance width="580" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="110" y="322" />
+      <point x="216" y="372" />
+      <point x="266" y="450" />
+      <point type="curve" x="266" y="550" />
+      <point x="266" y="642" />
+      <point x="230" y="696" />
+      <point type="curve" x="160" y="696" />
+      <point x="110" y="696" />
+      <point x="74" y="660" />
+      <point type="curve" x="74" y="604" />
+      <point x="74" y="554" />
+      <point x="112" y="522" />
+      <point type="curve" x="160" y="522" />
+      <point x="163" y="522" />
+      <point x="167" y="522" />
+      <point type="curve" x="170" y="523" />
+      <point x="170" y="464" />
+      <point x="138" y="424" />
+      <point type="curve" x="74" y="396" />
+    </contour>
+    <contour>
+      <point type="line" x="370" y="322" />
+      <point x="476" y="372" />
+      <point x="526" y="450" />
+      <point type="curve" x="526" y="550" />
+      <point x="526" y="642" />
+      <point x="490" y="696" />
+      <point type="curve" x="420" y="696" />
+      <point x="370" y="696" />
+      <point x="334" y="660" />
+      <point type="curve" x="334" y="604" />
+      <point x="334" y="554" />
+      <point x="372" y="522" />
+      <point type="curve" x="420" y="522" />
+      <point x="423" y="522" />
+      <point x="427" y="522" />
+      <point type="curve" x="430" y="523" />
+      <point x="430" y="464" />
+      <point x="398" y="424" />
+      <point type="curve" x="334" y="396" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="cab51a96386e4a7f0a318b1d1946af1c070454833c3ef3a6e5c5d79654526cdf5edf451970a05f4fec8c21ddb5c830d5dd0b843598f403eea1144e64ba680adb">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="522" width="174" />
+            <vstem pos="170" width="96" />
+            <vstem pos="430" width="96" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

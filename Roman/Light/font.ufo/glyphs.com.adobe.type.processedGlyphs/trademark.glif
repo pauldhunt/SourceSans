@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="trademark">
+<glyph format="2" name="trademark">
   <advance width="610" />
   <outline>
     <contour>
@@ -39,7 +39,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="6721a53b32a359928879932e04e956cb6a4cc1a136e96fd451c96cd0a1ec45af2cd12635e3764b1a5ffdb85fc3edada875ac7e71e190da4f977d667df87b2a8b">
+        <hintSetList id="f33572611af6dec5be7a9694f90a7ceb2986ece754eed05c555ffc72ae0806760d90129d44642960aa1937fdd2aca1f18690d3ff189a48c4a62df60089d00413">
           <hintset pointTag="hintSet0000">
             <hstem pos="417" width="47" />
             <hstem pos="641" width="35" />

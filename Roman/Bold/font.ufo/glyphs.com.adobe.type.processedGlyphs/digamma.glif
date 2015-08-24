@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="digamma">
+<glyph format="2" name="digamma">
   <advance width="433" />
   <outline>
     <contour>
@@ -21,11 +21,11 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="43365-177l213-177l208-66o20524o205125c387125l387222l203222l201381l407381l407496l65496l">
+        <hintSetList id="20138120322220512520524208-66213-17738712538722240738140749643365-17765496">
           <hintset pointTag="hintSet0000">
             <hstem pos="125" width="97" />
             <hstem pos="381" width="115" />
-            <vstem pos="65" width="140" />
+            <vstem pos="65" width="137" />
           </hintset>
         </hintSetList>
       </data>

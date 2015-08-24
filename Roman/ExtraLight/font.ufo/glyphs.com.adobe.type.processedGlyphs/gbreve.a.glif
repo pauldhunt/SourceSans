@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gbreve.a">
+  <advance width="540" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="277" y="570" />
+      <point x="378" y="570" />
+      <point x="415" y="654" />
+      <point type="curve" x="423" y="716" />
+      <point type="line" x="397" y="720" />
+      <point x="389" y="662" />
+      <point x="352" y="596" />
+      <point type="curve" x="277" y="596" />
+      <point x="202" y="596" />
+      <point x="165" y="662" />
+      <point type="curve" x="157" y="720" />
+      <point type="line" x="131" y="716" />
+      <point x="139" y="654" />
+      <point x="176" y="570" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="131716139654157720165662176570202596277570277596352596378570389662397720415654423716540">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="570" width="26" />
+            <vstem pos="131" width="292" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

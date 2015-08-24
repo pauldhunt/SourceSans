@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Obar">
+  <advance width="684" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="342" y="-12" />
+      <point x="517" y="-12" />
+      <point x="638" y="108" />
+      <point type="curve" x="638" y="329" />
+      <point x="638" y="549" />
+      <point x="517" y="664" />
+      <point type="curve" x="342" y="664" />
+      <point x="168" y="664" />
+      <point x="46" y="550" />
+      <point type="curve" x="46" y="329" />
+      <point x="46" y="108" />
+      <point x="168" y="-12" />
+    </contour>
+    <contour>
+      <point type="curve" x="342" y="543" />
+      <point x="420" y="543" />
+      <point x="472" y="492" />
+      <point type="curve" x="487" y="394" />
+      <point type="line" x="197" y="394" />
+      <point x="212" y="492" />
+      <point x="265" y="543" />
+    </contour>
+    <contour>
+      <point type="curve" x="342" y="109" />
+      <point x="262" y="109" />
+      <point x="208" y="167" />
+      <point type="curve" x="195" y="277" />
+      <point type="line" x="489" y="277" />
+      <point x="476" y="167" />
+      <point x="423" y="109" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="a179988612a93d5e190d409dced73807bd7b362611adf65294be4f4101ad343755aca61dff25c0611cfd1b0232b6605e9d198de69a402ad991b2319c3bbd5ba0">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="121" />
+            <hstem pos="277" width="117" />
+            <hstem pos="543" width="121" />
+            <vstem pos="46" width="592" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

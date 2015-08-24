@@ -62,13 +62,13 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2ceb303f8bb5a2a3a84de1d50044998a35cade5ff46d3754fafc93a4cf9f9035edd034e39af6cbfa05ca09bfee3ebbb77d93e58f81ea424c963b05e4a653fe86">
+        <hintSetList id="15200c1b3e8874dcdc60de9c9d0d040ec99a012fad9a64403a3b777362b5ee041b158be32a77d32bb09fba5c36ce1f7463c16d16dcd2df2e2576d686d137d5d9">
           <hintset pointTag="hintSet0000">
             <hstem pos="-217" width="65" />
             <hstem pos="-65" width="59" />
             <hstem pos="586" width="106" />
             <vstem pos="-84" width="67" />
-            <vstem pos="104" width="114" />
+            <vstem pos="104" width="202" />
           </hintset>
           <hintset pointTag="hintSet0011">
             <hstem pos="-217" width="65" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tau">
+<glyph format="2" name="tau">
   <advance width="434" />
   <outline>
     <contour>
@@ -32,7 +32,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="81d15f0fe072c7bf484d5db1ca351c499bc002383325451cb3c40125b3890265c2660f45e3c7cb1cd2728fdce13bfd6bc5c14072743139b5e95b2d9319406229">
+        <hintSetList id="2021220245020272220-122301952303223032123066232450242162645026474270-122721628616290-1230220310-631424320-240845040847843492478">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="450" width="28" />

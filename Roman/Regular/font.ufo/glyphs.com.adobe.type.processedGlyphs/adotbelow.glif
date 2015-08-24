@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="adotbelow">
+<glyph format="2" name="adotbelow">
   <advance width="504" />
   <outline>
     <contour>
@@ -43,25 +43,25 @@
       <point x="265" y="54" />
     </contour>
     <contour>
-      <point name="hintSet0018" type="curve" x="246" y="-206" />
-      <point x="277" y="-206" />
-      <point x="300" y="-184" />
-      <point type="curve" x="300" y="-152" />
-      <point x="300" y="-121" />
-      <point x="277" y="-98" />
-      <point type="curve" x="246" y="-98" />
-      <point x="215" y="-98" />
-      <point x="192" y="-121" />
-      <point type="curve" x="192" y="-152" />
-      <point x="192" y="-184" />
-      <point x="215" y="-206" />
+      <point name="hintSet0018" type="curve" x="249" y="-206" />
+      <point x="280" y="-206" />
+      <point x="303" y="-184" />
+      <point type="curve" x="303" y="-152" />
+      <point x="303" y="-121" />
+      <point x="280" y="-98" />
+      <point type="curve" x="249" y="-98" />
+      <point x="218" y="-98" />
+      <point x="195" y="-121" />
+      <point type="curve" x="195" y="-152" />
+      <point x="195" y="-184" />
+      <point x="218" y="-206" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d3ffdff7b0c09d4c48a4bb4a32cb6ae0d8bcab9211f512349a352a2dea8ae8055f4f1c23dfbd1763d593f6b73d0f9d982890cdd0eac7f83cab3bc44f069687ac">
+        <hintSetList id="f1be753cd3f9ac9939c9c9d033521f3ba8c84271bdd232dff572ca4d6ed43ec423fd00e1a9a7fa4325ebe93b832830dbaffc0e0e79d25d1fc309f46f8f9843d8">
           <hintset pointTag="hintSet0000">
             <hstem pos="-206" width="108" />
             <hstem pos="-12" width="66" />
@@ -88,7 +88,7 @@
             <hstem pos="-12" width="66" />
             <hstem pos="430" width="68" />
             <vstem pos="52" width="80" />
-            <vstem pos="192" width="108" />
+            <vstem pos="195" width="108" />
             <vstem pos="350" width="83" />
           </hintset>
         </hintSetList>

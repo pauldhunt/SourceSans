@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="clicklateral">
+  <advance width="359" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="228" y="-96" />
+      <point type="line" x="264" y="-96" />
+      <point type="line" x="264" y="719" />
+      <point type="line" x="228" y="719" />
+    </contour>
+    <contour>
+      <point type="line" x="95" y="-96" />
+      <point type="line" x="131" y="-96" />
+      <point type="line" x="131" y="719" />
+      <point type="line" x="95" y="719" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="131-96131719228-96228719264-9626471935995-9695719">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-96" width="815" />
+            <vstem pos="95" width="36" />
+            <vstem pos="228" width="36" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

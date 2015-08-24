@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omicronlenisgrave">
+<glyph format="2" name="omicronlenisgrave">
   <advance width="560" />
   <outline>
     <contour>
@@ -57,11 +57,10 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="3a78d2dc0a9fcc20fc651458f3261d37d369bf44db2376fdde19e8c077761c3cf36390f0f6ed7ddf3af100ba48193cf9d8d8e087272a6f0e0131649779533507">
+        <hintSetList id="17fdd4b005e412f1e77a4879fda8c95a41aa3b1e6bdf5198d64056837bd5b2ec54d2974362c1ceef507f923bd9e34e70669b15aa2b02f8fd2b31164b2110244e">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="138" />
             <hstem pos="374" width="138" />
-            <hstem pos="700" width="94" />
             <vstem pos="32" width="176" />
             <vstem pos="352" width="176" />
           </hintset>

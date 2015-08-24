@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Saltillo.sc">
+  <advance width="289" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="116" y="198" />
+      <point type="line" x="173" y="198" />
+      <point type="line" x="184" y="438" />
+      <point type="line" x="186" y="518" />
+      <point name="hintSet0004" type="line" x="103" y="518" />
+      <point type="line" x="105" y="438" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="103518105438116198173198184438186518289">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="518" width="-20" />
+            <vstem pos="110.5" width="68" />
+          </hintset>
+          <hintset pointTag="hintSet0004">
+            <hstem pos="518" width="-20" />
+            <vstem pos="104" width="81" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

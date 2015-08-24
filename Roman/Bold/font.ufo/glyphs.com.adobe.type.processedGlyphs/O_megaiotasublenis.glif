@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegaiotasublenis">
+<glyph format="2" name="Omegaiotasublenis">
   <advance width="1147" />
   <outline>
     <contour>
@@ -46,7 +46,7 @@
       <point x="176" y="613" />
       <point x="132" y="654" />
       <point type="curve" x="8" y="657" />
-      <point type="line" x="-9" y="583" />
+      <point name="hintSet0021" type="line" x="-9" y="583" />
       <point x="48" y="579" />
       <point x="70" y="562" />
       <point type="curve" x="70" y="538" />
@@ -79,7 +79,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="c4f3a46880e402b1cb827e5579b02adbb6bac48ec9943f9923300b8252af5f999feba09ee2c857065fd16bee224b552ce9a09eeb228240812ee664f6e041c0be">
+        <hintSetList id="6cf1bb704c26740528590119b2c56bf87a72671c9cf60373a28b83dbc4271c52514b92fc7c868495a7f664a142e4ba9b05aeab5a9fb83824cbe0eb60d76380a3">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="119" />
             <hstem pos="537" width="127" />
@@ -116,6 +116,14 @@
             <vstem pos="915" width="138" />
           </hintset>
           <hintset pointTag="hintSet0019">
+            <hstem pos="0" width="119" />
+            <hstem pos="657" width="-20" />
+            <vstem pos="70" width="106" />
+            <vstem pos="202" width="151" />
+            <vstem pos="643" width="151" />
+            <vstem pos="915" width="138" />
+          </hintset>
+          <hintset pointTag="hintSet0021">
             <hstem pos="9" width="-21" />
             <hstem pos="583" width="74" />
             <vstem pos="70" width="106" />

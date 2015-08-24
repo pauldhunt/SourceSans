@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Upsilonasper">
+<glyph format="2" name="Upsilonasper">
   <advance width="576" />
   <outline>
     <contour>
@@ -23,10 +23,10 @@
     <contour>
       <point type="curve" x="74" y="486" />
       <point type="line" x="82" y="508" />
-      <point name="hintSet0014" x="44" y="524" />
+      <point x="44" y="524" />
       <point x="16" y="546" />
       <point type="curve" x="16" y="586" />
-      <point x="16" y="624" />
+      <point name="hintSet0015" x="16" y="624" />
       <point x="48" y="646" />
       <point type="curve" x="102" y="646" />
       <point type="line" x="100" y="672" />
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ea4010db83a766693a103471fb3480f6be1c604ccebe66594b5ff720c906fc48458d94a44aceb5800a48b984ca747a0a35461523cdaebd27f73eddd7e15c4509">
+        <hintSetList id="73e4a322cf2096a1295b2629f7bec88c922a0b6e4797b90aa0603badba435a445bda529c3eb1808dfd45d22e838e053cf56950cb295313b9bf9e50eb122516af">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="646" width="26" />
@@ -50,11 +50,11 @@
           </hintset>
           <hintset pointTag="hintSet0003">
             <hstem pos="21" width="-21" />
-            <hstem pos="646" width="14" />
+            <hstem pos="660" width="-20" />
             <vstem pos="-14" width="30" />
             <vstem pos="342" width="32" />
           </hintset>
-          <hintset pointTag="hintSet0014">
+          <hintset pointTag="hintSet0015">
             <hstem pos="21" width="-21" />
             <hstem pos="646" width="26" />
             <vstem pos="-14" width="30" />
@@ -62,7 +62,7 @@
           </hintset>
           <hintset pointTag="hintSet0018">
             <hstem pos="21" width="-21" />
-            <hstem pos="646" width="14" />
+            <hstem pos="660" width="-20" />
             <vstem pos="-14" width="30" />
             <vstem pos="342" width="32" />
           </hintset>

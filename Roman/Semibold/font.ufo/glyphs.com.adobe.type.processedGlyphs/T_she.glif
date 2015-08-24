@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Tshe">
+<glyph format="2" name="Tshe">
   <advance width="707" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="311" y="556" />
-      <point type="line" x="529" y="556" />
-      <point type="line" x="529" y="654" />
-      <point type="line" x="26" y="654" />
-      <point type="line" x="26" y="556" />
-      <point type="line" x="195" y="556" />
-      <point type="line" x="195" y="0" />
+      <point name="hintSet0000" type="line" x="195" y="0" />
       <point type="line" x="311" y="0" />
       <point type="line" x="311" y="302" />
       <point x="336" y="307" />
@@ -27,13 +21,19 @@
       <point x="376" y="404" />
       <point x="343" y="401" />
       <point type="curve" x="311" y="396" />
+      <point type="line" x="311" y="556" />
+      <point type="line" x="529" y="556" />
+      <point type="line" x="529" y="654" />
+      <point type="line" x="26" y="654" />
+      <point type="line" x="26" y="556" />
+      <point type="line" x="195" y="556" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="66a7e1c3cfd94d6c5f03eabbf1333be21e0849c81d77df0c46064ad521399f987da9d33f65d866d4a0e6697cd7a4e6138dda86a75ae32eeeec46633a7f959e76">
+        <hintSetList id="73351ba5fa89326de4bd4493a22f3502a866a2c30879122035d5a90fc4b02eaaaa99d2cc600458308ae0fa9f703b873b53e6ad5d9697a5fe3fcea178bc8f6c66">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="311" width="93" />

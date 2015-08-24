@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="check">
+<glyph format="2" name="check">
   <advance width="612" />
   <outline>
     <contour>
@@ -25,9 +25,9 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="612151-20c237-10l313260o458487o616634c562684l405530o263285o19248c18848l157137o111230o56313c0275l63184o11190o">
+        <hintSetList id="027511123011190151-201571371884819248237-102632853132604055304584875626845631361261663463184">
           <hintset pointTag="hintSet0000">
-            <hstem pos="-15" width="63" />
+            <hstem pos="-20" width="704" />
             <vstem pos="0" width="616" />
           </hintset>
         </hintSetList>

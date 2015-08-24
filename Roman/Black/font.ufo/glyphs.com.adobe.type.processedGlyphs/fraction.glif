@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="fraction">
+<glyph format="2" name="fraction">
   <advance width="100" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="100-172-12l-76-12l272662l176662l">
+        <hintSetList id="-172-12-76-12100176662272662">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="674" />
             <vstem pos="-172" width="444" />

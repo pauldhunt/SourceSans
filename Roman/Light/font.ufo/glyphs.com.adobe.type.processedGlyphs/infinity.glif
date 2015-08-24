@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="infinity">
+<glyph format="2" name="infinity">
   <advance width="763" />
   <outline>
     <contour>
@@ -63,7 +63,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5aa2d0ad33c8e6268cc7682995d8f2de6e4f02efb740cf90eabc24969749985916964fba447e6dbaee67bb3fb093e5b89237189bfc139c2f6fa4b722e13d0a11">
+        <hintSetList id="2d9e14fbab901337b4116f38d0465aa5ba05b5c5d1af26f1200c6d8bcaba8a2b44da71fc79477a9548153e4f3bc945d6ee15f2f0edef4ffd6d13a15f3cf6ef80">
           <hintset pointTag="hintSet0000">
             <hstem pos="167" width="44" />
             <hstem pos="457" width="37" />

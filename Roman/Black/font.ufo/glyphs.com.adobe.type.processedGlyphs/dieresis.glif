@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dieresis">
+<glyph format="2" name="dieresis">
   <advance width="560" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="4a787394c9a5c549ed8361335c3ac6417f98bebb419d42b076b55e2b434fb0ba5d6dc7cd9de3c51084c95a181d82540b084aebeb712b668ac0cd51ff1a715632">
+        <hintSetList id="0e3985a76cba344ddeebfdb7d135f67db95158b20284a4d461d9bd6e8158b6a4d8037217fdebbeb78eea5c901a7b42376fcd6cf1e5a2957229fe0f7f881d26a3">
           <hintset pointTag="hintSet0000">
             <hstem pos="562" width="160" />
             <vstem pos="86" width="160" />

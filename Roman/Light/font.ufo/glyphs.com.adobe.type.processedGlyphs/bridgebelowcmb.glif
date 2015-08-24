@@ -1,23 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="bridgebelowcmb">
-  <advance width="0" />
+<glyph format="2" name="bridgebelowcmb">
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="86" y="-229" />
-      <point type="line" x="117" y="-229" />
-      <point type="line" x="117" y="-85" />
-      <point type="line" x="-117" y="-85" />
-      <point type="line" x="-117" y="-229" />
+      <point name="hintSet0000" type="line" x="-117" y="-229" />
       <point type="line" x="-86" y="-229" />
       <point type="line" x="-86" y="-118" />
       <point type="line" x="86" y="-118" />
+      <point type="line" x="86" y="-229" />
+      <point type="line" x="117" y="-229" />
+      <point type="line" x="117" y="-85" />
+      <point type="line" x="-117" y="-85" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="086-229l117-229l117-85l-117-85l-117-229l-86-229l-86-118l86-118l">
+        <hintSetList id="-117-229-117-85-86-118-86-2291000117-229117-8586-11886-229">
           <hintset pointTag="hintSet0000">
             <hstem pos="-118" width="33" />
             <vstem pos="-117" width="31" />

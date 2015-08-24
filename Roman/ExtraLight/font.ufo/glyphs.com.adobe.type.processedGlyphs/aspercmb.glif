@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="aspercmb">
-  <advance width="0" />
+<glyph format="2" name="aspercmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="22" y="578" />
@@ -23,7 +22,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="022578c30600l-8612o-36628o-36658c-36690o-4706o50708c48734l-10732o-66712o-66662c-66612o-22592o">
+        <hintSetList id="-10732-22592-36628-36658-36690-4706-66612-66662-66712-8612100022578306004873450708">
           <hintset pointTag="hintSet0000">
             <hstem pos="708" width="26" />
             <vstem pos="-66" width="30" />

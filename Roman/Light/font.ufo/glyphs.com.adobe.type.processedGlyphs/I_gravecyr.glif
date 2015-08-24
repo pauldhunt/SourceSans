@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Igravecyr">
+<glyph format="2" name="Igravecyr">
   <advance width="644" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="92be8d5a1a082a17e4579ce1a124e191a1033af1828236d9b5aaeeaa6282f462baf4a5505356e09f0593a21827f529e2d764ffaf5a996c5fb98336de6a028bef">
+        <hintSetList id="cec872ab2a65aa373ef341ee0bb737117745aad0c9a66c889052049a5def58103f7762e636bd88b450188cf42e01e8f404bdcee33756c268a6f21b8a788948ab">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="63" />
             <hstem pos="596" width="63" />

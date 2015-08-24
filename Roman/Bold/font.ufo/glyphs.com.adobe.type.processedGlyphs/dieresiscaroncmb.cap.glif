@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="dieresiscaroncmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-63" y="854" />
+      <point type="line" x="63" y="854" />
+      <point type="line" x="155" y="956" />
+      <point type="line" x="96" y="995" />
+      <point type="line" x="2" y="922" />
+      <point type="line" x="-2" y="922" />
+      <point type="line" x="-96" y="995" />
+      <point type="line" x="-155" y="956" />
+    </contour>
+    <contour>
+      <point type="curve" x="-111" y="700" />
+      <point x="-75" y="700" />
+      <point x="-49" y="727" />
+      <point type="curve" x="-49" y="762" />
+      <point x="-49" y="796" />
+      <point x="-75" y="823" />
+      <point type="curve" x="-111" y="823" />
+      <point x="-147" y="823" />
+      <point x="-172" y="796" />
+      <point type="curve" x="-172" y="762" />
+      <point x="-172" y="727" />
+      <point x="-147" y="700" />
+    </contour>
+    <contour>
+      <point type="curve" x="111" y="700" />
+      <point x="147" y="700" />
+      <point x="172" y="727" />
+      <point type="curve" x="172" y="762" />
+      <point x="172" y="796" />
+      <point x="147" y="823" />
+      <point type="curve" x="111" y="823" />
+      <point x="75" y="823" />
+      <point x="49" y="796" />
+      <point type="curve" x="49" y="762" />
+      <point x="49" y="727" />
+      <point x="75" y="700" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="44510b2323b31d5794739d428f9ed4c5dce7299b1330d2ce0df15fe87178d56458b51359540213fbe3b8e83f95b82f814ecb203eeb58fa8679c7fcbaa823e49c">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="700" width="123" />
+            <hstem pos="854" width="68" />
+            <vstem pos="-172" width="123" />
+            <vstem pos="49" width="123" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

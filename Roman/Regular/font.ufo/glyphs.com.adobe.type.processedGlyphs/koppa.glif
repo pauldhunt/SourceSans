@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="koppa">
+<glyph format="2" name="koppa">
   <advance width="535" />
   <outline>
     <contour>
@@ -40,9 +40,9 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="375550448451bf61f1eedd0356ca318471f30058b41bab9aa42357c936cee16a10a7ea18f5685aa92baba8d42c9fb051a430c7e553d9a4e45dcb99b01ad1e094">
+        <hintSetList id="f09537ca409fd6dd9c8e503b98b5510c2528b5e4d1382766f72a93ff1fdd78ad58869574cb4fa31ee624caaf0b7d3a55b86a18f080a6ef6deb9482aa068640fb">
           <hintset pointTag="hintSet0000">
-            <hstem pos="-8" width="62" />
+            <hstem pos="-9" width="63" />
             <hstem pos="430" width="68" />
             <vstem pos="46" width="85" />
             <vstem pos="230" width="83" />

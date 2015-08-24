@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Idotbelow">
+<glyph format="2" name="Idotbelow">
   <advance width="282" />
   <outline>
     <contour>
@@ -9,25 +9,25 @@
       <point type="line" x="83" y="654" />
     </contour>
     <contour>
-      <point name="hintSet0004" type="curve" x="142" y="-217" />
-      <point x="182" y="-217" />
-      <point x="210" y="-190" />
-      <point type="curve" x="210" y="-151" />
-      <point x="210" y="-113" />
-      <point x="182" y="-86" />
-      <point type="curve" x="142" y="-86" />
-      <point x="102" y="-86" />
-      <point x="74" y="-113" />
-      <point type="curve" x="74" y="-151" />
-      <point x="74" y="-190" />
-      <point x="102" y="-217" />
+      <point name="hintSet0004" type="curve" x="141" y="-217" />
+      <point x="181" y="-217" />
+      <point x="209" y="-190" />
+      <point type="curve" x="209" y="-151" />
+      <point x="209" y="-113" />
+      <point x="181" y="-86" />
+      <point type="curve" x="141" y="-86" />
+      <point x="101" y="-86" />
+      <point x="73" y="-113" />
+      <point type="curve" x="73" y="-151" />
+      <point x="73" y="-190" />
+      <point x="101" y="-217" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="282830l1990l199654l83654l142-217c182-217o210-190o210-151c210-113o182-86o142-86c102-86o74-113o74-151c74-190o102-217o">
+        <hintSetList id="101-217101-86141-217141-86181-217181-861990199654209-113209-151209-19028273-11373-15173-19083083654">
           <hintset pointTag="hintSet0000">
             <hstem pos="-217" width="131" />
             <hstem pos="21" width="-21" />
@@ -38,7 +38,7 @@
             <hstem pos="-217" width="131" />
             <hstem pos="21" width="-21" />
             <hstem pos="654" width="-20" />
-            <vstem pos="74" width="136" />
+            <vstem pos="73" width="136" />
           </hintset>
         </hintSetList>
       </data>

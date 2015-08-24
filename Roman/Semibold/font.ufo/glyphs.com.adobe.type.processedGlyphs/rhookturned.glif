@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="rhookturned">
+<glyph format="2" name="rhookturned">
   <advance width="373" />
   <outline>
     <contour>
@@ -40,7 +40,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="90c59ba180ec0df2d0b6c0745fe77536c99b3696c21cac122d272b78d3e90bacf997dff4caaad35df97791ec51949cbdb31292115f319a349965874e938be2a1">
+        <hintSetList id="3fd47148fb748d791530698222c7631c1ca0b8397ca2464202e079cbac0633e22115098f498c11f9cb6d3856fdfd677cdcb8a5ea70b8ef63743d0f38dae22753">
           <hintset pointTag="hintSet0000">
             <hstem pos="-185" width="92" />
             <hstem pos="-12" width="102" />

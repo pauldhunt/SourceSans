@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Tcircumflexbelow">
+  <advance width="556" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="204" y="0" />
+      <point type="line" x="352" y="0" />
+      <point type="line" x="352" y="528" />
+      <point type="line" x="531" y="528" />
+      <point type="line" x="531" y="652" />
+      <point type="line" x="25" y="652" />
+      <point type="line" x="25" y="528" />
+      <point type="line" x="204" y="528" />
+    </contour>
+    <contour>
+      <point type="line" x="151" y="-231" />
+      <point type="line" x="276" y="-139" />
+      <point type="line" x="280" y="-139" />
+      <point type="line" x="405" y="-231" />
+      <point type="line" x="461" y="-179" />
+      <point type="line" x="353" y="-48" />
+      <point type="line" x="203" y="-48" />
+      <point type="line" x="95" y="-179" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="151-231203-4820402045282552825652276-139280-1393520352528353-48405-231461-17953152853165255695-179">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-139" width="91" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="528" width="124" />
+            <vstem pos="204" width="148" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

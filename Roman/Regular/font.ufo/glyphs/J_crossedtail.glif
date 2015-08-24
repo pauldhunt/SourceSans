@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcrossedtail" format="1">
+  <advance width="456"/>
+  <outline>
+    <contour>
+      <point x="380" y="-18" type="curve"/>
+      <point x="439" y="21" type="line"/>
+      <point x="368" y="151"/>
+      <point x="283" y="240"/>
+      <point x="179" y="240" type="curve" smooth="yes"/>
+      <point x="87" y="240"/>
+      <point x="34" y="188"/>
+      <point x="34" y="120" type="curve" smooth="yes"/>
+      <point x="34" y="50"/>
+      <point x="90" y="-12"/>
+      <point x="183" y="-12" type="curve" smooth="yes"/>
+      <point x="307" y="-12"/>
+      <point x="368" y="79"/>
+      <point x="368" y="207" type="curve" smooth="yes"/>
+      <point x="368" y="656" type="line"/>
+      <point x="284" y="656" type="line"/>
+      <point x="284" y="209" type="line" smooth="yes"/>
+      <point x="284" y="138"/>
+      <point x="264" y="61"/>
+      <point x="189" y="61" type="curve" smooth="yes"/>
+      <point x="144" y="61"/>
+      <point x="115" y="87"/>
+      <point x="115" y="120" type="curve" smooth="yes"/>
+      <point x="115" y="149"/>
+      <point x="138" y="173"/>
+      <point x="184" y="173" type="curve" smooth="yes"/>
+      <point x="256" y="173"/>
+      <point x="320" y="94"/>
+    </contour>
+    <contour>
+      <point x="323" y="678" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="228" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

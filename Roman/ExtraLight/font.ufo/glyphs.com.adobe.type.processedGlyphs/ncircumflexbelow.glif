@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="ncircumflexbelow">
+  <advance width="526" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="96" y="0" />
+      <point type="line" x="126" y="0" />
+      <point type="line" x="126" y="366" />
+      <point x="188" y="430" />
+      <point x="232" y="462" />
+      <point type="curve" x="292" y="462" />
+      <point x="374" y="462" />
+      <point x="408" y="410" />
+      <point type="curve" x="408" y="304" />
+      <point type="line" x="408" y="0" />
+      <point type="line" x="438" y="0" />
+      <point type="line" x="438" y="308" />
+      <point x="438" y="432" />
+      <point x="392" y="490" />
+      <point type="curve" x="294" y="490" />
+      <point x="228" y="490" />
+      <point x="178" y="452" />
+      <point type="curve" x="128" y="402" />
+      <point type="line" x="126" y="402" />
+      <point name="hintSet0011" type="line" x="122" y="478" />
+      <point type="line" x="96" y="478" />
+    </contour>
+    <contour>
+      <point type="line" x="154" y="-218" />
+      <point type="line" x="266" y="-88" />
+      <point type="line" x="270" y="-88" />
+      <point type="line" x="382" y="-218" />
+      <point type="line" x="400" y="-202" />
+      <point type="line" x="282" y="-56" />
+      <point type="line" x="254" y="-56" />
+      <point type="line" x="136" y="-202" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="7552be718c552fe00540f02328abceb282592ba38434852448cbf26028256ef0c30b7ad3f2fb6c3ba7a5a8e66e67bd27ea789113775975daab79342c6286f9b3">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-88" width="32" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="462" width="28" />
+            <vstem pos="96" width="30" />
+            <vstem pos="408" width="30" />
+          </hintset>
+          <hintset pointTag="hintSet0011">
+            <hstem pos="-88" width="32" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="478" width="-20" />
+            <vstem pos="96" width="30" />
+            <vstem pos="408" width="30" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

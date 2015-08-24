@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="macronacutecmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-124" y="743" />
+      <point type="line" x="124" y="743" />
+      <point type="line" x="124" y="779" />
+      <point type="line" x="-124" y="779" />
+    </contour>
+    <contour>
+      <point type="line" x="-11" y="823" />
+      <point type="line" x="97" y="917" />
+      <point type="line" x="71" y="945" />
+      <point type="line" x="-31" y="844" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-11823-124743-124779-3184410001247431247797194597917">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="743" width="36" />
+            <vstem pos="-124" width="248" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

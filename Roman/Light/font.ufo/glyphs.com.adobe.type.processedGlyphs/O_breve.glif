@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Obreve">
+<glyph format="2" name="Obreve">
   <advance width="652" />
   <outline>
     <contour>
@@ -36,11 +36,11 @@
       <point x="455" y="775" />
       <point type="curve" x="462" y="834" />
       <point type="line" x="429" y="839" />
-      <point x="422" y="788" />
+      <point x="422" y="789" />
       <point x="390" y="743" />
       <point type="curve" x="326" y="743" />
       <point x="262" y="743" />
-      <point x="230" y="788" />
+      <point x="230" y="789" />
       <point type="curve" x="223" y="839" />
       <point type="line" x="190" y="834" />
       <point x="197" y="775" />
@@ -51,14 +51,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="dc5c134b5851ab12a85b883ffca1712a020c04c60551ec71999636ae9e60a0484ef6faa7e07bef0eb0245e02bb36701597238db2435f0be8784821c0b1be5bdf">
+        <hintSetList id="eac271d67d09a3879ea1c58a2163e518f91fb69e7bf80ee9b20b50a753b5d341648c1d0d4e43917bac0a09f7fd8fc47851ae25474d8dc672064cfba788e2a171">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="42" />
             <hstem pos="629" width="42" />
             <hstem pos="710" width="33" />
             <vstem pos="55" width="48" />
-            <vstem pos="190" width="33" />
-            <vstem pos="429" width="33" />
             <vstem pos="549" width="49" />
           </hintset>
         </hintSetList>

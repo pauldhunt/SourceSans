@@ -1,10 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="seagullbelowcmb">
-  <advance width="0" />
+<glyph format="2" name="seagullbelowcmb">
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="-152" y="-222" />
-      <point type="line" x="-126" y="-224" />
+      <point name="hintSet0000" type="line" x="-126" y="-224" />
       <point x="-126" y="-131" />
       <point x="-103" y="-108" />
       <point type="curve" x="-68" y="-108" />
@@ -33,13 +31,14 @@
       <point type="curve" x="-70" y="-84" />
       <point x="-120" y="-84" />
       <point x="-153" y="-121" />
+      <point type="curve" x="-152" y="-222" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a5cfe8aa35b518dd3125ac769b7e1cf9ca0f6e186b44dd2fc71369c081c3346f194c0be54225b578cd6330540c5098fefb3d0221fe6f89a174e19920e263ef24">
+        <hintSetList id="2623453a7d98baf6d3c30cc646eda317f5326f9e54eaa4aa3a290218ce5d41b789df5afbe389b83af068de5155c8f7beb0b7b0065d8a03506b64a0f719f3be62">
           <hintset pointTag="hintSet0000">
             <hstem pos="-224" width="79" />
             <hstem pos="-108" width="24" />

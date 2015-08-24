@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="deposeemark">
+<glyph format="2" name="deposeemark">
   <advance width="653" />
   <outline>
     <contour>
@@ -51,7 +51,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fe3fa13e80066482038946893f7a333d81597b8278a87d4f718658e77057ce42dadf2b591c860e4bf13b1e577a74b2cfe6f37e35f1bf0552f1567d7e2acad762">
+        <hintSetList id="ce1a44ab3dba4ac1819d515626d5dd50174074bd71aa58343b64f8b692c0d7e62ca431533ae0346e86d52a5f3255e012da412dc3dbaaf2f377e0b928cd3dcd9a">
           <hintset pointTag="hintSet0000">
             <hstem pos="366" width="47" />
             <hstem pos="608" width="68" />

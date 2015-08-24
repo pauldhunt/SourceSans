@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gcommaaccent.a">
+  <advance width="559" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="328" y="575" />
+      <point type="line" x="346" y="613" />
+      <point x="300" y="617" />
+      <point x="275" y="629" />
+      <point type="curve" x="275" y="655" />
+      <point x="275" y="683" />
+      <point x="300" y="698" />
+      <point type="curve" x="384" y="703" />
+      <point type="line" x="376" y="744" />
+      <point x="270" y="738" />
+      <point x="211" y="710" />
+      <point type="curve" x="211" y="652" />
+      <point x="211" y="607" />
+      <point x="241" y="585" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="211607211652211710241585270738275629275655275683300617300698328575346613376744384703559">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="703" width="41" />
+            <vstem pos="211" width="64" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

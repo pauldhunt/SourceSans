@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omegalenisacute">
+<glyph format="2" name="omegalenisacute">
   <advance width="764" />
   <outline>
     <contour>
@@ -77,11 +77,10 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ee8aa3d9be1b764cd9d27cda86a96932c0b190c3ddf773b7caae70e78cc11fcc1f4642c4db001028734f57fd3addd103cdf22ee70c4c3630ec9e1a4cdcfb1228">
+        <hintSetList id="a7a001eaf0f489e989cea8a7f242383d8a44a06e04725a5aeef09e62a59c8e921189e9e9ff08b3e9458c05c347c2ad0effa855bbabf077ceb41d62e8a6def859">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="138" />
             <hstem pos="512" width="-20" />
-            <hstem pos="700" width="94" />
             <vstem pos="36" width="162" />
             <vstem pos="304" width="152" />
             <vstem pos="556" width="172" />

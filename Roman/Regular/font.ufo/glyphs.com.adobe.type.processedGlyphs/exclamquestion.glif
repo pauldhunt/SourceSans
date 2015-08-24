@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="exclamquestion">
+<glyph format="2" name="exclamquestion">
   <advance width="679" />
   <outline>
     <contour>
@@ -65,7 +65,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="59f07969dea86332e2220653e1bfb0cbbd0ae270616011f7fef0c5ca090f26d41e77414702c5d66ca81d81d05554bc3252e6c2961c4cba5a7e616f7df552754c">
+        <hintSetList id="252de7ba1cf20108d65fb3c6e55e14a04846f67085c15f55959c5162da1eee29b8bedef272e50ab031d427b33f0743622b6f9b96dfa32acea42362604d224e3c">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="126" />
             <hstem pos="614" width="68" />

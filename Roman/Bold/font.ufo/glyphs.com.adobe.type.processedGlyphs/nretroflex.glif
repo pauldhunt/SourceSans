@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="nretroflex">
+<glyph format="2" name="nretroflex">
   <advance width="572" />
   <outline>
     <contour>
@@ -42,7 +42,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="b4e184a6fc8cf650eabb6a89c5ac0d04e46da6736d92f554e295607cf28390ca43025fbf987592a0bacc134161c8b44c0459f037fb38e5c255c513c94d01ab70">
+        <hintSetList id="3dd89a969c865813f906bad10bdf4c41052f5b85a3b07f4139b4bf7896ab89993b08476deeaaf917e2b9c54008e6aec02c2b17b0ba3fad27ae68fa1c47a0ff26">
           <hintset pointTag="hintSet0000">
             <hstem pos="-187" width="116" />
             <hstem pos="383" width="125" />

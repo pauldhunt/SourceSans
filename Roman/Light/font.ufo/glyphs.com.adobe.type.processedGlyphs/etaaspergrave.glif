@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="etaaspergrave">
+<glyph format="2" name="etaaspergrave">
   <advance width="529" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
       <point type="curve" x="251" y="707" />
       <point type="line" x="249" y="740" />
       <point x="189" y="738" />
-      <point x="138" y="715" />
+      <point x="138" y="716" />
       <point type="curve" x="138" y="664" />
       <point x="138" y="612" />
       <point x="179" y="590" />
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="dba418947af47c84727a09b84af4223bbd3627af48a1893e1b9cc3e1866c4d11a2530e00abf6760cd2f5ad3e0cbaf881285051d925466f469845e7fb4fa5545f">
+        <hintSetList id="f956f112e38ede4c354fc18a0560362574366c91bae737896e4a8f9629f84a69885c46654361d6f541f8d27bb10639cbbbc2703c4c51bef6a7776a1a90b99bd5">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="452" width="40" />

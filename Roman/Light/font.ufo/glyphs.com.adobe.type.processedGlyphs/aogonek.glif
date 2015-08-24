@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="aogonek">
+<glyph format="2" name="aogonek">
   <advance width="491" />
   <outline>
     <contour>
@@ -65,7 +65,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="91686a252232921302171abc285834b4c95c988aa5d54e56312624afaff92e0f61bf1e8acc6516c780aa1b0b25ad0ce5e918abfc5689e77d902d9c62a66ddfc4">
+        <hintSetList id="68aea6f885d1c9255b06db5b3bab250c864044a14633f6001e54c3b9e4018a9812abdbe51468f084daf7939475a48cdb47cbd38417d06c8fac5e2eddb2d9cc72">
           <hintset pointTag="hintSet0000">
             <hstem pos="-203" width="35" />
             <hstem pos="-12" width="38" />

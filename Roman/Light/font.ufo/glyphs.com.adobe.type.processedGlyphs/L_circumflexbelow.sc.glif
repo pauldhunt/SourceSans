@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Lcircumflexbelow.sc">
+  <advance width="417" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="97" y="0" />
+      <point type="line" x="395" y="0" />
+      <point type="line" x="395" y="39" />
+      <point type="line" x="143" y="39" />
+      <point type="line" x="143" y="512" />
+      <point type="line" x="97" y="512" />
+    </contour>
+    <contour>
+      <point type="line" x="141" y="-220" />
+      <point type="line" x="255" y="-94" />
+      <point type="line" x="259" y="-94" />
+      <point type="line" x="373" y="-220" />
+      <point type="line" x="395" y="-199" />
+      <point type="line" x="278" y="-55" />
+      <point type="line" x="236" y="-55" />
+      <point type="line" x="119" y="-199" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="119-199141-22014339143512236-55255-94259-94278-55373-220395-19939503953941797097512">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-94" width="39" />
+            <hstem pos="0" width="39" />
+            <hstem pos="512" width="-20" />
+            <vstem pos="97" width="46" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Upsilonasper">
+<glyph format="2" name="Upsilonasper">
   <advance width="645" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="365" y="0" />
       <point type="line" x="449" y="0" />
       <point type="line" x="449" y="254" />
-      <point type="line" x="646" y="656" />
+      <point name="hintSet0003" type="line" x="646" y="656" />
       <point type="line" x="559" y="656" />
       <point type="line" x="475" y="471" />
       <point x="455" y="423" />
@@ -26,10 +26,10 @@
       <point x="76" y="511" />
       <point x="51" y="529" />
       <point type="curve" x="51" y="565" />
-      <point x="51" y="596" />
+      <point name="hintSet0015" x="51" y="596" />
       <point x="78" y="616" />
       <point type="curve" x="134" y="618" />
-      <point name="hintSet0016" type="line" x="125" y="665" />
+      <point type="line" x="125" y="665" />
       <point x="38" y="663" />
       <point x="-13" y="632" />
       <point type="curve" x="-13" y="574" />
@@ -41,14 +41,20 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="51d202cfdc6b02da496d90a4c89d679042acb078d63ceaab5677108f4a7e85f183ace437c527877f3bb300fc0ee31f1704a19050ceea5a0701ce0e47c3a544d7">
+        <hintSetList id="5d1abc4431a8af911dad9365ee19534930c900d6ff5948edd6b0f8766ada7748f62b869d787bfd96b60b90e63b01f276db76fb8ca9019b0bf13a860e95a57514">
           <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="618" width="47" />
+            <vstem pos="-13" width="64" />
+            <vstem pos="365" width="84" />
+          </hintset>
+          <hintset pointTag="hintSet0003">
             <hstem pos="21" width="-21" />
             <hstem pos="618" width="38" />
             <vstem pos="-13" width="64" />
             <vstem pos="365" width="84" />
           </hintset>
-          <hintset pointTag="hintSet0016">
+          <hintset pointTag="hintSet0015">
             <hstem pos="21" width="-21" />
             <hstem pos="618" width="47" />
             <vstem pos="-13" width="64" />

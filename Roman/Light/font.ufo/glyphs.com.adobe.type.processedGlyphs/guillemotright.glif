@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="guillemotright">
+<glyph format="2" name="guillemotright">
   <advance width="399" />
   <outline>
     <contour>
@@ -25,7 +25,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="3997872l216233l216271l78432l54411l176252l5491l21972l357233l357271l219432l195411l317252l19591l">
+        <hintSetList id="1762521954111959121623321627121943221972317252357233357271399544115491784327872">
           <hintset pointTag="hintSet0000">
             <hstem pos="72" width="360" />
             <vstem pos="176" width="40" />

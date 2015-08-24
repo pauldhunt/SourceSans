@@ -1,21 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omacronacute">
+<glyph format="2" name="omacronacute">
   <advance width="532" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="228" y="698" />
-      <point type="line" x="358" y="786" />
-      <point type="line" x="336" y="814" />
-      <point type="line" x="210" y="720" />
-    </contour>
-    <contour>
-      <point type="line" x="146" y="608" />
-      <point type="line" x="386" y="608" />
-      <point type="line" x="386" y="636" />
-      <point type="line" x="146" y="636" />
-    </contour>
-    <contour>
-      <point type="curve" x="266" y="-12" />
+      <point name="hintSet0000" type="curve" x="266" y="-12" />
       <point x="380" y="-12" />
       <point x="478" y="80" />
       <point type="curve" x="478" y="238" />
@@ -42,12 +30,24 @@
       <point x="446" y="106" />
       <point x="368" y="16" />
     </contour>
+    <contour>
+      <point type="line" x="228" y="698" />
+      <point type="line" x="358" y="786" />
+      <point type="line" x="336" y="814" />
+      <point type="line" x="210" y="720" />
+    </contour>
+    <contour>
+      <point type="line" x="146" y="608" />
+      <point type="line" x="386" y="608" />
+      <point type="line" x="386" y="636" />
+      <point type="line" x="146" y="636" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="df8a117cd52d5526a7338b303cff681912206c74e4cb465f4371b11f60862a3c1b5cbf63426f2bbb9e066ce5e48a56ed7ed792a032102317bd605dd01595974d">
+        <hintSetList id="29a1ea4c7180b6092361fd9ba4084788eff01eb7113fe96e74476f5e83dbf9c2a53d5637fd775babde7697faadf90a26b4a6a98cd5bd5c7791988dc21ba75a20">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />

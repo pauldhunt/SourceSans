@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="brokenbar">
+<glyph format="2" name="brokenbar">
   <advance width="241" />
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="24192291l150291l150750l92750l92-250l150-250l150214l92214l">
+        <hintSetList id="150-25015021415029115075024192-250922149229192750">
           <hintset pointTag="hintSet0000">
             <hstem pos="-250" width="1000" />
             <vstem pos="92" width="58" />

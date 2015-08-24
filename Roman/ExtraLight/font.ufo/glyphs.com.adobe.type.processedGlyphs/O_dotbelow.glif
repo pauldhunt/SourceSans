@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Odotbelow">
+<glyph format="2" name="Odotbelow">
   <advance width="648" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="324" y="-190" />
-      <point x="342" y="-190" />
-      <point x="356" y="-176" />
-      <point type="curve" x="356" y="-154" />
-      <point x="356" y="-134" />
-      <point x="342" y="-120" />
-      <point type="curve" x="324" y="-120" />
-      <point x="306" y="-120" />
-      <point x="292" y="-134" />
-      <point type="curve" x="292" y="-154" />
-      <point x="292" y="-176" />
-      <point x="306" y="-190" />
-    </contour>
-    <contour>
-      <point type="curve" x="324" y="-12" />
+      <point name="hintSet0000" type="curve" x="324" y="-12" />
       <point x="480" y="-12" />
       <point x="592" y="124" />
       <point type="curve" x="592" y="332" />
@@ -44,12 +30,26 @@
       <point x="558" y="142" />
       <point x="464" y="18" />
     </contour>
+    <contour>
+      <point type="curve" x="324" y="-190" />
+      <point x="342" y="-190" />
+      <point x="356" y="-176" />
+      <point type="curve" x="356" y="-154" />
+      <point x="356" y="-134" />
+      <point x="342" y="-120" />
+      <point type="curve" x="324" y="-120" />
+      <point x="306" y="-120" />
+      <point x="292" y="-134" />
+      <point type="curve" x="292" y="-154" />
+      <point x="292" y="-176" />
+      <point x="306" y="-190" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="42bcfe296c1c4ff61d37e96359f0a445170e889da4f863d31d63c44d7806ea22f33fd44da422e9116d93b65103f3bc97c3112875efadafc846d7195e2c1b72ae">
+        <hintSetList id="8e5a987c3b690af0262a51be479580a0f249b19266b414b3327825d93e9a359db15d917a1b565ebc1bef46271e90075300b385e97e098afda2a6446125111e1e">
           <hintset pointTag="hintSet0000">
             <hstem pos="-190" width="70" />
             <hstem pos="-12" width="30" />

@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ndotaccent">
+<glyph format="2" name="Ndotaccent">
   <advance width="636" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="323" y="721" />
-      <point x="345" y="721" />
-      <point x="363" y="737" />
-      <point type="curve" x="363" y="762" />
-      <point x="363" y="785" />
-      <point x="345" y="801" />
-      <point type="curve" x="323" y="801" />
-      <point x="301" y="801" />
-      <point x="283" y="785" />
-      <point type="curve" x="283" y="762" />
-      <point x="283" y="737" />
-      <point x="301" y="721" />
-    </contour>
-    <contour>
-      <point type="line" x="97" y="0" />
+      <point name="hintSet0000" type="line" x="97" y="0" />
       <point type="line" x="141" y="0" />
       <point type="line" x="141" y="409" />
       <point x="141" y="473" />
@@ -38,12 +24,26 @@
       <point type="line" x="145" y="659" />
       <point type="line" x="97" y="659" />
     </contour>
+    <contour>
+      <point type="curve" x="323" y="721" />
+      <point x="345" y="721" />
+      <point x="363" y="737" />
+      <point type="curve" x="363" y="762" />
+      <point x="363" y="785" />
+      <point x="345" y="801" />
+      <point type="curve" x="323" y="801" />
+      <point x="301" y="801" />
+      <point x="283" y="785" />
+      <point type="curve" x="283" y="762" />
+      <point x="283" y="737" />
+      <point x="301" y="721" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="be1f727bd280ba7eef9e62504dbde03d7b72a02a6747e13b0cf3a4ed9887bfed6080964a79fc8c44757f6ee00434ba0dfbd128d6a432b1fdb234d7943bff5481">
+        <hintSetList id="3f615b4e0018c2d20561e4230eeda8fdd94981853950b27b0ec7740f49da5332d278689b68ae758253477f30b1efc078b67d0c893ae71dddf573fc3fbded8fdb">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="63" />
             <hstem pos="596" width="63" />

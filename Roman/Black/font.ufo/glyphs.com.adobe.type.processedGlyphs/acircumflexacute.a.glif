@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="acircumflexacute.a">
+  <advance width="580" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="206" y="564" />
+      <point type="line" x="308" y="626" />
+      <point type="line" x="312" y="626" />
+      <point type="line" x="414" y="564" />
+      <point type="line" x="468" y="624" />
+      <point type="line" x="378" y="716" />
+      <point type="line" x="242" y="716" />
+      <point type="line" x="152" y="624" />
+    </contour>
+    <contour>
+      <point type="line" x="502" y="638" />
+      <point type="line" x="604" y="760" />
+      <point type="line" x="514" y="818" />
+      <point type="line" x="438" y="688" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="152624206564242716308626312626378716414564438688468624502638514818580604760">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="626" width="90" />
+            <vstem pos="152" width="452" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

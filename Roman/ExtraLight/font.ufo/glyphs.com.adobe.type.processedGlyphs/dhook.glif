@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dhook">
+<glyph format="2" name="dhook">
   <advance width="540" />
   <outline>
     <contour>
@@ -18,7 +18,7 @@
       <point x="537" y="704" />
       <point type="curve" x="548" y="700" />
       <point name="hintSet0008" type="line" x="556" y="726" />
-      <point name="hintSet0009" x="543" y="732" />
+      <point x="543" y="732" />
       <point x="526" y="736" />
       <point type="curve" x="510" y="736" />
       <point x="452" y="736" />
@@ -31,7 +31,7 @@
       <point x="152" y="490" />
       <point x="54" y="392" />
       <point type="curve" x="54" y="238" />
-      <point name="hintSet0014" x="54" y="76" />
+      <point x="54" y="76" />
       <point x="132" y="-12" />
     </contour>
     <contour>
@@ -54,7 +54,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f9d0aeb6245b7e611088d5cc9dbd3930edd3a6fe79f95f8961b90919bc1c537a849bfee6192f91b99a1c429f2ad9430f6f80a079fff0df269215896696f49c56">
+        <hintSetList id="56ec61ed9b9c63d1928290b49f9c497077cd2ba1015864b5d51e2e926ad15fa80e4677f48e01af350e5ef34e9504bd4ff4ecce565d2e8ba002be69d712916cb4">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />
@@ -70,20 +70,6 @@
             <vstem pos="414" width="30" />
           </hintset>
           <hintset pointTag="hintSet0008">
-            <hstem pos="-12" width="28" />
-            <hstem pos="462" width="28" />
-            <hstem pos="726" width="-20" />
-            <vstem pos="54" width="32" />
-            <vstem pos="414" width="30" />
-          </hintset>
-          <hintset pointTag="hintSet0009">
-            <hstem pos="-12" width="28" />
-            <hstem pos="462" width="28" />
-            <hstem pos="708" width="28" />
-            <vstem pos="54" width="32" />
-            <vstem pos="414" width="30" />
-          </hintset>
-          <hintset pointTag="hintSet0014">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />
             <hstem pos="726" width="-20" />

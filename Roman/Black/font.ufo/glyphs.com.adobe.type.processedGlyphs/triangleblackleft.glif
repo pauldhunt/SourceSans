@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="triangleblackleft">
+<glyph format="2" name="triangleblackleft">
   <advance width="870" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="825" y="720" />
+      <point name="hintSet0000" type="line" x="823" y="-60" />
+      <point type="line" x="825" y="-60" />
+      <point type="line" x="825" y="720" />
       <point type="line" x="823" y="720" />
       <point type="line" x="25" y="332" />
       <point type="line" x="25" y="328" />
-      <point type="line" x="823" y="-60" />
-      <point type="line" x="825" y="-60" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="870825720l823720l25332l25328l823-60l825-60l">
+        <hintSetList id="2532825332823-60823720825-60825720870">
           <hintset pointTag="hintSet0000">
             <hstem pos="-60" width="780" />
             <vstem pos="25" width="800" />

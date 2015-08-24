@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="trianglewhiteleft">
+<glyph format="2" name="trianglewhiteleft">
   <advance width="877" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="832" y="725" />
+      <point name="hintSet0000" type="line" x="830" y="-58" />
+      <point type="line" x="832" y="-58" />
+      <point type="line" x="832" y="725" />
       <point type="line" x="830" y="725" />
       <point type="line" x="25" y="336" />
       <point type="line" x="25" y="332" />
-      <point type="line" x="830" y="-58" />
-      <point type="line" x="832" y="-58" />
     </contour>
     <contour>
-      <point type="line" x="736" y="565" />
       <point type="line" x="736" y="102" />
       <point type="line" x="233" y="334" />
+      <point type="line" x="736" y="565" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="877832725l830725l25336l25332l830-58l832-58l736565l736102l233334l">
+        <hintSetList id="2333342533225336736102736565830-58830725832-58832725877">
           <hintset pointTag="hintSet0000">
             <hstem pos="-58" width="783" />
             <vstem pos="736" width="96" />

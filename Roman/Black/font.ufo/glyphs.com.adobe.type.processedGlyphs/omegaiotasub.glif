@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omegaiotasub">
+<glyph format="2" name="omegaiotasub">
   <advance width="764" />
   <outline>
     <contour>
@@ -75,7 +75,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="87f8a1f6cf8b4a1c4f18c78066f036b6fe15e0cc46b029c2d6731cab0740b774d3b6984e1dd46567e1e339a85b24078463d0d2103a100fde87a06ec8f6260f5c">
+        <hintSetList id="c3c7d749bb4821fb5fbe2d63df23e95950c6c33c3c89fa0a6c677bac41a410d3d5b87d4b91722f785843c7c49ea62959b55204800c5f96c6e51dc46c1a0c1755">
           <hintset pointTag="hintSet0000">
             <hstem pos="-222" width="170" />
             <hstem pos="-12" width="138" />

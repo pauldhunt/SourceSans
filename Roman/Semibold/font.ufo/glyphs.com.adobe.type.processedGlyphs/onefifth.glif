@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="onefifth">
+<glyph format="2" name="onefifth">
   <advance width="821" />
   <outline>
     <contour>
@@ -12,6 +12,12 @@
       <point type="curve" x="55" y="612" />
       <point type="line" x="55" y="558" />
       <point type="line" x="141" y="558" />
+    </contour>
+    <contour>
+      <point type="line" x="159" y="-12" />
+      <point type="line" x="230" y="-12" />
+      <point type="line" x="586" y="666" />
+      <point type="line" x="516" y="666" />
     </contour>
     <contour>
       <point type="curve" x="634" y="-12" />
@@ -46,18 +52,12 @@
       <point x="513" y="18" />
       <point x="565" y="-12" />
     </contour>
-    <contour>
-      <point type="line" x="159" y="-12" />
-      <point type="line" x="230" y="-12" />
-      <point type="line" x="586" y="666" />
-      <point type="line" x="516" y="666" />
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="989682ea1ee30e50afe700d9f764be4ed27767732aeb0226502725473b6bdfef6ec39caf445210d2a7fb7dc5f0e577b614f88f2523045f10a162bb866769eff3">
+        <hintSetList id="d65199aa52a461d8ca56940672b59863d16e2fcc485fa8bb5c8e4e8a721bb0265691463ff2f718ce5799585dff4c104efe3425679bf965acaa1f6be96ea4a010">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="67" />
             <hstem pos="199" width="53" />

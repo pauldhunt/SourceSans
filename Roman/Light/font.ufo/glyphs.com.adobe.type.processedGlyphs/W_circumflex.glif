@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Wcircumflex">
+<glyph format="2" name="Wcircumflex">
   <advance width="770" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="250" y="726" />
-      <point type="line" x="270" y="707" />
-      <point type="line" x="383" y="805" />
-      <point type="line" x="387" y="805" />
-      <point type="line" x="500" y="707" />
-      <point type="line" x="520" y="726" />
-      <point type="line" x="407" y="839" />
-      <point type="line" x="363" y="839" />
-    </contour>
-    <contour>
-      <point type="line" x="178" y="0" />
+      <point name="hintSet0000" type="line" x="178" y="0" />
       <point type="line" x="228" y="0" />
       <point type="line" x="346" y="452" />
       <point x="358" y="504" />
@@ -48,12 +38,22 @@
       <point type="line" x="76" y="659" />
       <point type="line" x="28" y="659" />
     </contour>
+    <contour>
+      <point type="line" x="270" y="707" />
+      <point type="line" x="383" y="805" />
+      <point type="line" x="387" y="805" />
+      <point type="line" x="500" y="707" />
+      <point type="line" x="520" y="726" />
+      <point type="line" x="407" y="839" />
+      <point type="line" x="363" y="839" />
+      <point type="line" x="250" y="726" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7f4829680d703593ca397b606b61944957f1af092a71cf40f20d7eae7f0ea85309cd6065a443ea84c14ae115ffbb51fbccb9169110692073c3e9c0809bc21bdf">
+        <hintSetList id="02e9cc8e14b758edaf2d986b6f4f05918c791a66a1a7b26f8cefb217f34339d3c042b92dfd6cfd3eec983db3124fac655fddd32751e56ba70fdc2f15b21944f7">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="56" />
             <hstem pos="601" width="58" />

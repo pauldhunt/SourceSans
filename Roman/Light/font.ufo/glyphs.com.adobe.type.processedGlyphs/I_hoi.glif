@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ihoi">
+<glyph format="2" name="Ihoi">
   <advance width="240" />
   <outline>
     <contour>
@@ -9,8 +9,8 @@
       <point type="line" x="97" y="659" />
     </contour>
     <contour>
-      <point name="hintSet0004" type="line" x="95" y="702" />
-      <point x="143" y="715" />
+      <point type="line" x="95" y="702" />
+      <point name="hintSet0005" x="143" y="715" />
       <point x="190" y="737" />
       <point type="curve" x="190" y="789" />
       <point x="190" y="839" />
@@ -29,12 +29,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="240970l1430l143659l97659l95702l143715o190737o190789c190839o135861o69863c65831l120829o150814o150783c150755o123740o87729c">
+        <hintSetList id="12082912374013586114301436591437151507551507831508141907371907891908392406583169863877299570297097659">
           <hintset pointTag="hintSet0000">
             <hstem pos="831" width="32" />
             <vstem pos="97" width="46" />
           </hintset>
-          <hintset pointTag="hintSet0004">
+          <hintset pointTag="hintSet0005">
             <hstem pos="831" width="32" />
             <vstem pos="150" width="40" />
           </hintset>

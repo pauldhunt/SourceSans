@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.cap" format="1">
   <advance width="456"/>
   <outline>
     <contour>
       <point x="136" y="0" type="curve"/>
       <point x="168" y="0" type="line"/>
-      <point x="219.573457472" y="251.678472462"/>
-      <point x="285.550402295" y="441.726623986"/>
+      <point x="220" y="252"/>
+      <point x="286" y="442"/>
       <point x="492" y="640" type="curve"/>
       <point x="496" y="660" type="line"/>
       <point x="124" y="660" type="line"/>
       <point x="118" y="634" type="line"/>
       <point x="454" y="634" type="line"/>
-      <point x="265.842377505" y="447.887569054"/>
-      <point x="193.773088559" y="262.042223107"/>
+      <point x="266" y="448"/>
+      <point x="194" y="262"/>
     </contour>
   </outline>
   <lib>

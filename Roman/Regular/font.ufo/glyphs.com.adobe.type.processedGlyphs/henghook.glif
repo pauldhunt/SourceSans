@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="henghook">
+<glyph format="2" name="henghook">
   <advance width="544" />
   <outline>
     <contour>
@@ -53,7 +53,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fa8c904fffdd5bf5b5eff2a878a30ea3b7806cde0e682ff8a8e9c7c85e83a212ca57552a372543a3bcc2bfae3cc96c5c807842d3a9a94691ecd46128e0e558f7">
+        <hintSetList id="571b02375975ec0f2bc5f16788e1a51b4491da1ee6330c6b246f86eef10d6361f52d4cbad5f8cf385a63e8063db595000b7fda7aacf93532633b6d0da8c2e0db">
           <hintset pointTag="hintSet0000">
             <hstem pos="-183" width="67" />
             <hstem pos="419" width="72" />

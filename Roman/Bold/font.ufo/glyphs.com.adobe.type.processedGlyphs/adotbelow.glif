@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="adotbelow">
+<glyph format="2" name="adotbelow">
   <advance width="527" />
   <outline>
     <contour>
@@ -43,25 +43,25 @@
       <point x="273" y="102" />
     </contour>
     <contour>
-      <point name="hintSet0018" type="curve" x="259" y="-226" />
-      <point x="307" y="-226" />
-      <point x="340" y="-194" />
-      <point type="curve" x="340" y="-149" />
-      <point x="340" y="-104" />
-      <point x="307" y="-72" />
-      <point type="curve" x="259" y="-72" />
-      <point x="211" y="-72" />
-      <point x="178" y="-104" />
-      <point type="curve" x="178" y="-149" />
-      <point x="178" y="-194" />
-      <point x="211" y="-226" />
+      <point name="hintSet0018" type="curve" x="257" y="-226" />
+      <point x="305" y="-226" />
+      <point x="338" y="-194" />
+      <point type="curve" x="338" y="-149" />
+      <point x="338" y="-104" />
+      <point x="305" y="-72" />
+      <point type="curve" x="257" y="-72" />
+      <point x="209" y="-72" />
+      <point x="176" y="-104" />
+      <point type="curve" x="176" y="-149" />
+      <point x="176" y="-194" />
+      <point x="209" y="-226" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="344fb4d470a5d45503d95a64c12da168db4dcc27cd7a326a98ed9855f727166dbf419dc128392f1180815b230879260950a37aa4be4be4d32f6a07b753b8fbd8">
+        <hintSetList id="6883273892d768d8b91f79b5ae7a2e54d3a58f737260eccc70bc0fae27d3703726553791f6c97425290413719530e8474a8264a6dff150bad3e2b14985e8c6f0">
           <hintset pointTag="hintSet0000">
             <hstem pos="-226" width="154" />
             <hstem pos="-12" width="114" />
@@ -87,7 +87,7 @@
             <hstem pos="-226" width="154" />
             <hstem pos="21" width="-21" />
             <hstem pos="391" width="117" />
-            <vstem pos="178" width="162" />
+            <vstem pos="176" width="162" />
           </hintset>
         </hintSetList>
       </data>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Zeta">
+<glyph format="2" name="Zeta">
   <advance width="539" />
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="539450l4970l49771l14871l494607l494656l76656l76586l390586l4550l">
+        <hintSetList id="1487139058645045504946074946564970497715397658676656">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="71" />
             <hstem pos="586" width="70" />

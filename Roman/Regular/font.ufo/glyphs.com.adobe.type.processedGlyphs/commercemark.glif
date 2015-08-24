@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="commercemark">
+<glyph format="2" name="commercemark">
   <advance width="637" />
   <outline>
     <contour>
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e9951bad8819f7e53927a214d7bec9c4b72b5228577f9bd6705ff5ad1da376086dab6acee29704cda476dc80e8463a534c13601e9c9bda02a4d59ef6be7345ac">
+        <hintSetList id="5303350f4b19350178da2723460a1219a5b048c9521e6ee5288c60cd1dc6fe5e90cae47a3f746f8fd176b1cc3b99fb7565b42482f6c25c10742debe31dc81eeb">
           <hintset pointTag="hintSet0000">
             <hstem pos="414" width="68" />
             <hstem pos="608" width="68" />
@@ -67,7 +67,6 @@
           </hintset>
           <hintset pointTag="hintSet0020">
             <hstem pos="354" width="49" />
-            <hstem pos="414" width="68" />
             <hstem pos="634" width="49" />
             <vstem pos="28" width="56" />
             <vstem pos="271" width="55" />

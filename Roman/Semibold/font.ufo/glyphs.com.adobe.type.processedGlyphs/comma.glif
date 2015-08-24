@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="comma">
+<glyph format="2" name="comma">
   <advance width="275" />
   <outline>
     <contour>
@@ -19,8 +19,8 @@
       <point x="142" y="2" />
       <point x="145" y="2" />
       <point type="curve" x="148" y="2" />
-      <point x="148" y="-49" />
-      <point x="111" y="-94" />
+      <point x="149" y="-48" />
+      <point x="112" y="-94" />
       <point type="curve" x="47" y="-119" />
     </contour>
   </outline>
@@ -28,7 +28,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="27572-182l171-148o228-72o22826c228100o196144o142144c100144o65116o6573c6528o1002o1392c1422o1452o1482c148-49o111-94o47-119c">
+        <hintSetList id="1001441002112-941392142144142214521482149-48171-148196144228-722281002282627547-119651166528657372-182">
           <hintset pointTag="hintSet0000">
             <hstem pos="2" width="142" />
             <vstem pos="148" width="80" />

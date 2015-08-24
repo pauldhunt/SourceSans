@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="aacute.a">
+  <advance width="555" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="270" y="573" />
+      <point type="line" x="427" y="726" />
+      <point type="line" x="369" y="781" />
+      <point type="line" x="228" y="614" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="228614270573369781427726555">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="573" width="208" />
+            <vstem pos="228" width="199" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

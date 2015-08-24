@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iukran">
+<glyph format="2" name="iukran">
   <advance width="229" />
   <outline>
     <contour>
@@ -11,15 +11,15 @@
     <contour>
       <point name="hintSet0004" type="curve" x="115" y="596" />
       <point x="137" y="596" />
-      <point x="155" y="612" />
-      <point type="curve" x="155" y="635" />
-      <point x="155" y="660" />
-      <point x="137" y="675" />
-      <point type="curve" x="115" y="675" />
-      <point x="93" y="675" />
-      <point x="75" y="660" />
-      <point type="curve" x="75" y="635" />
-      <point x="75" y="612" />
+      <point x="153" y="612" />
+      <point type="curve" x="153" y="637" />
+      <point x="153" y="660" />
+      <point x="137" y="676" />
+      <point type="curve" x="115" y="676" />
+      <point x="93" y="676" />
+      <point x="77" y="660" />
+      <point type="curve" x="77" y="637" />
+      <point x="77" y="612" />
       <point x="93" y="596" />
     </contour>
   </outline>
@@ -27,18 +27,18 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="229920l1360l136480l92480l115596c137596o155612o155635c155660o137675o115675c93675o75660o75635c75612o93596o">
+        <hintSetList id="1155961156761360136480137596137676153612153637153660229776127763777660920924809359693676">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="480" width="-20" />
-            <hstem pos="596" width="79" />
+            <hstem pos="596" width="80" />
             <vstem pos="92" width="44" />
           </hintset>
           <hintset pointTag="hintSet0004">
             <hstem pos="21" width="-21" />
             <hstem pos="480" width="-20" />
-            <hstem pos="596" width="79" />
-            <vstem pos="75" width="80" />
+            <hstem pos="596" width="80" />
+            <vstem pos="77" width="76" />
           </hintset>
         </hintSetList>
       </data>

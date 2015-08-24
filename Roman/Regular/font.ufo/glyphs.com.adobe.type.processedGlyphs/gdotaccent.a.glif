@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gdotaccent.a">
+  <advance width="559" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="289" y="586" />
+      <point x="320" y="586" />
+      <point x="343" y="608" />
+      <point type="curve" x="343" y="640" />
+      <point x="343" y="671" />
+      <point x="320" y="694" />
+      <point type="curve" x="289" y="694" />
+      <point x="258" y="694" />
+      <point x="235" y="671" />
+      <point type="curve" x="235" y="640" />
+      <point x="235" y="608" />
+      <point x="258" y="586" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="235608235640235671258586258694289586289694320586320694343608343640343671559">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="586" width="108" />
+            <vstem pos="235" width="108" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

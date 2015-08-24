@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ygrave">
+<glyph format="2" name="ygrave">
   <advance width="424" />
   <outline>
     <contour>
@@ -42,7 +42,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="724bd5c8a4e74668fb16aa4a77f2c36d554e8734bbb26d5b28a2b3c38461051c0eda652bbfa8778058012a66f84d22257f0871cbef3fbe693d9bc33e8269d6a6">
+        <hintSetList id="42e78ddf68eb12ab6635e38f096544a99b66d9226adc9827eb4e3212013fb1ea91b0d46035266e9bc8762b2138178d4db2450b2b10e0fcc8bf61cc6695336123">
           <hintset pointTag="hintSet0000">
             <hstem pos="-222" width="30" />
             <hstem pos="478" width="-20" />

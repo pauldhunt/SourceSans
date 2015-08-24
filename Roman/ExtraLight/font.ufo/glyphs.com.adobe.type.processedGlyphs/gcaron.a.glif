@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gcaron.a">
+  <advance width="540" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="263" y="572" />
+      <point type="line" x="291" y="572" />
+      <point type="line" x="409" y="718" />
+      <point type="line" x="391" y="734" />
+      <point type="line" x="279" y="604" />
+      <point type="line" x="275" y="604" />
+      <point type="line" x="163" y="734" />
+      <point type="line" x="145" y="718" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="145718163734263572275604279604291572391734409718540">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="572" width="32" />
+            <vstem pos="145" width="264" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lenistildecmb">
-  <advance width="0" />
+<glyph format="2" name="lenistildecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="-156" y="737" />
@@ -45,23 +44,20 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f6e2561b02908f297b857dba36170af29a791b572cb1790be3a7fe539e8f3dfa225306bf7bb132163371545454c8d748d310780f74308cb11c0b8a33f4d65352">
+        <hintSetList id="5a52eee9209dc0a346e9ac7d4161f05d9798e928e2ffc5b9dfde74bf0916e760fb363a81d93051ca9d027e98aeccd3e1469d42881e1674c7cd85e36afb3750e2">
           <hintset pointTag="hintSet0000">
             <hstem pos="651" width="59" />
             <hstem pos="768" width="80" />
-            <vstem pos="-156" width="75" />
             <vstem pos="-14" width="96" />
           </hintset>
           <hintset pointTag="hintSet0003">
             <hstem pos="651" width="59" />
             <hstem pos="726" width="80" />
-            <vstem pos="-156" width="75" />
-            <vstem pos="81" width="75" />
+            <vstem pos="-14" width="96" />
           </hintset>
           <hintset pointTag="hintSet0007">
             <hstem pos="651" width="59" />
             <hstem pos="768" width="80" />
-            <vstem pos="-156" width="75" />
             <vstem pos="-14" width="96" />
           </hintset>
         </hintSetList>

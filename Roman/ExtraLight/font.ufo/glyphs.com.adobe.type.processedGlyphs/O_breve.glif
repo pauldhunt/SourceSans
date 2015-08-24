@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Obreve">
+<glyph format="2" name="Obreve">
   <advance width="648" />
   <outline>
     <contour>
@@ -51,14 +51,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="56a371628b4f669c870c518676be1a715968d6c6561ec3cf42be55d63857359a93440730cb6846c20bf3adedc22fd13829070db256271f788e86bd666eb160ee">
+        <hintSetList id="cb8e50896b228375758074a53ce7877286ce9483129a1cf2e620b72f4bb001b209836dca3e3a0ae4d3849f103158e8c56d8eea992031a18c22a6fc123a39baa2">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="30" />
             <hstem pos="642" width="30" />
             <hstem pos="712" width="26" />
             <vstem pos="56" width="34" />
-            <vstem pos="192" width="26" />
-            <vstem pos="430" width="26" />
             <vstem pos="558" width="34" />
           </hintset>
         </hintSetList>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tturned" format="1">
+  <advance width="524"/>
+  <outline>
+    <component base="T" xScale="-1.0" yScale="-1.0" xOffset="524" yOffset="659"/>
+    <contour>
+      <point x="260" y="681" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="move" name="baseLC"/>
+    </contour>
+    <contour>
+      <point x="262" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

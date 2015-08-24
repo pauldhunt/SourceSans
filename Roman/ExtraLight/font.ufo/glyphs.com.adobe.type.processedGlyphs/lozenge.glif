@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lozenge">
+<glyph format="2" name="lozenge">
   <advance width="492" />
   <outline>
     <contour>
@@ -27,7 +27,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="492226-10l266-10l432330l266670l226670l60330l24416l174158l94330l174500l244644l248644l318500l398330l318158l24816l">
+        <hintSetList id="174158174500226-102266702441624464424816248644266-102666703181583185003983304323304926033094330">
           <hintset pointTag="hintSet0000">
             <hstem pos="-10" width="26" />
             <hstem pos="644" width="26" />

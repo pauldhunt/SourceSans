@@ -17,8 +17,8 @@
       <point x="104" y="586" />
     </contour>
     <contour>
-      <point name="hintSet0005" type="line" x="259" y="279" />
-      <point type="line" x="176" y="279" />
+      <point type="line" x="259" y="279" />
+      <point name="hintSet0006" type="line" x="176" y="279" />
       <point type="line" x="176" y="486" />
       <point type="line" x="94" y="486" />
       <point type="line" x="94" y="279" />
@@ -35,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a3e4671ac23109bf86eb09f46d9b0735abcd9d489a51dcda8dde45b3948643d457e1449e9184dd2707a076f61ae440769c99690d5a13e9d0b24288ba454dcb4a">
+        <hintSetList id="e2ae1b4b435be32d6fc3ac71ac969202d9bd26d3c118b22427481141a69beb88b40a0932567a45f1d663479773672089b8add9594f0fd9789e2616a07e7bccf4">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="231" width="48" />
@@ -43,7 +43,7 @@
             <hstem pos="586" width="106" />
             <vstem pos="79" width="114" />
           </hintset>
-          <hintset pointTag="hintSet0005">
+          <hintset pointTag="hintSet0006">
             <hstem pos="21" width="-21" />
             <hstem pos="231" width="48" />
             <hstem pos="486" width="-20" />

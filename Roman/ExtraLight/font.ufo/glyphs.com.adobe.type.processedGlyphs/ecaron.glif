@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ecaron">
+<glyph format="2" name="ecaron">
   <advance width="478" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="246" y="572" />
-      <point type="line" x="274" y="572" />
-      <point type="line" x="392" y="718" />
-      <point type="line" x="374" y="734" />
-      <point type="line" x="262" y="604" />
-      <point type="line" x="258" y="604" />
-      <point type="line" x="146" y="734" />
-      <point type="line" x="128" y="718" />
-    </contour>
-    <contour>
-      <point type="curve" x="272" y="-12" />
+      <point name="hintSet0000" type="curve" x="272" y="-12" />
       <point x="344" y="-12" />
       <point x="384" y="12" />
       <point type="curve" x="420" y="34" />
@@ -21,8 +11,8 @@
       <point x="370" y="34" />
       <point x="328" y="16" />
       <point type="curve" x="274" y="16" />
-      <point x="160" y="16" />
-      <point x="86" y="110" />
+      <point x="168" y="16" />
+      <point x="86" y="100" />
       <point type="curve" x="86" y="238" />
       <point type="line" x="438" y="238" />
       <point x="440" y="250" />
@@ -38,20 +28,30 @@
       <point x="152" y="-12" />
     </contour>
     <contour>
-      <point type="line" x="86" y="266" />
-      <point x="96" y="388" />
-      <point x="174" y="462" />
       <point type="curve" x="260" y="462" />
       <point x="350" y="462" />
       <point x="410" y="398" />
       <point type="curve" x="410" y="266" />
+      <point type="line" x="87" y="266" />
+      <point x="97" y="398" />
+      <point x="180" y="462" />
+    </contour>
+    <contour>
+      <point type="line" x="246" y="572" />
+      <point type="line" x="274" y="572" />
+      <point type="line" x="392" y="718" />
+      <point type="line" x="374" y="734" />
+      <point type="line" x="262" y="604" />
+      <point type="line" x="258" y="604" />
+      <point type="line" x="146" y="734" />
+      <point type="line" x="128" y="718" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="9a50a6dd4d68f9cf7fa746fc1b7696b41fa2c5d98424ec627fe00f02d21fa211be129386cda8cbf5830f8d84b57f3ec50354053b3cfbe03f40cab3e49987fce1">
+        <hintSetList id="46f7ec6be134c7d14861ee3c07a0e5d9cec6efde41f819050bef139a650c3c3759c8991f82ecea04c47a692b1c5a45481a16e97bd79cad34aec8d87a1cdce8c6">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="238" width="28" />

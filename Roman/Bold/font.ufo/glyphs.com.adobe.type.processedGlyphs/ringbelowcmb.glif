@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ringbelowcmb">
-  <advance width="0" />
+<glyph format="2" name="ringbelowcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="0" y="-247" />
@@ -35,7 +34,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e2810e7d5c63168fe8049ff22a692a7bdd6c140b7ba4071f8d3b3fe2f7ecf03542435f955db4e5739a7d39d2543e42996d53468bf4772cc73e838e3e3279b390">
+        <hintSetList id="96be030474af9db9f5841324d27c09b3aa5a4e0e1e19b8ec2b31f76161bc8d01570697777f32b108fa2a678454cf6343833948651acbee7486a757df345b1984">
           <hintset pointTag="hintSet0000">
             <hstem pos="-247" width="55" />
             <hstem pos="-94" width="55" />

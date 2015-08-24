@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="vturned">
+<glyph format="2" name="vturned">
   <advance width="422" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="12" y="0" />
+      <point name="hintSet0000" type="line" x="228" y="478" />
+      <point type="line" x="192" y="478" />
+      <point type="line" x="12" y="0" />
       <point type="line" x="44" y="0" />
       <point type="line" x="158" y="310" />
       <point x="174" y="356" />
@@ -15,15 +17,13 @@
       <point type="curve" x="262" y="310" />
       <point type="line" x="376" y="0" />
       <point type="line" x="410" y="0" />
-      <point type="line" x="228" y="478" />
-      <point type="line" x="192" y="478" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="422120l440l158310l174356o192404o208446c212446l228404o246356o262310c3760l4100l228478l192478l">
+        <hintSetList id="12015831017435619240419247820844621244622840422847824635626231037604100422440">
           <hintset pointTag="hintSet0000">
             <hstem pos="446" width="32" />
             <vstem pos="12" width="398" />

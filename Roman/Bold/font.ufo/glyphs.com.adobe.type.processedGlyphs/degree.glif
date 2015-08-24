@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="degree">
+<glyph format="2" name="degree">
   <advance width="365" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ed1b0e00548ec1a7546ca0f987dfe3a3a8fb2d4b8d6d863afb9d4b6560d390e938ed8c20e53d1803c82f061ddc5caa00da7a975ba41fa999dca9638b88b43891">
+        <hintSetList id="72aff6311406d196f5f3ae0377df25bcec9d376a287df36498c4a7f95203d91860681164133939af7c9fe4c1df333e244a19dfc7636a0300fb95d7e9245cdc11">
           <hintset pointTag="hintSet0000">
             <hstem pos="398" width="70" />
             <hstem pos="615" width="71" />

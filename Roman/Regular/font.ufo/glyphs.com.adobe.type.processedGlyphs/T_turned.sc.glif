@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Tturned.sc">
+  <advance width="467" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="275" y="518" />
+      <point type="line" x="192" y="518" />
+      <point type="line" x="192" y="69" />
+      <point type="line" x="28" y="69" />
+      <point type="line" x="28" y="0" />
+      <point type="line" x="439" y="0" />
+      <point type="line" x="439" y="69" />
+      <point type="line" x="275" y="69" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="19251819269275518275692802869439043969467">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="69" />
+            <hstem pos="518" width="-20" />
+            <vstem pos="192" width="83" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

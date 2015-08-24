@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iukran">
+<glyph format="2" name="iukran">
   <advance width="246" />
   <outline>
     <contour>
@@ -10,35 +10,35 @@
     </contour>
     <contour>
       <point name="hintSet0004" type="curve" x="124" y="586" />
-      <point x="156" y="586" />
-      <point x="181" y="608" />
-      <point type="curve" x="181" y="639" />
-      <point x="181" y="671" />
-      <point x="156" y="692" />
-      <point type="curve" x="124" y="692" />
-      <point x="92" y="692" />
-      <point x="67" y="671" />
-      <point type="curve" x="67" y="639" />
-      <point x="67" y="608" />
-      <point x="92" y="586" />
+      <point x="155" y="586" />
+      <point x="178" y="608" />
+      <point type="curve" x="178" y="640" />
+      <point x="178" y="671" />
+      <point x="155" y="694" />
+      <point type="curve" x="124" y="694" />
+      <point x="93" y="694" />
+      <point x="70" y="671" />
+      <point type="curve" x="70" y="640" />
+      <point x="70" y="608" />
+      <point x="93" y="586" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="246820l1640l164486l82486l124586c156586o181608o181639c181671o156692o124692c92692o67671o67639c67608o92586o">
+        <hintSetList id="1245861246941555861556941640164486178608178640178671246706087064070671820824869358693694">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="486" width="-20" />
-            <hstem pos="586" width="106" />
+            <hstem pos="586" width="108" />
             <vstem pos="82" width="82" />
           </hintset>
           <hintset pointTag="hintSet0004">
             <hstem pos="21" width="-21" />
             <hstem pos="486" width="-20" />
-            <hstem pos="586" width="106" />
-            <vstem pos="67" width="114" />
+            <hstem pos="586" width="108" />
+            <vstem pos="70" width="108" />
           </hintset>
         </hintSetList>
       </data>

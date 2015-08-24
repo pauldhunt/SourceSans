@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="kadescender">
+<glyph format="2" name="kadescender">
   <advance width="494" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="424" y="28" />
+      <point name="hintSet0000" type="line" x="438" y="-172" />
+      <point type="line" x="464" y="-172" />
+      <point type="line" x="468" y="12" />
+      <point type="line" x="468" y="28" />
+      <point type="line" x="424" y="28" />
       <point type="line" x="279" y="252" />
       <point type="line" x="332" y="378" />
       <point x="361" y="447" />
@@ -29,17 +33,13 @@
       <point type="line" x="256" y="236" />
       <point type="line" x="408" y="0" />
       <point type="line" x="438" y="0" />
-      <point type="line" x="438" y="-172" />
-      <point type="line" x="464" y="-172" />
-      <point type="line" x="468" y="12" />
-      <point type="line" x="468" y="28" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f680e794736c7d29dc99940dae8d5e2ea7d5a97a68cfcca3a235bdc01a558569548315ecfb8b3fbbe1edf9b26885236872f48372435238b70959fe2a711b251c">
+        <hintSetList id="627171bd39ab8d7f1e2f7d175c4cfdfd7d03ff2cf32563cdfa362838eb19f8b576028414d423a9bfc87058b981bb91c3dbbc5cd5620d1f48e9578416a57ee328">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="28" />
             <hstem pos="236" width="28" />

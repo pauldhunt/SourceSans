@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tildebelowcmb">
-  <advance width="0" />
+<glyph format="2" name="tildebelowcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="66" y="-227" />
@@ -29,7 +28,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="87f0a9150cdc80064bd1d666739e1a37d97dd7ab61b0b878abc65d426bfd6776bf506c088683d19175a4fa52507eaf2b3f825df0fd03f1219bad9bf33bfae826">
+        <hintSetList id="c54f32156a8c4c062d9643b23e9bf4c7dc1b93e4849d2c53f57bce40f1fe5b658dd1a0bf8e9e20af92a01fe014d89cd1cc788e130b45817e0acb0c6cc422c585">
           <hintset pointTag="hintSet0000">
             <hstem pos="-227" width="102" />
             <vstem pos="-190" width="92" />

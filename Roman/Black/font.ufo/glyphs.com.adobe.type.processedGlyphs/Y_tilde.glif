@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ytilde">
+<glyph format="2" name="Ytilde">
   <advance width="544" />
   <outline>
     <contour>
@@ -47,7 +47,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="27d9b8bcb2f688e3da143933eb83fb2b234a5ba0345a73023dadb7c11b23d6157b5f196f222645f676ff50a855d17c635c5b72733f1d4e19c8f192b06eed9773">
+        <hintSetList id="d97df3cd58b1c48941fb6d2c77f78bdf51626f09cf348008cff382ced2af32e94bcdd084eac01d255d4e7c7ac385744d373173d994818856d38db8f7feeb84fe">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="650" width="-20" />
@@ -58,7 +58,6 @@
             <hstem pos="21" width="-21" />
             <hstem pos="650" width="-20" />
             <hstem pos="686" width="118" />
-            <vstem pos="186" width="172" />
             <vstem pos="368" width="110" />
           </hintset>
           <hintset pointTag="hintSet0016">
@@ -66,13 +65,11 @@
             <hstem pos="650" width="-20" />
             <hstem pos="738" width="118" />
             <vstem pos="66" width="110" />
-            <vstem pos="186" width="172" />
           </hintset>
           <hintset pointTag="hintSet0020">
             <hstem pos="21" width="-21" />
             <hstem pos="650" width="-20" />
             <hstem pos="686" width="118" />
-            <vstem pos="186" width="172" />
             <vstem pos="368" width="110" />
           </hintset>
         </hintSetList>

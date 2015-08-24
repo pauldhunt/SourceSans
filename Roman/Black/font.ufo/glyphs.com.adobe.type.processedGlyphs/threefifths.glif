@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="threefifths">
+<glyph format="2" name="threefifths">
   <advance width="860" />
   <outline>
     <contour>
@@ -87,11 +87,10 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="17b4bec83a92f6392aa525fda5deca2d6faa21c66f8728facb3f43d05b173cd03dd34ecb4c8ecbd722ecc5bf36b1a1b9099f10ff586268a48f27411f624c7cdc">
+        <hintSetList id="983e860aed7039256b1fd8c49ff2c35ac7f30a9c6876624c4c3faac678eca6e6db5794ee08eaf36684ff6afc422cce778945d335fa45bb76fdcf27ea26d050f3">
           <hintset pointTag="hintSet0000">
             <hstem pos="248" width="94" />
             <vstem pos="222" width="122" />
-            <vstem pos="556" width="104" />
             <vstem pos="702" width="122" />
           </hintset>
           <hintset pointTag="hintSet0003">
@@ -99,20 +98,17 @@
             <hstem pos="424" width="70" />
             <hstem pos="568" width="94" />
             <vstem pos="208" width="122" />
-            <vstem pos="556" width="104" />
             <vstem pos="702" width="122" />
           </hintset>
           <hintset pointTag="hintSet0011">
             <hstem pos="248" width="94" />
             <hstem pos="424" width="70" />
             <vstem pos="222" width="122" />
-            <vstem pos="556" width="104" />
             <vstem pos="702" width="122" />
           </hintset>
           <hintset pointTag="hintSet0015">
             <hstem pos="248" width="94" />
             <vstem pos="222" width="122" />
-            <vstem pos="556" width="104" />
             <vstem pos="702" width="122" />
           </hintset>
           <hintset pointTag="hintSet0020">
@@ -120,7 +116,6 @@
             <hstem pos="178" width="72" />
             <hstem pos="286" width="104" />
             <vstem pos="222" width="122" />
-            <vstem pos="556" width="104" />
             <vstem pos="702" width="122" />
           </hintset>
         </hintSetList>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="eopenreversed">
+<glyph format="2" name="eopenreversed">
   <advance width="444" />
   <outline>
     <contour>
@@ -51,7 +51,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="232326e5540a5fd363369022172ede60d741d92bf94de8feb679a627ca94e37eb9eaaa027d8d47f030c84c96cbd8e0f1e36f24e90bd67122b69b5583b25e13c9">
+        <hintSetList id="c2ccaefefde02b17226740ea8f06348a6a48f4a9c5b83ffdf562a3beace30afefe03e71c51429e3c0dd1312a496d7afe1a8c9c1ef1e18b87d53bab66ed25a61d">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="38" />
             <hstem pos="234" width="36" />

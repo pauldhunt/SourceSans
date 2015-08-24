@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gacute.a">
+  <advance width="559" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="275" y="573" />
+      <point type="line" x="432" y="726" />
+      <point type="line" x="374" y="781" />
+      <point type="line" x="233" y="614" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="233614275573374781432726559">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="573" width="208" />
+            <vstem pos="233" width="199" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Yhook.sc">
+  <advance width="441" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="163" y="0" />
+      <point type="line" x="279" y="0" />
+      <point type="line" x="279" y="188" />
+      <point type="line" x="446" y="523" />
+      <point type="line" x="326" y="523" />
+      <point type="line" x="272" y="401" />
+      <point x="256" y="362" />
+      <point x="240" y="326" />
+      <point type="curve" x="224" y="286" />
+      <point type="line" x="220" y="286" />
+      <point x="203" y="326" />
+      <point x="187" y="362" />
+      <point type="curve" x="172" y="401" />
+      <point type="line" x="118" y="523" />
+      <point type="line" x="-4" y="523" />
+      <point type="line" x="163" y="188" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-452311852316301631881724011873622033262202862242862403262563622724012790279188326523441446523">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="523" width="-20" />
+            <vstem pos="163" width="116" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="perispomeni">
+<glyph format="2" name="perispomeni">
   <advance width="542" />
   <outline>
     <contour>
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="cc27a0408ef4bedb76f5409c08371deff3761663c9cbba02b741c653af518c7437c4dd76b1142aa91d8d5a2b1ba8fbb2ca7d0aeabba09a0c3c12e0aa998403d7">
+        <hintSetList id="10166313072115358215662917066119972120066124666127072127257729663734357734363737263738667038971641257744163544471254298585">
           <hintset pointTag="hintSet0000">
             <hstem pos="577" width="60" />
             <hstem pos="661" width="60" />

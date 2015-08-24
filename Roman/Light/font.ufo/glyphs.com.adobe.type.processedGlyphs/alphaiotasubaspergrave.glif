@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphaiotasubaspergrave">
+<glyph format="2" name="alphaiotasubaspergrave">
   <advance width="540" />
   <outline>
     <contour>
@@ -82,7 +82,7 @@
       <point type="curve" x="248" y="707" />
       <point type="line" x="246" y="740" />
       <point x="186" y="738" />
-      <point x="135" y="715" />
+      <point x="135" y="716" />
       <point type="curve" x="135" y="664" />
       <point x="135" y="612" />
       <point x="176" y="590" />
@@ -98,7 +98,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="6f2b4f1f4119705791889cb8895520d4b994168f95cee2814398019b39db9a8b4befc4d18b37aae1bb537c7183c706e20a22ebaf1c1acb88ce2e6c63703b15be">
+        <hintSetList id="4dfc3b8abbdd0e260a2f1f62a4eb946ce9fb5c772e50f29c73c317a38f18040a1123037a56ef9230210f07b017533e6e846088de9a5b352af40840957bd05f69">
           <hintset pointTag="hintSet0000">
             <hstem pos="-191" width="35" />
             <hstem pos="-12" width="39" />
@@ -107,7 +107,7 @@
             <vstem pos="52" width="46" />
             <vstem pos="135" width="38" />
             <vstem pos="256" width="37" />
-            <vstem pos="394" width="35" />
+            <vstem pos="392" width="37" />
           </hintset>
           <hintset pointTag="hintSet0008">
             <hstem pos="-191" width="35" />
@@ -117,7 +117,7 @@
             <vstem pos="52" width="46" />
             <vstem pos="135" width="38" />
             <vstem pos="256" width="37" />
-            <vstem pos="394" width="35" />
+            <vstem pos="392" width="37" />
           </hintset>
           <hintset pointTag="hintSet0012">
             <hstem pos="-191" width="35" />
@@ -127,7 +127,7 @@
             <vstem pos="52" width="46" />
             <vstem pos="135" width="38" />
             <vstem pos="256" width="37" />
-            <vstem pos="394" width="35" />
+            <vstem pos="392" width="37" />
           </hintset>
         </hintSetList>
       </data>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="lmiddletilde">
+  <advance width="298" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="212" y="-12" />
+      <point x="250" y="-12" />
+      <point x="278" y="-6" />
+      <point type="curve" x="296" y="2" />
+      <point type="line" x="276" y="128" />
+      <point x="268" y="126" />
+      <point x="264" y="126" />
+      <point type="curve" x="258" y="126" />
+      <point x="246" y="126" />
+      <point x="230" y="136" />
+      <point type="curve" x="230" y="170" />
+      <point type="line" x="230" y="696" />
+      <point type="line" x="58" y="696" />
+      <point type="line" x="58" y="176" />
+      <point x="58" y="64" />
+      <point x="96" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="212-12230136230170230696246126250-12258126264126268126276128278-629622985817658645869696-12">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="138" />
+            <vstem pos="58" width="172" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

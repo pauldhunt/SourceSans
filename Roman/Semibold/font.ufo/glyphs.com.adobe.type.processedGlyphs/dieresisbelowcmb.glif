@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dieresisbelowcmb">
-  <advance width="0" />
+<glyph format="2" name="dieresisbelowcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="-103" y="-210" />
@@ -35,7 +34,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="595e0ba27b6cf1151af69131e4c03f99eadc140b680f552ec337612227340080c67bb695dec800c6cfc34f2a160fe9f264f6f5afe946ff3aa8d35101b9d06ffd">
+        <hintSetList id="a782679fc1a9a0340d2efb023138f4f3655715fb0145ebc983669d90fc57c13ed5c033af950e854b38e2e62af003c2795fc4e305e46beba86b01656ca61953d2">
           <hintset pointTag="hintSet0000">
             <hstem pos="-210" width="122" />
             <vstem pos="-164" width="122" />

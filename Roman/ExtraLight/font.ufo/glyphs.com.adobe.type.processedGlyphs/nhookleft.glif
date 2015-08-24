@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="nhookleft">
+<glyph format="2" name="nhookleft">
   <advance width="526" />
   <outline>
     <contour>
@@ -42,7 +42,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="793d9a5e9865887b26c5a64d7325def613efaf8b77ad3b4f6403e59aabdebe4be879bd6077d18d332fe2790ac1632227b84e49bc036f6e8cba2dbae36910de29">
+        <hintSetList id="2b9e25ac3f43ae1b3c321e3dfce8f525f38d203a2ae2eb4d388071b5c447b5937c3b6ab282ddc22d0f7e6ec85120733f993c75e950c0540f93d4deb1a9e6d09d">
           <hintset pointTag="hintSet0000">
             <hstem pos="-180" width="28" />
             <hstem pos="462" width="28" />

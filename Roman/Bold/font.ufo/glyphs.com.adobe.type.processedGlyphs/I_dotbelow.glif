@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Idotbelow">
+<glyph format="2" name="Idotbelow">
   <advance width="301" />
   <outline>
     <contour>
@@ -27,7 +27,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="301770l2240l224652l77652l151-226c199-226o232-194o232-149c232-104o199-72o151-72c103-72o70-104o70-149c70-194o103-226o">
+        <hintSetList id="103-226103-72151-226151-72199-226199-722240224652232-104232-149232-19430170-10470-14970-19477077652">
           <hintset pointTag="hintSet0000">
             <hstem pos="-226" width="154" />
             <hstem pos="21" width="-21" />

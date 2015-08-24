@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dezh" format="1">
+  <advance width="885"/>
+  <outline>
+    <contour>
+      <point x="427" y="419" type="line"/>
+      <point x="568" y="419" type="line"/>
+      <point x="568" y="486" type="line"/>
+      <point x="427" y="486" type="line"/>
+    </contour>
+    <component base="ezh" xOffset="461"/>
+    <component base="d"/>
+    <contour>
+      <point x="441" y="730" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="360" y="-20" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

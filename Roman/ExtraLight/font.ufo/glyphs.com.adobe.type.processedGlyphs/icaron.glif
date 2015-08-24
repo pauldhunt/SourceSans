@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="icaron">
+<glyph format="2" name="icaron">
   <advance width="222" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="97" y="572" />
-      <point type="line" x="125" y="572" />
-      <point type="line" x="243" y="718" />
-      <point type="line" x="225" y="734" />
-      <point type="line" x="113" y="604" />
-      <point type="line" x="109" y="604" />
-      <point type="line" x="-3" y="734" />
-      <point type="line" x="-21" y="718" />
-    </contour>
-    <contour>
-      <point type="line" x="96" y="0" />
+      <point name="hintSet0000" type="line" x="96" y="0" />
       <point type="line" x="126" y="0" />
       <point type="line" x="126" y="478" />
       <point type="line" x="96" y="478" />
+    </contour>
+    <contour>
+      <point type="line" x="98" y="572" />
+      <point type="line" x="126" y="572" />
+      <point type="line" x="244" y="718" />
+      <point type="line" x="226" y="734" />
+      <point type="line" x="114" y="604" />
+      <point type="line" x="110" y="604" />
+      <point type="line" x="-2" y="734" />
+      <point type="line" x="-20" y="718" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="22297572l125572l243718l225734l113604l109604l-3734l-21718l960l1260l126478l96478l">
+        <hintSetList id="-20718-273411060411460412601264781265722222267342447189609647898572">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="478" width="-20" />

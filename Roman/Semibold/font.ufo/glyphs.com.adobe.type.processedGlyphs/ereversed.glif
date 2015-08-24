@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ereversed">
+<glyph format="2" name="ereversed">
   <advance width="507" />
   <outline>
     <contour>
@@ -41,13 +41,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="dd3b9e7d89197dea9f93e5d8e8f843d7cf25b8439047f0a2421000ac17f7e6f3d969a5562b67914ae40eed8361b7160b592b074dc8efeb51a9cbe95d11ef3bfa">
+        <hintSetList id="9717809f19ec42847d33047bccfa870271af326ac6d2287332f804f75f6bad42cd246e3ba38fa86eede581bc7f92ea9f9b4b9b31df05e63904128623bac4bc4c">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="89" />
             <hstem pos="214" width="78" />
             <hstem pos="414" width="89" />
             <vstem pos="37" width="99" />
-            <vstem pos="354" width="112" />
           </hintset>
         </hintSetList>
       </data>

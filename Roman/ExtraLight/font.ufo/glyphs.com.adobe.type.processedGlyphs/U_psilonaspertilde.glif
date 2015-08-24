@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Upsilonaspertilde">
+<glyph format="2" name="Upsilonaspertilde">
   <advance width="656" />
   <outline>
     <contour>
@@ -52,10 +52,10 @@
       <point name="hintSet0025" x="158" y="644" />
       <point x="143" y="638" />
       <point type="curve" x="126" y="638" />
-      <point name="hintSet0026" x="90" y="638" />
+      <point x="90" y="638" />
       <point x="82" y="674" />
       <point type="curve" x="32" y="674" />
-      <point x="-8" y="674" />
+      <point name="hintSet0027" x="-8" y="674" />
       <point x="-22" y="647" />
     </contour>
   </outline>
@@ -63,7 +63,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f9eafd54025873cb384fb8ecc1ebf31f12b82dc75e3297da3db1b38190a70a29fcea22b1b035778bbd1c51f2e7ed727d79150324680c72a6f5c3defec2513afc">
+        <hintSetList id="77c93bc6b2ec89122ceabd8bc0d07effa3f52ad03d8927a22dd502b134eb1eb715517b43d54cfb9a6fdb6f49f9a6704d56bcfad567ba05ed9408c58861962b64">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="566" width="24" />
@@ -102,7 +102,6 @@
             <hstem pos="21" width="-21" />
             <hstem pos="566" width="24" />
             <hstem pos="612" width="26" />
-            <hstem pos="648" width="20" />
             <vstem pos="26" width="30" />
             <vstem pos="160" width="24" />
             <vstem pos="422" width="32" />
@@ -119,12 +118,11 @@
             <hstem pos="21" width="-21" />
             <hstem pos="566" width="24" />
             <hstem pos="612" width="26" />
-            <hstem pos="648" width="20" />
             <vstem pos="26" width="30" />
             <vstem pos="160" width="24" />
             <vstem pos="422" width="32" />
           </hintset>
-          <hintset pointTag="hintSet0026">
+          <hintset pointTag="hintSet0027">
             <hstem pos="21" width="-21" />
             <hstem pos="566" width="24" />
             <hstem pos="648" width="26" />

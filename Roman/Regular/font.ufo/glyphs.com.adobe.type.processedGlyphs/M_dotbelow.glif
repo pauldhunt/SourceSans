@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Mdotbelow">
+<glyph format="2" name="Mdotbelow">
   <advance width="727" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="365" y="-206" />
-      <point x="396" y="-206" />
-      <point x="419" y="-184" />
-      <point type="curve" x="419" y="-152" />
-      <point x="419" y="-121" />
-      <point x="396" y="-98" />
-      <point type="curve" x="365" y="-98" />
-      <point x="334" y="-98" />
-      <point x="311" y="-121" />
-      <point type="curve" x="311" y="-152" />
-      <point x="311" y="-184" />
-      <point x="334" y="-206" />
-    </contour>
-    <contour>
-      <point type="line" x="90" y="0" />
+      <point name="hintSet0000" type="line" x="90" y="0" />
       <point type="line" x="165" y="0" />
       <point type="line" x="165" y="361" />
       <point x="165" y="419" />
@@ -48,12 +34,26 @@
       <point type="line" x="190" y="656" />
       <point type="line" x="90" y="656" />
     </contour>
+    <contour>
+      <point type="curve" x="365" y="-206" />
+      <point x="396" y="-206" />
+      <point x="419" y="-184" />
+      <point type="curve" x="419" y="-152" />
+      <point x="419" y="-121" />
+      <point x="396" y="-98" />
+      <point type="curve" x="365" y="-98" />
+      <point x="334" y="-98" />
+      <point x="311" y="-121" />
+      <point type="curve" x="311" y="-152" />
+      <point x="311" y="-184" />
+      <point x="334" y="-206" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="c9fc90b29f72d2afbca5a49df4338fa3b96892d4e1944dc1bcd86f464ceef51ac28d1067b0bdfc0919fad566694f2acb7f13e076d1e912c1a5e87f1924e7c2b0">
+        <hintSetList id="add008749d53685c092f63931ae75699a0c6d38ed5d3d403db2bbaeae3199745ec13e2bdcaa90fe34858e1f3871ffe4559c4140b526329237760365d31b78575">
           <hintset pointTag="hintSet0000">
             <hstem pos="-206" width="108" />
             <hstem pos="21" width="-21" />

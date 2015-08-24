@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iota">
+<glyph format="2" name="iota">
   <advance width="230" />
   <outline>
     <contour>
@@ -27,7 +27,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="230150-12c165-12o177-8o186-4c18022l16818o16116o15216c13616o12428o12452c124196o125334o126478c96478l9658l968o116-12o">
+        <hintSetList id="116-12124196124281245212533412647813616150-121521616116165-1216818177-818022186-4230964789658968">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="478" width="-20" />

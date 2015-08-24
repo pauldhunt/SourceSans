@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="exclam">
+<glyph format="2" name="exclam">
   <advance width="248" />
   <outline>
     <contour>
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="248112172l136172l140608l140670l108670l108608l124-12c142-12o1602o16026c16052o14266o12466c10666o8852o8826c882o106-12o">
+        <hintSetList id="106-1210666108608108670112172124-1212466136172140608140670142-12142661602160261605224888288268852">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="670" width="-20" />

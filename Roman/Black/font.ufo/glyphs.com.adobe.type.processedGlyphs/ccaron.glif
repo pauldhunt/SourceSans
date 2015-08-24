@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ccaron">
+<glyph format="2" name="ccaron">
   <advance width="472" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="207" y="578" />
-      <point type="line" x="383" y="578" />
-      <point name="hintSet0002" type="line" x="489" y="706" />
-      <point name="hintSet0003" type="line" x="425" y="766" />
-      <point type="line" x="297" y="682" />
-      <point type="line" x="293" y="682" />
-      <point name="hintSet0006" type="line" x="165" y="766" />
-      <point type="line" x="101" y="706" />
-    </contour>
-    <contour>
-      <point type="curve" x="284" y="-12" />
+      <point name="hintSet0000" type="curve" x="284" y="-12" />
       <point x="336" y="-12" />
       <point x="400" y="2" />
       <point type="curve" x="450" y="46" />
@@ -40,31 +30,47 @@
       <point x="32" y="84" />
       <point x="142" y="-12" />
     </contour>
+    <contour>
+      <point name="hintSet0011" type="line" x="192" y="578" />
+      <point type="line" x="368" y="578" />
+      <point name="hintSet0013" type="line" x="474" y="706" />
+      <point type="line" x="410" y="766" />
+      <point name="hintSet0015" type="line" x="282" y="682" />
+      <point type="line" x="278" y="682" />
+      <point type="line" x="150" y="766" />
+      <point name="hintSet0018" type="line" x="86" y="706" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="821d5cbcb06dc6e9eb127c743e84d4a588e191edf75f8138ee2947ce07e4ae1219c02f4590bdc59dbe964a5a87b2aff8dae994860e1fb896e08f20be9669b7e5">
+        <hintSetList id="6ba789528fdbe3db210bca7af05bdccf0cfcfbd372f66d0d21ee9452bcd1515248dcb526bf74d35076516f6cd46cf0df66c0f0e750c3576f1b57fd0b88cfc020">
           <hintset pointTag="hintSet0000">
-            <hstem pos="-12" width="138" />
-            <hstem pos="374" width="138" />
-            <hstem pos="578" width="104" />
-            <vstem pos="32" width="176" />
-          </hintset>
-          <hintset pointTag="hintSet0002">
             <hstem pos="-12" width="138" />
             <hstem pos="374" width="138" />
             <hstem pos="706" width="-20" />
             <vstem pos="32" width="176" />
           </hintset>
-          <hintset pointTag="hintSet0003">
+          <hintset pointTag="hintSet0011">
             <hstem pos="-12" width="138" />
             <hstem pos="374" width="138" />
             <hstem pos="578" width="104" />
             <vstem pos="32" width="176" />
           </hintset>
-          <hintset pointTag="hintSet0006">
+          <hintset pointTag="hintSet0013">
+            <hstem pos="-12" width="138" />
+            <hstem pos="374" width="138" />
+            <hstem pos="706" width="-20" />
+            <vstem pos="32" width="176" />
+          </hintset>
+          <hintset pointTag="hintSet0015">
+            <hstem pos="-12" width="138" />
+            <hstem pos="374" width="138" />
+            <hstem pos="578" width="104" />
+            <vstem pos="32" width="176" />
+          </hintset>
+          <hintset pointTag="hintSet0018">
             <hstem pos="-12" width="138" />
             <hstem pos="374" width="138" />
             <hstem pos="706" width="-20" />

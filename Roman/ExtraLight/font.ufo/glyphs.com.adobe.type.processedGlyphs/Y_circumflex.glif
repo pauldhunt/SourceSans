@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ycircumflex">
+<glyph format="2" name="Ycircumflex">
   <advance width="436" />
   <outline>
     <contour>
@@ -21,7 +21,6 @@
       <point type="line" x="202" y="272" />
     </contour>
     <contour>
-      <point type="line" x="88" y="726" />
       <point type="line" x="102" y="710" />
       <point type="line" x="216" y="810" />
       <point type="line" x="220" y="810" />
@@ -29,13 +28,14 @@
       <point type="line" x="348" y="726" />
       <point type="line" x="232" y="840" />
       <point type="line" x="204" y="840" />
+      <point type="line" x="88" y="726" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="8c0e1e93949497fb27d0bbe479d958e9edbbb0cd89053e72a721373c9a537be425d6bc8d9cdc142a725eb14e242cc53ab078ed525720ce0f37531da5b040eecf">
+        <hintSetList id="db9bcdbd3f4b07ad6c323c9cad507ba30559f5edd9fa3d1e05838fc1da2e292669504fe11b2ee3c1d8e6dddcb99acd7f35c52a1367893d31a70e661ac1aa14dc">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="660" width="-20" />

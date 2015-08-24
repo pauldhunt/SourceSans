@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omegatilde">
+<glyph format="2" name="omegatilde">
   <advance width="701" />
   <outline>
     <contour>
@@ -77,7 +77,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="bb8aae0e9d44f01c7ac52284ceb0d155f2d288b4cd45524247b93ae86b762c917a7a559c03bb1d6e13f3ce1981f01e7c224dc1e2d5a58e7cfe37f38e65814949">
+        <hintSetList id="f002da840b972182e64d989fb599da3798ac5d1eef10e7e5c4894f63bb06e731cf6d836ac507d4990f4dbae3d6bb7a2e1c998b216086c2a1d1ade376934fc828">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="68" />
             <hstem pos="498" width="-20" />

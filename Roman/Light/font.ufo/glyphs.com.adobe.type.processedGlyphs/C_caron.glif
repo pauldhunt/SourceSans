@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ccaron">
+<glyph format="2" name="Ccaron">
   <advance width="564" />
   <outline>
     <contour>
@@ -31,21 +31,21 @@
       <point x="168" y="-12" />
     </contour>
     <contour>
-      <point type="line" x="301" y="709" />
-      <point type="line" x="345" y="709" />
-      <point type="line" x="458" y="823" />
-      <point type="line" x="438" y="841" />
-      <point type="line" x="325" y="743" />
-      <point type="line" x="321" y="743" />
-      <point type="line" x="208" y="841" />
-      <point type="line" x="188" y="823" />
+      <point type="line" x="299" y="709" />
+      <point type="line" x="343" y="709" />
+      <point type="line" x="456" y="823" />
+      <point type="line" x="436" y="841" />
+      <point type="line" x="323" y="743" />
+      <point type="line" x="319" y="743" />
+      <point type="line" x="206" y="841" />
+      <point type="line" x="186" y="823" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e1389bbb08c08d2737acad5bba1cf2ed7a821ad634ea0967d0b2ece0587fc4b3ac8eea07c2f063e8f5ff999c284e16bc562bffce360fe426d364c90c7c17f324">
+        <hintSetList id="f487d5221ca3191185d4659d4105c0bfca34a333979edecaafa1ab224b6e63731c63a8be421182e2d4c54cd17a1ef87808c5ae0575d4b3636c382676c0cdd529">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="42" />
             <hstem pos="629" width="42" />

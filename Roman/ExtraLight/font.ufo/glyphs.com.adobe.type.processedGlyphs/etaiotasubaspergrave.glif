@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="etaiotasubaspergrave">
+<glyph format="2" name="etaiotasubaspergrave">
   <advance width="524" />
   <outline>
     <contour>
@@ -32,10 +32,10 @@
     </contour>
     <contour>
       <point name="hintSet0015" type="curve" x="138" y="-188" />
-      <point x="155" y="-188" />
+      <point name="hintSet0016" x="155" y="-188" />
       <point x="160" y="-186" />
       <point type="curve" x="172" y="-182" />
-      <point type="line" x="166" y="-156" />
+      <point name="hintSet0017" type="line" x="166" y="-156" />
       <point x="150" y="-160" />
       <point x="146" y="-160" />
       <point type="curve" x="140" y="-160" />
@@ -47,7 +47,7 @@
       <point type="curve" x="118" y="-68" />
       <point type="line" x="88" y="-68" />
       <point type="line" x="88" y="-124" />
-      <point x="88" y="-170" />
+      <point name="hintSet0023" x="88" y="-170" />
       <point x="108" y="-188" />
     </contour>
     <contour>
@@ -59,8 +59,8 @@
       <point x="172" y="690" />
       <point x="200" y="706" />
       <point type="curve" x="248" y="708" />
-      <point type="line" x="246" y="734" />
-      <point x="193" y="732" />
+      <point name="hintSet0028" type="line" x="246" y="734" />
+      <point name="hintSet0029" x="193" y="732" />
       <point x="142" y="712" />
       <point type="curve" x="142" y="662" />
       <point x="142" y="612" />
@@ -77,7 +77,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="162e28f0e298c2912bc34c4b47be80b976e531f86c058ed64df92eb6e632e404fdc63039826b734a6cd38d494dc55a842c7263a872ddec73e5d42a4773561822">
+        <hintSetList id="4598f334902d3659471aee46353a1c0a54705d273a0a8e6323ebfcbaf9a33bbafc554c70762a6f4a3b124a1167f824dc8a88f8be58c9fac5b633b3a27e1e0dd3">
           <hintset pointTag="hintSet0000">
             <hstem pos="-188" width="28" />
             <hstem pos="21" width="-21" />
@@ -110,7 +110,51 @@
             <vstem pos="88" width="28" />
             <vstem pos="408" width="28" />
           </hintset>
+          <hintset pointTag="hintSet0016">
+            <hstem pos="-188" width="28" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="462" width="28" />
+            <hstem pos="708" width="26" />
+            <vstem pos="96" width="30" />
+            <vstem pos="142" width="30" />
+            <vstem pos="408" width="28" />
+          </hintset>
+          <hintset pointTag="hintSet0017">
+            <hstem pos="-188" width="28" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="462" width="28" />
+            <hstem pos="708" width="26" />
+            <vstem pos="88" width="28" />
+            <vstem pos="166" width="81" />
+            <vstem pos="408" width="28" />
+          </hintset>
+          <hintset pointTag="hintSet0023">
+            <hstem pos="-188" width="28" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="462" width="28" />
+            <hstem pos="708" width="26" />
+            <vstem pos="88" width="28" />
+            <vstem pos="408" width="28" />
+          </hintset>
           <hintset pointTag="hintSet0024">
+            <hstem pos="-188" width="28" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="462" width="28" />
+            <hstem pos="708" width="26" />
+            <vstem pos="96" width="30" />
+            <vstem pos="142" width="30" />
+            <vstem pos="408" width="28" />
+          </hintset>
+          <hintset pointTag="hintSet0028">
+            <hstem pos="-188" width="28" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="462" width="28" />
+            <hstem pos="708" width="26" />
+            <vstem pos="96" width="30" />
+            <vstem pos="166" width="81" />
+            <vstem pos="408" width="28" />
+          </hintset>
+          <hintset pointTag="hintSet0029">
             <hstem pos="-188" width="28" />
             <hstem pos="21" width="-21" />
             <hstem pos="462" width="28" />

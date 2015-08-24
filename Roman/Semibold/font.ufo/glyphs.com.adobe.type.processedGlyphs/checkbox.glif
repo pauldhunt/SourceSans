@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="checkbox">
+<glyph format="2" name="checkbox">
   <advance width="803" />
   <outline>
     <contour>
@@ -21,7 +21,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="80374-10l670-10l72958l729673l142673l74615l12440l124592l647592l64740l">
+        <hintSetList id="1244012459214267364740647592670-107295872967374-1074615803">
           <hintset pointTag="hintSet0000">
             <hstem pos="-10" width="50" />
             <hstem pos="592" width="81" />

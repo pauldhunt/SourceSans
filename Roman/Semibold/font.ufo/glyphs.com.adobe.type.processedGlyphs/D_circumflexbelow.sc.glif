@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Dcircumflexbelow.sc">
+  <advance width="568" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="83" y="0" />
+      <point type="line" x="245" y="0" />
+      <point x="408" y="0" />
+      <point x="519" y="83" />
+      <point type="curve" x="519" y="264" />
+      <point x="519" y="444" />
+      <point x="408" y="523" />
+      <point type="curve" x="238" y="523" />
+      <point type="line" x="83" y="523" />
+    </contour>
+    <contour>
+      <point type="line" x="199" y="90" />
+      <point type="line" x="199" y="433" />
+      <point type="line" x="243" y="433" />
+      <point x="346" y="433" />
+      <point x="400" y="378" />
+      <point type="curve" x="400" y="264" />
+      <point x="400" y="146" />
+      <point x="346" y="90" />
+      <point type="curve" x="243" y="90" />
+    </contour>
+    <contour>
+      <point type="line" x="164" y="-228" />
+      <point type="line" x="286" y="-125" />
+      <point type="line" x="290" y="-125" />
+      <point type="line" x="412" y="-228" />
+      <point type="line" x="457" y="-185" />
+      <point type="line" x="346" y="-50" />
+      <point type="line" x="230" y="-50" />
+      <point type="line" x="119" y="-185" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="cd9a2da96fc4be7bee55f83d46703f4d2d9430b7567be713feb3b3d7a8388941fdf272b5eb95808dd79a8861c4ea112a9150158aa4efd9796a2f72d06ec12a18">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-125" width="75" />
+            <hstem pos="0" width="90" />
+            <hstem pos="433" width="90" />
+            <vstem pos="83" width="116" />
+            <vstem pos="400" width="119" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Iebreve">
+<glyph format="2" name="Iebreve">
   <advance width="556" />
   <outline>
     <contour>
@@ -37,7 +37,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="72c4e81eaa375e7c2e8e55c465f4174ec126c2a20fa2bdc3e919c1ff4802a96b5e9c64d5782bb7232bae130cd13c9f7cba42af270b5edd04c0044b4be9cbea4d">
+        <hintSetList id="3ac404270249ef6af1a23694aefc936f1c773ba000d0fdf6cf48edfbcb6695b37778c5563363466290c8c6a966f70c11656b94f27e64ec38dacb6a4b346a6e55">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="144" />
             <hstem pos="260" width="144" />

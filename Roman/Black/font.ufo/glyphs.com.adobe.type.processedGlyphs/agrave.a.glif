@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="agrave.a">
+  <advance width="580" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="290" y="572" />
+      <point type="line" x="374" y="656" />
+      <point type="line" x="216" y="844" />
+      <point type="line" x="100" y="730" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="100730216844290572374656580">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="572" width="272" />
+            <vstem pos="100" width="274" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

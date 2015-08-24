@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="glottalstopstrokereversed">
+<glyph format="2" name="glottalstopstrokereversed">
   <advance width="490" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="180" y="0" />
       <point type="line" x="352" y="0" />
-      <point type="line" x="352" y="180" />
-      <point type="line" x="478" y="180" />
-      <point type="line" x="478" y="308" />
-      <point type="line" x="402" y="314" />
+      <point type="line" x="352" y="234" />
+      <point type="line" x="478" y="234" />
+      <point type="line" x="478" y="314" />
       <point type="line" x="332" y="314" />
-      <point name="hintSet0007" x="233" y="390" />
+      <point name="hintSet0006" x="233" y="390" />
       <point x="202" y="442" />
       <point type="curve" x="202" y="490" />
       <point x="202" y="543" />
@@ -29,27 +28,28 @@
       <point x="30" y="429" />
       <point x="80" y="372" />
       <point type="curve" x="140" y="314" />
-      <point type="line" x="16" y="314" />
-      <point type="line" x="16" y="180" />
-      <point name="hintSet0016" type="line" x="180" y="180" />
+      <point type="line" x="92" y="314" />
+      <point type="line" x="16" y="308" />
+      <point type="line" x="16" y="234" />
+      <point name="hintSet0016" type="line" x="180" y="234" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fc74f8bcba7f51051bf1e3383e10da9a4e990698d7d50d3baadbfbfdb93f9ead6768111f7e0a1307a6b63f93c372e8360aeda3652fb1acacf218c3f18d6dcd5c">
+        <hintSetList id="4b04d87757a825750964d853a56935742cf605cb2c3cdc20b329596f5bd70e6cf694fbae7877d9ff62f5836b1a9cd2362a13969b2b970e3b20b254ba33d92019">
           <hintset pointTag="hintSet0000">
-            <hstem pos="180" width="134" />
+            <hstem pos="234" width="80" />
             <vstem pos="180" width="172" />
           </hintset>
-          <hintset pointTag="hintSet0007">
-            <hstem pos="180" width="134" />
+          <hintset pointTag="hintSet0006">
+            <hstem pos="234" width="80" />
             <hstem pos="570" width="138" />
             <vstem pos="30" width="172" />
           </hintset>
           <hintset pointTag="hintSet0016">
-            <hstem pos="180" width="134" />
+            <hstem pos="234" width="80" />
             <vstem pos="180" width="172" />
           </hintset>
         </hintSetList>

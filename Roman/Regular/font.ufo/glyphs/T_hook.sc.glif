@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thook.sc" format="1">
+  <advance width="515"/>
+  <outline>
+    <contour>
+      <point x="100" y="280" type="curve"/>
+      <point x="132" y="321" type="line"/>
+      <point x="113" y="334"/>
+      <point x="103" y="354"/>
+      <point x="103" y="382" type="curve" smooth="yes"/>
+      <point x="103" y="427"/>
+      <point x="135" y="449"/>
+      <point x="193" y="449" type="curve" smooth="yes"/>
+      <point x="316" y="449" type="line"/>
+      <point x="341" y="518" type="line"/>
+      <point x="198" y="518" type="line" smooth="yes"/>
+      <point x="103" y="518"/>
+      <point x="43" y="472"/>
+      <point x="43" y="386" type="curve" smooth="yes"/>
+      <point x="43" y="337"/>
+      <point x="62" y="300"/>
+    </contour>
+    <contour>
+      <point x="239" y="0" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="323" y="449" type="line"/>
+      <point x="487" y="449" type="line"/>
+      <point x="487" y="518" type="line"/>
+      <point x="198" y="518" type="line"/>
+      <point x="193" y="449" type="line"/>
+      <point x="239" y="449" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="563" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="276" y="0" type="move" name="baseLC"/>
+    </contour>
+    <contour>
+      <point x="281" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,35 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphalatin">
+<glyph format="2" name="alphalatin">
   <advance width="544" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="251" y="-12" />
-      <point x="315" y="-12" />
-      <point x="368" y="23" />
-      <point type="curve" x="407" y="62" />
-      <point type="line" x="410" y="62" />
-      <point type="line" x="414" y="0" />
-      <point type="line" x="452" y="0" />
-      <point type="line" x="452" y="480" />
-      <point type="line" x="413" y="480" />
-      <point type="line" x="410" y="434" />
-      <point type="line" x="408" y="434" />
-      <point x="363" y="471" />
-      <point x="323" y="492" />
-      <point type="curve" x="266" y="492" />
-      <point x="151" y="492" />
-      <point x="52" y="394" />
-      <point type="curve" x="52" y="239" />
-      <point x="52" y="77" />
-      <point x="130" y="-12" />
-    </contour>
-    <contour>
-      <point type="curve" x="257" y="27" />
-      <point x="155" y="27" />
-      <point x="99" y="112" />
-      <point type="curve" x="99" y="239" />
-      <point x="99" y="360" />
-      <point x="172" y="453" />
+      <point name="hintSet0000" type="curve" x="257" y="27" />
+      <point x="248" y="27" />
+      <point x="239" y="28" />
+      <point type="curve" x="230" y="29" />
+      <point x="139" y="212" />
+      <point x="123" y="322" />
+      <point type="curve" x="143" y="386" />
+      <point x="174" y="427" />
+      <point x="218" y="453" />
       <point type="curve" x="268" y="453" />
       <point x="315" y="453" />
       <point x="357" y="436" />
@@ -38,16 +20,61 @@
       <point x="357" y="55" />
       <point x="310" y="27" />
     </contour>
+    <contour>
+      <point type="curve" x="251" y="-12" />
+      <point x="315" y="-12" />
+      <point x="369" y="23" />
+      <point type="curve" x="408" y="63" />
+      <point type="line" x="410" y="63" />
+      <point x="412" y="59" />
+      <point x="416" y="46" />
+      <point type="curve" x="421" y="46" />
+      <point x="424" y="4" />
+      <point x="442" y="-12" />
+      <point type="curve" x="471" y="-11" />
+      <point x="482" y="-11" />
+      <point x="487" y="4" />
+      <point type="curve" x="495" y="6" />
+      <point x="494" y="5" />
+      <point x="488" y="29" />
+      <point type="curve" x="488" y="29" />
+      <point x="478" y="27" />
+      <point x="473" y="28" />
+      <point type="curve" x="470" y="30" />
+      <point x="459" y="30" />
+      <point x="452" y="73" />
+      <point type="curve" x="452" y="91" />
+      <point type="line" x="438" y="480" />
+      <point type="line" x="412" y="475" />
+      <point type="line" x="410" y="434" />
+      <point x="406" y="438" />
+      <point x="400" y="440" />
+      <point type="curve" x="395" y="440" />
+      <point x="344" y="472" />
+      <point x="297" y="482" />
+      <point type="curve" x="245" y="466" />
+      <point x="200" y="459" />
+      <point x="159" y="437" />
+      <point type="curve" x="143" y="386" />
+      <point x="115" y="348" />
+      <point x="99" y="296" />
+      <point type="curve" x="99" y="239" />
+      <point x="99" y="124" />
+      <point x="145" y="43" />
+      <point type="curve" x="230" y="29" />
+      <point x="237" y="16" />
+      <point x="244" y="2" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="c70c445a645e5cf9b82b406033d01defb808ebc66dd807885f34b0cca22906800a0ee3168ad4e85706dc3288cbba46c81ff7e3bff1f69366859a6339b0300dc3">
+        <hintSetList id="14b4d213ac886315bacc9d89687175989cf5913ec017e17e1b1a99588d3edaac8e087ae5cc4b2069b699830e892096c3f1d30a834ce6f04132b46d4f8ade593b">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
-            <hstem pos="453" width="39" />
-            <vstem pos="52" width="47" />
+            <hstem pos="453" width="20" />
+            <vstem pos="99" width="36" />
             <vstem pos="408" width="44" />
           </hintset>
         </hintSetList>

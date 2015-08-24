@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="liraturkish">
+<glyph format="2" name="liraturkish">
   <advance width="540" />
   <outline>
     <contour>
@@ -18,22 +18,22 @@
       <point x="320" y="157" />
       <point type="curve" x="252" y="148" />
       <point type="line" x="252" y="288" />
-      <point type="line" x="390" y="362" />
-      <point type="line" x="390" y="454" />
+      <point type="line" x="410" y="372" />
+      <point type="line" x="370" y="444" />
       <point type="line" x="252" y="380" />
       <point type="line" x="252" y="428" />
-      <point type="line" x="390" y="502" />
-      <point type="line" x="390" y="594" />
+      <point type="line" x="410" y="512" />
+      <point type="line" x="370" y="584" />
       <point type="line" x="252" y="520" />
       <point type="line" x="252" y="634" />
       <point type="line" x="80" y="634" />
       <point type="line" x="80" y="436" />
-      <point type="line" x="10" y="398" />
-      <point type="line" x="10" y="306" />
+      <point type="line" x="-10" y="388" />
+      <point type="line" x="30" y="316" />
       <point type="line" x="80" y="344" />
       <point type="line" x="80" y="296" />
-      <point type="line" x="10" y="258" />
-      <point type="line" x="10" y="166" />
+      <point type="line" x="-10" y="248" />
+      <point type="line" x="30" y="176" />
       <point type="line" x="80" y="204" />
     </contour>
   </outline>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ff37cff373ec8d7461a266101d9527ca70ba85481d303bbd0a6a3a2ac446a40f0bdd8fd34b623da5c1f6e5da03dc9f99e68abda17777e7b62a836c73169b5f2e">
+        <hintSetList id="f53c2426c4a499ddda4f55b875e9f7ef32354a235bb74a61901404b22b48de746322755ce5080376bf8bde467a1552097ffe8b5e8df281a1eb64ed13d9d12fb7">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="634" width="-20" />

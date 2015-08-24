@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="caroncmb">
-  <advance width="0" />
+<glyph format="2" name="caroncmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="-41" y="574" />
@@ -17,7 +16,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0-41574l41574l155714l120746l2633l-2633l-120746l-155714l">
+        <hintSetList id="-120746-155714-2633-415741000120746155714263341574">
           <hintset pointTag="hintSet0000">
             <hstem pos="574" width="59" />
             <vstem pos="-155" width="310" />

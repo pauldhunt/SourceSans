@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="upsilonlenisgrave">
+<glyph format="2" name="upsilonlenisgrave">
   <advance width="497" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
       <point x="171" y="590" />
       <point x="212" y="612" />
       <point type="curve" x="212" y="664" />
-      <point x="212" y="715" />
+      <point x="212" y="716" />
       <point x="161" y="738" />
       <point type="curve" x="101" y="740" />
       <point type="line" x="99" y="707" />
@@ -63,7 +63,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ce265c15094871129946bbd6b8d6d125b11e70cbb270c7d15ed611d1b78bbe76f6817c4c1ec9e9d90e4abf0c4c792e3214b7f336d8117e2643f51487a2febdb0">
+        <hintSetList id="d20aceba7c3019192c97a078596030b5b72ebabedff59180dfc4a4415da78f74e4db34c9286233a8a412a577a24c5e7b2e42be696a422800057402baf04235f0">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="492" width="-20" />

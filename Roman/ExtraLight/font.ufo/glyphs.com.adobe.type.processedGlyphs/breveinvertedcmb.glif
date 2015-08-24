@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="breveinvertedcmb">
-  <advance width="0" />
+<glyph format="2" name="breveinvertedcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="-120" y="570" />
@@ -23,11 +22,10 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0-120570l-112628o-75694o0694c75694o112628o120570c146574l138636o101720o0720c-101720o-138636o-146574c">
+        <hintSetList id="-101720-112628-120570-138636-146574-7569406940720100010172011262812057013863614657475694">
           <hintset pointTag="hintSet0000">
             <hstem pos="694" width="26" />
-            <vstem pos="-146" width="26" />
-            <vstem pos="120" width="26" />
+            <vstem pos="-146" width="292" />
           </hintset>
         </hintSetList>
       </data>

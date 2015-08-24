@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotaaspergrave">
+<glyph format="2" name="iotaaspergrave">
   <advance width="301" />
   <outline>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a377972825d6ea13ad949ec51648ec7466791fa83a023051b14bda086bd621a4c6d44eac7a3dedadab809f2abbf3498ea4f6da09f8bf4984ab4848e034c6df5a">
+        <hintSetList id="5134d9b50f64ecdbfe80a9ee259db180f24cb88464d5b2f450dc72d45f199167b2c47619f9014e90d38fe3e01a0ea9e3c8cc802d77b8ac384dc0eb99f1646150">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="496" width="-20" />

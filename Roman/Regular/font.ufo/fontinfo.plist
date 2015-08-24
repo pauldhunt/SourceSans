@@ -66,8 +66,6 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font S
 	<string>SourceSansPro-Regular</string>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Source Sans Pro</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-217</integer>
@@ -87,12 +85,8 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font S
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
-	<key>styleMapFamilyName</key>
-	<string>368 : SourceSansPro_0.ufo / SourceSansPro_1.ufo</string>
 	<key>styleName</key>
-	<string></string>
+	<string>Regular</string>
 	<key>trademark</key>
 	<string>Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.</string>
 	<key>unitsPerEm</key>

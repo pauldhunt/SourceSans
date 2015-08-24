@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="upsilontonos">
+<glyph format="2" name="upsilontonos">
   <advance width="492" />
   <outline>
     <contour>
@@ -47,7 +47,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="277c958674502d1432b4c8c91c4fd74cdbaea76cfeea72c8af946f02fc710ebfcbf5f62c55834199f0ca8f6888fa825cdf91319a724a8699b58ad3f9da22f1e3">
+        <hintSetList id="b0a635525f0b7cba0d7841379f85b5a3e76ba637ec08fff022a22f621485225fbb208ea1bcc04e571acbe7b919ade6b4380148de1787238a99cac80d5fe0d03a">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="490" width="-20" />

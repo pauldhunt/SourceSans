@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Etaiotasub">
+<glyph format="2" name="Etaiotasub">
   <advance width="877" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="dbb8930fd776a4277cc3f749ccb51c90c21976c503189f12c59263887910567d439b47f46cf8d6e487cf7633b8dd12aaef46e67f305da43a0596bdcae1585080">
+        <hintSetList id="954a1211c1ff6c6ebb4b36d0c510628b7b02e2f4998b01332e399c83cff5a0a7d41e18944aca42d7cd404b8b96835d11c9fc554e033a15d38adb30238b93c5e5">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="330" width="40" />

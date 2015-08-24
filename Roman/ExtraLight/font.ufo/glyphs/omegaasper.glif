@@ -2,7 +2,18 @@
 <glyph name="omegaasper" format="1">
   <advance width="664"/>
   <outline>
-    <component base="aspercmb" xOffset="332"/>
     <component base="omega"/>
+    <component base="aspercmb" xOffset="332"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.6294117647058824</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

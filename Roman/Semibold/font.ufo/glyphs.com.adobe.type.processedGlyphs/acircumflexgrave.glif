@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="acircumflexgrave">
+<glyph format="2" name="acircumflexgrave">
   <advance width="516" />
   <outline>
     <contour>
@@ -35,35 +35,35 @@
       <point x="188" y="78" />
       <point x="158" y="97" />
       <point type="curve" x="158" y="141" />
-      <point x="158" y="190" />
+      <point name="hintSet0015" x="158" y="190" />
       <point x="202" y="225" />
       <point type="curve" x="336" y="242" />
       <point type="line" x="336" y="132" />
-      <point x="299" y="98" />
+      <point name="hintSet0017" x="299" y="98" />
       <point x="269" y="78" />
     </contour>
     <contour>
-      <point name="hintSet0018" type="line" x="164" y="568" />
-      <point type="line" x="267" y="636" />
-      <point type="line" x="271" y="636" />
-      <point type="line" x="374" y="568" />
-      <point type="line" x="412" y="611" />
-      <point type="line" x="315" y="703" />
-      <point type="line" x="223" y="703" />
-      <point type="line" x="126" y="611" />
+      <point type="line" x="173" y="568" />
+      <point name="hintSet0019" type="line" x="276" y="636" />
+      <point type="line" x="280" y="636" />
+      <point type="line" x="383" y="568" />
+      <point type="line" x="421" y="611" />
+      <point type="line" x="324" y="703" />
+      <point type="line" x="232" y="703" />
+      <point type="line" x="135" y="611" />
     </contour>
     <contour>
-      <point type="line" x="159" y="675" />
-      <point type="line" x="68" y="797" />
-      <point type="line" x="5" y="753" />
-      <point type="line" x="114" y="637" />
+      <point type="line" x="123" y="637" />
+      <point type="line" x="168" y="675" />
+      <point type="line" x="77" y="797" />
+      <point type="line" x="14" y="753" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="33f3b3c69f6857dce01f6332c445544f0d8abb74528469b654cf9259e73b18634da933dc80268c86a724285ce8abba3d3fad9a10e020143f7e9741b337549684">
+        <hintSetList id="370ca52ce510a9a921917326db0bcc2646cf96ba72e81d386315556657c88c71cc6690e2061ca4698f7e17cdf18565a77cd5998facbd7d70d41d1157a0706f7b">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="90" />
             <hstem pos="410" width="93" />
@@ -85,7 +85,21 @@
             <vstem pos="47" width="111" />
             <vstem pos="336" width="115" />
           </hintset>
-          <hintset pointTag="hintSet0018">
+          <hintset pointTag="hintSet0015">
+            <hstem pos="21" width="-21" />
+            <hstem pos="410" width="93" />
+            <hstem pos="636" width="67" />
+            <vstem pos="47" width="111" />
+            <vstem pos="336" width="115" />
+          </hintset>
+          <hintset pointTag="hintSet0017">
+            <hstem pos="-12" width="90" />
+            <hstem pos="410" width="93" />
+            <hstem pos="636" width="67" />
+            <vstem pos="47" width="111" />
+            <vstem pos="336" width="115" />
+          </hintset>
+          <hintset pointTag="hintSet0019">
             <hstem pos="21" width="-21" />
             <hstem pos="410" width="93" />
             <hstem pos="636" width="67" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="colontriangularhalfmod">
+<glyph format="2" name="colontriangularhalfmod">
   <advance width="320" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="320152290l168290l280500l40500l">
+        <hintSetList id="15229016829028050032040500">
           <hintset pointTag="hintSet0000">
             <hstem pos="290" width="210" />
             <vstem pos="40" width="240" />

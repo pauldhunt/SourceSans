@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="t">
+<glyph format="2" name="t">
   <advance width="400" />
   <outline>
     <contour>
@@ -33,7 +33,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="aad31b0231d2223c3c4ad6f9e664a07644cf6c9c7ac10c65667cb4f0d5aea8114aa754bda35ebfe172b8dee6174631f7285f2f4cc6ec60dd880910902ec3a06d">
+        <hintSetList id="258eb736ec6f204f884a6f648eb21d2cfda23895bd9dc1f718dc904552a2d2d34b982a3ed828abe838d65a4656cae8546d7996ebbe1d501b189f630520f38434">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="366" width="134" />

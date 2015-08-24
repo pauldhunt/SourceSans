@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="adotbelow.a">
+  <advance width="580" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="300" y="-234" />
+      <point x="354" y="-234" />
+      <point x="392" y="-198" />
+      <point type="curve" x="392" y="-148" />
+      <point x="392" y="-98" />
+      <point x="354" y="-62" />
+      <point type="curve" x="300" y="-62" />
+      <point x="246" y="-62" />
+      <point x="208" y="-98" />
+      <point type="curve" x="208" y="-148" />
+      <point x="208" y="-198" />
+      <point x="246" y="-234" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="208-148208-198208-98246-234246-62300-234300-62354-234354-62392-148392-198392-98580">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-234" width="172" />
+            <vstem pos="208" width="184" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

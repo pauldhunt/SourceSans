@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="aemacron">
+<glyph format="2" name="aemacron">
   <advance width="784" />
   <outline>
     <contour>
@@ -84,7 +84,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="eb34b269253eeb63482159b40b1caa894256a8939a192a2742fd000246cd864203c0e51fefbc966161641ddd70a246f2d612ec8a69b45000c91f38d6e132cb48">
+        <hintSetList id="01a6aa04d37d07cbe401e4c1801852dcd877154f113077d80de32613c23030051be8d37d6cb5f1c8a80f2767aeef2907cbc717bc77220666ab34fa3f1f145c0b">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="234" width="34" />

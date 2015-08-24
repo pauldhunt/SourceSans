@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="aspertilde">
+<glyph format="2" name="aspertilde">
   <advance width="560" />
   <outline>
     <contour>
@@ -45,21 +45,17 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d8bc70719a297e7ea7fbb9bee2be186c54abed9f27ba721c35c1ef71335325eba0a349f7f0c8828edaa04de6998c47aa90ce62f62933f0c763305d092284d849">
+        <hintSetList id="887c03966f80f724f8edb01633fe365964cb378853dc04589abac4139b678e5a8855b64cc85e6c5d5391067389078862de9281cf8f7c71bdb2808a3bea255547">
           <hintset pointTag="hintSet0000">
-            <hstem pos="563" width="52" />
             <hstem pos="649" width="66" />
             <hstem pos="772" width="92" />
             <vstem pos="192" width="110" />
           </hintset>
           <hintset pointTag="hintSet0010">
-            <hstem pos="563" width="52" />
-            <hstem pos="649" width="66" />
             <hstem pos="730" width="92" />
             <vstem pos="192" width="110" />
           </hintset>
           <hintset pointTag="hintSet0014">
-            <hstem pos="563" width="52" />
             <hstem pos="649" width="66" />
             <hstem pos="772" width="92" />
             <vstem pos="192" width="110" />

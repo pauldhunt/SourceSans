@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dialytikagravecmb">
-  <advance width="0" />
+<glyph format="2" name="dialytikagravecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="-113" y="595" />
@@ -41,7 +40,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7951cbe1ee6fba7083b71c54a33ed997180be419f677cf490076f4404be5629cf3362fa46c400977f0c466d041b19f87e781578da084468f86845510089dda50">
+        <hintSetList id="747843f37ec2fa3f90fb3418a6166f1e9ec1d7bdebf3538b4a58af47acef008f27768ab56b600f769b049f001fa06f5b67e6a5188265a13095522e9512f16c99">
           <hintset pointTag="hintSet0000">
             <hstem pos="595" width="84" />
             <vstem pos="-155" width="83" />

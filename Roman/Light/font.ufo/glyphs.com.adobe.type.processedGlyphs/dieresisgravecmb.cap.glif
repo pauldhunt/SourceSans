@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="dieresisgravecmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="-98" y="725" />
+      <point x="-78" y="725" />
+      <point x="-62" y="738" />
+      <point type="curve" x="-62" y="760" />
+      <point x="-62" y="782" />
+      <point x="-78" y="796" />
+      <point type="curve" x="-98" y="796" />
+      <point x="-118" y="796" />
+      <point x="-133" y="782" />
+      <point type="curve" x="-133" y="760" />
+      <point x="-133" y="738" />
+      <point x="-118" y="725" />
+    </contour>
+    <contour>
+      <point type="line" x="6" y="822" />
+      <point type="line" x="28" y="839" />
+      <point type="line" x="-66" y="945" />
+      <point type="line" x="-97" y="920" />
+    </contour>
+    <contour>
+      <point type="curve" x="98" y="725" />
+      <point x="118" y="725" />
+      <point x="133" y="738" />
+      <point type="curve" x="133" y="760" />
+      <point x="133" y="782" />
+      <point x="118" y="796" />
+      <point type="curve" x="98" y="796" />
+      <point x="78" y="796" />
+      <point x="62" y="782" />
+      <point type="curve" x="62" y="760" />
+      <point x="62" y="738" />
+      <point x="78" y="725" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="c2e4a34fd41e510c3573f6eeb1331b418dec294ab92a58757f4c92582b319c6fcb15b778f699bc33e51e60ed095bd8b913a9e2355617ed1c0cf46227d8390209">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="725" width="71" />
+            <vstem pos="-133" width="71" />
+            <vstem pos="62" width="71" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

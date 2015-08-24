@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omicrontonos">
+<glyph format="2" name="omicrontonos">
   <advance width="535" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="236" y="569" />
-      <point type="line" x="293" y="558" />
-      <point type="line" x="364" y="755" />
-      <point type="line" x="279" y="770" />
-    </contour>
-    <contour>
-      <point type="curve" x="267" y="-12" />
+      <point name="hintSet0000" type="curve" x="267" y="-12" />
       <point x="389" y="-12" />
       <point x="489" y="80" />
       <point type="curve" x="489" y="242" />
@@ -36,12 +30,18 @@
       <point x="404" y="130" />
       <point x="353" y="56" />
     </contour>
+    <contour>
+      <point type="line" x="236" y="569" />
+      <point type="line" x="293" y="558" />
+      <point type="line" x="364" y="755" />
+      <point type="line" x="279" y="770" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7793d7b64673425c807fe29408505a304d9ac7b2f9165c034c80770f8c70c1d79bbee3c0e7ef5139323b5ef056e03db1cd5346a28e6891d809c8792d41525430">
+        <hintSetList id="4921f1a5aa0677bae1ddcd260fb7ea47649040cef174b308604679da67c6cdfd36998191246f6e5019b25c48b96fd51bde860ea5378b61805315e5946f5b83a5">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="68" />
             <hstem pos="430" width="68" />

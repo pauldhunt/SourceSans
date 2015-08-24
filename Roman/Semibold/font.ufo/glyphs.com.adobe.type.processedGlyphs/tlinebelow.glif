@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tlinebelow">
+<glyph format="2" name="tlinebelow">
   <advance width="361" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="84" y="-180" />
-      <point type="line" x="364" y="-180" />
-      <point type="line" x="364" y="-104" />
-      <point type="line" x="84" y="-104" />
-    </contour>
-    <contour>
-      <point name="hintSet0004" type="curve" x="246" y="-12" />
+      <point name="hintSet0000" type="curve" x="246" y="-12" />
       <point x="285" y="-12" />
       <point x="319" y="-3" />
       <point type="curve" x="346" y="6" />
@@ -34,23 +28,29 @@
       <point x="90" y="60" />
       <point x="132" y="-12" />
     </contour>
+    <contour>
+      <point name="hintSet0017" type="line" x="76" y="-180" />
+      <point type="line" x="356" y="-180" />
+      <point type="line" x="356" y="-104" />
+      <point type="line" x="76" y="-104" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d9e41fb3a96bfe2eb8336134daf010c990f6e1bc822715effa091cb3aab04997516e318077bc6425e3fc48b6d052f1467b7167542a52800f4179e509ae92e74d">
+        <hintSetList id="8c6f4ad5ee354a5d6d730314fc9ca99c6c6dbbde465368749e71115f57523c44381354ada67555734c2f2b6a25ca2731edec7052fc92ca8828c2824334f330a6">
           <hintset pointTag="hintSet0000">
             <hstem pos="-180" width="76" />
             <hstem pos="-12" width="92" />
             <hstem pos="400" width="91" />
-            <vstem pos="84" width="280" />
+            <vstem pos="90" width="116" />
           </hintset>
-          <hintset pointTag="hintSet0004">
+          <hintset pointTag="hintSet0017">
             <hstem pos="-180" width="76" />
             <hstem pos="-12" width="92" />
             <hstem pos="400" width="91" />
-            <vstem pos="90" width="116" />
+            <vstem pos="76" width="280" />
           </hintset>
         </hintSetList>
       </data>

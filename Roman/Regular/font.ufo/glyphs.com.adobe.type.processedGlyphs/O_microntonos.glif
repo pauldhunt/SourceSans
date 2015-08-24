@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omicrontonos">
+<glyph format="2" name="Omicrontonos">
   <advance width="711" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fceb63c94a6857fb7d0ef16c9caefb3125d1c763776973de6c75d14dd3b5a0d158533928930dc289bdfe4edcbba8dbe8997c6c73cbf77f95cfda1b6094996362">
+        <hintSetList id="67c2fd5112d5d7662f5379f858972841e7f4fb8b4b0e0f04dec4fd96ab6178d62fb1827db33f979fe55ad8078111f6c194ba8d638f60d1bed2faecc3bb1c451e">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="73" />
             <hstem pos="595" width="73" />

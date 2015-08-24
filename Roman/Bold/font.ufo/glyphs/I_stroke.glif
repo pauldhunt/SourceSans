@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Istroke" format="1">
+  <advance width="352"/>
+  <outline>
+    <contour>
+      <point x="26" y="285" type="line"/>
+      <point x="326" y="285" type="line"/>
+      <point x="326" y="356" type="line"/>
+      <point x="103" y="356" type="line"/>
+      <point x="26" y="350" type="line"/>
+    </contour>
+    <component base="I" xOffset="25"/>
+  </outline>
+</glyph>

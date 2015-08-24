@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.a" format="1">
+  <advance width="276"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="701" type="line"/>
+      <point x="65" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="690" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="138" y="557" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="138" y="-20" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

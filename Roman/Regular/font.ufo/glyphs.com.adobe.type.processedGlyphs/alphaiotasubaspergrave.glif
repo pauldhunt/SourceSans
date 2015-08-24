@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphaiotasubaspergrave">
+<glyph format="2" name="alphaiotasubaspergrave">
   <advance width="560" />
   <outline>
     <contour>
@@ -98,9 +98,9 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="672ead6bb97d7c3f93c0f9316bf0a3705d3c969c90917fa5717769eaf7be2faf1d425d166e91b16a81ddd432387b921ef1df2c4805c0092d056cf8c499454da5">
+        <hintSetList id="992ca485633c4853785ba2d996baa5afdb25b65422c4a4457b8ecda71de7f6da905d65f7128ffc9f260a76b6bec868b2a1d3187c0f2395b4aaa72d88b51a0141">
           <hintset pointTag="hintSet0000">
-            <hstem pos="-201" width="55" />
+            <hstem pos="-201" width="139" />
             <hstem pos="-12" width="69" />
             <hstem pos="429" width="69" />
             <hstem pos="705" width="51" />
@@ -109,7 +109,7 @@
             <vstem pos="387" width="65" />
           </hintset>
           <hintset pointTag="hintSet0008">
-            <hstem pos="-201" width="55" />
+            <hstem pos="-201" width="139" />
             <hstem pos="-12" width="69" />
             <hstem pos="486" width="-20" />
             <hstem pos="705" width="51" />
@@ -118,7 +118,7 @@
             <vstem pos="387" width="65" />
           </hintset>
           <hintset pointTag="hintSet0012">
-            <hstem pos="-201" width="55" />
+            <hstem pos="-201" width="139" />
             <hstem pos="-12" width="69" />
             <hstem pos="429" width="69" />
             <hstem pos="705" width="51" />
@@ -127,7 +127,7 @@
             <vstem pos="387" width="65" />
           </hintset>
           <hintset pointTag="hintSet0030">
-            <hstem pos="-201" width="55" />
+            <hstem pos="-201" width="139" />
             <hstem pos="-12" width="69" />
             <hstem pos="429" width="69" />
             <hstem pos="705" width="51" />

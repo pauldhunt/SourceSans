@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="parenleft">
+<glyph format="2" name="parenleft">
   <advance width="303" />
   <outline>
     <contour>
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="303214-176c265-152l188-25o150126o150278c150430o188581o265708c214732l131598o82454o82278c82102o131-42o">
+        <hintSetList id="131-42131598150126150278150430188-25188581214-176214732265-152265708303821028227882454">
           <hintset pointTag="hintSet0000">
             <hstem pos="-176" width="908" />
             <vstem pos="82" width="68" />

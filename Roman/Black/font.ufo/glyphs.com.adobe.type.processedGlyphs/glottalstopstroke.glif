@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="glottalstopstroke">
+<glyph format="2" name="glottalstopstroke">
   <advance width="490" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="138" y="0" />
       <point type="line" x="310" y="0" />
-      <point type="line" x="310" y="180" />
-      <point type="line" x="474" y="180" />
+      <point type="line" x="310" y="234" />
+      <point type="line" x="474" y="234" />
       <point type="line" x="474" y="314" />
       <point type="line" x="350" y="314" />
       <point name="hintSet0006" x="411" y="372" />
@@ -30,26 +30,26 @@
       <point type="curve" x="158" y="314" />
       <point type="line" x="88" y="314" />
       <point type="line" x="12" y="308" />
-      <point type="line" x="12" y="180" />
-      <point name="hintSet0016" type="line" x="138" y="180" />
+      <point type="line" x="12" y="234" />
+      <point name="hintSet0016" type="line" x="138" y="234" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="248dc9718b1674bee6b311f9ba8fd01cfe1c4607ef23530348ea247ca6c65fcb7d22ff35b1ab2d2b69b84878352796ad7222cd59a6c584eaa5dfbf1fc16cc77e">
+        <hintSetList id="63b4933d7fbb156ee8a7a945f4ab071d0561f6e9151f8f0ea5a79fb31deb192476a272ef742005c95ac4ace4bae7e0b35267fa6f46e8b734c537832a16fb2b28">
           <hintset pointTag="hintSet0000">
-            <hstem pos="180" width="134" />
+            <hstem pos="234" width="80" />
             <vstem pos="138" width="172" />
           </hintset>
           <hintset pointTag="hintSet0006">
-            <hstem pos="180" width="134" />
+            <hstem pos="234" width="80" />
             <hstem pos="570" width="138" />
             <vstem pos="288" width="172" />
           </hintset>
           <hintset pointTag="hintSet0016">
-            <hstem pos="180" width="134" />
+            <hstem pos="234" width="80" />
             <vstem pos="138" width="172" />
           </hintset>
         </hintSetList>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Gmacron">
+<glyph format="2" name="Gmacron">
   <advance width="628" />
   <outline>
     <contour>
@@ -45,7 +45,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="bd34e05e6387e356d318463d2cc8e32db5b55e4e44dd23473eafe6fe608a39d40bfa0eaff2cf492ef585b9cbd66453aec4f8b1b5db519844957f2f9def7ad7d2">
+        <hintSetList id="5202e369acdea2ef308abb7a1e8e3094386517b865ad26d7e3c3894ec46434f8cebe4cebac84749a67e7183a5c0a055ad26a06e6073fd458edca4fffe9d04f99">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="101" />
             <hstem pos="259" width="95" />

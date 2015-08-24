@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Uring">
+<glyph format="2" name="Uring">
   <advance width="665" />
   <outline>
     <contour>
@@ -55,7 +55,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7f31f2c6e6757d3e4f5580499353106c6351012f0a469981da2c4a571eaf12cc286fb66d6c70adfe8962ab4b5b619e972243bd44679787afe45c4eb7fdac4ae7">
+        <hintSetList id="4afac68a078f0a992c70b062e0cf1af1f0b08db78dc5520b95ac3e380b16803497f9cd2e9b99a66beab25602770a46fc5ead331581fc41967bb4d12454d07ba0">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="127" />
             <hstem pos="652" width="-20" />

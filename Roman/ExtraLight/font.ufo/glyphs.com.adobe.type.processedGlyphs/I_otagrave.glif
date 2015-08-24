@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Iotagrave">
+<glyph format="2" name="Iotagrave">
   <advance width="252" />
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2521200l1520l152660l120660l20484l44490l14670l-22664l">
+        <hintSetList id="-2266412001206601467015201526602048425244490">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="670" width="-20" />

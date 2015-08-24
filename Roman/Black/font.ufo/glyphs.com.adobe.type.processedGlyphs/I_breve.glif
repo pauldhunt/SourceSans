@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ibreve">
+<glyph format="2" name="Ibreve">
   <advance width="316" />
   <outline>
     <contour>
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="316720l2440l244650l72650l158694c260694o318738o328834c236850l227811o198792o158792c118792o89811o80850c-12834l-2738o56694o">
+        <hintSetList id="-12834-2738118792158694158792198792227811236850244024465026069431631873832883456694720726508085089811">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="650" width="-20" />

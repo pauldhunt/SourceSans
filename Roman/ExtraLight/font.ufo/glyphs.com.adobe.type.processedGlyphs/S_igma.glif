@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Sigma">
+<glyph format="2" name="Sigma">
   <advance width="528" />
   <outline>
     <contour>
@@ -21,7 +21,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="528480l4900l49028l9228l328336l96632l458632l458660l54660l54642l294336l4818l">
+        <hintSetList id="29433632833645863245866048048184900490285285464254660922896632">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="28" />
             <hstem pos="632" width="28" />

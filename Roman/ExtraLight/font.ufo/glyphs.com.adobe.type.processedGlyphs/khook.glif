@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="khook">
+  <advance width="452" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="96" y="0" />
+      <point type="line" x="126" y="0" />
+      <point type="line" x="126" y="132" />
+      <point type="line" x="240" y="266" />
+      <point type="line" x="406" y="0" />
+      <point type="line" x="440" y="0" />
+      <point type="line" x="258" y="290" />
+      <point type="line" x="412" y="478" />
+      <point type="line" x="376" y="478" />
+      <point type="line" x="128" y="174" />
+      <point type="line" x="126" y="174" />
+      <point type="line" x="126" y="562" />
+      <point x="126" y="646" />
+      <point x="158" y="706" />
+      <point type="curve" x="234" y="706" />
+      <point x="252" y="706" />
+      <point x="272" y="702" />
+      <point type="curve" x="292" y="692" />
+      <point type="line" x="304" y="718" />
+      <point x="282" y="728" />
+      <point x="256" y="734" />
+      <point type="curve" x="236" y="734" />
+      <point x="150" y="734" />
+      <point x="96" y="674" />
+      <point type="curve" x="96" y="566" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="4b304d31069bd3fec167549904568bb7053b235012d4a9b97dd34fbfe37ca788d12327afe33651f8af8d4fce49c8ae7b88302a70ce719c4e030f93ac4df4aa99">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="478" width="-20" />
+            <hstem pos="706" width="28" />
+            <vstem pos="96" width="30" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

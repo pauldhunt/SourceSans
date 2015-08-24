@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="macute">
+<glyph format="2" name="macute">
   <advance width="806" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="370" y="574" />
-      <point type="line" x="508" y="724" />
-      <point type="line" x="484" y="744" />
-      <point type="line" x="352" y="590" />
-    </contour>
-    <contour>
-      <point type="line" x="96" y="0" />
+      <point name="hintSet0000" type="line" x="96" y="0" />
       <point type="line" x="126" y="0" />
       <point type="line" x="126" y="366" />
       <point x="182" y="430" />
@@ -43,15 +37,21 @@
       <point x="172" y="452" />
       <point type="curve" x="128" y="402" />
       <point type="line" x="126" y="402" />
-      <point name="hintSet0022" type="line" x="122" y="478" />
+      <point name="hintSet0018" type="line" x="122" y="478" />
       <point type="line" x="96" y="478" />
+    </contour>
+    <contour>
+      <point type="line" x="370" y="574" />
+      <point type="line" x="508" y="724" />
+      <point type="line" x="484" y="744" />
+      <point type="line" x="352" y="590" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="40879975ed3aa5409d1272187f468aaac44ccd137abbbcf6d7524a31feb8f3a5d9838b2701becc4209933f28b0377815b71cf577c029f792185fa7d07022732a">
+        <hintSetList id="91be3d50c1fccaab01fb3be751d2fae5a17c483fd9656e1f22407ffd6721bdddd8db98cbc9722b1351a5ec7c2ed6bf745a39b5d6b0d9010011bfed4879f7bcf2">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="462" width="28" />
@@ -60,7 +60,7 @@
             <vstem pos="392" width="30" />
             <vstem pos="688" width="30" />
           </hintset>
-          <hintset pointTag="hintSet0022">
+          <hintset pointTag="hintSet0018">
             <hstem pos="21" width="-21" />
             <hstem pos="478" width="-20" />
             <hstem pos="724" width="-20" />

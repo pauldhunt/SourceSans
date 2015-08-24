@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dotaccent">
+<glyph format="2" name="dotaccent">
   <advance width="560" />
   <outline>
     <contour>
@@ -21,7 +21,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="560280562c334562o372598o372648c372698o334734o280734c226734o188698o188648c188598o226562o">
+        <hintSetList id="188598188648188698226562226734280562280734334562334734372598372648372698560">
           <hintset pointTag="hintSet0000">
             <hstem pos="562" width="172" />
             <vstem pos="188" width="184" />

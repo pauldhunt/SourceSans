@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Epsilontonos">
+<glyph format="2" name="Epsilontonos">
   <advance width="630" />
   <outline>
     <contour>
@@ -27,7 +27,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="6301750l5790l57998l29198l291291l526291l526389l291389l291556l569556l569654l175654l-16466l59452l114656l13670l">
+        <hintSetList id="-164661146561367017501756542912912913892915562919852629152638956955656965457905799859452630">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="98" />
             <hstem pos="291" width="98" />

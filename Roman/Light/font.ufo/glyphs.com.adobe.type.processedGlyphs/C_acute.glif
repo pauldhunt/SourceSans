@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Cacute">
+<glyph format="2" name="Cacute">
   <advance width="564" />
   <outline>
     <contour>
@@ -31,17 +31,17 @@
       <point x="168" y="-12" />
     </contour>
     <contour>
-      <point type="line" x="302" y="706" />
-      <point type="line" x="435" y="819" />
-      <point type="line" x="407" y="852" />
-      <point type="line" x="282" y="729" />
+      <point type="line" x="300" y="706" />
+      <point type="line" x="433" y="819" />
+      <point type="line" x="405" y="852" />
+      <point type="line" x="280" y="729" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5a820399bf509412b5599d62945e6873087227e08bf182215c81db7536ea0734aa37bd07652330005bffd2bcc08b6e58adbd6d6094b5fde62bd0b2d562ce99d8">
+        <hintSetList id="75f87e53b04c1b63ac2b5ed99fa3f196d4fdabc0b04110dfec83a7116a64c99e5cbb7cade6dc59abecdaee4697ded5e19e8fd7058ca38be840628bc4f78a68e0">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="42" />
             <hstem pos="629" width="42" />

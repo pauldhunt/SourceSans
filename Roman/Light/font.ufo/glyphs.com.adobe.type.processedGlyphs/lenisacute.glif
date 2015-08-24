@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lenisacute">
+<glyph format="2" name="lenisacute">
   <advance width="535" />
   <outline>
     <contour>
@@ -7,7 +7,7 @@
       <point x="205" y="590" />
       <point x="246" y="612" />
       <point type="curve" x="246" y="664" />
-      <point x="246" y="715" />
+      <point x="246" y="716" />
       <point x="195" y="738" />
       <point type="curve" x="135" y="740" />
       <point type="line" x="133" y="707" />
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5fb639ab835f0f49f7a7ef8540123d4d5faf7381dcfb98d792a382a8be9133d67ae47f1e6cc664d5b80b7344bf30386cf5779556caad366015e39d9c0ff2f27e">
+        <hintSetList id="133707135740155604163578181705186613195738205590208630208659208690246612246664246716280567311560328757376747535">
           <hintset pointTag="hintSet0000">
             <hstem pos="707" width="33" />
             <vstem pos="208" width="38" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="imacroncyr">
+<glyph format="2" name="imacroncyr">
   <advance width="583" />
   <outline>
     <contour>
@@ -29,17 +29,17 @@
       <point type="line" x="65" y="496" />
     </contour>
     <contour>
-      <point type="line" x="148" y="592" />
-      <point type="line" x="444" y="592" />
-      <point type="line" x="444" y="685" />
-      <point type="line" x="148" y="685" />
+      <point type="line" x="149" y="592" />
+      <point name="hintSet0017" type="line" x="445" y="592" />
+      <point type="line" x="445" y="685" />
+      <point name="hintSet0019" type="line" x="149" y="685" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="8bf8c4211b34af06a5d0ebca34a1c974e4bb74309e8da0bf6128a15fa46879fba00575c08b01435f0fe7f4648b06c3a02ece0be931beebb2513968daa07a8a86">
+        <hintSetList id="b658d170b43836142cfd71792a7c266be6e1871b889331e407a89780fd9d14f2624013cc77be6ba06106722d779b09104c9fb48bb48f6b52ca44554d7e0793ac">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="496" width="-20" />
@@ -50,6 +50,19 @@
           <hintset pointTag="hintSet0003">
             <hstem pos="21" width="-21" />
             <hstem pos="314" width="182" />
+            <hstem pos="592" width="93" />
+            <vstem pos="65" width="142" />
+            <vstem pos="376" width="142" />
+          </hintset>
+          <hintset pointTag="hintSet0017">
+            <hstem pos="21" width="-21" />
+            <hstem pos="496" width="-20" />
+            <hstem pos="592" width="93" />
+            <vstem pos="149" width="296" />
+          </hintset>
+          <hintset pointTag="hintSet0019">
+            <hstem pos="21" width="-21" />
+            <hstem pos="496" width="-20" />
             <hstem pos="592" width="93" />
             <vstem pos="65" width="142" />
             <vstem pos="376" width="142" />

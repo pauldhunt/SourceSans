@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="idieresisacute">
+  <advance width="222" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="96" y="0" />
+      <point type="line" x="126" y="0" />
+      <point type="line" x="126" y="478" />
+      <point type="line" x="96" y="478" />
+    </contour>
+    <contour>
+      <point type="curve" x="26" y="602" />
+      <point x="44" y="602" />
+      <point x="58" y="616" />
+      <point type="curve" x="58" y="634" />
+      <point x="58" y="652" />
+      <point x="44" y="666" />
+      <point type="curve" x="26" y="666" />
+      <point x="8" y="666" />
+      <point x="-6" y="652" />
+      <point type="curve" x="-6" y="634" />
+      <point x="-6" y="616" />
+      <point x="8" y="602" />
+    </contour>
+    <contour>
+      <point type="curve" x="198" y="602" />
+      <point x="216" y="602" />
+      <point x="230" y="616" />
+      <point type="curve" x="230" y="634" />
+      <point x="230" y="652" />
+      <point x="216" y="666" />
+      <point type="curve" x="198" y="666" />
+      <point x="180" y="666" />
+      <point x="166" y="652" />
+      <point type="curve" x="166" y="634" />
+      <point x="166" y="616" />
+      <point x="180" y="602" />
+    </contour>
+    <contour>
+      <point type="line" x="94" y="698" />
+      <point type="line" x="186" y="794" />
+      <point type="line" x="162" y="814" />
+      <point type="line" x="76" y="714" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="4a2a6a3ac8d46b94db95ebc0dd35cd1ca25a7c460c9af530c33fd43de00e2ac0fa7ea737be90a7c27fc61923ff8b48a0a9375f40e3c8002b7719cc5f4c56e96a">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="478" width="-20" />
+            <hstem pos="602" width="64" />
+            <vstem pos="-6" width="64" />
+            <vstem pos="96" width="30" />
+            <vstem pos="166" width="64" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

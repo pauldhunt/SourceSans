@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotadieresis">
+<glyph format="2" name="iotadieresis">
   <advance width="301" />
   <outline>
     <contour>
@@ -55,7 +55,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="b9fc219fa68fa8664365a0e265a13ed8168408f7d754283c074fbc5c374938b4ccf7d5f569fb90d424e8b16f45af100b4964d8f02897bcafc2360aed3f87b8de">
+        <hintSetList id="54017c42b1c66f73cf7afa6b75985ad9bdd26df871ce6e6f18bba9fb364395aa118e49633f03f04f798edb14734ec57bfe76d407eeac8167a9c4e9bf814f3f33">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="496" width="-20" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Yhoi">
+<glyph format="2" name="Yhoi">
   <advance width="447" />
   <outline>
     <contour>
@@ -21,8 +21,8 @@
       <point type="line" x="200" y="267" />
     </contour>
     <contour>
-      <point name="hintSet0012" type="line" x="198" y="702" />
-      <point x="246" y="715" />
+      <point type="line" x="198" y="702" />
+      <point name="hintSet0013" x="246" y="715" />
       <point x="293" y="737" />
       <point type="curve" x="293" y="789" />
       <point x="293" y="839" />
@@ -41,12 +41,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e40439a72af2117ab3735a2b19c60229ee36cc788223b0b2cf6191174113a353248825c089a5294cb0ae44acc8982f464a968d9f51236ac72e7607c27e41d6e4">
+        <hintSetList id="164f0c44e2b64875ac36227400bfe79a68ae1316daf479aff3cf453be1fa0b15018d05975e8dc749e0efc7f20225f62934509dd287b6096519e0c6a51c0b64ce">
           <hintset pointTag="hintSet0000">
             <hstem pos="831" width="32" />
             <vstem pos="200" width="46" />
           </hintset>
-          <hintset pointTag="hintSet0012">
+          <hintset pointTag="hintSet0013">
             <hstem pos="831" width="32" />
             <vstem pos="253" width="40" />
           </hintset>

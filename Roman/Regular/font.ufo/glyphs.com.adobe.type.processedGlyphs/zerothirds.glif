@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="zerothirds">
+<glyph format="2" name="zerothirds">
   <advance width="821" />
   <outline>
     <contour>
@@ -82,7 +82,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="63c1425a2499f31b42bc5db11e5f5fe50b93416640868f019bb05c734a6fad1bf98d8832930bc11dfc3ba3031499fe4b8ae16db08b690e574693b18de1ff39cf">
+        <hintSetList id="59d463e52f1c6bc3642d0166ae172ac8540b00b3d9bf59751b690957c94b214161ac7315172dd515bb113b33a39ec1be3217000b2f5f899afa742bb124615d00">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="51" />
             <hstem pos="178" width="41" />

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotasubscriptcmb">
-  <advance width="0" />
+<glyph format="2" name="iotasubscriptcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="54" y="-216" />
@@ -27,7 +26,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="58743b372453fc395a39068ce18df1fbb4f554d0b32af60c8225decc5e44b40dc08b632156ac48220a073a97049ca3e2025a5dbcbc9afad9218458d848d8337c">
+        <hintSetList id="-28-216-57-166-57-55-57-891000101-126101-212115-20547-12147-7047-8647-9549-5554-21663-12882-21684-12889-12892-128">
           <hintset pointTag="hintSet0000">
             <hstem pos="-216" width="161" />
             <vstem pos="-57" width="104" />

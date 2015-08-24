@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="fisheye">
+<glyph format="2" name="fisheye">
   <advance width="906" />
   <outline>
     <contour>
@@ -19,15 +19,15 @@
     <contour>
       <point type="curve" x="453" y="-38" />
       <point x="264" y="-38" />
-      <point x="77" y="97" />
+      <point x="77" y="96" />
       <point type="curve" x="77" y="348" />
-      <point x="77" y="599" />
+      <point x="77" y="600" />
       <point x="264" y="734" />
       <point type="curve" x="453" y="734" />
       <point x="645" y="734" />
-      <point x="829" y="599" />
+      <point x="829" y="600" />
       <point type="curve" x="829" y="348" />
-      <point x="829" y="97" />
+      <point x="829" y="96" />
       <point x="645" y="-38" />
     </contour>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2deb65820a96c2f5a970b8d88d47310d7059ffdf3efbe07d6f9277f4d09b81d8a5fa172ce20ea8eb50974cfd78ef9e824e837531a7f40ca11b5321d8c88b4b8b">
+        <hintSetList id="0a57f39c5138d5e946c26dd15e127f87f1aad50342803abd4de30fc1b74420a3646b749752d1482c823dd12eafe779590786b0e7453d4cc04206847cd1d81d7f">
           <hintset pointTag="hintSet0000">
             <hstem pos="-75" width="37" />
             <hstem pos="734" width="37" />

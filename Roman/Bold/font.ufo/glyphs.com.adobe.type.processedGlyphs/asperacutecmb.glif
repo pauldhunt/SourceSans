@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="asperacutecmb">
-  <advance width="0" />
+<glyph format="2" name="asperacutecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="-64" y="575" />
@@ -29,7 +28,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f7bef009fdf40ce457ba1eeda28d560bd67c36dab993a4f6ecd889a2c605ad3adaadf555cd6f153774c73e38dbc4e6ef10bb90bb9d4673f261bf576b3c85906d">
+        <hintSetList id="-122584-134780-185611-185682-185741-18701-25783-53633-64575-68698-72637-88645-88666-88686100016077041793757389557">
           <hintset pointTag="hintSet0000">
             <hstem pos="701" width="82" />
             <vstem pos="-185" width="97" />

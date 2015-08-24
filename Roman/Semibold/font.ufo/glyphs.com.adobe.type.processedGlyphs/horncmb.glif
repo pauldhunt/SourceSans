@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="horncmb">
-  <advance width="0" />
+<glyph format="2" name="horncmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="0" y="430" />
@@ -23,7 +22,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="00430l90439o164479o164566c164601o152631o138654c51615l59598o66580o66558c66512o38489o-9480c">
+        <hintSetList id="-94800430100013865415263116447916456616460138489516155959866512665586658090439">
           <hintset pointTag="hintSet0000">
             <hstem pos="430" width="224" />
             <vstem pos="66" width="98" />

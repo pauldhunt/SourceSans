@@ -1,25 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omicronasper">
+<glyph format="2" name="omicronasper">
   <advance width="535" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="301" y="574" />
-      <point type="line" x="310" y="612" />
-      <point x="278" y="620" />
-      <point x="254" y="633" />
-      <point type="curve" x="254" y="659" />
-      <point x="254" y="688" />
-      <point x="281" y="703" />
-      <point type="curve" x="337" y="706" />
-      <point type="line" x="332" y="757" />
-      <point x="241" y="754" />
-      <point x="189" y="723" />
-      <point type="curve" x="189" y="666" />
-      <point x="189" y="608" />
-      <point x="243" y="584" />
-    </contour>
-    <contour>
-      <point type="curve" x="267" y="-12" />
+      <point name="hintSet0000" type="curve" x="267" y="-12" />
       <point x="389" y="-12" />
       <point x="489" y="80" />
       <point type="curve" x="489" y="242" />
@@ -46,12 +30,28 @@
       <point x="404" y="130" />
       <point x="353" y="56" />
     </contour>
+    <contour>
+      <point type="curve" x="301" y="574" />
+      <point type="line" x="310" y="612" />
+      <point x="278" y="620" />
+      <point x="254" y="633" />
+      <point type="curve" x="254" y="659" />
+      <point x="254" y="688" />
+      <point x="281" y="703" />
+      <point type="curve" x="337" y="706" />
+      <point type="line" x="332" y="757" />
+      <point x="241" y="754" />
+      <point x="189" y="723" />
+      <point type="curve" x="189" y="666" />
+      <point x="189" y="608" />
+      <point x="243" y="584" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="4e7103a088b58a761d1857a1ff035f0911d500e55ba0f64cbceb93eb958fead92f3f1dcf1331dfb7fa12599955f6323ddaeafc81301bcbcd8000bb259cfa7ccf">
+        <hintSetList id="f9deff39149ae2a394e9397b9386428da1ca0e7bb832c24049249570c3bac01a21acb1df7d50367d5f79912d463c00a48352325fe58c600c8493741cc7955858">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="68" />
             <hstem pos="430" width="68" />

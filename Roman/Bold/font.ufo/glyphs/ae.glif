@@ -3,19 +3,13 @@
   <advance width="786"/>
   <outline>
     <contour>
-      <point x="411" y="518" type="move" name="aboveLC"/>
-    </contour>
-    <contour>
-      <point x="408" y="-22" type="move" name="belowLC"/>
-    </contour>
-    <contour>
       <point x="194" y="-12" type="curve" smooth="yes"/>
       <point x="260" y="-12"/>
       <point x="315" y="9"/>
       <point x="385" y="65" type="curve"/>
       <point x="427" y="19"/>
       <point x="482" y="-12"/>
-      <point x="556" y="-12" type="curve"/>
+      <point x="556" y="-12" type="curve" smooth="yes"/>
       <point x="614" y="-12"/>
       <point x="680" y="9"/>
       <point x="731" y="44" type="curve"/>
@@ -78,6 +72,15 @@
       <point x="601" y="396"/>
       <point x="624" y="355"/>
       <point x="624" y="295" type="curve"/>
+    </contour>
+    <contour>
+      <point x="411" y="516" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="514" y="0" type="move" name="baseLC"/>
+    </contour>
+    <contour>
+      <point x="408" y="-20" type="move" name="belowLC"/>
     </contour>
   </outline>
 </glyph>

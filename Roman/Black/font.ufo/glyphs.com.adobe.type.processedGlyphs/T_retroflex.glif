@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Tretroflex">
+  <advance width="564" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="197" y="202" />
+      <point x="197" y="90" />
+      <point x="249" y="-12" />
+      <point type="curve" x="391" y="-12" />
+      <point x="437" y="-12" />
+      <point x="463" y="-6" />
+      <point type="curve" x="485" y="2" />
+      <point type="line" x="455" y="128" />
+      <point x="441" y="124" />
+      <point x="430" y="122" />
+      <point type="curve" x="418" y="122" />
+      <point x="382" y="122" />
+      <point x="368" y="148" />
+      <point type="curve" x="368" y="176" />
+      <point type="line" x="368" y="506" />
+      <point type="line" x="540" y="506" />
+      <point type="line" x="540" y="650" />
+      <point type="line" x="24" y="650" />
+      <point type="line" x="24" y="506" />
+      <point type="line" x="196" y="506" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="196506197202197902450624650249-12368148368176368506382122391-12418122430122437-12441124455128463-64852540506540650564">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="134" />
+            <hstem pos="506" width="144" />
+            <vstem pos="197" width="171" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

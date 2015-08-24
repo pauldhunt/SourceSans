@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dotaccentcmb">
-  <advance width="0" />
+<glyph format="2" name="dotaccentcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="0" y="600" />
@@ -21,7 +20,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="00600c18600o32614o32636c32656o18670o0670c-18670o-32656o-32636c-32614o-18600o">
+        <hintSetList id="-18600-18670-32614-32636-326560600067010001860018670326143263632656">
           <hintset pointTag="hintSet0000">
             <hstem pos="600" width="70" />
             <vstem pos="-32" width="64" />

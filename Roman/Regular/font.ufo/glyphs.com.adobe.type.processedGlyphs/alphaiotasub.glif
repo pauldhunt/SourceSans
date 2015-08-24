@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphaiotasub">
+<glyph format="2" name="alphaiotasub">
   <advance width="560" />
   <outline>
     <contour>
@@ -52,7 +52,7 @@
       <point x="314" y="57" />
     </contour>
     <contour>
-      <point type="curve" x="331" y="-201" />
+      <point name="hintSet0021" type="curve" x="331" y="-201" />
       <point x="353" y="-201" />
       <point x="364" y="-197" />
       <point type="curve" x="377" y="-192" />
@@ -76,9 +76,8 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="bd7e5e218407b94188945dbd549b1e47d58c267489a55c0043bf0bb2a91f09047a979ba8585df7be5f36c69fdfbceb91ebcb8718df03b83d6444566e4a68a171">
+        <hintSetList id="1f3292b23e5fc736afaa27091507d762f110a6d8270c84d42f7608535d40c8c11b4cfac016133df85ed359699a0cd618f9e6c704c872bc7d2deef45121b9a287">
           <hintset pointTag="hintSet0000">
-            <hstem pos="-201" width="55" />
             <hstem pos="-12" width="69" />
             <hstem pos="429" width="69" />
             <vstem pos="46" width="85" />
@@ -86,7 +85,6 @@
             <vstem pos="387" width="65" />
           </hintset>
           <hintset pointTag="hintSet0008">
-            <hstem pos="-201" width="55" />
             <hstem pos="-12" width="69" />
             <hstem pos="486" width="-20" />
             <vstem pos="46" width="85" />
@@ -94,7 +92,14 @@
             <vstem pos="387" width="65" />
           </hintset>
           <hintset pointTag="hintSet0012">
-            <hstem pos="-201" width="55" />
+            <hstem pos="-12" width="69" />
+            <hstem pos="429" width="69" />
+            <vstem pos="46" width="85" />
+            <vstem pos="254" width="62" />
+            <vstem pos="387" width="65" />
+          </hintset>
+          <hintset pointTag="hintSet0021">
+            <hstem pos="-201" width="139" />
             <hstem pos="-12" width="69" />
             <hstem pos="429" width="69" />
             <vstem pos="46" width="85" />

@@ -30,5 +30,19 @@
       <point x="60" y="480" type="line"/>
       <point x="12" y="480" type="line"/>
     </contour>
+    <contour>
+      <point x="222" y="502" type="move" name="aboveLC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotalenisacute">
+<glyph format="2" name="iotalenisacute">
   <advance width="301" />
   <outline>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7129067de654d08a11ab7893d4bcf625dc62a474ddc5d7b8a2420111f427bd994f7b5048cdbe3125969253c85aa4c5696431b6af0447bd6c63ac9a36d95f6904">
+        <hintSetList id="f57e9dd3d714ef9e2e95ead7fd8b24cddab0e81ac7a7e60fb18e745e15ab38daa7bf798c6bbf803c6b9ad995e0a0f61658b997611ffe31c6a4ad727400c73825">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="496" width="-20" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="radical">
+<glyph format="2" name="radical">
   <advance width="532" />
   <outline>
     <contour>
@@ -25,7 +25,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="532284-108l316-108l534820l504820l310-12l306-28o304-44o300-60c296-60l292-44o288-28o282-12c152376l52328l66302l134334l">
+        <hintSetList id="134334152376282-12284-108288-28292-44296-60300-60304-44306-28310-12316-1085048205232853253482066302">
           <hintset pointTag="hintSet0000">
             <hstem pos="-108" width="48" />
             <vstem pos="52" width="482" />

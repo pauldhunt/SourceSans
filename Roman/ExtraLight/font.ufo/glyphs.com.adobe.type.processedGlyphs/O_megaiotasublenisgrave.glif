@@ -1,37 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegaiotasublenisgrave">
+<glyph format="2" name="Omegaiotasublenisgrave">
   <advance width="1034" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="166" y="484" />
-      <point type="line" x="190" y="490" />
-      <point type="line" x="160" y="670" />
-      <point type="line" x="124" y="664" />
-    </contour>
-    <contour>
-      <point type="line" x="14" y="486" />
-      <point x="48" y="506" />
-      <point x="82" y="538" />
-      <point type="curve" x="82" y="586" />
-      <point x="82" y="646" />
-      <point x="36" y="670" />
-      <point type="curve" x="-12" y="672" />
-      <point name="hintSet0007" type="line" x="-14" y="646" />
-      <point x="28" y="644" />
-      <point x="52" y="624" />
-      <point type="curve" x="52" y="582" />
-      <point x="52" y="552" />
-      <point x="30" y="526" />
-      <point type="curve" x="2" y="508" />
-    </contour>
-    <contour>
-      <point type="line" x="202" y="0" />
+      <point name="hintSet0000" type="line" x="202" y="0" />
       <point type="line" x="408" y="0" />
       <point type="line" x="408" y="24" />
       <point x="326" y="80" />
       <point x="248" y="182" />
       <point type="curve" x="248" y="348" />
-      <point name="hintSet0014" x="248" y="514" />
+      <point x="248" y="514" />
       <point x="334" y="642" />
       <point type="curve" x="482" y="642" />
       <point x="630" y="642" />
@@ -61,6 +39,28 @@
       <point type="line" x="202" y="28" />
     </contour>
     <contour>
+      <point type="line" x="14" y="486" />
+      <point x="48" y="506" />
+      <point x="82" y="538" />
+      <point type="curve" x="82" y="586" />
+      <point x="82" y="646" />
+      <point x="36" y="670" />
+      <point type="curve" x="-12" y="672" />
+      <point type="line" x="-14" y="646" />
+      <point x="28" y="644" />
+      <point x="52" y="624" />
+      <point type="curve" x="52" y="582" />
+      <point x="52" y="552" />
+      <point x="30" y="526" />
+      <point type="curve" x="2" y="508" />
+    </contour>
+    <contour>
+      <point type="line" x="166" y="484" />
+      <point type="line" x="190" y="490" />
+      <point type="line" x="160" y="670" />
+      <point type="line" x="124" y="664" />
+    </contour>
+    <contour>
       <point name="hintSet0028" type="curve" x="954" y="-12" />
       <point x="969" y="-12" />
       <point x="981" y="-8" />
@@ -85,25 +85,8 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7dcd40959b997f1544aed4a88d63e79487e75d680a36fcff5189212bee4115b028f3306b0d49f62316c918dc80403fea6c5825c368f7fb658449cc6aff7ee839">
+        <hintSetList id="d20903e5deeba7f2906390d9f7c2c5fd77a53c46b415dced2b56d9cb0dc8522cd71e2c6ff02266d5f9224391d680d2f61a6d35d0708c90fcb6845e86a846ecb9">
           <hintset pointTag="hintSet0000">
-            <hstem pos="0" width="28" />
-            <hstem pos="642" width="30" />
-            <vstem pos="52" width="30" />
-            <vstem pos="214" width="34" />
-            <vstem pos="716" width="34" />
-            <vstem pos="900" width="28" />
-          </hintset>
-          <hintset pointTag="hintSet0007">
-            <hstem pos="0" width="28" />
-            <hstem pos="646" width="26" />
-            <vstem pos="52" width="30" />
-            <vstem pos="214" width="34" />
-            <vstem pos="350" width="58" />
-            <vstem pos="716" width="34" />
-            <vstem pos="900" width="28" />
-          </hintset>
-          <hintset pointTag="hintSet0014">
             <hstem pos="0" width="28" />
             <hstem pos="642" width="30" />
             <vstem pos="52" width="30" />
@@ -118,6 +101,8 @@
             <hstem pos="642" width="30" />
             <vstem pos="52" width="30" />
             <vstem pos="214" width="34" />
+            <vstem pos="350" width="58" />
+            <vstem pos="556" width="58" />
             <vstem pos="716" width="34" />
             <vstem pos="900" width="28" />
           </hintset>

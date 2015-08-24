@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="ldotbelow.a">
+  <advance width="246" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="82" y="0" />
+      <point type="line" x="164" y="0" />
+      <point type="line" x="164" y="712" />
+      <point type="line" x="82" y="712" />
+    </contour>
+    <contour>
+      <point name="hintSet0004" type="curve" x="123" y="-206" />
+      <point x="154" y="-206" />
+      <point x="177" y="-184" />
+      <point type="curve" x="177" y="-152" />
+      <point x="177" y="-121" />
+      <point x="154" y="-98" />
+      <point type="curve" x="123" y="-98" />
+      <point x="92" y="-98" />
+      <point x="69" y="-121" />
+      <point type="curve" x="69" y="-152" />
+      <point x="69" y="-184" />
+      <point x="92" y="-206" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="123-206123-98154-206154-981640164712177-121177-152177-18424669-12169-15269-1848208271292-20692-98">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-206" width="108" />
+            <vstem pos="82" width="82" />
+          </hintset>
+          <hintset pointTag="hintSet0004">
+            <hstem pos="-206" width="108" />
+            <vstem pos="69" width="108" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

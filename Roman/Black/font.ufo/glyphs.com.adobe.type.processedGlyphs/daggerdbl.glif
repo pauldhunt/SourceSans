@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="daggerdbl">
+<glyph format="2" name="daggerdbl">
   <advance width="532" />
   <outline>
     <contour>
@@ -31,10 +31,9 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="241e0fbcd4abce7b2fc99965526120d26cbf3886306a0261d13ddfc07000dddc1ce17f5c4bbd1fb7785b144e596d3f70b789d1167fc77d1e8a5cdc255b60ca3a">
+        <hintSetList id="198-801983161987122082102084222085342089832421032442232453432498334-80334316334712402244040840544408849222449240849254449288532">
           <hintset pointTag="hintSet0000">
-            <hstem pos="93" width="124" />
-            <hstem pos="415" width="124" />
+            <hstem pos="-80" width="792" />
             <vstem pos="203" width="126" />
           </hintset>
         </hintSetList>

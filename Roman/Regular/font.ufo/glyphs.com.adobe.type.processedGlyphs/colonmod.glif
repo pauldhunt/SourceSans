@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="colonmod">
+  <advance width="249" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="125" y="349" />
+      <point x="157" y="349" />
+      <point x="184" y="375" />
+      <point type="curve" x="184" y="411" />
+      <point x="184" y="449" />
+      <point x="157" y="475" />
+      <point type="curve" x="125" y="475" />
+      <point x="92" y="475" />
+      <point x="65" y="449" />
+      <point type="curve" x="65" y="411" />
+      <point x="65" y="375" />
+      <point x="92" y="349" />
+    </contour>
+    <contour>
+      <point type="curve" x="125" y="-12" />
+      <point x="157" y="-12" />
+      <point x="184" y="14" />
+      <point type="curve" x="184" y="50" />
+      <point x="184" y="88" />
+      <point x="157" y="114" />
+      <point type="curve" x="125" y="114" />
+      <point x="92" y="114" />
+      <point x="65" y="88" />
+      <point type="curve" x="65" y="50" />
+      <point x="65" y="14" />
+      <point x="92" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="426e274f5ca34e3bdeef001a5fa2f4879f27e5946ee9be2847a50d19c3cdf9db6b294ba0ea1b7b8630ff145c6bbe88fafa5304fa8bed1289142ef554952b3a59">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="126" />
+            <hstem pos="349" width="126" />
+            <vstem pos="65" width="119" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

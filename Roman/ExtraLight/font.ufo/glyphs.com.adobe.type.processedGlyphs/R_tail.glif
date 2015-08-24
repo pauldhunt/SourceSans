@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Rtail">
+  <advance width="386" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="100" y="120" />
+      <point x="100" y="27" />
+      <point x="134" y="-12" />
+      <point type="curve" x="200" y="-12" />
+      <point x="220" y="-12" />
+      <point x="244" y="-6" />
+      <point type="curve" x="258" y="0" />
+      <point type="line" x="250" y="30" />
+      <point x="238" y="26" />
+      <point x="218" y="20" />
+      <point type="curve" x="198" y="20" />
+      <point x="142" y="20" />
+      <point x="132" y="64" />
+      <point type="curve" x="132" y="140" />
+      <point type="line" x="132" y="472" />
+      <point x="184" y="590" />
+      <point x="254" y="644" />
+      <point type="curve" x="314" y="644" />
+      <point x="338" y="644" />
+      <point x="350" y="641" />
+      <point type="curve" x="372" y="633" />
+      <point type="line" x="382" y="659" />
+      <point x="360" y="670" />
+      <point x="342" y="672" />
+      <point type="curve" x="320" y="672" />
+      <point x="241" y="672" />
+      <point x="179" y="613" />
+      <point type="curve" x="135" y="534" />
+      <point type="line" x="132" y="534" />
+      <point type="line" x="127" y="660" />
+      <point type="line" x="100" y="660" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="3c3f6d2b8b5b254f6eb9b9c29d477e6ee0b6d6356968f0413511b2e77d97a8916fef7030dea151664617160da520842a6f3a3af3d69232875d88020f81526c91">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="32" />
+            <hstem pos="644" width="28" />
+            <vstem pos="100" width="32" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

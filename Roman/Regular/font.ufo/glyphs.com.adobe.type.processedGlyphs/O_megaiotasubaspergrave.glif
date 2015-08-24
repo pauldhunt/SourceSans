@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegaiotasubaspergrave">
+<glyph format="2" name="Omegaiotasubaspergrave">
   <advance width="1155" />
   <outline>
     <contour>
@@ -85,7 +85,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5808c2eaf7486dfe2af62b3a0000cf0d81818953a4ee08c033f13128b5f33d7091217ce3b564a467411891a7dbbac98ed00bfd801100bcbac2a2c48239d0902f">
+        <hintSetList id="4c6de39da88c6ca80180944e631be3bbcbe7733720c325f42492b8a77cd7ae98d600c901364de3180cb6b27ddf3bd616afbc1bcc9f901b8d81207389526efe1f">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="68" />
             <hstem pos="595" width="73" />

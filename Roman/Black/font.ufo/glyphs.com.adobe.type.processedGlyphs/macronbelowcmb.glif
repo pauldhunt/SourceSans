@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="macronbelowcmb">
-  <advance width="0" />
+<glyph format="2" name="macronbelowcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="-154" y="-196" />
@@ -13,7 +12,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0-154-196l154-196l154-88l-154-88l">
+        <hintSetList id="-154-196-154-881000154-196154-88">
           <hintset pointTag="hintSet0000">
             <hstem pos="-196" width="108" />
             <vstem pos="-154" width="308" />

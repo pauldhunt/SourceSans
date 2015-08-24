@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dblgravecmb">
-  <advance width="0" />
+<glyph format="2" name="dblgravecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="-84" y="569" />
@@ -19,7 +18,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0-84569l-57582l-143750l-178731l50569l77582l-9750l-44731l">
+        <hintSetList id="-143750-178731-44731-57582-84569-975010005056977582">
           <hintset pointTag="hintSet0000">
             <hstem pos="569" width="181" />
             <vstem pos="-178" width="255" />

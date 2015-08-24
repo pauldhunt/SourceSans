@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="fisheye">
+<glyph format="2" name="fisheye">
   <advance width="895" />
   <outline>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="75aeb14778eff99dbbe15e7da8ecd701c7639f1c6a98d628f67eb73cc9f0013247654950dd6a49b3d36468cf2f302a7bab26cdfcb5ab795614ea8f80403276a5">
+        <hintSetList id="93e069acc61c1967007048d15ccf224fcca1be9061b3b67f6a7a04726561a06d5cfb4ad257ed0c1ef24189d01666a28b8db7026f5de573aff0fde1cd4ff0fbb9">
           <hintset pointTag="hintSet0000">
             <hstem pos="-75" width="56" />
             <hstem pos="705" width="55" />

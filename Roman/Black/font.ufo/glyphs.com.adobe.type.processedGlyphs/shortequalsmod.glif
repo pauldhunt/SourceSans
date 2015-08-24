@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="shortequalsmod">
+  <advance width="540" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="34" y="390" />
+      <point type="line" x="506" y="390" />
+      <point type="line" x="506" y="510" />
+      <point type="line" x="34" y="510" />
+    </contour>
+    <contour>
+      <point type="line" x="34" y="150" />
+      <point type="line" x="506" y="150" />
+      <point type="line" x="506" y="270" />
+      <point type="line" x="34" y="270" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="34150342703439034510506150506270506390506510540">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="150" width="120" />
+            <hstem pos="390" width="120" />
+            <vstem pos="34" width="472" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

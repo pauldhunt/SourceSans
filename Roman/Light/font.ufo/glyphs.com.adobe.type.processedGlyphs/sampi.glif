@@ -1,9 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="sampi">
+<glyph format="2" name="sampi">
   <advance width="476" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="53" y="650" />
+      <point name="hintSet0000" type="line" x="429" y="-178" />
+      <point x="442" y="-114" />
+      <point x="446" y="-53" />
+      <point type="curve" x="446" y="15" />
+      <point x="446" y="289" />
+      <point x="312" y="553" />
+      <point type="curve" x="79" y="684" />
+      <point type="line" x="53" y="650" />
       <point x="165" y="590" />
       <point x="254" y="496" />
       <point type="curve" x="314" y="383" />
@@ -26,20 +33,13 @@
       <point x="404" y="-47" />
       <point x="400" y="-109" />
       <point type="curve" x="386" y="-172" />
-      <point type="line" x="429" y="-178" />
-      <point x="442" y="-114" />
-      <point x="446" y="-53" />
-      <point type="curve" x="446" y="15" />
-      <point x="446" y="289" />
-      <point x="312" y="553" />
-      <point type="curve" x="79" y="684" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="87efe6ec9923d588a6bf760183e374d1b09344fc8881215d0405019a125d37f52a949af4ab39edebb05513d2d03dc3aeb62b83a4bd93174bb70c218fa663b35c">
+        <hintSetList id="a3b8e87e3ce0bc42536e0f0f7c6cf9576e54b70d5d6b397eb74309de804176d080c7f6317e58e7e75d430c028b3739530f0c196952143a517790e78d68c66944">
           <hintset pointTag="hintSet0000">
             <hstem pos="-178" width="862" />
             <vstem pos="404" width="42" />

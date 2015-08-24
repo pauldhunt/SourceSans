@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Kturned.sc">
+  <advance width="491" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="394" y="0" />
+      <point type="line" x="394" y="512" />
+      <point type="line" x="348" y="512" />
+      <point type="line" x="348" y="236" />
+      <point type="line" x="346" y="236" />
+      <point type="line" x="84" y="512" />
+      <point type="line" x="31" y="512" />
+      <point type="line" x="208" y="321" />
+      <point type="line" x="10" y="0" />
+      <point type="line" x="61" y="0" />
+      <point type="line" x="237" y="289" />
+      <point type="line" x="348" y="176" />
+      <point type="line" x="348" y="0" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="100208321237289315123462363480348176348236348512394039451249161084512">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="512" width="-20" />
+            <vstem pos="348" width="46" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

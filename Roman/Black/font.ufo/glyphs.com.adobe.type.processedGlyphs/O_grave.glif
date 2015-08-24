@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ograve">
+<glyph format="2" name="Ograve">
   <advance width="692" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="354" y="674" />
-      <point type="line" x="430" y="760" />
-      <point type="line" x="248" y="904" />
-      <point type="line" x="158" y="794" />
-    </contour>
-    <contour>
-      <point type="curve" x="346" y="-12" />
+      <point name="hintSet0000" type="curve" x="346" y="-12" />
       <point x="526" y="-12" />
       <point x="648" y="114" />
       <point type="curve" x="648" y="328" />
@@ -36,12 +30,18 @@
       <point x="472" y="210" />
       <point x="424" y="136" />
     </contour>
+    <contour>
+      <point type="line" x="354" y="674" />
+      <point type="line" x="430" y="760" />
+      <point type="line" x="248" y="904" />
+      <point type="line" x="158" y="794" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="4751dbea323c7749ec5097e20e08be084045fe8e3520d7bc4e38c065be827db494497718a73931931a3e160582db2d73823f8ae5d00b7a0aca7802d404b852a4">
+        <hintSetList id="ba10ef3a9a8738f9af98fe3478e2e55c035ce31dc33918179c50f1dd22f56fbf1b66fea41444f7aadf46e4fcba5507024070da629683b59df6a4a1efbad81991">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="148" />
             <hstem pos="514" width="148" />

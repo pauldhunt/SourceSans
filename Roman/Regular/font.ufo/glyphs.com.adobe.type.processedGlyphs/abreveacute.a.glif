@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="abreveacute.a">
+  <advance width="555" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="284" y="571" />
+      <point x="391" y="571" />
+      <point x="435" y="648" />
+      <point type="curve" x="440" y="722" />
+      <point type="line" x="392" y="730" />
+      <point x="385" y="677" />
+      <point x="351" y="622" />
+      <point type="curve" x="284" y="622" />
+      <point x="217" y="622" />
+      <point x="183" y="677" />
+      <point type="curve" x="176" y="730" />
+      <point type="line" x="128" y="722" />
+      <point x="133" y="648" />
+      <point x="177" y="571" />
+    </contour>
+    <contour>
+      <point type="line" x="279" y="679" />
+      <point type="line" x="380" y="792" />
+      <point type="line" x="328" y="832" />
+      <point type="line" x="240" y="708" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="128722133648176730177571183677217622240708279679284571284622328832351622380792385677391571392730435648440722555">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="571" width="51" />
+            <vstem pos="128" width="312" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

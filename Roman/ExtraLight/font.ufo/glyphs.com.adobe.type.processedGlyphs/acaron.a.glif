@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="acaron.a">
+  <advance width="540" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="255" y="572" />
+      <point type="line" x="283" y="572" />
+      <point type="line" x="401" y="718" />
+      <point type="line" x="383" y="734" />
+      <point type="line" x="271" y="604" />
+      <point type="line" x="267" y="604" />
+      <point type="line" x="155" y="734" />
+      <point type="line" x="137" y="718" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="137718155734255572267604271604283572383734401718540">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="572" width="32" />
+            <vstem pos="137" width="264" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tildecmb">
-  <advance width="0" />
+<glyph format="2" name="tildecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="76" y="579" />
@@ -29,7 +28,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="b50930729f79941dbd8144ca1019239989f95044e17a6383d1bab7b46077fb4a95ca9e2c7b6abc93b530eb605351c5c1fa4fa5f13eff392eb64cb4c309e3f948">
+        <hintSetList id="-112675-127634-130582-140710-160647-164584-21675-75710-76675057907101000112614127657130707140579160643164705216147657977614">
           <hintset pointTag="hintSet0000">
             <hstem pos="579" width="35" />
             <hstem pos="675" width="35" />

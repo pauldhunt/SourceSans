@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="imacron">
+<glyph format="2" name="imacron">
   <advance width="276" />
   <outline>
     <contour>
@@ -9,7 +9,7 @@
       <point type="line" x="65" y="496" />
     </contour>
     <contour>
-      <point type="line" x="-10" y="592" />
+      <point name="hintSet0004" type="line" x="-10" y="592" />
       <point type="line" x="286" y="592" />
       <point type="line" x="286" y="685" />
       <point type="line" x="-10" y="685" />
@@ -19,12 +19,18 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="276650l2120l212496l65496l-10592l286592l286685l-10685l">
+        <hintSetList id="-10592-10685212021249627628659228668565065496">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="496" width="-20" />
             <hstem pos="592" width="93" />
             <vstem pos="65" width="147" />
+          </hintset>
+          <hintset pointTag="hintSet0004">
+            <hstem pos="21" width="-21" />
+            <hstem pos="496" width="-20" />
+            <hstem pos="592" width="93" />
+            <vstem pos="-10" width="296" />
           </hintset>
         </hintSetList>
       </data>

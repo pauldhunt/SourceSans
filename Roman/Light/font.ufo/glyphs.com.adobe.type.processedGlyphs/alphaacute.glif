@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphaacute">
+<glyph format="2" name="alphaacute">
   <advance width="540" />
   <outline>
     <contour>
@@ -62,27 +62,27 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d7cc9d209edb3d834dee990d0d695fdf45e4d1045eda527f2f31a2d3971f950ae04cb4f32c4acab9870f76573940cdd7efaff30ef4e143f22a84985978425354">
+        <hintSetList id="5960f56ee4ec8e1183e44ff41b55ad25ba8ca932b50b715fcf0ae7a279c2d6a83b7d460ce99233a3fabbf9b39e228c4cafc42ace7e9f26bd38066b78d0a6b245">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="453" width="39" />
             <hstem pos="725" width="-20" />
             <vstem pos="52" width="46" />
-            <vstem pos="394" width="35" />
+            <vstem pos="392" width="37" />
           </hintset>
           <hintset pointTag="hintSet0008">
             <hstem pos="-12" width="39" />
             <hstem pos="480" width="-20" />
             <hstem pos="725" width="-20" />
             <vstem pos="52" width="46" />
-            <vstem pos="394" width="35" />
+            <vstem pos="392" width="37" />
           </hintset>
           <hintset pointTag="hintSet0012">
             <hstem pos="-12" width="39" />
             <hstem pos="453" width="39" />
             <hstem pos="725" width="-20" />
             <vstem pos="52" width="46" />
-            <vstem pos="394" width="35" />
+            <vstem pos="392" width="37" />
           </hintset>
         </hintSetList>
       </data>

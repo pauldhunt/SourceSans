@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="uhoi">
+<glyph format="2" name="uhoi">
   <advance width="529" />
   <outline>
     <contour>
@@ -26,32 +26,32 @@
       <point x="131" y="-12" />
     </contour>
     <contour>
-      <point type="line" x="240" y="575" />
-      <point x="288" y="588" />
-      <point x="335" y="611" />
-      <point type="curve" x="335" y="663" />
-      <point x="335" y="716" />
-      <point x="280" y="739" />
-      <point type="curve" x="213" y="741" />
-      <point type="line" x="210" y="707" />
-      <point x="265" y="705" />
-      <point x="295" y="689" />
-      <point type="curve" x="295" y="658" />
-      <point x="295" y="629" />
-      <point x="268" y="614" />
-      <point type="curve" x="232" y="603" />
+      <point type="line" x="241" y="575" />
+      <point x="289" y="588" />
+      <point x="336" y="611" />
+      <point type="curve" x="336" y="663" />
+      <point x="336" y="716" />
+      <point x="281" y="739" />
+      <point type="curve" x="214" y="741" />
+      <point type="line" x="211" y="707" />
+      <point x="266" y="705" />
+      <point x="296" y="689" />
+      <point type="curve" x="296" y="658" />
+      <point x="296" y="629" />
+      <point x="269" y="614" />
+      <point type="curve" x="233" y="603" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="1a77254cf587968129cb26bdc85fe77ca3e0a8f2bca3f1f045b73651ff0edb96636e318047c7f5803e8bc5e2bdf08056b61d368633c5c955d0a0fa0e244daa58">
+        <hintSetList id="6c0154b768d94bc441ac5d89696d70ca730d522f929bbc52f99dd14dcb707577a67ef7ac0ca09b9c398d6c6bbb2a5c1883d19236361f819378e0d89f7acfd004">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="40" />
             <hstem pos="707" width="34" />
             <vstem pos="85" width="44" />
-            <vstem pos="295" width="40" />
+            <vstem pos="296" width="40" />
             <vstem pos="393" width="44" />
           </hintset>
         </hintSetList>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="thook">
+  <advance width="302" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="136" y="470" />
+      <point type="line" x="136" y="574" />
+      <point x="136" y="636" />
+      <point x="152" y="682" />
+      <point type="curve" x="200" y="682" />
+      <point x="216" y="682" />
+      <point x="229" y="678" />
+      <point type="curve" x="240" y="674" />
+      <point type="line" x="248" y="700" />
+      <point x="235" y="706" />
+      <point x="218" y="710" />
+      <point type="curve" x="202" y="710" />
+      <point x="144" y="710" />
+      <point x="106" y="670" />
+      <point type="curve" x="106" y="578" />
+      <point type="line" x="106" y="470" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="106470106578106670136470136574136636144710152682200682202710216682218710229678235706240674248700302">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="682" width="28" />
+            <vstem pos="106" width="30" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

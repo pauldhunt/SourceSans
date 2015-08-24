@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="rfishhookreversed">
+  <advance width="357" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="169" y="-194" />
+      <point type="line" x="284" y="-194" />
+      <point type="line" x="284" y="309" />
+      <point x="284" y="422" />
+      <point x="223" y="503" />
+      <point type="curve" x="97" y="503" />
+      <point x="54" y="503" />
+      <point x="21" y="498" />
+      <point type="curve" x="-2" y="489" />
+      <point type="line" x="17" y="392" />
+      <point x="42" y="401" />
+      <point x="55" y="403" />
+      <point type="curve" x="82" y="403" />
+      <point x="124" y="403" />
+      <point x="169" y="368" />
+      <point type="curve" x="169" y="284" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-2489124403169-1941692841693681739221498223503284-1942843092844223574240154503554038240397503">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="403" width="100" />
+            <vstem pos="169" width="115" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

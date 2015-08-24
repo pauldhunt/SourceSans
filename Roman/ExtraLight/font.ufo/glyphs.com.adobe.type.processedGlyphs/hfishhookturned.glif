@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="hfishhookturned">
+  <advance width="608" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="170" y="170" />
+      <point x="170" y="46" />
+      <point x="216" y="-12" />
+      <point type="curve" x="314" y="-12" />
+      <point x="380" y="-12" />
+      <point x="430" y="24" />
+      <point type="curve" x="484" y="86" />
+      <point type="line" x="482" y="-30" />
+      <point type="line" x="482" y="-222" />
+      <point type="line" x="512" y="-222" />
+      <point type="line" x="512" y="478" />
+      <point type="line" x="482" y="478" />
+      <point type="line" x="482" y="120" />
+      <point x="420" y="46" />
+      <point x="376" y="16" />
+      <point type="curve" x="316" y="16" />
+      <point x="234" y="16" />
+      <point x="200" y="68" />
+      <point type="curve" x="200" y="174" />
+      <point type="line" x="200" y="322" />
+      <point x="200" y="437" />
+      <point x="135" y="490" />
+      <point type="curve" x="60" y="490" />
+      <point x="34" y="490" />
+      <point x="14" y="486" />
+      <point type="curve" x="-4" y="476" />
+      <point type="line" x="4" y="450" />
+      <point x="22" y="460" />
+      <point x="38" y="462" />
+      <point type="curve" x="62" y="462" />
+      <point x="124" y="462" />
+      <point x="170" y="408" />
+      <point type="curve" x="170" y="318" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="7bede54e4d35f51516ac202f85b74b1a9ec49a45f069a0af3a7721b17b654cdc5c8c5d5b6fd1a9a70fd9988527f0fa7b678ec8d3b296b193869ce890587bf583">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="28" />
+            <hstem pos="462" width="28" />
+            <vstem pos="170" width="30" />
+            <vstem pos="482" width="30" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

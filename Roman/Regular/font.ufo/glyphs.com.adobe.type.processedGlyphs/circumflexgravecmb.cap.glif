@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="circumflexgravecmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-95" y="699" />
+      <point type="line" x="-2" y="768" />
+      <point type="line" x="2" y="768" />
+      <point type="line" x="95" y="699" />
+      <point type="line" x="129" y="725" />
+      <point type="line" x="36" y="815" />
+      <point type="line" x="-36" y="815" />
+      <point type="line" x="-129" y="725" />
+    </contour>
+    <contour>
+      <point type="line" x="-121" y="763" />
+      <point type="line" x="-91" y="793" />
+      <point type="line" x="-176" y="888" />
+      <point type="line" x="-211" y="851" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-121763-129725-176888-211851-2768-36815-91793-95699100012972527683681595699">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="768" width="47" />
+            <vstem pos="-211" width="340" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

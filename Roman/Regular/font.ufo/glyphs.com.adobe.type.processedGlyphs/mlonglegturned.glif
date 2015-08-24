@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="mlonglegturned">
+<glyph format="2" name="mlonglegturned">
   <advance width="829" />
   <outline>
     <contour>
@@ -45,7 +45,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e9ac4992bdbbc191a22114efd9fad5bf52db8f08b53e6e315c35ea633aa8e9aa4bff4f8d8818f69f065b64c924169de9e81474fecef0bb103a88dc2310cf5717">
+        <hintSetList id="b6d5d73703d1fbf2aadb136aa91c7d3fc5ddb2e079b2a6879180a7005c52290f479be3c69fd16857b2f6a14ff951622e212a88fe9b5feb7fd98ca8d6486577ae">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="71" />
             <vstem pos="77" width="82" />

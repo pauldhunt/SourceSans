@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ecircumflexhoi">
+<glyph format="2" name="Ecircumflexhoi">
   <advance width="556" />
   <outline>
     <contour>
@@ -38,7 +38,7 @@
       <point x="439" y="850" />
       <point x="452" y="840" />
       <point type="curve" x="452" y="824" />
-      <point name="hintSet0025" x="452" y="808" />
+      <point x="452" y="808" />
       <point x="440" y="803" />
       <point type="curve" x="424" y="800" />
     </contour>
@@ -47,7 +47,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="6d78845bfc8a5a46dd6b40e771a033116959710aafd14b1f0670030b2a5cbf3e99d42c725ed39d6c90c96304c21d90e44c225342d0a386d6b63352647c9237e6">
+        <hintSetList id="adc5fa825040be7abea2aa33aa4ae43ae299b60a6d3305068e5314c03d7fce3b414c24c8c71c8df5f80f191ebf80b1dc240590a4558256b38694805119af71ee">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="144" />
             <hstem pos="260" width="144" />
@@ -62,14 +62,6 @@
             <hstem pos="506" width="144" />
             <hstem pos="752" width="76" />
             <hstem pos="854" width="68" />
-            <vstem pos="72" width="172" />
-            <vstem pos="452" width="108" />
-          </hintset>
-          <hintset pointTag="hintSet0025">
-            <hstem pos="0" width="144" />
-            <hstem pos="260" width="144" />
-            <hstem pos="506" width="144" />
-            <hstem pos="752" width="76" />
             <vstem pos="72" width="172" />
             <vstem pos="452" width="108" />
           </hintset>

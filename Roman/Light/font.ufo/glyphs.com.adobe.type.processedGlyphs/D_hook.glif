@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Dhook">
+  <advance width="735" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="228" y="0" />
+      <point type="line" x="382" y="0" />
+      <point x="584" y="0" />
+      <point x="680" y="132" />
+      <point type="curve" x="680" y="332" />
+      <point x="680" y="531" />
+      <point x="584" y="659" />
+      <point type="curve" x="381" y="659" />
+      <point type="line" x="228" y="659" />
+      <point x="116" y="659" />
+      <point x="46" y="612" />
+      <point type="curve" x="46" y="511" />
+      <point x="46" y="460" />
+      <point x="64" y="419" />
+      <point type="curve" x="99" y="395" />
+      <point type="line" x="122" y="426" />
+      <point x="98" y="445" />
+      <point x="86" y="473" />
+      <point type="curve" x="86" y="508" />
+      <point x="86" y="589" />
+      <point x="140" y="621" />
+      <point type="curve" x="221" y="621" />
+      <point type="line" x="228" y="621" />
+    </contour>
+    <contour>
+      <point type="line" x="274" y="39" />
+      <point type="line" x="274" y="620" />
+      <point type="line" x="376" y="620" />
+      <point x="555" y="620" />
+      <point x="632" y="503" />
+      <point type="curve" x="632" y="332" />
+      <point x="632" y="160" />
+      <point x="555" y="39" />
+      <point type="curve" x="376" y="39" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="f14742b649769feeadf9bd321e46d06126c39f329c411de053cf4b26de7b277bfc5bb8209064e4e4c39047cadf761b1f403d334d7c24f5db0f223d5015be681b">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="39" />
+            <hstem pos="620" width="39" />
+            <vstem pos="46" width="40" />
+            <vstem pos="228" width="46" />
+            <vstem pos="632" width="48" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Zacute">
+<glyph format="2" name="Zacute">
   <advance width="542" />
   <outline>
     <contour>
@@ -25,7 +25,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="542320l5120l512144l244144l510546l510650l58650l58506l298506l32104l276674l472794l382904l200760l">
+        <hintSetList id="2007602441442766742985063203210438290447279451054651065051205121445425850658650">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="144" />
             <hstem pos="506" width="144" />

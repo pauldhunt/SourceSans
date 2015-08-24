@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Phook">
+  <advance width="679" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="394" y="659" />
+      <point type="line" x="228" y="659" />
+      <point x="116" y="659" />
+      <point x="46" y="612" />
+      <point type="curve" x="46" y="511" />
+      <point x="46" y="460" />
+      <point x="64" y="419" />
+      <point type="curve" x="99" y="395" />
+      <point type="line" x="122" y="426" />
+      <point x="98" y="445" />
+      <point x="86" y="473" />
+      <point type="curve" x="86" y="508" />
+      <point x="86" y="589" />
+      <point x="140" y="621" />
+      <point type="curve" x="221" y="621" />
+      <point type="line" x="228" y="621" />
+      <point type="line" x="228" y="0" />
+      <point type="line" x="274" y="0" />
+      <point type="line" x="274" y="283" />
+      <point type="line" x="398" y="283" />
+      <point x="545" y="283" />
+      <point x="633" y="346" />
+      <point type="curve" x="633" y="475" />
+      <point x="633" y="611" />
+      <point x="543" y="659" />
+    </contour>
+    <contour>
+      <point type="line" x="274" y="322" />
+      <point type="line" x="274" y="620" />
+      <point type="line" x="383" y="620" />
+      <point x="519" y="620" />
+      <point x="586" y="586" />
+      <point type="curve" x="586" y="475" />
+      <point x="586" y="367" />
+      <point x="521" y="322" />
+      <point type="curve" x="387" y="322" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="bb21d49aae90a514f462b1e3442709845a0dfdced62f2ac4f39599070fd0fe13ab969c55aa9235d785099bb095f53107a74dd3ee5af45bff365079a8e83f66d0">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="283" width="39" />
+            <hstem pos="620" width="39" />
+            <vstem pos="46" width="40" />
+            <vstem pos="228" width="46" />
+            <vstem pos="586" width="47" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Epsilonasperacute">
+<glyph format="2" name="Epsilonasperacute">
   <advance width="670" />
   <outline>
     <contour>
@@ -43,7 +43,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fd1ddfd227872383db6fdd359aa299627b9ee34756f0f88ee1f89ec4efdba44aa7c88bb16aec92039814857eb357de8e01553340452333c5390c7aacc4454848">
+        <hintSetList id="fece2ac97455676d0558b5e091703fa1d8a2eade2526f6faf4e4290abac30dce292a9ed3271d77bc5c84c8ebfc9d3f0863ead1ecfc045fe0c55fbed5e027f404">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="28" />
             <hstem pos="338" width="28" />

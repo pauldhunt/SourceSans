@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="etaiotasubaspergrave">
+<glyph format="2" name="etaiotasubaspergrave">
   <advance width="562" />
   <outline>
     <contour>
@@ -20,8 +20,8 @@
       <point type="curve" x="65" y="344" />
       <point type="line" x="65" y="0" />
       <point type="line" x="212" y="0" />
-      <point name="hintSet0011" type="line" x="212" y="311" />
-      <point x="244" y="359" />
+      <point type="line" x="212" y="311" />
+      <point name="hintSet0012" x="244" y="359" />
       <point x="270" y="383" />
       <point type="curve" x="305" y="383" />
       <point x="349" y="383" />
@@ -35,7 +35,7 @@
       <point name="hintSet0016" x="220" y="-216" />
       <point x="239" y="-212" />
       <point type="curve" x="253" y="-205" />
-      <point type="line" x="239" y="-126" />
+      <point name="hintSet0017" type="line" x="239" y="-126" />
       <point x="230" y="-128" />
       <point x="227" y="-128" />
       <point type="curve" x="222" y="-128" />
@@ -59,8 +59,8 @@
       <point x="208" y="686" />
       <point x="228" y="698" />
       <point type="curve" x="278" y="701" />
-      <point type="line" x="271" y="783" />
-      <point x="162" y="780" />
+      <point name="hintSet0028" type="line" x="271" y="783" />
+      <point name="hintSet0029" x="162" y="780" />
       <point x="111" y="741" />
       <point type="curve" x="111" y="682" />
       <point x="111" y="611" />
@@ -77,7 +77,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="69bc1d4b866ef1df035541cf5943d607b348a9bebbc50a20a06af7e769b8769eca0ff507b57aa6c75abd59c580cf6f272a99ee6be942e1e3867caa2109ea2636">
+        <hintSetList id="c359868d99dd1959fb3fa73c2dd5f2a7ce8a5880242739f8fef2aee70c6eb5792b6b93a6e78df0908c7ede6521f2d19894b10e13125e871a932d44de9f38737c">
           <hintset pointTag="hintSet0000">
             <hstem pos="-216" width="161" />
             <hstem pos="21" width="-21" />
@@ -102,7 +102,7 @@
             <vstem pos="65" width="147" />
             <vstem pos="364" width="138" />
           </hintset>
-          <hintset pointTag="hintSet0011">
+          <hintset pointTag="hintSet0012">
             <hstem pos="-216" width="161" />
             <hstem pos="21" width="-21" />
             <hstem pos="383" width="125" />
@@ -123,7 +123,16 @@
             <hstem pos="21" width="-21" />
             <hstem pos="496" width="-20" />
             <hstem pos="701" width="82" />
+            <vstem pos="111" width="142" />
+            <vstem pos="364" width="138" />
+          </hintset>
+          <hintset pointTag="hintSet0017">
+            <hstem pos="-216" width="161" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="496" width="-20" />
+            <hstem pos="701" width="82" />
             <vstem pos="81" width="104" />
+            <vstem pos="239" width="35.5" />
             <vstem pos="364" width="138" />
           </hintset>
           <hintset pointTag="hintSet0021">
@@ -139,7 +148,24 @@
             <hstem pos="21" width="-21" />
             <hstem pos="496" width="-20" />
             <hstem pos="701" width="82" />
-            <vstem pos="111" width="97" />
+            <vstem pos="111" width="142" />
+            <vstem pos="364" width="138" />
+          </hintset>
+          <hintset pointTag="hintSet0028">
+            <hstem pos="-216" width="161" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="496" width="-20" />
+            <hstem pos="701" width="82" />
+            <vstem pos="65" width="147" />
+            <vstem pos="239" width="35.5" />
+            <vstem pos="364" width="138" />
+          </hintset>
+          <hintset pointTag="hintSet0029">
+            <hstem pos="-216" width="161" />
+            <hstem pos="21" width="-21" />
+            <hstem pos="496" width="-20" />
+            <hstem pos="701" width="82" />
+            <vstem pos="111" width="142" />
             <vstem pos="364" width="138" />
           </hintset>
         </hintSetList>

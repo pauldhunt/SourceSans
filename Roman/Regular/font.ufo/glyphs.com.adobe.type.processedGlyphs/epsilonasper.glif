@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="epsilonasper">
+<glyph format="2" name="epsilonasper">
   <advance width="448" />
   <outline>
     <contour>
@@ -71,7 +71,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="93669d2113c7dd5dc0a9e0d43563f0e2de6882c3413dc86b9586e84e4886fd698456734dadca42f9fe4e76f3a72c0e2147b2c103beb385c970b6f0ba1f90b597">
+        <hintSetList id="5b7307802249162039feee8c9a35320686b73b92c905aae1bace1a936010503c64d667fc0ff32e8fba53baf0e69e1146155f646828153d07f691d98ddee4acfc">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="66" />
             <hstem pos="223" width="59" />
@@ -86,7 +86,6 @@
             <hstem pos="433" width="65" />
             <hstem pos="706" width="51" />
             <vstem pos="70" width="82" />
-            <vstem pos="167" width="65" />
           </hintset>
           <hintset pointTag="hintSet0017">
             <hstem pos="-12" width="66" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="epsilonaspergrave">
+<glyph format="2" name="epsilonaspergrave">
   <advance width="448" />
   <outline>
     <contour>
@@ -77,26 +77,23 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="434fd06a1e80eadc2ca786a7492cc2610fbd500c6746a12b5c967d10f6b6b344f29648016a4076d8e980fa6ccdc93f3f5c68733b245587be677b0a15725ea825">
+        <hintSetList id="431d1055b899250949067da58d56252f8a0c2baa5fc6f86f88964f8674d142b8176c686a6186f952f5999d95711c04a243b5406e8b37fc663874346e6c4ebc26">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="66" />
             <hstem pos="223" width="59" />
             <hstem pos="433" width="65" />
-            <hstem pos="705" width="51" />
             <vstem pos="46" width="82" />
           </hintset>
           <hintset pointTag="hintSet0009">
             <hstem pos="-12" width="66" />
             <hstem pos="223" width="59" />
             <hstem pos="433" width="65" />
-            <hstem pos="705" width="51" />
             <vstem pos="70" width="82" />
           </hintset>
           <hintset pointTag="hintSet0017">
             <hstem pos="-12" width="66" />
             <hstem pos="223" width="59" />
             <hstem pos="433" width="65" />
-            <hstem pos="705" width="51" />
             <vstem pos="46" width="82" />
           </hintset>
           <hintset pointTag="hintSet0019">

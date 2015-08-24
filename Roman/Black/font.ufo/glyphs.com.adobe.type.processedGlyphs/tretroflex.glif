@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tretroflex">
+<glyph format="2" name="tretroflex">
   <advance width="400" />
   <outline>
     <contour>
@@ -33,7 +33,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="28fd9a30c7195d9d2869d60d54a35455fa9b9c66ed6a0ad5ddcff98c793ea54018d2d7c826b93664cdc98b38fef644da706e0ad2b6d924af894ed89e405f9754">
+        <hintSetList id="abb68230a588f787a981d74ecea291b563937a86ca4fe2e5a058b8d5e11ee7c2d5623c00fa58659a75c291e7fbb5e6934f3897dd767d1de47819cf24db0c8c48">
           <hintset pointTag="hintSet0000">
             <hstem pos="-188" width="134" />
             <hstem pos="366" width="134" />

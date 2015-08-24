@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Iegrave">
+<glyph format="2" name="Iegrave">
   <advance width="527" />
   <outline>
     <contour>
@@ -17,17 +17,17 @@
       <point type="line" x="90" y="656" />
     </contour>
     <contour>
-      <point type="line" x="301" y="697" />
-      <point type="line" x="338" y="739" />
-      <point type="line" x="196" y="867" />
-      <point type="line" x="149" y="812" />
+      <point type="line" x="302" y="697" />
+      <point type="line" x="339" y="739" />
+      <point type="line" x="197" y="867" />
+      <point type="line" x="150" y="812" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="527900l4780l47871l17371l173309l422309l422380l173380l173586l468586l468656l90656l301697l338739l196867l149812l">
+        <hintSetList id="1508121733091733801735861737119786730269733973942230942238046858646865647804787152790090656">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="71" />
             <hstem pos="309" width="71" />

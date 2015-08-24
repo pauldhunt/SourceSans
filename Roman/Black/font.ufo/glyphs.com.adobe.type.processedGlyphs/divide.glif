@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="divide">
+<glyph format="2" name="divide">
   <advance width="540" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="4038a85db9897fb291a7fde121db78171dfa93f8c4ee0f9bbb239bcc86ff131a44c3458843effbd45be65263dc42af7575845179fd261877d68d46aa31ec15f3">
+        <hintSetList id="21565e4c08ef30f85221eb467c085c767c98e804ae72df679c1edb12b8aa1068c0581d8702e3a0a2a1579c44571d1d41bc6ced724292841efa37f4c1b2122b7f">
           <hintset pointTag="hintSet0000">
             <vstem pos="178" width="184" />
           </hintset>

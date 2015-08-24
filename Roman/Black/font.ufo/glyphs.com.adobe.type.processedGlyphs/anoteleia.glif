@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="anoteleia">
+<glyph format="2" name="anoteleia">
   <advance width="320" />
   <outline>
     <contour>
@@ -21,7 +21,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="320160298c218298o260344o260402c260460o218506o160506c102506o60460o60402c60344o102298o">
+        <hintSetList id="102298102506160298160506218298218506260344260402260460320603446040260460">
           <hintset pointTag="hintSet0000">
             <hstem pos="298" width="208" />
             <vstem pos="60" width="200" />

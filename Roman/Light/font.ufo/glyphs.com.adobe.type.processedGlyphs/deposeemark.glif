@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="deposeemark">
+<glyph format="2" name="deposeemark">
   <advance width="614" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="31" y="369" />
       <point type="line" x="68" y="369" />
-      <point name="hintSet0002" type="line" x="68" y="530" />
-      <point type="line" x="63" y="628" />
+      <point type="line" x="68" y="530" />
+      <point name="hintSet0003" type="line" x="63" y="628" />
       <point type="line" x="67" y="628" />
       <point type="line" x="150" y="417" />
       <point type="line" x="184" y="417" />
@@ -51,7 +51,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="10a19ade6ed95e2804ca7a9016fb6dcf80210bcbedaf6a2f0503a22878cd5a71850fc21cd4e117a7175a1046d900ea2bb67025007d04b3bd3f3ead2783db04cb">
+        <hintSetList id="784c5cf8f2c3185664ea2c7b8978c9d68d3603f7c9b548647a659e9a798a52b415f8d387aa7edc72e45147ed25d7b43b0584d97e357ff73a0f7addc507f2f891">
           <hintset pointTag="hintSet0000">
             <hstem pos="369" width="33" />
             <hstem pos="643" width="33" />
@@ -60,8 +60,7 @@
             <vstem pos="385" width="38" />
             <vstem pos="567" width="40" />
           </hintset>
-          <hintset pointTag="hintSet0002">
-            <hstem pos="369" width="33" />
+          <hintset pointTag="hintSet0003">
             <hstem pos="417" width="47" />
             <hstem pos="628" width="48" />
             <vstem pos="31" width="37" />

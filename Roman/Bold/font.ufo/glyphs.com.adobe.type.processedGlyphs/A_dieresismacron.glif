@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Adieresismacron">
+  <advance width="573" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="230" y="330" />
+      <point x="248" y="395" />
+      <point x="265" y="471" />
+      <point type="curve" x="281" y="540" />
+      <point type="line" x="285" y="540" />
+      <point x="302" y="472" />
+      <point x="320" y="395" />
+      <point type="curve" x="338" y="330" />
+      <point type="line" x="353" y="270" />
+      <point type="line" x="214" y="270" />
+    </contour>
+    <contour>
+      <point type="line" x="-6" y="0" />
+      <point type="line" x="144" y="0" />
+      <point type="line" x="184" y="155" />
+      <point type="line" x="383" y="155" />
+      <point type="line" x="423" y="0" />
+      <point type="line" x="579" y="0" />
+      <point type="line" x="375" y="652" />
+      <point type="line" x="198" y="652" />
+    </contour>
+    <contour>
+      <point name="hintSet0014" type="curve" x="172" y="700" />
+      <point x="208" y="700" />
+      <point x="234" y="727" />
+      <point type="curve" x="234" y="762" />
+      <point x="234" y="796" />
+      <point x="208" y="823" />
+      <point type="curve" x="172" y="823" />
+      <point x="136" y="823" />
+      <point x="111" y="796" />
+      <point type="curve" x="111" y="762" />
+      <point x="111" y="727" />
+      <point x="136" y="700" />
+    </contour>
+    <contour>
+      <point name="hintSet0019" type="line" x="132" y="872" />
+      <point type="line" x="434" y="872" />
+      <point type="line" x="434" y="941" />
+      <point type="line" x="132" y="941" />
+    </contour>
+    <contour>
+      <point name="hintSet0023" type="curve" x="394" y="700" />
+      <point x="430" y="700" />
+      <point x="455" y="727" />
+      <point type="curve" x="455" y="762" />
+      <point x="455" y="796" />
+      <point x="430" y="823" />
+      <point type="curve" x="394" y="823" />
+      <point x="358" y="823" />
+      <point x="332" y="796" />
+      <point type="curve" x="332" y="762" />
+      <point x="332" y="727" />
+      <point x="358" y="700" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="1e3e2a28b81c9285e215fef5dd1f8841b018159530e6f206aea6b2d1a3a692acc951e578dacc95217fd81c6a469df9609788f02003b11a4f0a1e5f727b715107">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="155" width="115" />
+            <hstem pos="540" width="112" />
+            <hstem pos="700" width="123" />
+            <hstem pos="872" width="69" />
+            <vstem pos="132" width="12" />
+            <vstem pos="423" width="11" />
+          </hintset>
+          <hintset pointTag="hintSet0014">
+            <hstem pos="21" width="-21" />
+            <hstem pos="155" width="115" />
+            <hstem pos="540" width="112" />
+            <hstem pos="700" width="123" />
+            <hstem pos="872" width="69" />
+            <vstem pos="111" width="123" />
+            <vstem pos="423" width="11" />
+          </hintset>
+          <hintset pointTag="hintSet0019">
+            <hstem pos="21" width="-21" />
+            <hstem pos="155" width="115" />
+            <hstem pos="540" width="112" />
+            <hstem pos="700" width="123" />
+            <hstem pos="872" width="69" />
+            <vstem pos="132" width="12" />
+            <vstem pos="423" width="11" />
+          </hintset>
+          <hintset pointTag="hintSet0023">
+            <hstem pos="21" width="-21" />
+            <hstem pos="155" width="115" />
+            <hstem pos="540" width="112" />
+            <hstem pos="700" width="123" />
+            <hstem pos="872" width="69" />
+            <vstem pos="132" width="12" />
+            <vstem pos="332" width="123" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

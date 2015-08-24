@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Rho">
+<glyph format="2" name="Rho">
   <advance width="549" />
   <outline>
     <contour>
@@ -31,7 +31,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="bd15e1bbcf07a9bbccb45eb093808e795efe74d139e9592e4845d3ee4bbd13ee89941ac30548c801d85ccbca2286492bac7a06c51cbf6bbc9297b98b275e9028">
+        <hintSetList id="143014328314332214362025262025632226365926728338862039032241265941428345536745547545558650234650247550261154997097659">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="283" width="39" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="abrevegrave">
+<glyph format="2" name="abrevegrave">
   <advance width="491" />
   <outline>
     <contour>
@@ -43,33 +43,33 @@
       <point x="260" y="26" />
     </contour>
     <contour>
-      <point type="line" x="268" y="668" />
-      <point type="line" x="292" y="688" />
-      <point type="line" x="208" y="801" />
-      <point type="line" x="177" y="776" />
+      <point type="curve" x="263" y="570" />
+      <point x="366" y="570" />
+      <point x="404" y="652" />
+      <point type="curve" x="412" y="718" />
+      <point type="line" x="380" y="723" />
+      <point x="372" y="666" />
+      <point x="336" y="603" />
+      <point type="curve" x="263" y="603" />
+      <point x="190" y="603" />
+      <point x="154" y="666" />
+      <point type="curve" x="146" y="723" />
+      <point type="line" x="114" y="718" />
+      <point x="122" y="652" />
+      <point x="160" y="570" />
     </contour>
     <contour>
-      <point name="hintSet0022" type="curve" x="255" y="570" />
-      <point x="358" y="570" />
-      <point x="396" y="652" />
-      <point type="curve" x="404" y="718" />
-      <point type="line" x="372" y="723" />
-      <point x="364" y="666" />
-      <point x="328" y="603" />
-      <point type="curve" x="255" y="603" />
-      <point x="182" y="603" />
-      <point x="146" y="666" />
-      <point type="curve" x="138" y="723" />
-      <point type="line" x="106" y="718" />
-      <point x="114" y="652" />
-      <point x="152" y="570" />
+      <point type="line" x="276" y="668" />
+      <point type="line" x="300" y="688" />
+      <point type="line" x="216" y="801" />
+      <point type="line" x="185" y="776" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ff1998b631500da8dcb2744e2feb0f932d5f8cd5134665aca2d0862ff3af6761d57a8bfbfe8f84bec6bfab3eddb6c8c6ee40e4a0c75d20ac8b4324b817269338">
+        <hintSetList id="59d2405e55af35e486f17db273dc281e2e610c62834ce986a8441c15df16d97f3fad454d0d8003d76127234786a09850a522342915e68e83ded1629bdbcd90e1">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="38" />
             <hstem pos="453" width="39" />
@@ -93,14 +93,6 @@
             <hstem pos="723" width="-20" />
             <vstem pos="58" width="45" />
             <vstem pos="368" width="44" />
-          </hintset>
-          <hintset pointTag="hintSet0022">
-            <hstem pos="-12" width="38" />
-            <hstem pos="453" width="39" />
-            <hstem pos="570" width="33" />
-            <hstem pos="723" width="-20" />
-            <vstem pos="106" width="32" />
-            <vstem pos="372" width="32" />
           </hintset>
         </hintSetList>
       </data>

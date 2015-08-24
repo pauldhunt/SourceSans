@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Idotaccent">
+<glyph format="2" name="Idotaccent">
   <advance width="240" />
   <outline>
     <contour>
@@ -9,7 +9,7 @@
       <point type="line" x="97" y="659" />
     </contour>
     <contour>
-      <point type="curve" x="120" y="721" />
+      <point name="hintSet0004" type="curve" x="120" y="721" />
       <point x="142" y="721" />
       <point x="160" y="737" />
       <point type="curve" x="160" y="762" />
@@ -27,12 +27,18 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="240970l1430l143659l97659l120721c142721o160737o160762c160785o142801o120801c98801o80785o80762c80737o98721o">
+        <hintSetList id="1207211208011427211428011430143659160737160762160785240807378076280785970976599872198801">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="659" width="-20" />
             <hstem pos="721" width="80" />
             <vstem pos="97" width="46" />
+          </hintset>
+          <hintset pointTag="hintSet0004">
+            <hstem pos="21" width="-21" />
+            <hstem pos="659" width="-20" />
+            <hstem pos="721" width="80" />
+            <vstem pos="80" width="80" />
           </hintset>
         </hintSetList>
       </data>

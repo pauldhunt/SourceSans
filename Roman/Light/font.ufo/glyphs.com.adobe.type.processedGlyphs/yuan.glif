@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="yuan">
+<glyph format="2" name="yuan">
   <advance width="479" />
   <outline>
     <contour>
@@ -31,7 +31,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="69d4c8a1d8e7df0024115939f0e645d2eccc318d75eadbb22478e23460fdb9535adbbf744be9b5bc0fa9119454eea889648ccb79ad02fa490e87255ec74503a3">
+        <hintSetList id="1724461934022043002143582160216266238309242309261026126626735827330028640230639309446403639429266429300449639479502665030078639">
           <hintset pointTag="hintSet0000">
             <hstem pos="266" width="34" />
             <vstem pos="216" width="45" />

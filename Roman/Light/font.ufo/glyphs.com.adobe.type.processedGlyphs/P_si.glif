@@ -1,9 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Psi">
+<glyph format="2" name="Psi">
   <advance width="668" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="552" y="659" />
+      <point name="hintSet0000" type="line" x="311" y="0" />
+      <point type="line" x="356" y="0" />
+      <point type="line" x="356" y="260" />
+      <point x="508" y="263" />
+      <point x="598" y="336" />
+      <point type="curve" x="598" y="497" />
+      <point type="line" x="598" y="659" />
+      <point type="line" x="552" y="659" />
       <point type="line" x="552" y="498" />
       <point x="552" y="367" />
       <point x="486" y="301" />
@@ -20,20 +27,13 @@
       <point x="70" y="336" />
       <point x="159" y="263" />
       <point type="curve" x="311" y="260" />
-      <point type="line" x="311" y="0" />
-      <point type="line" x="356" y="0" />
-      <point type="line" x="356" y="260" />
-      <point x="508" y="263" />
-      <point x="598" y="336" />
-      <point type="curve" x="598" y="497" />
-      <point type="line" x="598" y="659" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f94d936c1b4f291e4a6b2fb318d28e5f5d6314515bcaf826aa12a12236f57fd7df338e3a185a9b54bb0759e2875633f65323d4878969e76554ef4b86475c32bc">
+        <hintSetList id="fe935b15cb2959d976807db0ad7111c1ac277cc594a34037ce4dae2b77e57c6f8683840d57400e1845ddf5c23a7f5038b66c939f1744e27e228d13171d8796cb">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="260" width="39" />

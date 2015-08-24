@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lenistildecmb">
-  <advance width="0" />
+<glyph format="2" name="lenistildecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="-162" y="744" />
@@ -45,14 +44,13 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="dbbd579ae030810915204adb93f0663f4131c6b302f9335a137b127c99db577809888b8e6e69d6802ff20d71645f4de545463534ea9338cce874c63c3550dd47">
+        <hintSetList id="2794ca81a1fd2e2f94bdba60f75360b9daebba0955746daa665be383460dd5322605daaedb68065b4bfd97912ad05e1ef3fc0f079412d9901b6803dd65dcfaea">
           <hintset pointTag="hintSet0000">
             <hstem pos="649" width="66" />
             <hstem pos="772" width="92" />
             <vstem pos="-162" width="324" />
           </hintset>
           <hintset pointTag="hintSet0003">
-            <hstem pos="649" width="66" />
             <hstem pos="730" width="92" />
             <vstem pos="-162" width="324" />
           </hintset>

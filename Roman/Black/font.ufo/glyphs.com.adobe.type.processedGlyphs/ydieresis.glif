@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ydieresis">
+<glyph format="2" name="ydieresis">
   <advance width="542" />
   <outline>
     <contour>
@@ -32,66 +32,66 @@
       <point x="98" y="-188" />
     </contour>
     <contour>
-      <point name="hintSet0016" type="curve" x="162" y="562" />
-      <point x="209" y="562" />
-      <point x="242" y="597" />
-      <point type="curve" x="242" y="642" />
-      <point x="242" y="687" />
-      <point x="209" y="722" />
-      <point type="curve" x="162" y="722" />
-      <point x="115" y="722" />
-      <point x="82" y="687" />
-      <point type="curve" x="82" y="642" />
-      <point x="82" y="597" />
-      <point x="115" y="562" />
+      <point name="hintSet0016" type="curve" x="166" y="562" />
+      <point x="213" y="562" />
+      <point x="246" y="597" />
+      <point type="curve" x="246" y="642" />
+      <point x="246" y="687" />
+      <point x="213" y="722" />
+      <point type="curve" x="166" y="722" />
+      <point x="119" y="722" />
+      <point x="86" y="687" />
+      <point type="curve" x="86" y="642" />
+      <point x="86" y="597" />
+      <point x="119" y="562" />
     </contour>
     <contour>
-      <point type="curve" x="390" y="562" />
-      <point x="437" y="562" />
-      <point x="470" y="597" />
-      <point type="curve" x="470" y="642" />
-      <point x="470" y="687" />
-      <point x="437" y="722" />
-      <point type="curve" x="390" y="722" />
-      <point x="343" y="722" />
-      <point x="310" y="687" />
-      <point type="curve" x="310" y="642" />
-      <point x="310" y="597" />
-      <point x="343" y="562" />
+      <point type="curve" x="394" y="562" />
+      <point x="441" y="562" />
+      <point x="474" y="597" />
+      <point type="curve" x="474" y="642" />
+      <point x="474" y="687" />
+      <point x="441" y="722" />
+      <point type="curve" x="394" y="722" />
+      <point x="347" y="722" />
+      <point x="314" y="687" />
+      <point type="curve" x="314" y="642" />
+      <point x="314" y="597" />
+      <point x="347" y="562" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="47be2d13a4cf449a456c65ee35f92eb73ac4fc902687a43b57af8f46fa1bfa1d1a7a4bb3aa626fa08e4e2352025920c68b620524dfc5b8fc7f3eb4fae91af842">
+        <hintSetList id="047c52fd4d11beea2996a440d4b96d653523be54fb02f6c9d28aa6e50df84fa2519a865065aa45a2c9ffcaefe5199ff47d69a13ed40260da401060787245b6d5">
           <hintset pointTag="hintSet0000">
             <hstem pos="-188" width="134" />
             <hstem pos="500" width="-20" />
             <hstem pos="562" width="160" />
-            <vstem pos="82" width="160" />
-            <vstem pos="310" width="160" />
+            <vstem pos="86" width="160" />
+            <vstem pos="314" width="160" />
           </hintset>
           <hintset pointTag="hintSet0014">
             <hstem pos="-157" width="-21" />
             <hstem pos="500" width="-20" />
             <hstem pos="562" width="160" />
-            <vstem pos="82" width="160" />
-            <vstem pos="310" width="160" />
+            <vstem pos="86" width="160" />
+            <vstem pos="314" width="160" />
           </hintset>
           <hintset pointTag="hintSet0015">
             <hstem pos="-188" width="134" />
             <hstem pos="500" width="-20" />
             <hstem pos="562" width="160" />
-            <vstem pos="82" width="160" />
-            <vstem pos="310" width="160" />
+            <vstem pos="86" width="160" />
+            <vstem pos="314" width="160" />
           </hintset>
           <hintset pointTag="hintSet0016">
             <hstem pos="-157" width="-21" />
             <hstem pos="500" width="-20" />
             <hstem pos="562" width="160" />
-            <vstem pos="82" width="160" />
-            <vstem pos="310" width="160" />
+            <vstem pos="86" width="160" />
+            <vstem pos="314" width="160" />
           </hintset>
         </hintSetList>
       </data>

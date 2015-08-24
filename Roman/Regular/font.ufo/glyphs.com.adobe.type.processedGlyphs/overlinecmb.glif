@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="overlinecmb">
-  <advance width="0" />
+<glyph format="2" name="overlinecmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="-133" y="601" />
@@ -13,7 +12,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0-133601l133601l133658l-133658l">
+        <hintSetList id="-133601-1336581000133601133658">
           <hintset pointTag="hintSet0000">
             <hstem pos="601" width="57" />
             <vstem pos="-133" width="266" />

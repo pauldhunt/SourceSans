@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Imacroncyr">
+<glyph format="2" name="Imacroncyr">
   <advance width="666" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="8050acfff37e8d50e8f5c16375f71d780c48902060a43ec0a83a2b1ed225c04c5dc028be8654903fa4bc7dd8bf351647992c0137ae72f970d67ce508dc8bc7c4">
+        <hintSetList id="09849d54b86b04d2f54e524b10835d9ecbef527eef54853b1562c61174ebf244af72ff902759c217286bc2e5faa81b27c993b7dc81e95a549a384628f8e92337">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="654" width="-20" />

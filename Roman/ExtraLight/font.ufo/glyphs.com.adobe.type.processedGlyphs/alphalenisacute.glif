@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphalenisacute">
+<glyph format="2" name="alphalenisacute">
   <advance width="532" />
   <outline>
     <contour>
@@ -78,7 +78,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a94495b638a883bf0e1e2f8d3d156651fb1cddebda2140f0263aa0f054a3041e51cd39b81ab9084c334782273e68d9e1ee4e0e0293535641f6a570fe5195e1d4">
+        <hintSetList id="16a0a796d8635530c7577eac978ce8850854532d75fce3e51879af1a20c257f5b747d68a3b22a6b677e47b86bf7d615e92cd1eedacd5433d765840f5bf79bac3">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />

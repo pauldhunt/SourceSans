@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="servicemark">
+<glyph format="2" name="servicemark">
   <advance width="660" />
   <outline>
     <contour>
@@ -71,7 +71,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="abc895bc6f1112565ddd1b2154a8bd73160fbc601e278f77f30a7900ff74677b25881493d8e08c7b688c6b5a9678bc9eda5f46b40878142cf51a3501b1418a54">
+        <hintSetList id="ced6fc645fc81e09b90c4f6c5140f8238b3ea95f271671030a050f842f50cb224b385aa6823a881248f923b6dde2d9bbed671fe6569f2abf8f61f9df3d170762">
           <hintset pointTag="hintSet0000">
             <hstem pos="352" width="60" />
             <hstem pos="625" width="60" />

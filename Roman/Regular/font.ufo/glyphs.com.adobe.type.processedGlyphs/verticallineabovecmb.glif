@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="verticallineabovecmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-29" y="533" />
+      <point type="line" x="29" y="533" />
+      <point type="line" x="35" y="729" />
+      <point type="line" x="-35" y="729" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-29533-3572910002953335729">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="533" width="196" />
+            <vstem pos="-32" width="64" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

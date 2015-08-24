@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Alphalatin">
+  <advance width="668" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="338" y="115" />
+      <point x="251" y="115" />
+      <point x="197" y="181" />
+      <point type="curve" x="197" y="328" />
+      <point x="197" y="471" />
+      <point x="264" y="537" />
+      <point type="curve" x="336" y="537" />
+      <point x="377" y="537" />
+      <point x="423" y="524" />
+      <point type="curve" x="463" y="489" />
+      <point type="line" x="463" y="182" />
+      <point x="426" y="133" />
+      <point x="386" y="115" />
+    </contour>
+    <contour>
+      <point type="curve" x="309" y="-12" />
+      <point x="371" y="-12" />
+      <point x="439" y="22" />
+      <point type="curve" x="486" y="74" />
+      <point type="line" x="490" y="74" />
+      <point type="line" x="491" y="69" />
+      <point x="509" y="17" />
+      <point x="544" y="-12" />
+      <point type="curve" x="600" y="-12" />
+      <point x="633" y="-12" />
+      <point x="656" y="-3" />
+      <point type="curve" x="672" y="4" />
+      <point type="line" x="655" y="117" />
+      <point x="649" y="115" />
+      <point x="644" y="115" />
+      <point type="curve" x="638" y="115" />
+      <point x="627" y="115" />
+      <point x="612" y="125" />
+      <point type="curve" x="612" y="158" />
+      <point type="line" x="612" y="650" />
+      <point type="line" x="500" y="650" />
+      <point type="line" x="489" y="582" />
+      <point type="line" x="485" y="582" />
+      <point x="433" y="636" />
+      <point x="381" y="661" />
+      <point type="curve" x="317" y="661" />
+      <point x="181" y="661" />
+      <point x="46" y="534" />
+      <point type="curve" x="46" y="324" />
+      <point x="46" y="115" />
+      <point x="149" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="fe0c5fbc59582df1dcd4616b716e5953c0e0c9c5e5a2b772ba142503cb1a3b9586cc35bb2dd97b27bc07491af40096f9b36516c7f40374c5eb58ee082c4011d2">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="127" />
+            <hstem pos="537" width="124" />
+            <vstem pos="46" width="151" />
+            <vstem pos="463" width="149" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

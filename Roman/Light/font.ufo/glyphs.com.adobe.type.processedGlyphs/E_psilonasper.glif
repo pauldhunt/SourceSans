@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Epsilonasper">
+<glyph format="2" name="Epsilonasper">
   <advance width="606" />
   <outline>
     <contour>
@@ -19,10 +19,10 @@
     <contour>
       <point type="curve" x="80" y="479" />
       <point type="line" x="89" y="506" />
-      <point name="hintSet0014" x="53" y="521" />
+      <point x="53" y="521" />
       <point x="25" y="541" />
       <point type="curve" x="25" y="580" />
-      <point x="25" y="617" />
+      <point name="hintSet0015" x="25" y="617" />
       <point x="56" y="638" />
       <point type="curve" x="111" y="638" />
       <point type="line" x="107" y="670" />
@@ -37,7 +37,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="418f09eab00463065320ccfc8c2cf4e6b28a9846bc347078f5dc838a448228acd616016f2ea419b96340a63a660935e393777031d0884cb7da867c4a1e5d5780">
+        <hintSetList id="6f14d5318f125d4a98518217361cc931dd15d6fde9c46b961963add8950bd2fc3b6ee4b8d1f0b36e4e30748db487dabea827dc7b0855fd7a50c99129415527d5">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="40" />
             <hstem pos="330" width="40" />
@@ -45,7 +45,7 @@
             <vstem pos="-14" width="39" />
             <vstem pos="189" width="46" />
           </hintset>
-          <hintset pointTag="hintSet0014">
+          <hintset pointTag="hintSet0015">
             <hstem pos="0" width="40" />
             <hstem pos="330" width="40" />
             <hstem pos="638" width="32" />

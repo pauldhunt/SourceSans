@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="summation">
+<glyph format="2" name="summation">
   <advance width="546" />
   <outline>
     <contour>
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="54628-120l534-120l53424l24024l24028l396256l246486l246490l512490l512634l38634l38534l222256l28-20l">
+        <hintSetList id="222256240242402824648624649028-12028-203853438634396256512490512634534-12053424546">
           <hintset pointTag="hintSet0000">
             <hstem pos="-120" width="144" />
             <hstem pos="490" width="144" />

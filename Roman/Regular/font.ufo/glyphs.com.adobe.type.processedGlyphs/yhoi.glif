@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="yhoi">
+<glyph format="2" name="yhoi">
   <advance width="467" />
   <outline>
     <contour>
@@ -32,31 +32,31 @@
       <point x="68" y="-209" />
     </contour>
     <contour>
-      <point type="line" x="211" y="572" />
-      <point x="269" y="583" />
-      <point x="323" y="608" />
-      <point type="curve" x="323" y="666" />
-      <point x="323" y="725" />
-      <point x="271" y="758" />
-      <point type="curve" x="180" y="760" />
-      <point type="line" x="175" y="706" />
-      <point x="231" y="703" />
-      <point x="258" y="688" />
-      <point type="curve" x="258" y="659" />
-      <point x="258" y="633" />
-      <point x="234" y="620" />
-      <point type="curve" x="202" y="612" />
+      <point type="line" x="213" y="572" />
+      <point x="271" y="583" />
+      <point x="325" y="608" />
+      <point type="curve" x="325" y="666" />
+      <point x="325" y="725" />
+      <point x="273" y="758" />
+      <point type="curve" x="182" y="760" />
+      <point type="line" x="177" y="706" />
+      <point x="233" y="703" />
+      <point x="260" y="688" />
+      <point type="curve" x="260" y="659" />
+      <point x="260" y="633" />
+      <point x="236" y="620" />
+      <point type="curve" x="204" y="612" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="259e71f90cbea96a52084e55eee81c13cc2fa9697053f0047f9e14d1cc7a47a142b00485fdc0300b02a652e79be213c06b4483190c006eee683d974ccc8e4ebe">
+        <hintSetList id="21f717d52bb4c5f74b33bc825777a5067a6fef3c76c8e9e2df06911262a8ca883c7df576efc8b4cd1113934ad25ccb0fcc7d477e12d87921bccf811a84f1b9af">
           <hintset pointTag="hintSet0000">
             <hstem pos="-209" width="68" />
             <hstem pos="706" width="54" />
-            <vstem pos="258" width="65" />
+            <vstem pos="260" width="65" />
           </hintset>
         </hintSetList>
       </data>

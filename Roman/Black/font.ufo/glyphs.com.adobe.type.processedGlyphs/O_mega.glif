@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omega">
+<glyph format="2" name="Omega">
   <advance width="724" />
   <outline>
     <contour>
@@ -43,7 +43,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ebdf6cb00a71dd2bb9e0c34ffb0cd759ada1e207fa31d98e2c2835892e4f5bcc43dd2011591818027b56a862d6070e44d9e5ac84a181a0a0483d38f66e183c42">
+        <hintSetList id="23345e2d8013fcef846fe615904e9d0cb5e5b18c613892ae021d1a2daae4c787987f0e5fd02a1c03ac8713cfd66c55e7666577a93248ee0bda1277ce724c4eb0">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="138" />
             <hstem pos="514" width="148" />

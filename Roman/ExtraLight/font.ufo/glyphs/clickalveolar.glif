@@ -1,21 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="clickalveolar" format="1">
-  <advance width="254"/>
+  <advance width="298"/>
   <outline>
     <contour>
-      <point x="6" y="332" type="line"/>
-      <point x="248" y="332" type="line"/>
-      <point x="248" y="360" type="line"/>
-      <point x="84" y="360" type="line"/>
-      <point x="6" y="356" type="line"/>
+      <point x="140" y="-222" type="line"/>
+      <point x="170" y="-222" type="line"/>
+      <point x="170" y="722" type="line"/>
+      <point x="140" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="6" y="182" type="line"/>
-      <point x="248" y="182" type="line"/>
-      <point x="248" y="210" type="line"/>
-      <point x="84" y="210" type="line"/>
-      <point x="6" y="206" type="line"/>
+      <point x="6" y="306" type="line"/>
+      <point x="290" y="306" type="line"/>
+      <point x="290" y="334" type="line"/>
+      <point x="84" y="334" type="line"/>
+      <point x="6" y="330" type="line"/>
     </contour>
-    <component base="bar" xOffset="24"/>
+    <contour>
+      <point x="6" y="156" type="line"/>
+      <point x="290" y="156" type="line"/>
+      <point x="290" y="184" type="line"/>
+      <point x="84" y="184" type="line"/>
+      <point x="6" y="180" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>140</integer>
+                  <key>y</key>
+                  <integer>-250</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>250</integer>
+                  <key>y</key>
+                  <integer>-250</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>250</integer>
+                  <key>y</key>
+                  <integer>750</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>140</integer>
+                  <key>y</key>
+                  <integer>750</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>clickalveolar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>448</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

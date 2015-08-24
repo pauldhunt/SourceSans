@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hhook.sc" format="1">
+  <advance width="780"/>
+  <outline>
+    <contour>
+      <point x="112" y="243" type="curve"/>
+      <point x="162" y="315" type="line"/>
+      <point x="147" y="326"/>
+      <point x="137" y="339"/>
+      <point x="137" y="364" type="curve" smooth="yes"/>
+      <point x="137" y="387"/>
+      <point x="155" y="408"/>
+      <point x="185" y="408" type="curve" smooth="yes"/>
+      <point x="352" y="408" type="line"/>
+      <point x="392" y="532" type="line"/>
+      <point x="220" y="532" type="line" smooth="yes"/>
+      <point x="107" y="532"/>
+      <point x="34" y="469"/>
+      <point x="34" y="373" type="curve" smooth="yes"/>
+      <point x="34" y="310"/>
+      <point x="60" y="266"/>
+    </contour>
+    <component base="H.sc" xOffset="148"/>
+    <contour>
+      <point x="464" y="564" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="464" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

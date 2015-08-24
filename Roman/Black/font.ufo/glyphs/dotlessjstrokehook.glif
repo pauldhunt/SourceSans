@@ -10,5 +10,22 @@
       <point x="14" y="294" type="line"/>
     </contour>
     <component base="esh" xOffset="24"/>
+    <contour>
+      <point x="170" y="730" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="170" y="-20" type="move" name="belowLC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

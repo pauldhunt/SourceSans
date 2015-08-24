@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="1">
   <advance width="458"/>
   <outline>
     <contour>
-      <point x="216.0" y="0.0" type="line"/>
-      <point x="244.0" y="0.0" type="line"/>
-      <point x="446.0" y="650.0" type="line"/>
-      <point x="418.0" y="650.0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="446" y="650" type="line"/>
+      <point x="418" y="650" type="line"/>
     </contour>
     <contour>
       <point x="42" y="0" type="line"/>
-      <point x="70.0" y="0.0" type="line"/>
-      <point x="272.0" y="650.0" type="line"/>
-      <point x="244.0" y="650.0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="272" y="650" type="line"/>
+      <point x="244" y="650" type="line"/>
     </contour>
     <contour>
       <point x="28" y="218" type="line"/>

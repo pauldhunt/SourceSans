@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Sdotaccent">
+<glyph format="2" name="Sdotaccent">
   <advance width="556" />
   <outline>
     <contour>
@@ -63,7 +63,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e9d916c0e302650a87390a85a0e7da7a6e3b68a04a778f330db2256dfd6c2f5ce3d1fff1c2bed227fbcf1617abc376389424ab0630c2c02e358ca0164bf9ca42">
+        <hintSetList id="7e702542056ab602e98591e501e05fc2664bc66e85b5bdab2c0c162279298499a50808620b2cdb20a765ec125fcab675d1d79d5300323e76c07a171a9d923e7c">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="127" />
             <hstem pos="537" width="127" />

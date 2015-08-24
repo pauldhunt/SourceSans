@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="macrondoublebelowcmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-429" y="-171" />
+      <point type="line" x="429" y="-171" />
+      <point type="line" x="429" y="-113" />
+      <point type="line" x="-429" y="-113" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-429-113-429-1711000429-113429-171">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-171" width="58" />
+            <vstem pos="-429" width="858" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

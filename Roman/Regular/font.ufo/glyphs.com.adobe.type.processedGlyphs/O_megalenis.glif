@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegalenis">
+<glyph format="2" name="Omegalenis">
   <advance width="773" />
   <outline>
     <contour>
@@ -59,7 +59,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="28fea75fde26bdae4118bec6a31023a7ec72e70c9a0f378aeb2d9fb0798d61024682f1e9f9e404bb9cd0f0e597d34f8423253c8e1d20a2db2f798494c395cadd">
+        <hintSetList id="81ba3707f70275632136e478cefcc80c7e22f67294a68fdebe1af05eff76543e15ffb12b14b3a40cda5c642217cf78b771343000856c9880b2f70456720d268e">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="68" />
             <hstem pos="595" width="73" />

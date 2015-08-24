@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="aring.a">
+  <advance width="555" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="284" y="554" />
+      <point x="351" y="554" />
+      <point x="394" y="596" />
+      <point type="curve" x="394" y="653" />
+      <point x="394" y="709" />
+      <point x="351" y="751" />
+      <point type="curve" x="284" y="751" />
+      <point x="217" y="751" />
+      <point x="174" y="709" />
+      <point type="curve" x="174" y="653" />
+      <point x="174" y="596" />
+      <point x="217" y="554" />
+    </contour>
+    <contour>
+      <point type="curve" x="284" y="591" />
+      <point x="252" y="591" />
+      <point x="227" y="615" />
+      <point type="curve" x="227" y="653" />
+      <point x="227" y="690" />
+      <point x="252" y="714" />
+      <point type="curve" x="284" y="714" />
+      <point x="316" y="714" />
+      <point x="341" y="690" />
+      <point type="curve" x="341" y="653" />
+      <point x="341" y="615" />
+      <point x="316" y="591" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="2ba95beeaad0783764a51969e125ff43161f8764ad1e446688fa3fa592903ba596c1b0465d74777db52ba78c90ba5bac255df52567ab2e8742212b11ec579fe5">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="554" width="37" />
+            <hstem pos="714" width="37" />
+            <vstem pos="174" width="53" />
+            <vstem pos="341" width="53" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

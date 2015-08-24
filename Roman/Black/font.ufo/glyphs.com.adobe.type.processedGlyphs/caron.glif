@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="caron">
+<glyph format="2" name="caron">
   <advance width="560" />
   <outline>
     <contour>
@@ -17,7 +17,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="560192578l368578l474706l410766l282682l278682l150766l86706l">
+        <hintSetList id="15076619257827868228268236857841076647470656086706">
           <hintset pointTag="hintSet0000">
             <hstem pos="578" width="104" />
             <vstem pos="86" width="388" />

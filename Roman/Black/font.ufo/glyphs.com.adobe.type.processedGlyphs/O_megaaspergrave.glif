@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegaaspergrave">
+<glyph format="2" name="Omegaaspergrave">
   <advance width="1064" />
   <outline>
     <contour>
@@ -53,11 +53,11 @@
       <point x="100" y="553" />
       <point x="118" y="573" />
       <point type="curve" x="168" y="578" />
-      <point name="hintSet0026" type="line" x="148" y="662" />
+      <point type="line" x="148" y="662" />
       <point x="36" y="658" />
       <point x="-12" y="614" />
       <point type="curve" x="-12" y="550" />
-      <point name="hintSet0028" x="-12" y="474" />
+      <point x="-12" y="474" />
       <point x="56" y="436" />
     </contour>
   </outline>
@@ -65,7 +65,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5ba810153e92802fedddddf75e83a95060f324c16fb1d96aa9c87de5b785abb6c7ae8957d70f79b9840f4f1057d6703f5b0f5530547e29145377c67b13977761">
+        <hintSetList id="52180eff0920a2d8cf57879d744a37468a571f7b2f235ae1a8c4ee8b9c8f555fbad6b72260561a9776b7bf9b26ed2751f468b5b159a78b3617778a3d67fb685a">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="138" />
             <hstem pos="514" width="148" />
@@ -96,21 +96,7 @@
           </hintset>
           <hintset pointTag="hintSet0017">
             <hstem pos="0" width="138" />
-            <hstem pos="578" width="84" />
-            <vstem pos="-12" width="112" />
-            <vstem pos="384" width="280" />
-            <vstem pos="828" width="176" />
-          </hintset>
-          <hintset pointTag="hintSet0026">
-            <hstem pos="0" width="138" />
             <hstem pos="514" width="148" />
-            <vstem pos="-12" width="112" />
-            <vstem pos="400" width="176" />
-            <vstem pos="828" width="176" />
-          </hintset>
-          <hintset pointTag="hintSet0028">
-            <hstem pos="0" width="138" />
-            <hstem pos="578" width="84" />
             <vstem pos="-12" width="112" />
             <vstem pos="384" width="280" />
             <vstem pos="828" width="176" />

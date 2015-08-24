@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="upsilonasper">
+<glyph format="2" name="upsilonasper">
   <advance width="521" />
   <outline>
     <contour>
@@ -47,7 +47,7 @@
       <point type="curve" x="333" y="704" />
       <point type="line" x="326" y="771" />
       <point x="215" y="768" />
-      <point x="165" y="730" />
+      <point x="165" y="731" />
       <point type="curve" x="165" y="669" />
       <point x="165" y="606" />
       <point x="225" y="579" />
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e34346729dfba7856f8e54be7b1ea20091bc2447b9ef06aa7a81cef69804ee16bf2fc7c61c1e5fcb96353160553ad73bf110694cf7d7891fc515e0a0f6cdcbf4">
+        <hintSetList id="8673764465f03331dbfc044644ae8c9c869e480f946e315e7e512f1962e0914cf04ecb60838803a8101dbf125fd1715eb75f9c9ebdfa1585540cf30161c7efd2">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="94" />
             <hstem pos="503" width="-20" />

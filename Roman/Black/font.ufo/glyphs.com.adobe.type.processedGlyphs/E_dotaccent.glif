@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Edotaccent">
+<glyph format="2" name="Edotaccent">
   <advance width="556" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="189da92e3dfc9a6f7098e963f94dfa6e5e645f0e9f7d28a79f60899aa7315381c7ead55822b1b203eb4e4bfb0375f03c62c4d70b7029e0decffab942eb1630e9">
+        <hintSetList id="514614ed95647fbfaac55e3d2a90b69430189b0277e3373335d311ce2ae718323aa7c1a9c7ebcfa424af2e143087ccf8512d18e48668ca793fe754fbeea5ca2c">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="144" />
             <hstem pos="260" width="144" />

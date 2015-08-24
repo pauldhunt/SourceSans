@@ -1,22 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="mturned">
+<glyph format="2" name="mturned">
   <advance width="868" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="216" y="-12" />
-      <point x="284" y="-12" />
-      <point x="329" y="26" />
-      <point type="curve" x="370" y="68" />
-      <point x="397" y="16" />
-      <point x="440" y="-12" />
-      <point type="curve" x="508" y="-12" />
-      <point x="576" y="-12" />
-      <point x="618" y="22" />
-      <point type="curve" x="658" y="61" />
-      <point type="line" x="662" y="61" />
-      <point type="line" x="674" y="0" />
-      <point type="line" x="814" y="0" />
-      <point type="line" x="814" y="500" />
+      <point name="hintSet0000" type="line" x="814" y="500" />
       <point type="line" x="642" y="500" />
       <point type="line" x="642" y="172" />
       <point x="616" y="146" />
@@ -39,15 +26,28 @@
       <point type="line" x="58" y="192" />
       <point x="58" y="68" />
       <point x="106" y="-12" />
+      <point type="curve" x="216" y="-12" />
+      <point x="284" y="-12" />
+      <point x="329" y="26" />
+      <point type="curve" x="370" y="68" />
+      <point x="397" y="16" />
+      <point x="440" y="-12" />
+      <point type="curve" x="508" y="-12" />
+      <point x="576" y="-12" />
+      <point x="618" y="22" />
+      <point type="curve" x="658" y="61" />
+      <point type="line" x="662" y="61" />
+      <point type="line" x="674" y="0" />
+      <point type="line" x="814" y="0" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="edc10fc6b33b9a233fd1fc45823726ab64425435266ec9b015d3822367c11d4baecb89181324e50bf2f15bd5cb747fbabe3d30ad59df79dc62a2c7a0043b9cb2">
+        <hintSetList id="e78eccafc5773e02761ddedf20c509766d0105d1f989731083f583f68ae776b75df4e1414814f6eb07818aa8e24a6d7a9a38d75eb4684c1523c26c1decbcbc82">
           <hintset pointTag="hintSet0000">
-            <hstem pos="0" width="134" />
+            <hstem pos="-12" width="146" />
             <vstem pos="58" width="172" />
             <vstem pos="350" width="172" />
             <vstem pos="642" width="172" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegagrave">
+<glyph format="2" name="Omegagrave">
   <advance width="677" />
   <outline>
     <contour>
@@ -42,25 +42,17 @@
       <point type="line" x="24" y="479" />
       <point type="line" x="57" y="486" />
       <point type="line" x="27" y="670" />
-      <point name="hintSet0021" type="line" x="-20" y="663" />
+      <point type="line" x="-20" y="663" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="8e4a02097640f4a4d6d381eb1a317b00103a2684d85ad9fa165d0e844ca6d0dd3658cdb5000f2204717938879d7bf72de6db181e8eb758f03db8ab82fa22e106">
+        <hintSetList id="adc7721be2fc0e123398b061455acb59883fdc9741d2c5d2a4928bf1a47a4473ab90f334f8c93bb4833c2c70f4f9f5f13c9b8f5a62ff6420884e280c4917a7a3">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="39" />
             <hstem pos="629" width="42" />
-            <vstem pos="79" width="48" />
-            <vstem pos="210" width="70" />
-            <vstem pos="421" width="70" />
-            <vstem pos="574" width="48" />
-          </hintset>
-          <hintset pointTag="hintSet0021">
-            <hstem pos="0" width="39" />
-            <hstem pos="663" width="7" />
             <vstem pos="79" width="48" />
             <vstem pos="210" width="70" />
             <vstem pos="421" width="70" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lenisacute">
+<glyph format="2" name="lenisacute">
   <advance width="542" />
   <outline>
     <contour>
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="81c4ea9ab59dc9a5ec1f6af90cc8516ec3299e2acaf3d7fa8f5c6691606c1ca405881c311ff6c666be414f434c9a55094e9b87383d02b50319888462bd16bba8">
+        <hintSetList id="115705119756141615151577164702168622188636188662188688197753199588248612248671248725283569325770333559399756542">
           <hintset pointTag="hintSet0000">
             <hstem pos="705" width="51" />
             <vstem pos="188" width="60" />

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Omacrongrave.sc">
+  <advance width="568" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="284" y="-12" />
+      <point x="416" y="-12" />
+      <point x="512" y="93" />
+      <point type="curve" x="512" y="256" />
+      <point x="512" y="419" />
+      <point x="416" y="522" />
+      <point type="curve" x="284" y="522" />
+      <point x="151" y="522" />
+      <point x="56" y="419" />
+      <point type="curve" x="56" y="256" />
+      <point x="56" y="93" />
+      <point x="151" y="-12" />
+    </contour>
+    <contour>
+      <point type="curve" x="284" y="18" />
+      <point x="167" y="18" />
+      <point x="90" y="110" />
+      <point type="curve" x="90" y="256" />
+      <point x="90" y="402" />
+      <point x="167" y="492" />
+      <point type="curve" x="284" y="492" />
+      <point x="400" y="492" />
+      <point x="478" y="402" />
+      <point type="curve" x="478" y="256" />
+      <point x="478" y="110" />
+      <point x="400" y="18" />
+    </contour>
+    <contour>
+      <point type="line" x="292" y="700" />
+      <point type="line" x="308" y="714" />
+      <point type="line" x="214" y="814" />
+      <point type="line" x="192" y="794" />
+    </contour>
+    <contour>
+      <point type="line" x="404" y="624" />
+      <point type="line" x="404" y="652" />
+      <point type="line" x="164" y="652" />
+      <point type="line" x="164" y="624" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="481e656f7ed963e2ccf28b9b81d9dc2e34f9571fbbbf0fc15b58de958523a8ffabee97137599fd5f606613445544b97ebdbc9af256d9001fca2dec6e4ff05915">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="30" />
+            <hstem pos="492" width="30" />
+            <hstem pos="624" width="28" />
+            <vstem pos="56" width="34" />
+            <vstem pos="478" width="34" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

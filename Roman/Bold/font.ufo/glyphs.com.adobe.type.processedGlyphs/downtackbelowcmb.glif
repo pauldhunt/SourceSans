@@ -1,23 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="downtackbelowcmb">
-  <advance width="0" />
+<glyph format="2" name="downtackbelowcmb">
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="107" y="-152" />
+      <point name="hintSet0000" type="line" x="-39" y="-257" />
+      <point type="line" x="39" y="-257" />
+      <point type="line" x="39" y="-152" />
+      <point type="line" x="107" y="-152" />
       <point type="line" x="107" y="-82" />
       <point type="line" x="-107" y="-82" />
       <point type="line" x="-107" y="-152" />
       <point type="line" x="-39" y="-152" />
-      <point type="line" x="-39" y="-257" />
-      <point type="line" x="39" y="-257" />
-      <point type="line" x="39" y="-152" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0107-152l107-82l-107-82l-107-152l-39-152l-39-257l39-257l39-152l">
+        <hintSetList id="-107-152-107-82-39-152-39-2571000107-152107-8239-15239-257">
           <hintset pointTag="hintSet0000">
             <hstem pos="-152" width="70" />
             <vstem pos="-39" width="78" />

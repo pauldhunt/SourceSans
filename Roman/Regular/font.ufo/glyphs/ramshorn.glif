@@ -56,5 +56,22 @@
       <point x="350" y="101"/>
       <point x="319" y="56"/>
     </contour>
+    <contour>
+      <point x="256" y="507" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="256" y="-20" type="move" name="belowLC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

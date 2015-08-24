@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Dhook.sc">
+  <advance width="690" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="104" y="266" />
+      <point type="line" x="143" y="319" />
+      <point x="126" y="331" />
+      <point x="116" y="348" />
+      <point type="curve" x="116" y="374" />
+      <point x="116" y="411" />
+      <point x="144" y="433" />
+      <point type="curve" x="186" y="433" />
+      <point type="line" x="205" y="433" />
+      <point type="line" x="205" y="0" />
+      <point type="line" x="367" y="0" />
+      <point x="530" y="0" />
+      <point x="641" y="83" />
+      <point type="curve" x="641" y="264" />
+      <point x="641" y="439" />
+      <point x="536" y="518" />
+      <point type="curve" x="375" y="523" />
+      <point type="line" x="205" y="523" />
+      <point x="105" y="523" />
+      <point x="40" y="471" />
+      <point type="curve" x="40" y="381" />
+      <point x="40" y="327" />
+      <point x="61" y="288" />
+    </contour>
+    <contour>
+      <point type="line" x="321" y="90" />
+      <point type="line" x="321" y="433" />
+      <point type="line" x="365" y="433" />
+      <point x="468" y="433" />
+      <point x="522" y="378" />
+      <point type="curve" x="522" y="264" />
+      <point x="522" y="146" />
+      <point x="468" y="90" />
+      <point type="curve" x="365" y="90" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="23ce1d8a4483ecf51d580fbc3d97a836de3a3bb0be2079dcaa4d1d83457ee8fe7a013050cf937dfa1d4fa204460e85f8de4687b65236ee00c01394f156d9e49c">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="90" />
+            <hstem pos="433" width="90" />
+            <vstem pos="40" width="76" />
+            <vstem pos="205" width="116" />
+            <vstem pos="522" width="119" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omegaaspertilde">
+<glyph format="2" name="omegaaspertilde">
   <advance width="764" />
   <outline>
     <contour>
@@ -93,11 +93,10 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="c51ab226c6f3ada07dd2a6f5ae6760d5b4500884826f567b60d7182db10f416855b01dd383fe247a8120b7752b8b2366f527c394c5ca3405cb29e85d77b2acc0">
+        <hintSetList id="dd1d3160548773defbf853e6493a5f3624375275a936245cc5e530e9e42d4eb41ed2a97857338183e9ae7ac9163405c174e4f87c60931248ba951d20f1dc6777">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="138" />
             <hstem pos="512" width="-20" />
-            <hstem pos="563" width="52" />
             <hstem pos="649" width="66" />
             <hstem pos="772" width="92" />
             <vstem pos="36" width="162" />
@@ -107,7 +106,6 @@
           <hintset pointTag="hintSet0019">
             <hstem pos="-12" width="138" />
             <hstem pos="512" width="-20" />
-            <hstem pos="563" width="52" />
             <hstem pos="649" width="66" />
             <hstem pos="772" width="92" />
             <vstem pos="36" width="162" />
@@ -117,8 +115,6 @@
           <hintset pointTag="hintSet0029">
             <hstem pos="-12" width="138" />
             <hstem pos="512" width="-20" />
-            <hstem pos="563" width="52" />
-            <hstem pos="649" width="66" />
             <hstem pos="730" width="92" />
             <vstem pos="36" width="162" />
             <vstem pos="294" width="110" />
@@ -127,7 +123,6 @@
           <hintset pointTag="hintSet0033">
             <hstem pos="-12" width="138" />
             <hstem pos="512" width="-20" />
-            <hstem pos="563" width="52" />
             <hstem pos="649" width="66" />
             <hstem pos="772" width="92" />
             <vstem pos="36" width="162" />

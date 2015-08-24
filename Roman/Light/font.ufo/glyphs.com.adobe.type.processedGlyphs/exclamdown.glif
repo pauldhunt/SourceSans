@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="exclamdown">
+<glyph format="2" name="exclamdown">
   <advance width="259" />
   <outline>
     <contour>
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="8d65c9cfa5fb5696ea9ad7dbef1bd633ef348d00779ac0108159e277e966c7fc10182c679e2662cd9c66a9f11003efbb95d2bc1225f65c83448fbdc12dbb5004">
+        <hintSetList id="107-119107-190108401108492113301130401130492146301152-119152401152492153-190172418172448172475259874188744887475">
           <hintset pointTag="hintSet0000">
             <hstem pos="492" width="-20" />
             <vstem pos="107" width="42" />

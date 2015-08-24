@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="aturned">
+<glyph format="2" name="aturned">
   <advance width="542" />
   <outline>
     <contour>
@@ -47,7 +47,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="31a5ab08275f0e141a720257a4ba45ed4b8e51c82fbc1ec3c1142ce7bc1b6eefbace89a364f38b773de438d4129f9dd66ad2186d8ed59957f00167fc52927745">
+        <hintSetList id="fb7c32b84e50d1001d031ec61d3bd6ae674ab7d66b72f1f145378d0213284f3637a5650f0a65f7a5b99a4c8222f454cf4a597061a0402719691cdee469f21eca">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="136" />
             <hstem pos="380" width="132" />

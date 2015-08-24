@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ocaron">
+<glyph format="2" name="ocaron">
   <advance width="535" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="246" y="573" />
-      <point type="line" x="288" y="573" />
-      <point type="line" x="405" y="717" />
-      <point type="line" x="383" y="737" />
-      <point type="line" x="269" y="612" />
-      <point type="line" x="265" y="612" />
-      <point type="line" x="151" y="737" />
-      <point type="line" x="129" y="717" />
-    </contour>
-    <contour>
-      <point type="curve" x="267" y="-12" />
+      <point name="hintSet0000" type="curve" x="267" y="-12" />
       <point x="383" y="-12" />
       <point x="483" y="80" />
       <point type="curve" x="483" y="239" />
@@ -40,12 +30,22 @@
       <point x="437" y="113" />
       <point x="364" y="27" />
     </contour>
+    <contour>
+      <point type="line" x="246" y="573" />
+      <point type="line" x="288" y="573" />
+      <point type="line" x="405" y="717" />
+      <point type="line" x="383" y="737" />
+      <point type="line" x="269" y="612" />
+      <point type="line" x="265" y="612" />
+      <point type="line" x="151" y="737" />
+      <point type="line" x="129" y="717" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="99c750594683b53a8234404de1ffa828005d133a0ac6b92364704703b132efe365f236d9af9eeb51367ceba66278eb35cf2df1ab1ef92afc76fab45356771d7b">
+        <hintSetList id="990c82bf02a355fa2f6fae9b0ffc6dbabeb77ca6095bf03599a7033fed66efc919900cf6914b32a2a59c6a19b6b87cdebe17045e84b33cb6601258c96c77fcf0">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="453" width="39" />

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="iotalatin">
+  <advance width="255" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="169" y="-12" />
+      <point x="191" y="-12" />
+      <point x="205" y="-9" />
+      <point type="curve" x="216" y="-4" />
+      <point type="line" x="205" y="58" />
+      <point x="196" y="56" />
+      <point x="192" y="56" />
+      <point type="curve" x="187" y="56" />
+      <point x="175" y="56" />
+      <point x="164" y="66" />
+      <point type="curve" x="164" y="92" />
+      <point type="line" x="164" y="486" />
+      <point type="line" x="82" y="486" />
+      <point type="line" x="82" y="98" />
+      <point x="82" y="27" />
+      <point x="107" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="107-121644861646616492169-121755618756191-121925619656205-920558216-42558227824868298">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="68" />
+            <vstem pos="82" width="82" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

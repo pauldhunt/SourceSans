@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lbelt" format="1">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="121" y="275" type="curve" smooth="yes"/>
+      <point x="296" y="275" type="line"/>
+      <point x="296" y="322" type="line"/>
+      <point x="111" y="322" type="line" smooth="yes"/>
+      <point x="67" y="322"/>
+      <point x="47" y="340"/>
+      <point x="47" y="361" type="curve" smooth="yes"/>
+      <point x="47" y="380"/>
+      <point x="57" y="395"/>
+      <point x="81" y="395" type="curve" smooth="yes"/>
+      <point x="120" y="395"/>
+      <point x="131" y="357"/>
+      <point x="131" y="328" type="curve"/>
+      <point x="165" y="316" type="line"/>
+      <point x="165" y="353"/>
+      <point x="156" y="441"/>
+      <point x="77" y="441" type="curve" smooth="yes"/>
+      <point x="28" y="441"/>
+      <point x="-6" y="407"/>
+      <point x="-6" y="362" type="curve" smooth="yes"/>
+      <point x="-6" y="312"/>
+      <point x="34" y="275"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="71" type="line"/>
+      <point x="215" y="71" type="line"/>
+      <point x="215" y="656" type="line"/>
+      <point x="131" y="656" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="678" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="330" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

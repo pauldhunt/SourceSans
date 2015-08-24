@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="backslash">
+<glyph format="2" name="backslash">
   <advance width="344" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="344255-160l333-160l99710l21710l">
+        <hintSetList id="21710255-160333-16034499710">
           <hintset pointTag="hintSet0000">
             <hstem pos="-160" width="870" />
             <vstem pos="21" width="312" />

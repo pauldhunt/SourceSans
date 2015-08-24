@@ -3,5 +3,19 @@
   <advance width="652"/>
   <outline>
     <component base="O"/>
+    <contour>
+      <point x="326" y="679" type="move" name="aboveUC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ecaron">
+<glyph format="2" name="Ecaron">
   <advance width="527" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="241" y="706" />
-      <point type="line" x="327" y="706" />
-      <point type="line" x="432" y="819" />
-      <point type="line" x="396" y="845" />
-      <point type="line" x="286" y="753" />
-      <point type="line" x="282" y="753" />
-      <point type="line" x="172" y="845" />
-      <point type="line" x="136" y="819" />
-    </contour>
-    <contour>
-      <point type="line" x="90" y="0" />
+      <point name="hintSet0000" type="line" x="90" y="0" />
       <point type="line" x="478" y="0" />
       <point type="line" x="478" y="71" />
       <point type="line" x="173" y="71" />
@@ -26,12 +16,22 @@
       <point type="line" x="468" y="656" />
       <point type="line" x="90" y="656" />
     </contour>
+    <contour>
+      <point type="line" x="242" y="706" />
+      <point type="line" x="328" y="706" />
+      <point type="line" x="433" y="819" />
+      <point type="line" x="397" y="845" />
+      <point type="line" x="287" y="753" />
+      <point type="line" x="283" y="753" />
+      <point type="line" x="173" y="845" />
+      <point type="line" x="137" y="819" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="97982e3b4ce141ae5fcb85be2f4f7c0beda2637b35e4c2b40e3eb0af31010fd20ae7c6bade6ed34559857e26cc712a9482ecb3fd2e8024ec7d9405a185b4c4bc">
+        <hintSetList id="1378191733091733801735861737117384524270628375328775332870639784542230942238043381946858646865647804787152790090656">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="71" />
             <hstem pos="309" width="71" />

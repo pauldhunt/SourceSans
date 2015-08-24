@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="agrave">
+<glyph format="2" name="agrave">
   <advance width="486" />
   <outline>
     <contour>
@@ -43,17 +43,17 @@
       <point x="258" y="16" />
     </contour>
     <contour>
-      <point type="line" x="286" y="574" />
-      <point type="line" x="304" y="590" />
-      <point type="line" x="172" y="744" />
-      <point type="line" x="148" y="724" />
+      <point type="line" x="294" y="574" />
+      <point type="line" x="312" y="590" />
+      <point type="line" x="180" y="744" />
+      <point type="line" x="156" y="724" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="90da10ccbd0e4390bfa9b9f45eea32a71a184da7822cfbca390e3cec3144498d41d9ee056a396aecb5b5cd911784c32e1eaf880e254f1b7ca447d5c79d8e13da">
+        <hintSetList id="db2fd256a0e7a435b8523043ea0bae0d117872cae3edaca291e5e76cbceed0500f05d59136925b3bfa78bc053a6a68114203d8abd743955ccc984e56002fe21e">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />

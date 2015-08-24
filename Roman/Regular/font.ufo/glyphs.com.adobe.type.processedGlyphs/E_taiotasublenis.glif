@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Etaiotasublenis">
+<glyph format="2" name="Etaiotasublenis">
   <advance width="1028" />
   <outline>
     <contour>
@@ -18,10 +18,10 @@
     </contour>
     <contour>
       <point type="line" x="24" y="461" />
-      <point name="hintSet0013" x="82" y="475" />
+      <point x="82" y="475" />
       <point x="135" y="503" />
       <point type="curve" x="135" y="574" />
-      <point x="135" y="632" />
+      <point name="hintSet0014" x="135" y="632" />
       <point x="84" y="663" />
       <point type="curve" x="-3" y="665" />
       <point type="line" x="-12" y="618" />
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="135065797300d25d8fdf6d710dcf159274a86c11f80bbf3900c384f6e83f0a76f5f8d35f42f00947a6faf86b71e58b0930517c22bb042d0e69138e3f2f45de2b">
+        <hintSetList id="736dda2599cbef1d5558ad718a81601400260f142beb6e0f96b78d862c6f96de06b676309af08d6c35b69a30c8b87f988aa4420cecd15c8cbb57d1344149d571">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="309" width="72" />
@@ -76,7 +76,7 @@
             <vstem pos="596" width="84" />
             <vstem pos="850" width="77" />
           </hintset>
-          <hintset pointTag="hintSet0013">
+          <hintset pointTag="hintSet0014">
             <hstem pos="-12" width="68" />
             <hstem pos="309" width="72" />
             <hstem pos="618" width="47" />

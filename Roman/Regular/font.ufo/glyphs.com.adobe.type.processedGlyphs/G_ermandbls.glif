@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Germandbls">
+<glyph format="2" name="Germandbls">
   <advance width="667" />
   <outline>
     <contour>
@@ -46,7 +46,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="1839c66bbd7d401e8715c3b11bf0feb6c355802423dd04429b769304349c045eefa21abd1c2372081d06ff9307a6e08e31dd4765fca760d53426042640ffed99">
+        <hintSetList id="87182a218036ecff0b07c6879f86ffe6a020bea30bbb3121770fd67087aecf55ef944b0f9b21b41562bb41b0a304d0e1ad6f9a74726d4a5128f33e9b87e32b6f">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="70" />
             <hstem pos="599" width="69" />

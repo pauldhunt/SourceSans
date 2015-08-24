@@ -2,8 +2,19 @@
 <glyph name="ldotbelowmacron" format="1">
   <advance width="230"/>
   <outline>
-    <component base="dotbelowcmb" xOffset="134"/>
     <component base="l"/>
-    <component base="macroncmb" xOffset="110" yOffset="228"/>
+    <component base="macroncmb.cap" xOffset="110" yOffset="50"/>
+    <component base="dotbelowcmb" xOffset="134"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

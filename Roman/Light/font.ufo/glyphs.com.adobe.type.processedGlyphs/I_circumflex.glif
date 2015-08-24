@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Icircumflex">
+<glyph format="2" name="Icircumflex">
   <advance width="240" />
   <outline>
     <contour>
@@ -9,7 +9,6 @@
       <point type="line" x="97" y="659" />
     </contour>
     <contour>
-      <point type="line" x="-15" y="726" />
       <point type="line" x="5" y="707" />
       <point type="line" x="118" y="805" />
       <point type="line" x="122" y="805" />
@@ -17,13 +16,14 @@
       <point type="line" x="255" y="726" />
       <point type="line" x="142" y="839" />
       <point type="line" x="98" y="839" />
+      <point type="line" x="-15" y="726" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="240970l1430l143659l97659l-15726l5707l118805l122805l235707l255726l142839l98839l">
+        <hintSetList id="-15726118805122805142839143014365923570724025572657079709765998839">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="659" width="-20" />

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eopen" format="1">
+  <advance width="554"/>
+  <outline>
+    <contour>
+      <point x="278" y="-12" type="curve" smooth="yes"/>
+      <point x="147" y="-12"/>
+      <point x="42" y="60"/>
+      <point x="42" y="186" type="curve" smooth="yes"/>
+      <point x="42" y="276"/>
+      <point x="98" y="333"/>
+      <point x="174" y="348" type="curve"/>
+      <point x="174" y="352" type="line"/>
+      <point x="111" y="375"/>
+      <point x="76" y="431"/>
+      <point x="76" y="500" type="curve" smooth="yes"/>
+      <point x="76" y="605"/>
+      <point x="161" y="668"/>
+      <point x="284" y="668" type="curve" smooth="yes"/>
+      <point x="364" y="668"/>
+      <point x="438" y="636"/>
+      <point x="485" y="590" type="curve"/>
+      <point x="440" y="534" type="line"/>
+      <point x="400" y="571"/>
+      <point x="347" y="595"/>
+      <point x="287" y="595" type="curve" smooth="yes"/>
+      <point x="213" y="595"/>
+      <point x="158" y="559"/>
+      <point x="158" y="490" type="curve" smooth="yes"/>
+      <point x="158" y="416"/>
+      <point x="206" y="377"/>
+      <point x="321" y="377" type="curve" smooth="yes"/>
+      <point x="375" y="377" type="line"/>
+      <point x="375" y="313" type="line"/>
+      <point x="301" y="313" type="line" smooth="yes"/>
+      <point x="189" y="313"/>
+      <point x="124" y="274"/>
+      <point x="124" y="190" type="curve" smooth="yes"/>
+      <point x="124" y="107"/>
+      <point x="194" y="61"/>
+      <point x="279" y="61" type="curve" smooth="yes"/>
+      <point x="355" y="61"/>
+      <point x="409" y="83"/>
+      <point x="467" y="141" type="curve"/>
+      <point x="514" y="84" type="line"/>
+      <point x="448" y="16"/>
+      <point x="373" y="-12"/>
+    </contour>
+    <contour>
+      <point x="275" y="678" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="289" y="0" type="move" name="baseLC"/>
+    </contour>
+    <contour>
+      <point x="289" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

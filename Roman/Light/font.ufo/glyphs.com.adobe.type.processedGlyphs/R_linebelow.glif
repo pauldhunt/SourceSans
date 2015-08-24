@@ -1,12 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Rlinebelow">
+<glyph format="2" name="Rlinebelow">
   <advance width="544" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="168" y="-160" />
-      <point type="line" x="414" y="-160" />
-      <point type="line" x="414" y="-124" />
-      <point type="line" x="168" y="-124" />
+      <point name="hintSet0000" type="line" x="97" y="0" />
+      <point type="line" x="143" y="0" />
+      <point type="line" x="143" y="303" />
+      <point type="line" x="283" y="303" />
+      <point type="line" x="462" y="0" />
+      <point type="line" x="515" y="0" />
+      <point type="line" x="333" y="306" />
+      <point x="437" y="319" />
+      <point x="502" y="380" />
+      <point type="curve" x="502" y="485" />
+      <point x="502" y="611" />
+      <point x="417" y="659" />
+      <point type="curve" x="286" y="659" />
+      <point type="line" x="97" y="659" />
     </contour>
     <contour>
       <point type="line" x="143" y="341" />
@@ -20,27 +30,17 @@
       <point type="curve" x="274" y="341" />
     </contour>
     <contour>
-      <point type="line" x="333" y="306" />
-      <point x="437" y="319" />
-      <point x="502" y="380" />
-      <point type="curve" x="502" y="485" />
-      <point x="502" y="611" />
-      <point x="417" y="659" />
-      <point type="curve" x="286" y="659" />
-      <point type="line" x="97" y="659" />
-      <point type="line" x="97" y="0" />
-      <point type="line" x="143" y="0" />
-      <point type="line" x="143" y="303" />
-      <point type="line" x="283" y="303" />
-      <point type="line" x="462" y="0" />
-      <point type="line" x="515" y="0" />
+      <point type="line" x="177" y="-160" />
+      <point type="line" x="423" y="-160" />
+      <point type="line" x="423" y="-124" />
+      <point type="line" x="177" y="-124" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a4a8ee73cb00d01f917ed03feed2776a1d81a3cfc5f47b27fb1ad04737d20734846c094d531199e51896b35c92a1f5fc0c67dba6a9c8a59760b497130b7e17b2">
+        <hintSetList id="0e2b523af322dc4d2d0c6c0998fe1a8c061858f0b7e6ada241b67bd299604e9ddcc5c203e47b7f9fdfd670bb48eb59e9d3606ff13504e8b8da4b068b6a33cbdb">
           <hintset pointTag="hintSet0000">
             <hstem pos="-160" width="36" />
             <hstem pos="21" width="-21" />

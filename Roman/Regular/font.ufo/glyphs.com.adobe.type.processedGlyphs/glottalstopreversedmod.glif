@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="glottalstopreversedmod">
+<glyph format="2" name="glottalstopreversedmod">
   <advance width="302" />
   <outline>
     <contour>
@@ -31,7 +31,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e6033bf00772f5c940dee96c2fbd7596fb283e8e5ee5a8444bb7e5a70dd325e6645d81daa7fcef5b3f81230dbadae6490e283e64ac8402ff13cc6dbd5253af7b">
+        <hintSetList id="1168211176531343951345821668721718211953951956082128212266822687222743228282407992607742668432928143026862684688847428479086872">
           <hintset pointTag="hintSet0000">
             <hstem pos="821" width="51" />
             <vstem pos="22" width="62" />

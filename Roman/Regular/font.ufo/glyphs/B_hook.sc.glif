@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Bhook.sc" format="1">
+  <advance width="633"/>
+  <outline>
+    <contour>
+      <point x="100" y="280" type="curve"/>
+      <point x="129" y="321" type="line"/>
+      <point x="110" y="335"/>
+      <point x="100" y="355"/>
+      <point x="100" y="385" type="curve" smooth="yes"/>
+      <point x="100" y="432"/>
+      <point x="133" y="456"/>
+      <point x="184" y="456" type="curve" smooth="yes"/>
+      <point x="310" y="456" type="line"/>
+      <point x="341" y="518" type="line"/>
+      <point x="198" y="518" type="line" smooth="yes"/>
+      <point x="103" y="518"/>
+      <point x="43" y="472"/>
+      <point x="43" y="386" type="curve" smooth="yes"/>
+      <point x="43" y="337"/>
+      <point x="62" y="300"/>
+    </contour>
+    <component base="B.sc" xOffset="108"/>
+    <contour>
+      <point x="384" y="563" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="394" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

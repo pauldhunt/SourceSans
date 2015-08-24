@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotatonos">
+<glyph format="2" name="iotatonos">
   <advance width="239" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="94" y="567" />
-      <point type="line" x="127" y="559" />
-      <point type="line" x="193" y="747" />
-      <point type="line" x="142" y="757" />
-    </contour>
-    <contour>
-      <point type="curve" x="157" y="-12" />
+      <point name="hintSet0000" type="curve" x="157" y="-12" />
       <point x="175" y="-12" />
       <point x="189" y="-8" />
       <point type="curve" x="199" y="-3" />
@@ -28,12 +22,18 @@
       <point x="92" y="14" />
       <point x="114" y="-12" />
     </contour>
+    <contour>
+      <point type="line" x="94" y="567" />
+      <point type="line" x="127" y="559" />
+      <point type="line" x="193" y="747" />
+      <point type="line" x="142" y="757" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ae8005fa5254c9b6ca8443af2571bb9abd13f14b44e259d9e9503803777c2054d233820da407a0efb4b568fe8c4d42269cc35dec9a3ab0bbc8bd89ba7f2ec87f">
+        <hintSetList id="114-12127559134200134391346413534013748014275714627157-121632717227175-1218029189-819233193747199-3239921492480927094567">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="480" width="-20" />

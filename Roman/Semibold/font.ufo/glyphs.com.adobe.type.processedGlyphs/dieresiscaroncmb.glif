@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="dieresiscaroncmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="-103" y="579" />
+      <point x="-72" y="579" />
+      <point x="-49" y="603" />
+      <point type="curve" x="-49" y="633" />
+      <point x="-49" y="663" />
+      <point x="-72" y="686" />
+      <point type="curve" x="-103" y="686" />
+      <point x="-134" y="686" />
+      <point x="-156" y="663" />
+      <point type="curve" x="-156" y="633" />
+      <point x="-156" y="603" />
+      <point x="-134" y="579" />
+    </contour>
+    <contour>
+      <point type="curve" x="103" y="579" />
+      <point x="134" y="579" />
+      <point x="156" y="603" />
+      <point type="curve" x="156" y="633" />
+      <point x="156" y="663" />
+      <point x="134" y="686" />
+      <point type="curve" x="103" y="686" />
+      <point x="72" y="686" />
+      <point x="49" y="663" />
+      <point type="curve" x="49" y="633" />
+      <point x="49" y="603" />
+      <point x="72" y="579" />
+    </contour>
+    <contour>
+      <point type="line" x="-46" y="729" />
+      <point type="line" x="46" y="729" />
+      <point type="line" x="139" y="821" />
+      <point type="line" x="100" y="857" />
+      <point type="line" x="2" y="788" />
+      <point type="line" x="-2" y="788" />
+      <point type="line" x="-100" y="857" />
+      <point type="line" x="-139" y="821" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="4a090c0d11bef5835235a82e96ab32d38e9bca3f4e2ef153b8c8890267334860d5dcf6765101746192b0da61e8f3f0f57217a25b399a6cbf20a596fee72b487e">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="579" width="107" />
+            <hstem pos="729" width="59" />
+            <vstem pos="-156" width="107" />
+            <vstem pos="49" width="107" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

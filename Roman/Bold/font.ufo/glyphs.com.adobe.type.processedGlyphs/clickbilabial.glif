@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="clickbilabial">
+<glyph format="2" name="clickbilabial">
   <advance width="556" />
   <outline>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5bbb2db8d63aeab6de9d7c053c4028ff174a903e5bde8b92fea0ac0856afe7eb05970930406c43caf0038e5642c7ebf7f9ceb43b271d2873efac341cb59e8cb7">
+        <hintSetList id="86ba1994ebc955d0a42a4d80f8c7ff08ff44dfda826a8741334d087b1ef317a866159ccc07d028f23d51054a604d8c2fa3fc4219aa952ef88a56e296fac4aae3">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="119" />
             <hstem pos="290" width="126" />

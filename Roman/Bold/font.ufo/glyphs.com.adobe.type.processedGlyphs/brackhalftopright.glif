@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="brackhalftopright">
+<glyph format="2" name="brackhalftopright">
   <advance width="344" />
   <outline>
     <contour>
@@ -15,7 +15,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="344148278l257278l257708l46708l46630l148630l">
+        <hintSetList id="1482781486302572782577083444663046708">
           <hintset pointTag="hintSet0000">
             <hstem pos="630" width="78" />
             <vstem pos="148" width="109" />

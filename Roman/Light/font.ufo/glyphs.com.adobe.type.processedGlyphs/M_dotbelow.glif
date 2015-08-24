@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Mdotbelow">
+<glyph format="2" name="Mdotbelow">
   <advance width="706" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="354" y="-195" />
-      <point x="376" y="-195" />
-      <point x="392" y="-179" />
-      <point type="curve" x="392" y="-154" />
-      <point x="392" y="-131" />
-      <point x="376" y="-115" />
-      <point type="curve" x="354" y="-115" />
-      <point x="332" y="-115" />
-      <point x="316" y="-131" />
-      <point type="curve" x="316" y="-154" />
-      <point x="316" y="-179" />
-      <point x="332" y="-195" />
-    </contour>
-    <contour>
-      <point type="line" x="97" y="0" />
+      <point name="hintSet0000" type="line" x="97" y="0" />
       <point type="line" x="140" y="0" />
       <point type="line" x="140" y="433" />
       <point x="140" y="487" />
@@ -48,12 +34,26 @@
       <point type="line" x="162" y="659" />
       <point type="line" x="97" y="659" />
     </contour>
+    <contour>
+      <point type="curve" x="354" y="-195" />
+      <point x="376" y="-195" />
+      <point x="392" y="-179" />
+      <point type="curve" x="392" y="-154" />
+      <point x="392" y="-131" />
+      <point x="376" y="-115" />
+      <point type="curve" x="354" y="-115" />
+      <point x="332" y="-115" />
+      <point x="316" y="-131" />
+      <point type="curve" x="316" y="-154" />
+      <point x="316" y="-179" />
+      <point x="332" y="-195" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="aa9a2a4936460b1504d1379a8381095a5c053cf20f20c731f17ab718199f4f1f8889534edd7704e01bcaeed3b721c2dbba34d7d81744fab5c01b160f610d9a59">
+        <hintSetList id="642ee6ac7fdce446035b3fb83a7cad40f090b0dc3231f4ed64dfaf3c342a30ad7caa56ee1fd1088b38f198b80c63d37869c2c1ad63ff27fa41ca2757be2da29f">
           <hintset pointTag="hintSet0000">
             <hstem pos="-195" width="80" />
             <hstem pos="21" width="-21" />

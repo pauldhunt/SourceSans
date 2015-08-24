@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="exclamquestion">
+<glyph format="2" name="exclamquestion">
   <advance width="751" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="122" y="231" />
       <point type="line" x="218" y="231" />
       <point type="line" x="239" y="537" />
-      <point name="hintSet0003" type="line" x="244" y="670" />
+      <point type="line" x="244" y="670" />
       <point type="line" x="96" y="670" />
       <point type="line" x="101" y="537" />
     </contour>
@@ -65,14 +65,8 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="3119eed0e6e62dc85c9455f35fafe60e9c2001fbac8f79dfdfed1c3b246c0fc08db68f98bbefaa88e7ffee421a19dc5dc6cef5ea5fcecdf8d4be3d80608d184e">
+        <hintSetList id="6e5a5210b7ac4dc9e4386e8baf33c69a225c10e481d6236e2ea69aa8ff3d82d9140a681335139ebc109a9838a6860e0b627f83c60f9b21c7645b337fb5f5288b">
           <hintset pointTag="hintSet0000">
-            <hstem pos="-12" width="185" />
-            <hstem pos="563" width="119" />
-            <vstem pos="111.5" width="117" />
-            <vstem pos="567" width="141" />
-          </hintset>
-          <hintset pointTag="hintSet0003">
             <hstem pos="-12" width="185" />
             <hstem pos="563" width="119" />
             <vstem pos="98.5" width="143" />

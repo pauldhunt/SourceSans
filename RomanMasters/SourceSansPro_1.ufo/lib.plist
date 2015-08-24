@@ -2229,6 +2229,10 @@
 				<string>tildeacutecmb</string>
 				<string>tildeacutecmb.cap</string>
 				<string>rfishhookreversedtail</string>
+				<string>ldot</string>
+				<string>Ldot</string>
+				<string>Ldot.sc</string>
+				<string>ldot.a</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

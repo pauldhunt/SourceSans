@@ -1,9 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Zdotbelow">
+<glyph format="2" name="Zdotbelow">
   <advance width="542" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="282" y="-234" />
+      <point name="hintSet0000" type="line" x="32" y="0" />
+      <point type="line" x="512" y="0" />
+      <point type="line" x="512" y="144" />
+      <point type="line" x="244" y="144" />
+      <point type="line" x="510" y="546" />
+      <point type="line" x="510" y="650" />
+      <point type="line" x="58" y="650" />
+      <point type="line" x="58" y="506" />
+      <point type="line" x="298" y="506" />
+      <point type="line" x="32" y="104" />
+    </contour>
+    <contour>
+      <point type="curve" x="282" y="-234" />
       <point x="336" y="-234" />
       <point x="374" y="-198" />
       <point type="curve" x="374" y="-148" />
@@ -16,24 +28,12 @@
       <point x="190" y="-198" />
       <point x="228" y="-234" />
     </contour>
-    <contour>
-      <point type="line" x="32" y="0" />
-      <point type="line" x="512" y="0" />
-      <point type="line" x="512" y="144" />
-      <point type="line" x="244" y="144" />
-      <point type="line" x="510" y="546" />
-      <point type="line" x="510" y="650" />
-      <point type="line" x="58" y="650" />
-      <point type="line" x="58" y="506" />
-      <point type="line" x="298" y="506" />
-      <point type="line" x="32" y="104" />
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="46aeb1b9417bc0bfc8d48204344fa6ea4b59483b905ab7f58fb6a1efabc9fd9129548ede0edc7dd497117a158869aa50a2de7ef123405264d70f62da72e7bff5">
+        <hintSetList id="d9f8688bb6fcd23d900c3efb1a6d2509370a28c9c5668332a6f9689c9f23a2a986959302cc16944d517fcf2d2c219edf8c3fcf6b7d96fcdddf525dfc4d13f43b">
           <hintset pointTag="hintSet0000">
             <hstem pos="-234" width="172" />
             <hstem pos="0" width="144" />

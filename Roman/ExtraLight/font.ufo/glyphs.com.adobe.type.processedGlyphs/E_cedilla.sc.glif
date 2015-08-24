@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Ecedilla.sc">
+  <advance width="456" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="100" y="0" />
+      <point type="line" x="255" y="0" />
+      <point type="line" x="216" y="-84" />
+      <point x="270" y="-92" />
+      <point x="294" y="-106" />
+      <point type="curve" x="294" y="-136" />
+      <point x="294" y="-166" />
+      <point x="268" y="-184" />
+      <point type="curve" x="180" y="-190" />
+      <point type="line" x="186" y="-216" />
+      <point x="276" y="-210" />
+      <point x="324" y="-184" />
+      <point type="curve" x="324" y="-134" />
+      <point x="324" y="-94" />
+      <point x="296" y="-76" />
+      <point type="curve" x="254" y="-66" />
+      <point type="line" x="283" y="0" />
+      <point type="line" x="410" y="0" />
+      <point type="line" x="410" y="28" />
+      <point type="line" x="132" y="28" />
+      <point type="line" x="132" y="258" />
+      <point type="line" x="358" y="258" />
+      <point type="line" x="358" y="286" />
+      <point type="line" x="132" y="286" />
+      <point type="line" x="132" y="482" />
+      <point type="line" x="400" y="482" />
+      <point type="line" x="400" y="510" />
+      <point type="line" x="100" y="510" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="3191cf86333ef96f496894da9225a5c2ac2838c10998cb96d0ef2b480dea8893feb737292881eb3e06c6d873eb3e702047a698c568f4afe6a37082e5368f82d7">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-216" width="26" />
+            <hstem pos="0" width="28" />
+            <hstem pos="258" width="28" />
+            <hstem pos="482" width="28" />
+            <vstem pos="100" width="32" />
+            <vstem pos="294" width="30" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

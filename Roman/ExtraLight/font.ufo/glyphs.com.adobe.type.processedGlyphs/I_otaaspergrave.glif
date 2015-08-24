@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Iotaaspergrave">
+<glyph format="2" name="Iotaaspergrave">
   <advance width="392" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="160" y="484" />
+      <point name="hintSet0000" type="line" x="260" y="0" />
+      <point type="line" x="292" y="0" />
+      <point name="hintSet0002" type="line" x="292" y="660" />
+      <point type="line" x="260" y="660" />
+    </contour>
+    <contour>
+      <point type="line" x="160" y="484" />
       <point type="line" x="184" y="490" />
-      <point type="line" x="154" y="670" />
+      <point name="hintSet0006" type="line" x="154" y="670" />
       <point type="line" x="118" y="664" />
     </contour>
     <contour>
@@ -24,27 +30,27 @@
       <point x="-14" y="538" />
       <point x="20" y="506" />
     </contour>
-    <contour>
-      <point type="line" x="260" y="0" />
-      <point type="line" x="292" y="0" />
-      <point name="hintSet0013" type="line" x="292" y="660" />
-      <point type="line" x="260" y="660" />
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="582cf001f3a5cc3f2e235e7beefd4a50b5ded580cdc88f877264fddb3ea455d50530aaeed84f8f8a075ed1cc15987904d9de9797ae01a1c7f64652d2a0109952">
+        <hintSetList id="-14538-14586-14646118664154670160484165521658216624184490205062600260660292029266032670385263924064454486665088067282646">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="646" width="26" />
             <vstem pos="-14" width="30" />
             <vstem pos="260" width="32" />
           </hintset>
-          <hintset pointTag="hintSet0013">
+          <hintset pointTag="hintSet0002">
             <hstem pos="21" width="-21" />
             <hstem pos="660" width="-20" />
+            <vstem pos="-14" width="30" />
+            <vstem pos="260" width="32" />
+          </hintset>
+          <hintset pointTag="hintSet0006">
+            <hstem pos="21" width="-21" />
+            <hstem pos="646" width="26" />
             <vstem pos="-14" width="30" />
             <vstem pos="260" width="32" />
           </hintset>

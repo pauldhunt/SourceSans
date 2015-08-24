@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Nhookleft">
+  <advance width="728" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="139" y="652" />
+      <point type="line" x="139" y="331" />
+      <point x="139" y="162" />
+      <point x="105" y="125" />
+      <point type="curve" x="65" y="125" />
+      <point x="48" y="125" />
+      <point x="35" y="129" />
+      <point type="curve" x="24" y="134" />
+      <point type="line" x="-8" y="7" />
+      <point x="12" y="-6" />
+      <point x="51" y="-12" />
+      <point type="curve" x="82" y="-12" />
+      <point x="224" y="-12" />
+      <point x="286" y="100" />
+      <point type="curve" x="286" y="332" />
+      <point type="line" x="286" y="455" />
+      <point x="319" y="508" />
+      <point x="373" y="537" />
+      <point type="curve" x="414" y="537" />
+      <point x="493" y="537" />
+      <point x="514" y="473" />
+      <point type="curve" x="514" y="354" />
+      <point type="line" x="514" y="0" />
+      <point type="line" x="662" y="0" />
+      <point type="line" x="662" y="395" />
+      <point x="662" y="577" />
+      <point x="588" y="664" />
+      <point type="curve" x="458" y="664" />
+      <point x="391" y="664" />
+      <point x="331" y="635" />
+      <point type="curve" x="281" y="582" />
+      <point type="line" x="281" y="652" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="6a9aa61c67c843c336d12fa1237926e2bd1aace01b7ca91162da9d85d6727fea8fcfdf6221e980f3c740b92979d51da6dcfa36aa0a7b074dfec84eefb83e1861">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="137" />
+            <hstem pos="537" width="127" />
+            <vstem pos="139" width="147" />
+            <vstem pos="514" width="148" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="period">
+<glyph format="2" name="period">
   <advance width="219" />
   <outline>
     <contour>
@@ -21,7 +21,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="219110-12c132-12o1525o15233c15262o13279o11079c8879o6762o6733c675o88-12o">
+        <hintSetList id="110-1211079132-1213279152331525152622196733675676288-128879">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="91" />
             <vstem pos="67" width="85" />

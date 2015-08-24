@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="ff">
+  <advance width="657" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="406" y="0" />
+      <point type="line" x="553" y="0" />
+      <point type="line" x="553" y="381" />
+      <point type="line" x="642" y="381" />
+      <point type="line" x="642" y="496" />
+      <point type="line" x="553" y="496" />
+      <point type="line" x="553" y="526" />
+      <point x="553" y="577" />
+      <point x="574" y="597" />
+      <point type="curve" x="610" y="597" />
+      <point x="626" y="597" />
+      <point x="644" y="593" />
+      <point type="curve" x="661" y="587" />
+      <point type="line" x="688" y="695" />
+      <point x="666" y="703" />
+      <point x="630" y="713" />
+      <point type="curve" x="589" y="713" />
+      <point x="455" y="713" />
+      <point x="406" y="627" />
+      <point type="curve" x="406" y="522" />
+      <point type="line" x="406" y="496" />
+      <point type="line" x="237" y="496" />
+      <point type="line" x="237" y="519" />
+      <point name="hintSet0015" x="237" y="566" />
+      <point x="262" y="587" />
+      <point type="curve" x="296" y="587" />
+      <point x="323" y="587" />
+      <point x="338" y="583" />
+      <point type="curve" x="354" y="576" />
+      <point type="line" x="381" y="685" />
+      <point x="358" y="694" />
+      <point x="320" y="703" />
+      <point type="curve" x="278" y="703" />
+      <point x="143" y="703" />
+      <point x="90" y="620" />
+      <point type="curve" x="90" y="518" />
+      <point type="line" x="90" y="495" />
+      <point type="line" x="24" y="490" />
+      <point type="line" x="24" y="381" />
+      <point type="line" x="90" y="381" />
+      <point type="line" x="90" y="0" />
+      <point type="line" x="237" y="0" />
+      <point type="line" x="237" y="381" />
+      <point type="line" x="406" y="381" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="5b1c3cd3fdaa40d58d81dfca15f553a72dcfb581cc033217aa4ebc6531799ccf116d7d5db7289aef796fe7040d8497a557c3ea03e2b0803b78910669a861369b">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="381" width="115" />
+            <hstem pos="597" width="116" />
+            <vstem pos="90" width="147" />
+            <vstem pos="406" width="147" />
+          </hintset>
+          <hintset pointTag="hintSet0015">
+            <hstem pos="381" width="115" />
+            <hstem pos="587" width="116" />
+            <vstem pos="90" width="147" />
+            <vstem pos="406" width="147" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

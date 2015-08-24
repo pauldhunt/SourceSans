@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Odotbelow">
+<glyph format="2" name="Odotbelow">
   <advance width="664" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="332" y="-206" />
-      <point x="363" y="-206" />
-      <point x="386" y="-184" />
-      <point type="curve" x="386" y="-152" />
-      <point x="386" y="-121" />
-      <point x="363" y="-98" />
-      <point type="curve" x="332" y="-98" />
-      <point x="301" y="-98" />
-      <point x="278" y="-121" />
-      <point type="curve" x="278" y="-152" />
-      <point x="278" y="-184" />
-      <point x="301" y="-206" />
-    </contour>
-    <contour>
-      <point type="curve" x="332" y="-12" />
+      <point name="hintSet0000" type="curve" x="332" y="-12" />
       <point x="497" y="-12" />
       <point x="613" y="120" />
       <point type="curve" x="613" y="331" />
@@ -44,12 +30,26 @@
       <point x="526" y="167" />
       <point x="449" y="61" />
     </contour>
+    <contour>
+      <point type="curve" x="332" y="-206" />
+      <point x="363" y="-206" />
+      <point x="386" y="-184" />
+      <point type="curve" x="386" y="-152" />
+      <point x="386" y="-121" />
+      <point x="363" y="-98" />
+      <point type="curve" x="332" y="-98" />
+      <point x="301" y="-98" />
+      <point x="278" y="-121" />
+      <point type="curve" x="278" y="-152" />
+      <point x="278" y="-184" />
+      <point x="301" y="-206" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="17c1d418f39d4817b8ccf6b3097b7be22bba1fb1dddb6fa3940a5b49d454c60651dbf1275ac16270b9378381c538c03a8e5de54ce27228fa58a410b5dbeebe15">
+        <hintSetList id="ca6d1258b24b977ce1e08948900fa26bcb384f583f03c038cb2ae55bf15ab90f250082f0f2b8235ac1f0e4859342b774e2d6aecf7e93bd5bdf63fdb4408b4d98">
           <hintset pointTag="hintSet0000">
             <hstem pos="-206" width="108" />
             <hstem pos="-12" width="73" />

@@ -1,21 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ohungarumlaut">
+<glyph format="2" name="Ohungarumlaut">
   <advance width="684" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="207" y="728" />
-      <point type="line" x="279" y="694" />
-      <point type="line" x="401" y="837" />
-      <point type="line" x="308" y="889" />
-    </contour>
-    <contour>
-      <point type="line" x="394" y="728" />
-      <point type="line" x="467" y="694" />
-      <point type="line" x="589" y="837" />
-      <point type="line" x="495" y="889" />
-    </contour>
-    <contour>
-      <point type="curve" x="342" y="-12" />
+      <point name="hintSet0000" type="curve" x="342" y="-12" />
       <point x="518" y="-12" />
       <point x="638" y="116" />
       <point type="curve" x="638" y="329" />
@@ -42,12 +30,24 @@
       <point x="487" y="198" />
       <point x="431" y="115" />
     </contour>
+    <contour>
+      <point type="line" x="279" y="694" />
+      <point type="line" x="401" y="837" />
+      <point type="line" x="308" y="889" />
+      <point type="line" x="207" y="728" />
+    </contour>
+    <contour>
+      <point type="line" x="467" y="694" />
+      <point type="line" x="589" y="837" />
+      <point type="line" x="495" y="889" />
+      <point type="line" x="394" y="728" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="8dd14b0ea2257eb42c27adf0e44a898bf83843d75b7045a21535e852edc4dc1ceda04bfea0154cd133a8a3fb4747c0d8c134a0692bf19d497fe72067816a9195">
+        <hintSetList id="92342802e9f2616be945ee8685db0ce4ed78583533e785800e354d4e6b6a9e65061a65a43bc214dc9e2eeb881a2b69666e3042bdb74bba46fe9393b280aad61f">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="127" />
             <hstem pos="537" width="127" />

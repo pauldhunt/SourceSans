@@ -10,5 +10,22 @@
       <point x="33" y="364" type="line"/>
     </contour>
     <component base="D" xOffset="22"/>
+    <contour>
+      <point x="319" y="676" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="319" y="-20" type="move" name="belowLC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

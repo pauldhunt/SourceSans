@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Utilde">
+<glyph format="2" name="Utilde">
   <advance width="672" />
   <outline>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d6d59c864368e9bb4283ef13ccbac6ed6fc2291ab8baa34b9938ebaa9cf44ae360d4b716617966693ba434025b246693fc57b647d5cb038c6a6ac792133aeccb">
+        <hintSetList id="be30db499bed259cf1648b6dddb3213c408d41c3897a06dd70895890b1ca024ae2d03ece5322e7d2f80f1ab1c865a87eaed07111136d26c8666af29276e406d2">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="148" />
             <hstem pos="650" width="-20" />

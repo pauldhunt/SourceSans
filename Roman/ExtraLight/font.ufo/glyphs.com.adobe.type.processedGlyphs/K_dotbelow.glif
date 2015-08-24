@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Kdotbelow">
+<glyph format="2" name="Kdotbelow">
   <advance width="550" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="324" y="-190" />
-      <point x="342" y="-190" />
-      <point x="356" y="-176" />
-      <point type="curve" x="356" y="-154" />
-      <point x="356" y="-134" />
-      <point x="342" y="-120" />
-      <point type="curve" x="324" y="-120" />
-      <point x="306" y="-120" />
-      <point x="292" y="-134" />
-      <point type="curve" x="292" y="-154" />
-      <point x="292" y="-176" />
-      <point x="306" y="-190" />
-    </contour>
-    <contour>
-      <point type="line" x="100" y="0" />
+      <point name="hintSet0000" type="line" x="100" y="0" />
       <point type="line" x="132" y="0" />
       <point type="line" x="132" y="234" />
       <point type="line" x="274" y="394" />
@@ -31,12 +17,26 @@
       <point type="line" x="132" y="660" />
       <point type="line" x="100" y="660" />
     </contour>
+    <contour>
+      <point type="curve" x="324" y="-190" />
+      <point x="342" y="-190" />
+      <point x="356" y="-176" />
+      <point type="curve" x="356" y="-154" />
+      <point x="356" y="-134" />
+      <point x="342" y="-120" />
+      <point type="curve" x="324" y="-120" />
+      <point x="306" y="-120" />
+      <point x="292" y="-134" />
+      <point type="curve" x="292" y="-154" />
+      <point x="292" y="-176" />
+      <point x="306" y="-190" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="c5a4a2ba397b1300359688abea421b15e1ec8226fdae4f0b1866452b3a0e75ecd2ea6d98b4fabb3dff5ff490a54d3978da740af87d154a0584bdd3a8ce52cfe8">
+        <hintSetList id="42dd5aa7ce148c6c5617b39d19e304023f22bdbb855a5a35b3b9c9df8a41c118c72f33c609271132272d5f9c4ed7ec539a9b730906d5c70bee3662136b93dadf">
           <hintset pointTag="hintSet0000">
             <hstem pos="-190" width="70" />
             <hstem pos="21" width="-21" />

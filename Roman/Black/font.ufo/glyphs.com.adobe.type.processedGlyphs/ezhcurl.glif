@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="ezhcurl">
+  <advance width="474" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="174" y="-58" />
+      <point x="150" y="-58" />
+      <point x="128" y="-40" />
+      <point type="curve" x="128" y="-22" />
+      <point x="128" y="-8" />
+      <point x="140" y="8" />
+      <point type="curve" x="174" y="8" />
+      <point x="196" y="8" />
+      <point x="221" y="-7" />
+      <point type="curve" x="247" y="-33" />
+      <point x="229" y="-49" />
+      <point x="204" y="-58" />
+    </contour>
+    <contour>
+      <point type="curve" x="452" y="44" />
+      <point x="452" y="139" />
+      <point x="396" y="218" />
+      <point type="curve" x="294" y="235" />
+      <point type="line" x="428" y="408" />
+      <point type="line" x="428" y="500" />
+      <point type="line" x="36" y="500" />
+      <point type="line" x="36" y="366" />
+      <point type="line" x="224" y="366" />
+      <point type="line" x="88" y="188" />
+      <point type="line" x="142" y="108" />
+      <point x="164" y="116" />
+      <point x="172" y="118" />
+      <point type="curve" x="198" y="118" />
+      <point x="243" y="118" />
+      <point x="275" y="91" />
+      <point type="curve" x="280" y="49" />
+      <point x="241" y="71" />
+      <point x="201" y="80" />
+      <point type="curve" x="163" y="80" />
+      <point x="74" y="80" />
+      <point x="12" y="33" />
+      <point type="curve" x="12" y="-44" />
+      <point x="12" y="-124" />
+      <point x="78" y="-188" />
+      <point type="curve" x="194" y="-188" />
+      <point x="243" y="-188" />
+      <point x="288" y="-177" />
+      <point type="curve" x="327" y="-157" />
+      <point x="331" y="-165" />
+      <point x="334" y="-174" />
+      <point type="curve" x="338" y="-183" />
+      <point type="line" x="437" y="-138" />
+      <point x="428" y="-120" />
+      <point x="419" y="-103" />
+      <point type="curve" x="409" y="-87" />
+      <point x="436" y="-50" />
+      <point x="452" y="-5" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="e5b27a8e155e2a649f8c9a7b126efec0e27c85df86ca7d422fb82e5d55e131d29f1fdafd04e036c24772f1ac9960365861afd74540e12dc3ad4f50248294f458">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-188" width="130" />
+            <hstem pos="8" width="72" />
+            <hstem pos="366" width="134" />
+            <vstem pos="12" width="116" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

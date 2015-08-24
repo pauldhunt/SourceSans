@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khook" format="1">
+  <advance width="462"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="131" type="line"/>
+      <point x="244" y="257" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="452" y="0" type="line"/>
+      <point x="270" y="290" type="line"/>
+      <point x="426" y="480" type="line"/>
+      <point x="375" y="480" type="line"/>
+      <point x="138" y="189" type="line"/>
+      <point x="136" y="189" type="line"/>
+      <point x="136" y="553" type="line" smooth="yes"/>
+      <point x="136" y="637"/>
+      <point x="168" y="693"/>
+      <point x="241" y="693" type="curve" smooth="yes"/>
+      <point x="259" y="693"/>
+      <point x="278" y="689"/>
+      <point x="298" y="679" type="curve"/>
+      <point x="312" y="715" type="line"/>
+      <point x="290" y="725"/>
+      <point x="263" y="731"/>
+      <point x="240" y="731" type="curve" smooth="yes"/>
+      <point x="146" y="731"/>
+      <point x="92" y="667"/>
+      <point x="92" y="558" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="235" y="730" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="257" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

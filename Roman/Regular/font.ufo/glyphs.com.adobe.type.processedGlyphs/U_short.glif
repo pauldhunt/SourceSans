@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ushort">
+<glyph format="2" name="Ushort">
   <advance width="514" />
   <outline>
     <contour>
@@ -48,26 +48,26 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="3c49a38d2d870696ee7e4fc0374f578882c9a277d68d01c80d70bcd0bfeb4dd96e462a8d4cdeaab4ec06609969ac7aaad5522be84aff8601ae004ba5d0572e8d">
+        <hintSetList id="6b72e8e4248d01293c24efdb0698c53051b36581f7586e727756f96eff3715f27f3c768c6ca0646520edb524c7d500c5bd3f134b4463301067434bb033fa6e71">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="78" />
             <hstem pos="656" width="-20" />
             <hstem pos="705" width="46" />
-            <vstem pos="106" width="72" />
+            <vstem pos="71" width="107" />
             <vstem pos="336" width="72" />
           </hintset>
           <hintset pointTag="hintSet0014">
             <hstem pos="19" width="-21" />
             <hstem pos="656" width="-20" />
             <hstem pos="705" width="46" />
-            <vstem pos="106" width="72" />
+            <vstem pos="71" width="107" />
             <vstem pos="336" width="72" />
           </hintset>
           <hintset pointTag="hintSet0015">
             <hstem pos="-12" width="78" />
             <hstem pos="656" width="-20" />
             <hstem pos="705" width="46" />
-            <vstem pos="106" width="72" />
+            <vstem pos="71" width="107" />
             <vstem pos="336" width="72" />
           </hintset>
         </hintSetList>

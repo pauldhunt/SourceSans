@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Iotamacron">
+<glyph format="2" name="Iotamacron">
   <advance width="240" />
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="240970l1430l143659l97659l-4743l244743l244779l-4779l">
+        <hintSetList id="-4743-4779143014365924024474324477997097659">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="659" width="-20" />

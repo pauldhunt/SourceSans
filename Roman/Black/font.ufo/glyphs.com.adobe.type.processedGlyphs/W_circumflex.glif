@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Wcircumflex">
+<glyph format="2" name="Wcircumflex">
   <advance width="824" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="234" y="724" />
-      <point type="line" x="308" y="680" />
-      <point type="line" x="410" y="760" />
-      <point type="line" x="414" y="760" />
-      <point type="line" x="516" y="680" />
-      <point type="line" x="590" y="724" />
-      <point type="line" x="506" y="834" />
-      <point type="line" x="318" y="834" />
-    </contour>
-    <contour>
-      <point type="line" x="124" y="0" />
+      <point name="hintSet0000" type="line" x="124" y="0" />
       <point type="line" x="338" y="0" />
       <point type="line" x="386" y="258" />
       <point x="396" y="308" />
@@ -48,12 +38,22 @@
       <point type="line" x="186" y="650" />
       <point type="line" x="10" y="650" />
     </contour>
+    <contour>
+      <point type="line" x="308" y="680" />
+      <point type="line" x="410" y="760" />
+      <point type="line" x="414" y="760" />
+      <point type="line" x="516" y="680" />
+      <point type="line" x="590" y="724" />
+      <point type="line" x="506" y="834" />
+      <point type="line" x="318" y="834" />
+      <point type="line" x="234" y="724" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="83fddacd2b13c52661f1209481b9124b19b853fba0fe7acad176c803528fe82447cf6939bcae89544cd55e75cd638e566693a0a05683e51fe869e461d105b447">
+        <hintSetList id="2f77aeca68156d240aa307b14a7739753f8a56ec3ed8947ccdbfb9e79cb55c7f87d006087b4f85b43059e4b99b3c163b7234407c71e990aeeb58a9611cb1c07b">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="162" />
             <hstem pos="650" width="-20" />

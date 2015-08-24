@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="dialytikagrave">
+<glyph format="2" name="dialytikagrave">
   <advance width="535" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="abb3c61ce23157e7701a2683a4ba1f59a85b369f9c315c37bf3d8199ca6736eac5462a75902472f14332c68fcfabec5384a8c6290bd8895a77c74fd7ee1e7a63">
+        <hintSetList id="7d7694dc48c4173080025e5597fcdef2d71095fb9e88d53c9b69a3f0b92cca60d59c94ca8e68447c362d8343b00ec3f61e106e154aaa2ba2f570acee6c313fb5">
           <hintset pointTag="hintSet0000">
             <hstem pos="602" width="66" />
             <vstem pos="132" width="66" />

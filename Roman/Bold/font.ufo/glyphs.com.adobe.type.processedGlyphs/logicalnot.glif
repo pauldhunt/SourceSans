@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="logicalnot">
+<glyph format="2" name="logicalnot">
   <advance width="528" />
   <outline>
     <contour>
@@ -15,7 +15,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="52838694l49494l494382l34382l34278l386278l">
+        <hintSetList id="34278343823862783869449438249494528">
           <hintset pointTag="hintSet0000">
             <hstem pos="278" width="104" />
             <vstem pos="386" width="108" />

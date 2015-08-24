@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="izhitsa">
+<glyph format="2" name="izhitsa">
   <advance width="554" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="176" y="0" />
       <point type="line" x="382" y="0" />
-      <point name="hintSet0002" type="line" x="460" y="302" />
-      <point x="469" y="336" />
+      <point type="line" x="460" y="302" />
+      <point name="hintSet0003" x="469" y="336" />
       <point x="486" y="362" />
       <point type="curve" x="516" y="362" />
       <point x="528" y="362" />
@@ -35,13 +35,13 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="cbe3aa1524a38cdaa94ce00cb124512767284393dbcc64fc4550f40af2547987ecd8210ef6eb4847a2d824043226f04a937f1bcd8e683968ccaaacdfd788671b">
+        <hintSetList id="18d3819b74b4906e85b7b6886d4c9fe5f82db3376b38c25f0d398bffa9b23cc3cb5b7cc680527b8ad8375b8a44fd4266338f7f3affcf01a9feca823fd5e38326">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="126" />
-            <hstem pos="500" width="-20" />
+            <hstem pos="512" width="-20" />
             <vstem pos="12" width="562" />
           </hintset>
-          <hintset pointTag="hintSet0002">
+          <hintset pointTag="hintSet0003">
             <hstem pos="0" width="126" />
             <hstem pos="362" width="150" />
             <vstem pos="12" width="562" />
@@ -53,7 +53,7 @@
           </hintset>
           <hintset pointTag="hintSet0006">
             <hstem pos="0" width="126" />
-            <hstem pos="362" width="150" />
+            <hstem pos="512" width="-20" />
             <vstem pos="12" width="562" />
           </hintset>
           <hintset pointTag="hintSet0012">

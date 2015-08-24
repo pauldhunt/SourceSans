@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gravemacroncmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="25" y="728" />
+      <point type="line" x="65" y="780" />
+      <point type="line" x="-74" y="885" />
+      <point type="line" x="-123" y="821" />
+    </contour>
+    <contour>
+      <point type="line" x="-143" y="912" />
+      <point type="line" x="143" y="912" />
+      <point type="line" x="143" y="988" />
+      <point type="line" x="-143" y="988" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-123821-143912-143988-7488510001439121439882572865780">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="912" width="76" />
+            <vstem pos="-143" width="286" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

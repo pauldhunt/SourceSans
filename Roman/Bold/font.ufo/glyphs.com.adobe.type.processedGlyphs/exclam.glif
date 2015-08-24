@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="exclam">
+<glyph format="2" name="exclam">
   <advance width="340" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="122" y="231" />
-      <point type="line" x="218" y="231" />
+      <point name="hintSet0001" type="line" x="218" y="231" />
       <point type="line" x="239" y="537" />
-      <point name="hintSet0003" type="line" x="244" y="670" />
+      <point type="line" x="244" y="670" />
       <point type="line" x="96" y="670" />
       <point type="line" x="101" y="537" />
     </contour>
@@ -29,12 +29,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="340122231l218231l239537l244670l96670l101537l170-12c221-12o25928o25980c259133o221173o170173c119173o81133o8180c8128o119-12o">
+        <hintSetList id="101537119-12119173122231170-12170173218231221-122211732395372446702591332592825980340811338128818096670">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
-            <vstem pos="111.5" width="117" />
+            <vstem pos="81" width="178" />
           </hintset>
-          <hintset pointTag="hintSet0003">
+          <hintset pointTag="hintSet0001">
             <hstem pos="9" width="-21" />
             <vstem pos="98.5" width="143" />
           </hintset>

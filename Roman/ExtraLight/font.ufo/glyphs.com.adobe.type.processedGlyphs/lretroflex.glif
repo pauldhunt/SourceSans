@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lretroflex">
+<glyph format="2" name="lretroflex">
   <advance width="230" />
   <outline>
     <contour>
@@ -25,7 +25,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="230184-180c200-180o222-174o232-168c224-142l214-146o198-152o182-152c138-152o126-110o126-50c126722l96722l96-54l96-144o124-180o">
+        <hintSetList id="124-180126-110126-50126722138-152182-152184-180198-152200-180214-146222-174224-142230232-16896-14496-5496722">
           <hintset pointTag="hintSet0000">
             <hstem pos="-180" width="28" />
             <vstem pos="96" width="30" />

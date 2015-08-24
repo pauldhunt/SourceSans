@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omicronlenisgrave">
+<glyph format="2" name="omicronlenisgrave">
   <advance width="524" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
       <point x="200" y="590" />
       <point x="241" y="612" />
       <point type="curve" x="241" y="664" />
-      <point x="241" y="715" />
+      <point x="241" y="716" />
       <point x="190" y="738" />
       <point type="curve" x="130" y="740" />
       <point type="line" x="128" y="707" />
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ad83a39218113a926e7682750f4821c25e536f3f5d049bcefa2b3f4f8cfbe3b8a2165c493f406be133c5ea1802aa186dcd5b4ab0a3d93281b1104a8174b76421">
+        <hintSetList id="39af193295d0c91c2c9831c8d0c38c547d09e2dbaf19ae05db9e04c59cd632c287f62b3cf01a4a01e6a497657fbeef32a8788335a753f589510548b2d11c9a78">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="453" width="39" />

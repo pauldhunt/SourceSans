@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="alphaasper">
+<glyph format="2" name="alphaasper">
   <advance width="532" />
   <outline>
     <contour>
@@ -72,7 +72,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="70531878c474413cf1cd4d7c6d5e13fb31d3d0c5ceb952304bd4851583b1ddc3cca0f658edf5d297863a5f486a993178d2dc199820f0b1a02053c5cebb88d67a">
+        <hintSetList id="3d9877d69b6e8e4de2a6e4a31db79b83727184488167bedd7d8744f013f1a1b907279f22b4d22871e71e82c7dc5fd489b9c7523a427064eaa900db879afbb801">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegaaspertilde">
+<glyph format="2" name="Omegaaspertilde">
   <advance width="817" />
   <outline>
     <contour>
@@ -60,20 +60,20 @@
       <point x="20" y="621" />
       <point x="32" y="627" />
       <point type="curve" x="48" y="627" />
-      <point name="hintSet0028" x="80" y="627" />
+      <point x="80" y="627" />
       <point x="95" y="592" />
       <point type="curve" x="143" y="592" />
-      <point x="187" y="592" />
+      <point name="hintSet0029" x="187" y="592" />
       <point x="207" y="615" />
       <point type="curve" x="212" y="662" />
       <point name="hintSet0030" type="line" x="170" y="668" />
       <point name="hintSet0031" x="168" y="643" />
       <point x="156" y="637" />
       <point type="curve" x="140" y="637" />
-      <point name="hintSet0032" x="108" y="637" />
+      <point x="108" y="637" />
       <point x="93" y="672" />
       <point type="curve" x="45" y="672" />
-      <point x="1" y="672" />
+      <point name="hintSet0033" x="1" y="672" />
       <point x="-19" y="648" />
     </contour>
   </outline>
@@ -81,7 +81,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a85707fc6c7bac9a10b3b9dcbfd48c38b0c49b625cb9ae921b6352e23073c94882c2b01df7557464214806aa2f6f8a26a710bda055f07b767c8e7cd451b44759">
+        <hintSetList id="1e248f02ec8a44176246d228716780a4a12127f6d4119250c1993846cde214b79d258c326439662ccc2fca33191fd60df6340853a2eca9ecf35c93f555d04320">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="68" />
             <hstem pos="595" width="73" />
@@ -121,7 +121,7 @@
             <vstem pos="200" width="86" />
             <vstem pos="675" width="86" />
           </hintset>
-          <hintset pointTag="hintSet0028">
+          <hintset pointTag="hintSet0029">
             <hstem pos="0" width="68" />
             <hstem pos="592" width="45" />
             <vstem pos="170" width="42" />
@@ -139,7 +139,7 @@
             <vstem pos="170" width="42" />
             <vstem pos="675" width="86" />
           </hintset>
-          <hintset pointTag="hintSet0032">
+          <hintset pointTag="hintSet0033">
             <hstem pos="0" width="68" />
             <hstem pos="627" width="45" />
             <vstem pos="-24" width="42" />

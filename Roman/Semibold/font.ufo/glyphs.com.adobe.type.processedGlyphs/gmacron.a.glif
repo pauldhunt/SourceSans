@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gmacron.a">
+  <advance width="571" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="157" y="596" />
+      <point type="line" x="437" y="596" />
+      <point type="line" x="437" y="672" />
+      <point type="line" x="157" y="672" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="157596157672437596437672571">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="596" width="76" />
+            <vstem pos="157" width="280" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

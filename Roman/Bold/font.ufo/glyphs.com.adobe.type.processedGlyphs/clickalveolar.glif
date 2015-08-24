@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="clickalveolar">
-  <advance width="330" />
+<glyph format="2" name="clickalveolar">
+  <advance width="422" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="322" y="330" />
-      <point type="line" x="322" y="401" />
-      <point type="line" x="216" y="401" />
-      <point type="line" x="216" y="750" />
-      <point type="line" x="120" y="750" />
-      <point type="line" x="120" y="401" />
-      <point type="line" x="82" y="401" />
-      <point type="line" x="6" y="396" />
-      <point type="line" x="6" y="330" />
-      <point type="line" x="120" y="330" />
-      <point type="line" x="120" y="205" />
+      <point name="hintSet0000" type="line" x="6" y="306" />
+      <point type="line" x="148" y="306" />
+      <point type="line" x="148" y="205" />
       <point type="line" x="82" y="205" />
-      <point type="line" x="6" y="199" />
-      <point type="line" x="6" y="134" />
-      <point type="line" x="120" y="134" />
-      <point type="line" x="120" y="-250" />
-      <point type="line" x="216" y="-250" />
-      <point type="line" x="216" y="134" />
-      <point type="line" x="322" y="134" />
-      <point type="line" x="322" y="205" />
-      <point type="line" x="216" y="205" />
-      <point type="line" x="216" y="330" />
+      <point type="line" x="6" y="200" />
+      <point type="line" x="6" y="135" />
+      <point type="line" x="148" y="135" />
+      <point type="line" x="148" y="-184" />
+      <point type="line" x="279" y="-184" />
+      <point type="line" x="279" y="135" />
+      <point type="line" x="414" y="135" />
+      <point type="line" x="414" y="205" />
+      <point type="line" x="279" y="205" />
+      <point type="line" x="279" y="306" />
+      <point type="line" x="414" y="306" />
+      <point type="line" x="414" y="377" />
+      <point type="line" x="279" y="377" />
+      <point type="line" x="279" y="701" />
+      <point type="line" x="148" y="701" />
+      <point type="line" x="148" y="377" />
+      <point type="line" x="82" y="377" />
+      <point type="line" x="6" y="371" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d4742bbee77b802cc9c786383e3e690a84933cf7bfb73b0a6ac8b23d2aa526ae826117bf12bef610534c8c5ec92fcc9db5cc663030623a6624be3300a793f41c">
+        <hintSetList id="148-184148135148205148306148377148701279-18427913527920527930627937727970141413541420541430641437742261356200630663718220582377">
           <hintset pointTag="hintSet0000">
-            <hstem pos="134" width="71" />
-            <hstem pos="330" width="71" />
-            <vstem pos="120" width="96" />
+            <hstem pos="135" width="70" />
+            <hstem pos="306" width="71" />
+            <vstem pos="148" width="131" />
           </hintset>
         </hintSetList>
       </data>

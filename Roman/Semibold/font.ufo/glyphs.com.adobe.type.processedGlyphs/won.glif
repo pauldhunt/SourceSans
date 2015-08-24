@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="won">
+<glyph format="2" name="won">
   <advance width="513" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="378" y="224" />
-      <point type="line" x="369" y="83" />
-      <point type="line" x="365" y="83" />
-      <point type="line" x="352" y="224" />
-      <point type="line" x="343" y="298" />
-      <point type="line" x="384" y="298" />
-    </contour>
-    <contour>
-      <point type="line" x="169" y="224" />
-      <point type="line" x="157" y="83" />
-      <point type="line" x="153" y="83" />
-      <point type="line" x="145" y="224" />
-      <point type="line" x="139" y="298" />
-      <point type="line" x="178" y="298" />
-    </contour>
-    <contour>
-      <point type="line" x="254" y="513" />
+      <point name="hintSet0000" type="line" x="254" y="513" />
       <point type="line" x="258" y="513" />
       <point type="line" x="272" y="348" />
       <point type="line" x="241" y="348" />
     </contour>
     <contour>
+      <point name="hintSet0004" type="line" x="365" y="83" />
+      <point type="line" x="352" y="224" />
+      <point type="line" x="343" y="298" />
+      <point type="line" x="384" y="298" />
+      <point type="line" x="378" y="224" />
+      <point type="line" x="369" y="83" />
+    </contour>
+    <contour>
+      <point type="line" x="89" y="0" />
+      <point type="line" x="204" y="0" />
+      <point type="line" x="236" y="298" />
+      <point type="line" x="277" y="298" />
+      <point type="line" x="312" y="0" />
+      <point type="line" x="430" y="0" />
+      <point type="line" x="465" y="298" />
+      <point type="line" x="528" y="298" />
       <point type="line" x="528" y="348" />
       <point type="line" x="471" y="348" />
       <point type="line" x="505" y="636" />
@@ -41,27 +41,31 @@
       <point type="line" x="-17" y="343" />
       <point type="line" x="-17" y="298" />
       <point type="line" x="52" y="298" />
-      <point type="line" x="89" y="0" />
-      <point type="line" x="204" y="0" />
-      <point type="line" x="236" y="298" />
-      <point type="line" x="277" y="298" />
-      <point type="line" x="312" y="0" />
-      <point type="line" x="430" y="0" />
-      <point type="line" x="465" y="298" />
-      <point type="line" x="528" y="298" />
+    </contour>
+    <contour>
+      <point type="line" x="153" y="83" />
+      <point type="line" x="145" y="224" />
+      <point type="line" x="139" y="298" />
+      <point type="line" x="178" y="298" />
+      <point type="line" x="169" y="224" />
+      <point type="line" x="157" y="83" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="c567d65b14815b89b9371afeb769a10ded565bc8b4a1bd7159c8eab989cdcb2523e69b929e611b6b0580062cf4ebde50cb250648cb3ceac2e1c15203c4513ca9">
+        <hintSetList id="db4a50872905f68a91d9943b1580bdfa33090baa1beb1e219402e94c2ecee2f2c42cfd5dab4a3f5402c30731a7cdfa6a16ce2903f4d09f39afa2c7823d3e7cfc">
           <hintset pointTag="hintSet0000">
+            <hstem pos="298" width="50" />
+            <hstem pos="513" width="83" />
+            <vstem pos="-17" width="545" />
+          </hintset>
+          <hintset pointTag="hintSet0004">
             <hstem pos="0" width="83" />
             <hstem pos="298" width="50" />
             <hstem pos="513" width="83" />
             <vstem pos="-17" width="159" />
-            <vstem pos="173.5" width="174" />
             <vstem pos="381" width="147" />
           </hintset>
         </hintSetList>

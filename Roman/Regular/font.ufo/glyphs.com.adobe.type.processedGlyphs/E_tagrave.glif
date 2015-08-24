@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Etagrave">
+<glyph format="2" name="Etagrave">
   <advance width="716" />
   <outline>
     <contour>
@@ -27,7 +27,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="7161540l2370l237309l542309l5420l6260l626656l542656l542381l237381l237656l154656l28464l83475l54670l-22659l">
+        <hintSetList id="-226591540154656237023730923738123765628464542054230954238154265654670626062665671683475">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="309" width="72" />

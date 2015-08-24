@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Istroke">
+  <advance width="268" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="33" y="330" />
+      <point type="line" x="111" y="330" />
+      <point type="line" x="111" y="0" />
+      <point type="line" x="157" y="0" />
+      <point type="line" x="157" y="330" />
+      <point type="line" x="235" y="330" />
+      <point type="line" x="235" y="363" />
+      <point type="line" x="157" y="363" />
+      <point type="line" x="157" y="659" />
+      <point type="line" x="111" y="659" />
+      <point type="line" x="111" y="363" />
+      <point type="line" x="33" y="361" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="111011133011136311165915701573301573631576592353302353632683333033361">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="330" width="33" />
+            <hstem pos="659" width="-20" />
+            <vstem pos="111" width="46" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

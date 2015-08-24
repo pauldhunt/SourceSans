@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ogonekcmb">
-  <advance width="0" />
+<glyph format="2" name="ogonekcmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="20" y="-210" />
@@ -29,9 +28,9 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ee30807919e48ec6fa3c90c7c591f0a510372ebc8a7fa4044d2916909e0f7770781b4e7138eea7ed51904375cd5e36c2d3164f585c57af79f482dca118b0f369">
+        <hintSetList id="-162-39-210-42-16-86-119-86-179-86-601000121-17713-11213-5513-8520-21030-2734-12351-21055-12367268-12381-11790-11195-197">
           <hintset pointTag="hintSet0000">
-            <hstem pos="-210" width="87" />
+            <hstem pos="-210" width="212" />
             <vstem pos="-86" width="99" />
           </hintset>
         </hintSetList>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Nhookleft.alt">
+  <advance width="656" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="83" y="654" />
+      <point type="line" x="83" y="0" />
+      <point x="83" y="-47" />
+      <point x="71" y="-80" />
+      <point type="curve" x="27" y="-80" />
+      <point x="12" y="-80" />
+      <point x="-2" y="-77" />
+      <point type="curve" x="-16" y="-73" />
+      <point type="line" x="-37" y="-160" />
+      <point x="-18" y="-168" />
+      <point x="7" y="-174" />
+      <point type="curve" x="43" y="-174" />
+      <point x="154" y="-174" />
+      <point x="194" y="-97" />
+      <point type="curve" x="194" y="8" />
+      <point type="line" x="194" y="286" />
+      <point x="194" y="359" />
+      <point x="184" y="438" />
+      <point type="curve" x="179" y="507" />
+      <point type="line" x="183" y="507" />
+      <point type="line" x="250" y="368" />
+      <point type="line" x="454" y="0" />
+      <point type="line" x="573" y="0" />
+      <point type="line" x="573" y="654" />
+      <point type="line" x="462" y="654" />
+      <point type="line" x="462" y="370" />
+      <point x="462" y="297" />
+      <point x="472" y="214" />
+      <point type="curve" x="477" y="147" />
+      <point type="line" x="473" y="147" />
+      <point type="line" x="406" y="286" />
+      <point type="line" x="202" y="654" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="ef826b3e66085b6fe74726559cc1d7368230b7083ce7dcbd2fb4ad260b8cbe59a4280cecef2118df6dd1b19f8e6fdbaebe56acfbfcd0a86a0177d08dddd1ac08">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-174" width="94" />
+            <hstem pos="0" width="147" />
+            <hstem pos="507" width="147" />
+            <vstem pos="83" width="111" />
+            <vstem pos="462" width="111" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

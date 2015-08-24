@@ -3,6 +3,17 @@
   <advance width="562"/>
   <outline>
     <component base="C"/>
-    <component base="dotaccentcmb.cap" xOffset="320"/>
+    <component base="dotaccentcmb.cap" xOffset="318"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

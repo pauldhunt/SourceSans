@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="etalenisgrave">
+<glyph format="2" name="etalenisgrave">
   <advance width="529" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
       <point x="219" y="590" />
       <point x="260" y="612" />
       <point type="curve" x="260" y="664" />
-      <point x="260" y="715" />
+      <point x="260" y="716" />
       <point x="209" y="738" />
       <point type="curve" x="149" y="740" />
       <point type="line" x="147" y="707" />
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="cde6b4e85e2d0881249f9060163af35c03445e39ac343ade7073f6385d1b30ae0cc0dd2f8d69eb8d22936af6c2751f6a3f4313c4dc61e328e6846a9d7dceb83d">
+        <hintSetList id="c7a18e02168af64738aeb51833f02b6822648f3b5db53d8e733c6c866b02c542498f138abc0f6813fc1826a82e532169341bda564b9418d113095bdb0444a3dd">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="452" width="40" />

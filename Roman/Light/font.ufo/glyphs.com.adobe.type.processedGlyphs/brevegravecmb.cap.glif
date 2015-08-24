@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="brevegravecmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="0" y="710" />
+      <point x="89" y="710" />
+      <point x="129" y="775" />
+      <point type="curve" x="136" y="834" />
+      <point type="line" x="104" y="839" />
+      <point x="97" y="788" />
+      <point x="65" y="742" />
+      <point type="curve" x="0" y="742" />
+      <point x="-65" y="742" />
+      <point x="-97" y="788" />
+      <point type="curve" x="-104" y="839" />
+      <point type="line" x="-136" y="834" />
+      <point x="-129" y="775" />
+      <point x="-89" y="710" />
+    </contour>
+    <contour>
+      <point type="line" x="5" y="802" />
+      <point type="line" x="28" y="820" />
+      <point type="line" x="-66" y="925" />
+      <point type="line" x="-97" y="900" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-104839-129775-136834-65742-66925-89710-97788-97900071007421000104839129775136834288205802657428971097788">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="710" width="32" />
+            <vstem pos="-136" width="272" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

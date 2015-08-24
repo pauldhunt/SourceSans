@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="glottalstopinverted">
+  <advance width="399" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="156" y="719" />
+      <point type="line" x="156" y="391" />
+      <point x="274" y="328" />
+      <point x="331" y="268" />
+      <point type="curve" x="331" y="172" />
+      <point x="331" y="86" />
+      <point x="280" y="27" />
+      <point type="curve" x="187" y="27" />
+      <point x="108" y="27" />
+      <point x="61" y="66" />
+      <point type="curve" x="27" y="105" />
+      <point type="line" x="1" y="74" />
+      <point x="38" y="33" />
+      <point x="94" y="-12" />
+      <point type="curve" x="187" y="-12" />
+      <point x="295" y="-12" />
+      <point x="377" y="53" />
+      <point type="curve" x="377" y="173" />
+      <point x="377" y="290" />
+      <point x="303" y="354" />
+      <point type="curve" x="200" y="417" />
+      <point type="line" x="200" y="719" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="10827156391156719174187-12187272004172007192710527432828027295-1230335433117233126833186377173377290377533833399616694-12">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="39" />
+            <vstem pos="156" width="44" />
+            <vstem pos="331" width="46" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

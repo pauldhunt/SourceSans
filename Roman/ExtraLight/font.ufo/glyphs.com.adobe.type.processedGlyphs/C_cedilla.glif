@@ -1,9 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ccedilla">
+<glyph format="2" name="Ccedilla">
   <advance width="562" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="502" y="102" />
+      <point name="hintSet0000" type="line" x="264" y="-216" />
+      <point x="354" y="-210" />
+      <point x="402" y="-184" />
+      <point type="curve" x="402" y="-134" />
+      <point x="402" y="-94" />
+      <point x="374" y="-76" />
+      <point type="curve" x="332" y="-66" />
+      <point type="line" x="356" y="-11" />
+      <point x="427" y="-3" />
+      <point x="478" y="31" />
+      <point type="curve" x="522" y="82" />
+      <point type="line" x="502" y="102" />
       <point x="452" y="46" />
       <point x="400" y="18" />
       <point type="curve" x="330" y="18" />
@@ -33,24 +44,13 @@
       <point x="372" y="-166" />
       <point x="346" y="-184" />
       <point type="curve" x="258" y="-190" />
-      <point type="line" x="264" y="-216" />
-      <point x="354" y="-210" />
-      <point x="402" y="-184" />
-      <point type="curve" x="402" y="-134" />
-      <point x="402" y="-94" />
-      <point x="374" y="-76" />
-      <point type="curve" x="332" y="-66" />
-      <point type="line" x="356" y="-11" />
-      <point x="427" y="-3" />
-      <point x="478" y="31" />
-      <point type="curve" x="522" y="82" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ffa48cbbbbe497a810eb5833a290819a9b820e9fe1d104b32deb9c267388b082cdef7e4e77fb566dd1c9ae634df88139c22c03d442d0f95223e18af393e7d4ef">
+        <hintSetList id="9e220663d0e5423168f9fb59eb667dd81efaa6fea4b2b8db478fbdf18cdaa8161439a757ca5840cc591f1bb9fc4acc8e9e7e47eac0d5bf3933498296c474ad1f">
           <hintset pointTag="hintSet0000">
             <hstem pos="-216" width="26" />
             <hstem pos="-12" width="30" />

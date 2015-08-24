@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Theta">
+<glyph format="2" name="Theta">
   <advance width="648" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f6463e649981874a1121536f1985f019de07dbfa62d666e8abc7f947ca7779f18568c4c55c6d8c2084c510bb7c2dae1b33ff859d0aa36750f044a25c15febbb9">
+        <hintSetList id="59f73fe0274815804362246ee20e27a6c0163efa4b6e09a9c6565e8f61bae35527bf18d13231e89497750b6631720ef124a99125c80c8ac2c30765aa68f82c89">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="30" />
             <hstem pos="338" width="28" />

@@ -1,21 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Uacutedblcyr">
+<glyph format="2" name="Uacutedblcyr">
   <advance width="514" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="150" y="724" />
-      <point type="line" x="193" y="703" />
-      <point type="line" x="298" y="844" />
-      <point type="line" x="242" y="876" />
-    </contour>
-    <contour>
-      <point type="line" x="310" y="724" />
-      <point type="line" x="353" y="703" />
-      <point type="line" x="458" y="844" />
-      <point type="line" x="402" y="876" />
-    </contour>
-    <contour>
-      <point type="curve" x="136" y="-12" />
+      <point name="hintSet0000" type="curve" x="136" y="-12" />
       <point x="219" y="-12" />
       <point x="266" y="38" />
       <point type="curve" x="299" y="119" />
@@ -39,12 +27,24 @@
       <point x="89" y="-9" />
       <point x="107" y="-12" />
     </contour>
+    <contour>
+      <point type="line" x="193" y="703" />
+      <point type="line" x="298" y="844" />
+      <point type="line" x="242" y="876" />
+      <point type="line" x="150" y="724" />
+    </contour>
+    <contour>
+      <point type="line" x="353" y="703" />
+      <point type="line" x="458" y="844" />
+      <point type="line" x="402" y="876" />
+      <point type="line" x="310" y="724" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="37fa09e6b233f29af73ef10146ef900549383b1f0f80680f4936fd86840f1c2eacfd98eba9e47bad8f7c739ac869674ce24275341f1b0fa2363b3c482bd44677">
+        <hintSetList id="2aacbd6cf5d4dbb34513f8c7dea251d47cfaa561f526b1c243809289ceef6141f917f6137f6e6cbf6bf25bd21da563367b09961b3a6c2d94215e8647a2efb86b">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="78" />
             <vstem pos="5" width="509" />

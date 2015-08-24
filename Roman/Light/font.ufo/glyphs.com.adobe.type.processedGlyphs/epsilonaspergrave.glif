@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="epsilonaspergrave">
+<glyph format="2" name="epsilonaspergrave">
   <advance width="435" />
   <outline>
     <contour>
@@ -61,7 +61,7 @@
       <point type="curve" x="209" y="707" />
       <point type="line" x="207" y="740" />
       <point x="147" y="738" />
-      <point x="96" y="715" />
+      <point x="96" y="716" />
       <point type="curve" x="96" y="664" />
       <point x="96" y="612" />
       <point x="137" y="590" />
@@ -77,7 +77,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="1fdb8d93af5bdf9ecbedeec23da0c98fd272091c76b88f16b4164b88c4c8935f4a9f7bd762c31812532fdc24ffefc3261417a2f8d4fff072510a6ad1ddc6691b">
+        <hintSetList id="8ff56e0077f66a02f93cbc0de602c078051c10afd7eb1ef90e41209ac73a6438bc83c2076fad0310be2350b6019b0785e30f2b9d2a3e05627934e89993863f57">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="38" />
             <hstem pos="234" width="36" />

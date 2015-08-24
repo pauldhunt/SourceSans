@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="plusbelowcmb">
-  <advance width="0" />
+<glyph format="2" name="plusbelowcmb">
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="107" y="-191" />
+      <point name="hintSet0000" type="line" x="-39" y="-257" />
+      <point type="line" x="39" y="-257" />
+      <point type="line" x="39" y="-191" />
+      <point type="line" x="107" y="-191" />
       <point type="line" x="107" y="-120" />
       <point type="line" x="39" y="-120" />
       <point type="line" x="39" y="-54" />
@@ -12,16 +14,13 @@
       <point type="line" x="-107" y="-120" />
       <point type="line" x="-107" y="-191" />
       <point type="line" x="-39" y="-191" />
-      <point type="line" x="-39" y="-257" />
-      <point type="line" x="39" y="-257" />
-      <point type="line" x="39" y="-191" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0107-191l107-120l39-120l39-54l-39-54l-39-120l-107-120l-107-191l-39-191l-39-257l39-257l39-191l">
+        <hintSetList id="-107-120-107-191-39-120-39-191-39-257-39-541000107-120107-19139-12039-19139-25739-54">
           <hintset pointTag="hintSet0000">
             <hstem pos="-191" width="71" />
             <vstem pos="-39" width="78" />

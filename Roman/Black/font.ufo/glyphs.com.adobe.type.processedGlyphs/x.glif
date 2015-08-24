@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="x">
+<glyph format="2" name="x">
   <advance width="540" />
   <outline>
     <contour>
@@ -23,7 +23,9 @@
       <point x="295" y="372" />
       <point type="curve" x="286" y="344" />
       <point type="line" x="282" y="344" />
-      <point type="line" x="242" y="430" />
+      <point x="269" y="372" />
+      <point x="255" y="402" />
+      <point type="curve" x="242" y="430" />
       <point type="line" x="206" y="500" />
       <point type="line" x="22" y="500" />
       <point type="line" x="164" y="260" />
@@ -33,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f2adc3aa932ff1dea4cef47797122b45dda06f0f6b9f7915d3c57653fc1187238f7ca2b198b078ad8466a88c38e09f8ac741cc33e5a372172390e4e6a2022435">
+        <hintSetList id="018da43c30225afe24e29b8549567dc6e03e2e2bd143dfef5837def29b76ed5011682f2bec17031d572453066e53c5d8767c6845616910e62399db70787782a5">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="500" width="-20" />

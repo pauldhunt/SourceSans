@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="gravemod">
+<glyph format="2" name="gravemod">
   <advance width="230" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="230116573l173630l26804l-54728l">
+        <hintSetList id="-5472811657317363023026804">
           <hintset pointTag="hintSet0000">
             <hstem pos="573" width="231" />
             <vstem pos="-54" width="227" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="oxia">
+<glyph format="2" name="oxia">
   <advance width="560" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="560218574l332554l414774l248802l">
+        <hintSetList id="218574248802332554414774560">
           <hintset pointTag="hintSet0000">
             <hstem pos="554" width="248" />
             <vstem pos="218" width="196" />

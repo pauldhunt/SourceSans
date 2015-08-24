@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Tdotbelow">
+<glyph format="2" name="Tdotbelow">
   <advance width="520" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="curve" x="261" y="-190" />
-      <point x="279" y="-190" />
-      <point x="293" y="-176" />
-      <point type="curve" x="293" y="-154" />
-      <point x="293" y="-134" />
-      <point x="279" y="-120" />
-      <point type="curve" x="261" y="-120" />
-      <point x="243" y="-120" />
-      <point x="229" y="-134" />
-      <point type="curve" x="229" y="-154" />
-      <point x="229" y="-176" />
-      <point x="243" y="-190" />
-    </contour>
-    <contour>
-      <point name="hintSet0005" type="line" x="244" y="0" />
+      <point name="hintSet0000" type="line" x="244" y="0" />
       <point type="line" x="276" y="0" />
       <point type="line" x="276" y="632" />
       <point type="line" x="490" y="632" />
@@ -26,23 +12,37 @@
       <point type="line" x="30" y="632" />
       <point type="line" x="244" y="632" />
     </contour>
+    <contour>
+      <point name="hintSet0008" type="curve" x="260" y="-190" />
+      <point x="278" y="-190" />
+      <point x="292" y="-176" />
+      <point type="curve" x="292" y="-154" />
+      <point x="292" y="-134" />
+      <point x="278" y="-120" />
+      <point type="curve" x="260" y="-120" />
+      <point x="242" y="-120" />
+      <point x="228" y="-134" />
+      <point type="curve" x="228" y="-154" />
+      <point x="228" y="-176" />
+      <point x="242" y="-190" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e142309b4e233c4617a420fad76049b7446fe631254ede3bbfcd06698b8d703bc20974dc874b7c1a0bab34f37da04d1911f209bc0ce5fe887483530b4353fa51">
+        <hintSetList id="5141ed327c2f71dc02d0b277f5dd680fb398bf252088a3b4172094c8b28e983a726aff9f50fe69b8932ff686c2091b155fecf55509dc9cd3ef5e12d6e20c0f10">
           <hintset pointTag="hintSet0000">
             <hstem pos="-190" width="70" />
             <hstem pos="21" width="-21" />
             <hstem pos="632" width="28" />
-            <vstem pos="229" width="64" />
+            <vstem pos="244" width="32" />
           </hintset>
-          <hintset pointTag="hintSet0005">
+          <hintset pointTag="hintSet0008">
             <hstem pos="-190" width="70" />
             <hstem pos="21" width="-21" />
             <hstem pos="632" width="28" />
-            <vstem pos="244" width="32" />
+            <vstem pos="228" width="64" />
           </hintset>
         </hintSetList>
       </data>

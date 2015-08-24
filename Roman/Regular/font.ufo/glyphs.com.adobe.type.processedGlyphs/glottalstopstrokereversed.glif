@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="glottalstopstrokereversed">
+<glyph format="2" name="glottalstopstrokereversed">
   <advance width="441" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="200" y="0" />
       <point type="line" x="282" y="0" />
-      <point type="line" x="282" y="257" />
-      <point type="line" x="434" y="257" />
-      <point type="line" x="434" y="319" />
-      <point type="line" x="358" y="324" />
+      <point type="line" x="282" y="277" />
+      <point type="line" x="434" y="277" />
+      <point type="line" x="434" y="324" />
       <point type="line" x="269" y="324" />
       <point x="162" y="391" />
       <point x="112" y="456" />
@@ -29,18 +28,19 @@
       <point x="29" y="447" />
       <point x="86" y="380" />
       <point type="curve" x="163" y="324" />
-      <point type="line" x="19" y="324" />
-      <point type="line" x="19" y="257" />
-      <point type="line" x="200" y="257" />
+      <point type="line" x="95" y="324" />
+      <point type="line" x="19" y="319" />
+      <point type="line" x="19" y="277" />
+      <point type="line" x="200" y="277" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="e153b33b9b082cff0f8a37a01fab6bdaa72431d1bbbdad1f468515e0a12a8381f209127e0f7598ccf4f1ce07bcd22557db62fe113df76d1d9f1aa924a0a606dc">
+        <hintSetList id="586fa3da05e89d12a78a8d6f6f40ed7ba1cacd2d9b0bc26cfb74906fb7fd5ecf6086bb708a95971a1d72406abd4463594b0414b9a3186ab714eb68a481a62ba7">
           <hintset pointTag="hintSet0000">
-            <hstem pos="257" width="67" />
+            <hstem pos="277" width="47" />
             <hstem pos="656" width="68" />
             <vstem pos="29" width="83" />
             <vstem pos="200" width="82" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="etaiotasub">
+<glyph format="2" name="etaiotasub">
   <advance width="562" />
   <outline>
     <contour>
@@ -20,8 +20,8 @@
       <point type="curve" x="65" y="344" />
       <point type="line" x="65" y="0" />
       <point type="line" x="212" y="0" />
-      <point name="hintSet0011" type="line" x="212" y="311" />
-      <point x="244" y="359" />
+      <point type="line" x="212" y="311" />
+      <point name="hintSet0012" x="244" y="359" />
       <point x="270" y="383" />
       <point type="curve" x="305" y="383" />
       <point x="349" y="383" />
@@ -32,11 +32,11 @@
     </contour>
     <contour>
       <point type="curve" x="192" y="-216" />
-      <point name="hintSet0016" x="220" y="-216" />
+      <point x="220" y="-216" />
       <point x="239" y="-212" />
       <point type="curve" x="253" y="-205" />
       <point type="line" x="239" y="-126" />
-      <point x="230" y="-128" />
+      <point name="hintSet0018" x="230" y="-128" />
       <point x="227" y="-128" />
       <point type="curve" x="222" y="-128" />
       <point x="201" y="-128" />
@@ -55,7 +55,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="b603be535fde203c880e1ca3c6cfedf0c611910de35cd4f609117383d6b4636de6803c84657aeb5e320f64bdee53b9c59b61407963017fe6c322fec779ad4950">
+        <hintSetList id="3e6571ef0eff3432c5ba7d54c0fa2b30783b05ef081a5ee25216d392a40d624677cd62102a425fe7840053d780511fc21445d6dbd0c325e496e3a5795ef20834">
           <hintset pointTag="hintSet0000">
             <hstem pos="-216" width="161" />
             <hstem pos="21" width="-21" />
@@ -77,7 +77,7 @@
             <vstem pos="65" width="147" />
             <vstem pos="364" width="138" />
           </hintset>
-          <hintset pointTag="hintSet0011">
+          <hintset pointTag="hintSet0012">
             <hstem pos="-216" width="161" />
             <hstem pos="21" width="-21" />
             <hstem pos="383" width="125" />
@@ -91,7 +91,7 @@
             <vstem pos="65" width="147" />
             <vstem pos="364" width="138" />
           </hintset>
-          <hintset pointTag="hintSet0016">
+          <hintset pointTag="hintSet0018">
             <hstem pos="-216" width="161" />
             <hstem pos="21" width="-21" />
             <hstem pos="496" width="-20" />

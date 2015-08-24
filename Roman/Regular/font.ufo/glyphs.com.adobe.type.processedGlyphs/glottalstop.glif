@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="glottalstop">
+<glyph format="2" name="glottalstop">
   <advance width="417" />
   <outline>
     <contour>
@@ -31,7 +31,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="567f02fc13bab70ece6ca226b93b80bb1bace1610cf8cc00c924250acaa88d93614e66a1103a911bd8dd382362fad39cdd584aac8a9e52c496918285b209a6c7">
+        <hintSetList id="-263710072412065614601463241886561947242280228287262391268656307724314446314530314607326353396813974183975323976594174258375621">
           <hintset pointTag="hintSet0000">
             <hstem pos="656" width="68" />
             <vstem pos="146" width="82" />

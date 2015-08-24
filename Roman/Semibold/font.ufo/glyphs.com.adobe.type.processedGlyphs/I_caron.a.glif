@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Icaron.a">
+  <advance width="370" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="49" y="0" />
+      <point type="line" x="320" y="0" />
+      <point type="line" x="320" y="98" />
+      <point type="line" x="243" y="98" />
+      <point type="line" x="243" y="556" />
+      <point type="line" x="320" y="556" />
+      <point type="line" x="320" y="654" />
+      <point type="line" x="49" y="654" />
+      <point type="line" x="49" y="556" />
+      <point type="line" x="127" y="556" />
+      <point type="line" x="127" y="98" />
+      <point type="line" x="49" y="98" />
+    </contour>
+    <contour>
+      <point type="line" x="123" y="704" />
+      <point type="line" x="247" y="704" />
+      <point type="line" x="344" y="816" />
+      <point type="line" x="294" y="848" />
+      <point type="line" x="187" y="760" />
+      <point type="line" x="183" y="760" />
+      <point type="line" x="76" y="848" />
+      <point type="line" x="26" y="816" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="1237041275561279818376018776024355624398247704268162948483200320556320654320983448163704904955649654499876848">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="98" />
+            <hstem pos="556" width="98" />
+            <hstem pos="704" width="56" />
+            <vstem pos="127" width="116" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

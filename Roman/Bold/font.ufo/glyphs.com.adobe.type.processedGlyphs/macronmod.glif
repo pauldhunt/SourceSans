@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="macronmod">
+<glyph format="2" name="macronmod">
   <advance width="308" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="3086592l302592l302685l6685l">
+        <hintSetList id="30259230268530865926685">
           <hintset pointTag="hintSet0000">
             <hstem pos="592" width="93" />
             <vstem pos="6" width="296" />

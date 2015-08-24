@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="candrabinducmb.cap">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="0" y="705" />
+      <point x="93" y="705" />
+      <point x="138" y="764" />
+      <point type="curve" x="146" y="834" />
+      <point type="line" x="96" y="842" />
+      <point x="88" y="795" />
+      <point x="57" y="758" />
+      <point type="curve" x="0" y="758" />
+      <point x="-57" y="758" />
+      <point x="-88" y="795" />
+      <point type="curve" x="-96" y="842" />
+      <point type="line" x="-146" y="834" />
+      <point x="-138" y="764" />
+      <point x="-93" y="705" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-138764-146834-57758-88795-93705-9684207050758100013876414683457758887959370596842">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="705" width="53" />
+            <vstem pos="-146" width="292" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

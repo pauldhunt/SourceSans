@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Vturned">
+  <advance width="572" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="390" y="650" />
+      <point type="line" x="182" y="650" />
+      <point type="line" x="-10" y="0" />
+      <point type="line" x="166" y="0" />
+      <point type="line" x="232" y="284" />
+      <point x="249" y="353" />
+      <point x="262" y="420" />
+      <point type="curve" x="280" y="490" />
+      <point type="line" x="284" y="490" />
+      <point x="302" y="420" />
+      <point x="314" y="353" />
+      <point type="curve" x="332" y="284" />
+      <point type="line" x="400" y="0" />
+      <point type="line" x="582" y="0" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-100166018265023228424935326242028049028449030242031435333228439065040005725820">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="490" width="160" />
+            <vstem pos="-10" width="592" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

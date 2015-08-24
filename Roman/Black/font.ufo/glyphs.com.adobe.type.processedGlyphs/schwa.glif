@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="schwa">
+<glyph format="2" name="schwa">
   <advance width="526" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="bcc5dae5eceb512fc004efee7546ef4d30c9d0100da426688b8efc1cbd3010eefcab0e525c807216ae15d58d05cd28d02d8c3fa978e33b990fa2254351df836e">
+        <hintSetList id="52e8a36a5b99fe2d53e5dcaab303895caa97aefbeb4339fecfeefa61cd2932e7483c590120dd11c4a3193d99ffe55aadc2b3fc26a36ec9ca2042d8592b3771e4">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="130" />
             <hstem pos="190" width="112" />

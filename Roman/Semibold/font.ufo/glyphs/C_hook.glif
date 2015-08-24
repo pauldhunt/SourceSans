@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chook" format="1">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="436" y="581" type="curve"/>
+      <point x="537" y="583" type="line"/>
+      <point x="516" y="612"/>
+      <point x="505" y="636"/>
+      <point x="505" y="669" type="curve" smooth="yes"/>
+      <point x="505" y="700"/>
+      <point x="526" y="720"/>
+      <point x="558" y="720" type="curve" smooth="yes"/>
+      <point x="570" y="720"/>
+      <point x="578" y="716"/>
+      <point x="588" y="712" type="curve"/>
+      <point x="610" y="798" type="line"/>
+      <point x="591" y="805"/>
+      <point x="570" y="811"/>
+      <point x="536" y="811" type="curve" smooth="yes"/>
+      <point x="456" y="811"/>
+      <point x="407" y="756"/>
+      <point x="407" y="686" type="curve" smooth="yes"/>
+      <point x="407" y="651"/>
+      <point x="417" y="619"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+</glyph>

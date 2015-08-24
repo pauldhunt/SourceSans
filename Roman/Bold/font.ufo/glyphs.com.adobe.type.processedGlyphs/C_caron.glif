@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ccaron">
+<glyph format="2" name="Ccaron">
   <advance width="582" />
   <outline>
     <contour>
@@ -45,7 +45,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a1faa5eafd07f5d2a8980c5846a065e1c68c602b8cc0e94d3e734ea920368a77409ec642c059e8d9be7f7b85ac1202fb25da9ffff724b0d8f3263c4d798f814f">
+        <hintSetList id="36a913a5bfeba33af1fbee8ddca7b5a8d8e24266cdd4be57781da88add64fc79d52ca6a9785922786f9d36a847f3fa63313bd60c0a7a3260fd35c1e4659af9ae">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="127" />
             <hstem pos="537" width="127" />

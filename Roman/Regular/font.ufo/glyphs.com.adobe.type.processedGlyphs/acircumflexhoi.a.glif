@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="acircumflexhoi.a">
+  <advance width="555" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="179" y="570" />
+      <point type="line" x="282" y="642" />
+      <point type="line" x="286" y="642" />
+      <point type="line" x="389" y="570" />
+      <point type="line" x="418" y="604" />
+      <point type="line" x="318" y="696" />
+      <point type="line" x="250" y="696" />
+      <point type="line" x="150" y="604" />
+    </contour>
+    <contour>
+      <point type="line" x="400" y="635" />
+      <point x="447" y="646" />
+      <point x="493" y="665" />
+      <point type="curve" x="493" y="718" />
+      <point x="493" y="765" />
+      <point x="449" y="789" />
+      <point type="curve" x="371" y="791" />
+      <point type="line" x="364" y="750" />
+      <point x="413" y="748" />
+      <point x="433" y="735" />
+      <point type="curve" x="433" y="709" />
+      <point x="433" y="688" />
+      <point x="416" y="677" />
+      <point type="curve" x="391" y="670" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="04ead76ba4d03ee486d692f45aae418ca5b44e318fb563688f5ec468278007c5ddf4112cc447a5228453bf28f471fea689a74a0d620f398f76a760b400bc0c89">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="642" width="54" />
+            <hstem pos="750" width="41" />
+            <vstem pos="433" width="60" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

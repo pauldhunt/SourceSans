@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Alphalatin.sc">
+  <advance width="603" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="302" y="-12" />
+      <point x="450" y="-12" />
+      <point x="554" y="92" />
+      <point type="curve" x="554" y="264" />
+      <point x="554" y="435" />
+      <point x="450" y="535" />
+      <point type="curve" x="302" y="535" />
+      <point x="152" y="535" />
+      <point x="49" y="436" />
+      <point type="curve" x="49" y="264" />
+      <point x="49" y="92" />
+      <point x="152" y="-12" />
+    </contour>
+    <contour>
+      <point type="curve" x="302" y="84" />
+      <point x="219" y="84" />
+      <point x="168" y="153" />
+      <point type="curve" x="168" y="264" />
+      <point x="168" y="374" />
+      <point x="219" y="439" />
+      <point type="curve" x="302" y="439" />
+      <point x="383" y="439" />
+      <point x="435" y="374" />
+      <point type="curve" x="435" y="264" />
+      <point x="435" y="153" />
+      <point x="383" y="84" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="5a47112ed70cdcdf84585a23fe0af8aea83c63608f90c03013b5d3f58c3d2fabe3b73f778569e6bfea905da37eb47a6278702473fd9754cf09ad01b26c577051">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="96" />
+            <hstem pos="439" width="96" />
+            <vstem pos="49" width="119" />
+            <vstem pos="435" width="119" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotamacron">
+<glyph format="2" name="iotamacron">
   <advance width="262" />
   <outline>
     <contour>
@@ -23,7 +23,7 @@
       <point x="107" y="-12" />
     </contour>
     <contour>
-      <point type="line" x="-9" y="601" />
+      <point name="hintSet0009" type="line" x="-9" y="601" />
       <point type="line" x="257" y="601" />
       <point type="line" x="257" y="658" />
       <point type="line" x="-9" y="658" />
@@ -33,12 +33,18 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="9ffcf37bc34ea155f9f8d7dd8b60d227009842c329329740d6ec5755a37c147e4173792efffb2d60ce403e8a9519bfefbe71663ebd04973c123efc75b94a9c29">
+        <hintSetList id="-9601-9658107-12159212159681599516335516548617256175-1219356202-122025621158219-722362234025760125765826282101822982486">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="68" />
             <hstem pos="486" width="-20" />
             <hstem pos="601" width="57" />
             <vstem pos="82" width="77" />
+          </hintset>
+          <hintset pointTag="hintSet0009">
+            <hstem pos="21" width="-21" />
+            <hstem pos="486" width="-20" />
+            <hstem pos="601" width="57" />
+            <vstem pos="-9" width="266" />
           </hintset>
         </hintSetList>
       </data>

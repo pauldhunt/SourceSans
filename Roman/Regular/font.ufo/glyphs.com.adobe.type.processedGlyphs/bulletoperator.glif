@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="bulletoperator">
+<glyph format="2" name="bulletoperator">
   <advance width="502" />
   <outline>
     <contour>
@@ -21,7 +21,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="502248263c280263o307289o307325c307363o280389o248389c215389o188363o188325c188289o215263o">
+        <hintSetList id="188289188325188363215263215389248263248389280263280389307289307325307363502">
           <hintset pointTag="hintSet0000">
             <hstem pos="263" width="126" />
             <vstem pos="188" width="119" />

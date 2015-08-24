@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="divisionslash">
+<glyph format="2" name="divisionslash">
   <advance width="78" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="78-164-12l-132-12l238672l206672l">
+        <hintSetList id="-132-12-164-1220667223867278">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="684" />
             <vstem pos="-164" width="402" />

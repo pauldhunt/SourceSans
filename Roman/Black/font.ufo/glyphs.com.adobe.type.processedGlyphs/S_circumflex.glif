@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Scircumflex">
+<glyph format="2" name="Scircumflex">
   <advance width="564" />
   <outline>
     <contour>
@@ -45,7 +45,6 @@
       <point x="196" y="-12" />
     </contour>
     <contour>
-      <point type="line" x="118" y="724" />
       <point type="line" x="192" y="680" />
       <point type="line" x="294" y="760" />
       <point type="line" x="298" y="760" />
@@ -53,13 +52,14 @@
       <point type="line" x="474" y="724" />
       <point type="line" x="390" y="834" />
       <point type="line" x="202" y="834" />
+      <point type="line" x="118" y="724" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="70d23885c0795e47157a7dcb12ed2c54f466332e3d404e4857bb01300074a776f6e3055d6584763c7e6f232d09614fe7f47c328cfcd9cba238113fe7088ea3e8">
+        <hintSetList id="2ba9ba57628b46d2201c6ccd909902f4cc1b81fb2305e9dc3bc6ade5e7a343c2b31e831fbf4143678712d960f68f7eb37e214c3590416a8e18757ed1ed3ba4ce">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="148" />
             <hstem pos="514" width="148" />

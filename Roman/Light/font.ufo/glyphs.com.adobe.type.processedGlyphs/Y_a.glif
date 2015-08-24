@@ -1,19 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ya">
+<glyph format="2" name="Ya">
   <advance width="562" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="418" y="341" />
-      <point type="line" x="288" y="341" />
-      <point x="171" y="341" />
-      <point x="107" y="388" />
-      <point type="curve" x="107" y="485" />
-      <point x="107" y="584" />
-      <point x="171" y="620" />
-      <point type="curve" x="288" y="620" />
-      <point type="line" x="418" y="620" />
-    </contour>
-    <contour>
+      <point name="hintSet0000" type="line" x="418" y="0" />
+      <point type="line" x="464" y="0" />
+      <point type="line" x="464" y="659" />
       <point type="line" x="276" y="659" />
       <point x="145" y="659" />
       <point x="59" y="611" />
@@ -25,16 +17,24 @@
       <point type="line" x="82" y="0" />
       <point type="line" x="271" y="303" />
       <point type="line" x="418" y="303" />
-      <point type="line" x="418" y="0" />
-      <point type="line" x="464" y="0" />
-      <point type="line" x="464" y="659" />
+    </contour>
+    <contour>
+      <point type="line" x="288" y="341" />
+      <point x="171" y="341" />
+      <point x="107" y="388" />
+      <point type="curve" x="107" y="485" />
+      <point x="107" y="584" />
+      <point x="171" y="620" />
+      <point type="curve" x="288" y="620" />
+      <point type="line" x="418" y="620" />
+      <point type="line" x="418" y="341" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f01869ee2a9fdddb2206119eeda52a8d583d31edf798cddcf368fcadc4cd69bee776caa5e404745a65e93af1c9ec9186b1a896cc52d8e0a3fc33cc9df7fe2b1a">
+        <hintSetList id="701ed6b136480236f1b812991e061c0838145f4e582eb1723fecce5fbd46b6f534a28f30709ff5c1b651abf5a32ce85ae86c32f10468338267047a31b60da718">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="303" width="38" />

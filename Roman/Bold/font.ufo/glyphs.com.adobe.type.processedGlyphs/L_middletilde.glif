@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Lmiddletilde">
+  <advance width="518" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="77" y="0" />
+      <point type="line" x="482" y="0" />
+      <point type="line" x="482" y="124" />
+      <point type="line" x="224" y="124" />
+      <point type="line" x="224" y="652" />
+      <point type="line" x="77" y="652" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="224124224652482048212451877077652">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="124" />
+            <vstem pos="77" width="147" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="idieresis">
+<glyph format="2" name="idieresis">
   <advance width="288" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="6b80bfd6e821d40f9c370bf5bae81587bf9fa4f818e8c6f3a16baaefce23637a7a21f76a48638007d6c7e02e27d4b826327b10e93f50eab3904edce6f8bf297e">
+        <hintSetList id="6ad56e28b7eaa2fb0fadf431c0793c9ab2f763878b4ba76fb11bb86ac95da964e9404d5733516a6371b987816d95688d6ad53b376464e4c14662aca675c55bbe">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="500" width="-20" />

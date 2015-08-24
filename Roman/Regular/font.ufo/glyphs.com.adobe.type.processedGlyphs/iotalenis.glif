@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotalenis">
+<glyph format="2" name="iotalenis">
   <advance width="262" />
   <outline>
     <contour>
@@ -43,7 +43,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="c020f370f188e7d89a84a7a34e19018e6955ad57376078cd3857036c0a09b1049ff7e5e24db2c7658ac84fe98ec76a8c13dcad41430306e5007621d9d8b9b801">
+        <hintSetList id="dc0b01b1b591ed6b7832ac811b721293acd1e1aef65355b20dd7642a79daa4b49cd4a11f32265dbbd9852391a178e72e90fe86a6af9cf6b4f096b49ccfb50fda">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="68" />
             <hstem pos="486" width="-20" />

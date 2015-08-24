@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ezh" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="263" y="-12" type="curve" smooth="yes"/>
+      <point x="382" y="-12"/>
+      <point x="498" y="62"/>
+      <point x="498" y="198" type="curve" smooth="yes"/>
+      <point x="498" y="352"/>
+      <point x="339" y="412"/>
+      <point x="236" y="383" type="curve"/>
+      <point x="467" y="637" type="line"/>
+      <point x="467" y="659" type="line"/>
+      <point x="84" y="659" type="line"/>
+      <point x="84" y="622" type="line"/>
+      <point x="397" y="622" type="line"/>
+      <point x="163" y="366" type="line"/>
+      <point x="186" y="335" type="line"/>
+      <point x="210" y="346"/>
+      <point x="227" y="354"/>
+      <point x="257" y="354" type="curve" smooth="yes"/>
+      <point x="357" y="354"/>
+      <point x="452" y="303"/>
+      <point x="452" y="196" type="curve" smooth="yes"/>
+      <point x="452" y="93"/>
+      <point x="367" y="26"/>
+      <point x="263" y="26" type="curve" smooth="yes"/>
+      <point x="165" y="26"/>
+      <point x="104" y="78"/>
+      <point x="72" y="115" type="curve"/>
+      <point x="47" y="85" type="line"/>
+      <point x="82" y="47"/>
+      <point x="151" y="-12"/>
+    </contour>
+    <contour>
+      <point x="278" y="682" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="282" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

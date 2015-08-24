@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="percent">
+<glyph format="2" name="percent">
   <advance width="805" />
   <outline>
     <contour>
@@ -31,6 +31,12 @@
       <point x="243" y="290" />
     </contour>
     <contour>
+      <point type="line" x="198" y="-12" />
+      <point type="line" x="237" y="-12" />
+      <point type="line" x="604" y="671" />
+      <point type="line" x="566" y="671" />
+    </contour>
+    <contour>
       <point type="curve" x="624" y="-12" />
       <point x="711" y="-12" />
       <point x="765" y="62" />
@@ -58,18 +64,12 @@
       <point x="726" y="85" />
       <point x="686" y="21" />
     </contour>
-    <contour>
-      <point type="line" x="198" y="-12" />
-      <point type="line" x="237" y="-12" />
-      <point type="line" x="604" y="671" />
-      <point type="line" x="566" y="671" />
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="8bbfa5786ba20c51bc28f10f55eeccbfbbedc99f144dcf2a4d38d63b553647480ad310fe9b8faf1ab4c3534a833d7f1dd8c947036220481b53b77fbf24795bd2">
+        <hintSetList id="668a611a28be5fe4f51ead640279a89b5ecaca4526fe9a19973c39705d6992cf41cb4f71204ef7f5defacaf3bd25c23e130c1a893eb87d5922fd4327fc1d65a3">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="33" />
             <hstem pos="257" width="33" />

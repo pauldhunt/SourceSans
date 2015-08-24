@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="macrongravecmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="37" y="700" />
+      <point type="line" x="59" y="726" />
+      <point type="line" x="-70" y="822" />
+      <point type="line" x="-96" y="788" />
+    </contour>
+    <contour>
+      <point type="line" x="123" y="606" />
+      <point type="line" x="123" y="642" />
+      <point type="line" x="-123" y="642" />
+      <point type="line" x="-123" y="606" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-123606-123642-70822-9678810001236061236423770059726">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="606" width="36" />
+            <vstem pos="-123" width="246" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

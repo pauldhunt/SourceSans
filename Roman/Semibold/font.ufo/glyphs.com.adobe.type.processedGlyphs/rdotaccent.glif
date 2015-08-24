@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="rdotaccent">
+<glyph format="2" name="rdotaccent">
   <advance width="373" />
   <outline>
     <contour>
@@ -24,25 +24,25 @@
       <point type="line" x="73" y="491" />
     </contour>
     <contour>
-      <point name="hintSet0011" type="curve" x="232" y="577" />
-      <point x="272" y="577" />
-      <point x="300" y="604" />
-      <point type="curve" x="300" y="643" />
-      <point x="300" y="681" />
-      <point x="272" y="708" />
-      <point type="curve" x="232" y="708" />
-      <point x="192" y="708" />
-      <point x="164" y="681" />
-      <point type="curve" x="164" y="643" />
-      <point x="164" y="604" />
-      <point x="192" y="577" />
+      <point name="hintSet0011" type="curve" x="227" y="577" />
+      <point x="267" y="577" />
+      <point x="295" y="604" />
+      <point type="curve" x="295" y="643" />
+      <point x="295" y="681" />
+      <point x="267" y="708" />
+      <point type="curve" x="227" y="708" />
+      <point x="187" y="708" />
+      <point x="159" y="681" />
+      <point type="curve" x="159" y="643" />
+      <point x="159" y="604" />
+      <point x="187" y="577" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d23f7d75a407392b9c0e886d984b94120d954d3ec26fa0434bf7e876c8ccfb738839ef76d3ff98f76a591b58a0fd81098c1bb1e161c5866367d43f315905655c">
+        <hintSetList id="13c3ef3ea819c5ba37b89a270fd4aafe667a0542dba98bcfc45d3a46469e6e9c296c96f9eeaf847c9e26078e86f155cfb054d9eae707898a3bd2db0aed56c8f4">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="493" width="-20" />
@@ -77,7 +77,7 @@
             <hstem pos="21" width="-21" />
             <hstem pos="493" width="-20" />
             <hstem pos="577" width="131" />
-            <vstem pos="164" width="136" />
+            <vstem pos="159" width="136" />
           </hintset>
         </hintSetList>
       </data>

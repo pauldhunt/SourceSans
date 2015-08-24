@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="epsilongrave">
+<glyph format="2" name="epsilongrave">
   <advance width="435" />
   <outline>
     <contour>
@@ -61,7 +61,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="d5540117e1c201ebacc8a8e9a305becb2dc6dd64b6ee2efb24291ec1d14cbea2a01dc242e6f5f56e8e99d94f948451a6a190f61fbdd7af88852797d91fdcfa3e">
+        <hintSetList id="d68d3f20f109c12eef546822dd890418b3d95ca2b5a6f83e40a8587c7ac339ba25fbbcf8027eb5d34fa0fdc1bc229726f7b26cb24c5c11d737f62a36f27035af">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="38" />
             <hstem pos="234" width="36" />

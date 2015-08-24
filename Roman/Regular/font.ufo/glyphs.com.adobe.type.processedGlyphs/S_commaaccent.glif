@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Scommaaccent">
+<glyph format="2" name="Scommaaccent">
   <advance width="534" />
   <outline>
     <contour>
@@ -65,10 +65,9 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="9281841d2c2fb4d7d574e31d59a90fd4713c35ad0e9d4bee2c4b2be597690ab010fdc9f2d30ac502098c42fb3db9125609e2e28db0983cd6674df361ae249faf">
+        <hintSetList id="3144747ea38dbb2bbdfefa04f450ebdd0a96b58bb710d7f8b2b5793d644369691b92474600012abf19fab5f509197be0e4ed875fca716e6ff724fa31814efe4d">
           <hintset pointTag="hintSet0000">
             <hstem pos="-226" width="40" />
-            <hstem pos="-96" width="38" />
             <hstem pos="-12" width="73" />
             <hstem pos="595" width="73" />
             <vstem pos="74" width="84" />

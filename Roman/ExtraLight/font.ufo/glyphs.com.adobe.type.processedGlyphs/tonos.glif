@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tonos">
+<glyph format="2" name="tonos">
   <advance width="532" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="532250566l274560l338744l300752l">
+        <hintSetList id="250566274560300752338744532">
           <hintset pointTag="hintSet0000">
             <hstem pos="560" width="192" />
             <vstem pos="250" width="88" />

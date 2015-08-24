@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="stigma">
+<glyph format="2" name="stigma">
   <advance width="500" />
   <outline>
     <contour>
@@ -39,7 +39,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="1b5fa3b581a2c63194c56f0a6af0bbe7d896f7b589c9f5378735cd26d1140a5c495f8149a09aa5734fd5cf44d1784c32bf1da7ce797daa1db27d41313c6ebede">
+        <hintSetList id="2581b33f2638129e37f25875eddd18f3e2827813e6d10f9efeaa1dd0913f0b8294056e7f5390233c18f4a075b6effa033ae2ec85451ec9cebe02e4018406f48f">
           <hintset pointTag="hintSet0000">
             <hstem pos="-167" width="-21" />
             <hstem pos="362" width="138" />

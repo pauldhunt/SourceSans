@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Icaron">
+<glyph format="2" name="Icaron">
   <advance width="232" />
   <outline>
     <contour>
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2321000l1320l132660l100660l102710l130710l246824l232840l118740l114740l0840l-14824l">
+        <hintSetList id="-14824084010001006601027101147401187401307101320132660232232840246824">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="660" width="-20" />

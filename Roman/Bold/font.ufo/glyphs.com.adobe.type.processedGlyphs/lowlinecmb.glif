@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="lowlinecmb">
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-127" y="-233" />
+      <point type="line" x="-2" y="-141" />
+      <point type="line" x="2" y="-141" />
+      <point type="line" x="127" y="-233" />
+      <point type="line" x="183" y="-181" />
+      <point type="line" x="75" y="-50" />
+      <point type="line" x="-75" y="-50" />
+      <point type="line" x="-183" y="-181" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-127-233-183-181-2-141-75-501000127-233183-1812-14175-50">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-141" width="91" />
+            <vstem pos="-183" width="366" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

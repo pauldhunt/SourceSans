@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Dafrican.sc">
+  <advance width="604" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="26" y="235" />
+      <point type="line" x="101" y="235" />
+      <point type="line" x="101" y="0" />
+      <point type="line" x="276" y="0" />
+      <point x="435" y="0" />
+      <point x="558" y="75" />
+      <point type="curve" x="558" y="267" />
+      <point x="558" y="458" />
+      <point x="435" y="528" />
+      <point type="curve" x="266" y="528" />
+      <point type="line" x="101" y="528" />
+      <point type="line" x="101" y="306" />
+      <point type="line" x="26" y="300" />
+    </contour>
+    <contour>
+      <point type="line" x="248" y="114" />
+      <point name="hintSet0010" type="line" x="248" y="235" />
+      <point type="line" x="343" y="235" />
+      <point type="line" x="343" y="306" />
+      <point type="line" x="248" y="306" />
+      <point type="line" x="248" y="414" />
+      <point type="line" x="275" y="414" />
+      <point x="358" y="414" />
+      <point x="407" y="374" />
+      <point type="curve" x="407" y="267" />
+      <point x="407" y="158" />
+      <point x="358" y="114" />
+      <point type="curve" x="275" y="114" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="9a86852aa188488c68b81ccf2e61f4f772fedfbb7de8fa9def591c0f0e526cd6eeead63ed905383774c6615d11a67d19b0d934bbab22823d32334b1e906e1b73">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="114" />
+            <hstem pos="235" width="68" />
+            <hstem pos="414" width="114" />
+            <vstem pos="101" width="147" />
+            <vstem pos="407" width="151" />
+          </hintset>
+          <hintset pointTag="hintSet0010">
+            <hstem pos="0" width="114" />
+            <hstem pos="235" width="71" />
+            <hstem pos="414" width="114" />
+            <vstem pos="101" width="147" />
+            <vstem pos="407" width="151" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

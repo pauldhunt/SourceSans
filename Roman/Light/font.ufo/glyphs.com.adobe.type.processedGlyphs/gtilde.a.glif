@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="gtilde.a">
+  <advance width="545" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="356" y="579" />
+      <point x="420" y="579" />
+      <point x="440" y="643" />
+      <point type="curve" x="444" y="705" />
+      <point type="line" x="410" y="707" />
+      <point x="407" y="657" />
+      <point x="392" y="614" />
+      <point type="curve" x="357" y="614" />
+      <point x="301" y="614" />
+      <point x="280" y="710" />
+      <point type="curve" x="205" y="710" />
+      <point x="140" y="710" />
+      <point x="120" y="647" />
+      <point type="curve" x="116" y="584" />
+      <point type="line" x="150" y="582" />
+      <point x="153" y="634" />
+      <point x="168" y="675" />
+      <point type="curve" x="204" y="675" />
+      <point x="259" y="675" />
+      <point x="280" y="579" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="116584120647140710150582153634168675204675205710259675280579280710301614356579357614392614407657410707420579440643444705545">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="579" width="35" />
+            <hstem pos="675" width="35" />
+            <vstem pos="116" width="34" />
+            <vstem pos="410" width="34" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

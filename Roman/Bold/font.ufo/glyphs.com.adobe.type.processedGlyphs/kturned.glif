@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="kturned">
+  <advance width="548" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="339" y="-184" />
+      <point type="line" x="483" y="-184" />
+      <point type="line" x="483" y="496" />
+      <point type="line" x="339" y="496" />
+      <point type="line" x="339" y="299" />
+      <point type="line" x="336" y="299" />
+      <point type="line" x="178" y="496" />
+      <point type="line" x="19" y="496" />
+      <point type="line" x="192" y="292" />
+      <point type="line" x="5" y="0" />
+      <point type="line" x="165" y="0" />
+      <point type="line" x="276" y="193" />
+      <point type="line" x="339" y="122" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="165017849619229219496276193336299339-184339122339299339496483-18448349650548">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-184" width="680" />
+            <vstem pos="339" width="144" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

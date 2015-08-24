@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Istroke">
+  <advance width="352" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="26" y="285" />
+      <point type="line" x="102" y="285" />
+      <point type="line" x="102" y="0" />
+      <point type="line" x="249" y="0" />
+      <point name="hintSet0004" type="line" x="249" y="285" />
+      <point type="line" x="326" y="285" />
+      <point type="line" x="326" y="356" />
+      <point type="line" x="249" y="356" />
+      <point type="line" x="249" y="652" />
+      <point type="line" x="102" y="652" />
+      <point name="hintSet0010" type="line" x="102" y="356" />
+      <point type="line" x="26" y="350" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="102010228510235610265224902492852493562496522628526350326285326356352">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="285" width="68" />
+            <hstem pos="652" width="-20" />
+            <vstem pos="102" width="147" />
+          </hintset>
+          <hintset pointTag="hintSet0004">
+            <hstem pos="21" width="-21" />
+            <hstem pos="285" width="71" />
+            <hstem pos="652" width="-20" />
+            <vstem pos="102" width="147" />
+          </hintset>
+          <hintset pointTag="hintSet0010">
+            <hstem pos="21" width="-21" />
+            <hstem pos="285" width="68" />
+            <hstem pos="652" width="-20" />
+            <vstem pos="102" width="147" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

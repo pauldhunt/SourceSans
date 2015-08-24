@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="rlongleg">
+  <advance width="306" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="264" y="490" />
+      <point x="206" y="490" />
+      <point x="160" y="446" />
+      <point type="curve" x="128" y="388" />
+      <point type="line" x="126" y="388" />
+      <point type="line" x="122" y="478" />
+      <point type="line" x="96" y="478" />
+      <point type="line" x="96" y="-222" />
+      <point type="line" x="126" y="-222" />
+      <point type="line" x="126" y="332" />
+      <point x="164" y="426" />
+      <point x="216" y="460" />
+      <point type="curve" x="260" y="460" />
+      <point x="278" y="460" />
+      <point x="286" y="458" />
+      <point type="curve" x="302" y="452" />
+      <point type="line" x="310" y="480" />
+      <point x="294" y="488" />
+      <point x="280" y="490" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="122478126-22212633212638812838816044616442620649021646026046026449027846028049028645829448830245230631048096-22296478">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="460" width="30" />
+            <vstem pos="96" width="30" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

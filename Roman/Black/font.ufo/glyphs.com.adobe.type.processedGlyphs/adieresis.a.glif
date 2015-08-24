@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="adieresis.a">
+  <advance width="580" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="196" y="562" />
+      <point x="243" y="562" />
+      <point x="276" y="597" />
+      <point type="curve" x="276" y="642" />
+      <point x="276" y="687" />
+      <point x="243" y="722" />
+      <point type="curve" x="196" y="722" />
+      <point x="149" y="722" />
+      <point x="116" y="687" />
+      <point type="curve" x="116" y="642" />
+      <point x="116" y="597" />
+      <point x="149" y="562" />
+    </contour>
+    <contour>
+      <point type="curve" x="424" y="562" />
+      <point x="471" y="562" />
+      <point x="504" y="597" />
+      <point type="curve" x="504" y="642" />
+      <point x="504" y="687" />
+      <point x="471" y="722" />
+      <point type="curve" x="424" y="722" />
+      <point x="377" y="722" />
+      <point x="344" y="687" />
+      <point type="curve" x="344" y="642" />
+      <point x="344" y="597" />
+      <point x="377" y="562" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="504b5a8d851e634dc062f8b95fed5bdc122a60b2335441e2022e6c7dadcdd5269ece10ec863d11b119f23f3682e1c6eb72210edc4c9c65825358823f557a67c4">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="562" width="160" />
+            <vstem pos="116" width="160" />
+            <vstem pos="344" width="160" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

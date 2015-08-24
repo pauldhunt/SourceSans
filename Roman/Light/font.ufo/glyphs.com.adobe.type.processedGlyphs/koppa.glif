@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="koppa">
+<glyph format="2" name="koppa">
   <advance width="524" />
   <outline>
     <contour>
@@ -17,9 +17,9 @@
       <point x="363" y="26" />
     </contour>
     <contour>
-      <point type="line" x="243" y="-180" />
+      <point name="hintSet0005" type="line" x="243" y="-180" />
       <point type="line" x="288" y="-180" />
-      <point x="287" y="-103" />
+      <point name="hintSet0007" x="287" y="-103" />
       <point x="287" y="-76" />
       <point type="curve" x="286" y="-11" />
       <point x="393" y="1" />
@@ -40,8 +40,22 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fa8f5dc2e9469cc8b6db356a70d27ef56438f4aa5fd5acf93a4feedfcd7c4fc07355946859f564784ffe6a8a99af897133b76b547f7af9b5e4978d0adf2c787c">
+        <hintSetList id="8217cc2acd55481d9a929fb7cb858aa8cb38e357fe7c313841193f6b4e7ef7d0e5552cf3e1ee690ff7930381cd54738ba9ddf08587f9d8802fd17c9a20a620e9">
           <hintset pointTag="hintSet0000">
+            <hstem pos="-11" width="37" />
+            <hstem pos="453" width="39" />
+            <vstem pos="52" width="46" />
+            <vstem pos="243" width="45" />
+            <vstem pos="426" width="46" />
+          </hintset>
+          <hintset pointTag="hintSet0005">
+            <hstem pos="-180" width="206" />
+            <hstem pos="453" width="39" />
+            <vstem pos="52" width="46" />
+            <vstem pos="243" width="45" />
+            <vstem pos="426" width="46" />
+          </hintset>
+          <hintset pointTag="hintSet0007">
             <hstem pos="-11" width="37" />
             <hstem pos="453" width="39" />
             <vstem pos="52" width="46" />

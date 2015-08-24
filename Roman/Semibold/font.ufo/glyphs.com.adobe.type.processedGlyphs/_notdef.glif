@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name=".notdef">
+<glyph format="2" name=".notdef">
   <advance width="672" />
   <outline>
     <contour>
@@ -39,7 +39,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2a0b016f847e2055b7b637b092cbf2f5bc90c682a6376eb40a74f9534f0d916da2108d1c8ee618bbcaf6874e0512a51f76a2c02feb5671a95af08caa3316d67b">
+        <hintSetList id="1661331665492307523958427734028717928849533427933440133827933840138417938449539534043258444075505133505549588058866067284084660">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="75" />
             <hstem pos="584" width="76" />

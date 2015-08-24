@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Phook.sc" format="1">
+  <advance width="688"/>
+  <outline>
+    <contour>
+      <point x="109" y="253" type="curve"/>
+      <point x="155" y="317" type="line"/>
+      <point x="140" y="328"/>
+      <point x="130" y="341"/>
+      <point x="130" y="366" type="curve" smooth="yes"/>
+      <point x="130" y="394"/>
+      <point x="152" y="414"/>
+      <point x="187" y="414" type="curve" smooth="yes"/>
+      <point x="340" y="414" type="line"/>
+      <point x="409" y="528" type="line"/>
+      <point x="214" y="528" type="line" smooth="yes"/>
+      <point x="106" y="528"/>
+      <point x="36" y="470"/>
+      <point x="36" y="377" type="curve" smooth="yes"/>
+      <point x="36" y="317"/>
+      <point x="61" y="276"/>
+    </contour>
+    <component base="P.sc" xOffset="137"/>
+    <contour>
+      <point x="437" y="564" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="298" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>

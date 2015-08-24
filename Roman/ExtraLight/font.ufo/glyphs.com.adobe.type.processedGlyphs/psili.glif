@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="psili">
+<glyph format="2" name="psili">
   <advance width="532" />
   <outline>
     <contour>
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="532244576l288590o332612o332662c332712o276732o218734c216708l270706o302690o302658c302628o274612o236600c">
+        <hintSetList id="216708218734236600244576270706274612276732288590302628302658302690332612332662332712532">
           <hintset pointTag="hintSet0000">
             <hstem pos="708" width="26" />
             <vstem pos="302" width="30" />

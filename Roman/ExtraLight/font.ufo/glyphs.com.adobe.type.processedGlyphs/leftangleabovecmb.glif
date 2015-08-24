@@ -1,21 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="leftangleabovecmb">
-  <advance width="0" />
+<glyph format="2" name="leftangleabovecmb">
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="74" y="572" />
+      <point name="hintSet0000" type="line" x="46" y="572" />
+      <point type="line" x="74" y="572" />
       <point type="line" x="74" y="706" />
       <point type="line" x="-66" y="706" />
       <point type="line" x="-66" y="678" />
       <point type="line" x="46" y="678" />
-      <point type="line" x="46" y="572" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="074572l74706l-66706l-66678l46678l46572l">
+        <hintSetList id="-66678-66706100046572466787457274706">
           <hintset pointTag="hintSet0000">
             <hstem pos="678" width="28" />
             <vstem pos="46" width="28" />

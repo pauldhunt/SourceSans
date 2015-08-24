@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Omegalatin">
+  <advance width="849" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="264" y="-12" />
+      <point x="331" y="-12" />
+      <point x="393" y="23" />
+      <point type="curve" x="422" y="105" />
+      <point type="line" x="428" y="105" />
+      <point x="457" y="23" />
+      <point x="520" y="-12" />
+      <point type="curve" x="587" y="-12" />
+      <point x="709" y="-12" />
+      <point x="790" y="95" />
+      <point type="curve" x="790" y="310" />
+      <point x="790" y="460" />
+      <point x="746" y="561" />
+      <point type="curve" x="680" y="663" />
+      <point type="line" x="606" y="625" />
+      <point x="675" y="521" />
+      <point x="704" y="445" />
+      <point type="curve" x="704" y="304" />
+      <point x="704" y="139" />
+      <point x="650" y="61" />
+      <point type="curve" x="578" y="61" />
+      <point x="516" y="61" />
+      <point x="463" y="101" />
+      <point type="curve" x="463" y="233" />
+      <point type="line" x="464" y="412" />
+      <point type="line" x="388" y="412" />
+      <point type="line" x="388" y="235" />
+      <point x="388" y="107" />
+      <point x="334" y="62" />
+      <point type="curve" x="272" y="62" />
+      <point x="200" y="62" />
+      <point x="145" y="143" />
+      <point type="curve" x="145" y="287" />
+      <point x="145" y="434" />
+      <point x="178" y="521" />
+      <point type="curve" x="244" y="621" />
+      <point type="line" x="171" y="663" />
+      <point x="108" y="563" />
+      <point x="59" y="444" />
+      <point type="curve" x="59" y="307" />
+      <point x="59" y="94" />
+      <point x="148" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="b7c1f1008f3ea8dcfca63ac9b6b556a048050e6be9fad4bcc343eeaf49979614233f2ec16a6ce7ad509a59603db1d45c5a8d09720c3439c5b707871ed6e8b68c">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-12" width="73" />
+            <vstem pos="59" width="86" />
+            <vstem pos="388" width="75" />
+            <vstem pos="704" width="86" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

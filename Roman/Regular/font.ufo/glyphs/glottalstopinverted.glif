@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopinverted" format="1">
+  <advance width="417"/>
+  <outline>
+    <contour>
+      <point x="146" y="712" type="line"/>
+      <point x="146" y="388" type="line"/>
+      <point x="262" y="321"/>
+      <point x="314" y="267"/>
+      <point x="314" y="182" type="curve" smooth="yes"/>
+      <point x="314" y="106"/>
+      <point x="268" y="56"/>
+      <point x="188" y="56" type="curve" smooth="yes"/>
+      <point x="120" y="56"/>
+      <point x="75" y="91"/>
+      <point x="42" y="129" type="curve"/>
+      <point x="-2" y="75" type="line"/>
+      <point x="39" y="31"/>
+      <point x="100" y="-12"/>
+      <point x="194" y="-12" type="curve" smooth="yes"/>
+      <point x="307" y="-12"/>
+      <point x="397" y="54"/>
+      <point x="397" y="180" type="curve" smooth="yes"/>
+      <point x="397" y="295"/>
+      <point x="326" y="359"/>
+      <point x="228" y="425" type="curve"/>
+      <point x="228" y="712" type="line"/>
+    </contour>
+  </outline>
+</glyph>

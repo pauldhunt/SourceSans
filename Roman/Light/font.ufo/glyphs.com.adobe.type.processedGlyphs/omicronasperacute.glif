@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="omicronasperacute">
+<glyph format="2" name="omicronasperacute">
   <advance width="524" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
       <point type="curve" x="242" y="707" />
       <point type="line" x="240" y="740" />
       <point x="180" y="738" />
-      <point x="129" y="715" />
+      <point x="129" y="716" />
       <point type="curve" x="129" y="664" />
       <point x="129" y="612" />
       <point x="170" y="590" />
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a4e4e9b9e545cef604caba4a78d5fe8d22be5b5fa6a428512c84ae3567e6e4010339d571d477ecf4315f57f83faee41223a36a76f3171800b3178c094405b8b9">
+        <hintSetList id="463e8150c5d43ecfe0ec2b977dfd9e4f3ac91c62189706a899cd7d93543e46987024d890f6618338f96ce5c00ee66957e217f7aa85f782043bbce4021c1cdf05">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="453" width="39" />

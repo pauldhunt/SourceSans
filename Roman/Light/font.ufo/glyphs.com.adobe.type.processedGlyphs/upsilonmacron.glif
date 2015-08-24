@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="upsilonmacron">
+<glyph format="2" name="upsilonmacron">
   <advance width="497" />
   <outline>
     <contour>
@@ -47,7 +47,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="ed7159080166b627bfc6342b5ef73d9f1f0c253392503b5c4a1b952528d1dd19ce70d0a349634a27a758bab8012b4e7507c40685cc2023f0447679083bae5fbb">
+        <hintSetList id="bf4595891bad7fc877a4d56d6d0c92960562809854bf3c9079d41a39762a7e7259ac8e800bee899ee891575c53a967c3fa95e9874078470542b5b5234bad99f9">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="39" />
             <hstem pos="492" width="-20" />

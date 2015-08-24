@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="cedilla">
+<glyph format="2" name="cedilla">
   <advance width="560" />
   <outline>
     <contour>
@@ -25,7 +25,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="560172-244l304-240o382-208o382-136c382-94o356-72o304-60c3324l2344l184-96l246-104o260-118o260-136c260-164o236-174o160-178c">
+        <hintSetList id="160-178172-244184-962344236-174246-104260-118260-136260-164304-240304-603324356-72382-136382-208382-94560">
           <hintset pointTag="hintSet0000">
             <hstem pos="-244" width="66" />
             <hstem pos="-60" width="64" />

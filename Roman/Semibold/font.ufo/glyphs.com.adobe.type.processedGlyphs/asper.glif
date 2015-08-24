@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="asper">
+<glyph format="2" name="asper">
   <advance width="549" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
       <point type="curve" x="353" y="704" />
       <point type="line" x="346" y="771" />
       <point x="235" y="768" />
-      <point x="185" y="730" />
+      <point x="185" y="731" />
       <point type="curve" x="185" y="669" />
       <point x="185" y="606" />
       <point x="245" y="579" />
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="549312571c322619l294626o272636o272660c272686o296701o353704c346771l235768o185730o185669c185606o245579o">
+        <hintSetList id="185606185669185731235768245579272636272660272686294626296701312571322619346771353704549">
           <hintset pointTag="hintSet0000">
             <hstem pos="704" width="67" />
             <vstem pos="185" width="87" />

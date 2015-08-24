@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="acutemod">
+<glyph format="2" name="acutemod">
   <advance width="218" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="21878574l222725l188754l54597l">
+        <hintSetList id="1887542182227255459778574">
           <hintset pointTag="hintSet0000">
             <hstem pos="574" width="180" />
             <vstem pos="54" width="168" />

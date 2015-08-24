@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="clickretroflex">
+  <advance width="291" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="114" y="119" />
+      <point type="line" x="177" y="119" />
+      <point type="line" x="190" y="560" />
+      <point name="hintSet0003" type="line" x="193" y="706" />
+      <point type="line" x="98" y="706" />
+      <point type="line" x="101" y="560" />
+    </contour>
+    <contour>
+      <point name="hintSet0006" type="curve" x="146" y="-106" />
+      <point x="180" y="-106" />
+      <point x="208" y="-78" />
+      <point type="curve" x="208" y="-41" />
+      <point x="208" y="-3" />
+      <point x="180" y="25" />
+      <point type="curve" x="146" y="25" />
+      <point x="111" y="25" />
+      <point x="83" y="-3" />
+      <point type="curve" x="83" y="-41" />
+      <point x="83" y="-78" />
+      <point x="111" y="-106" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="101560111-10611125114119146-10614625177119180-10618025190560193706208-3208-41208-7829183-383-4183-7898706">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-106" width="131" />
+            <vstem pos="107.5" width="76" />
+          </hintset>
+          <hintset pointTag="hintSet0003">
+            <hstem pos="-106" width="131" />
+            <vstem pos="99.5" width="92" />
+          </hintset>
+          <hintset pointTag="hintSet0006">
+            <hstem pos="-106" width="131" />
+            <vstem pos="83" width="125" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

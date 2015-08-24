@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ringhalfrightmod">
+<glyph format="2" name="ringhalfrightmod">
   <advance width="180" />
   <outline>
     <contour>
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="18024550l128546o170592o170656c170720o128766o24762c24700l72702o88682o88656c88630o72610o24612c">
+        <hintSetList id="128546128766170592170656170720180245502461224700247627261072702886308865688682">
           <hintset pointTag="hintSet0000">
             <hstem pos="550" width="62" />
             <hstem pos="700" width="62" />

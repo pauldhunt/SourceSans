@@ -1,9 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="sampi">
+<glyph format="2" name="sampi">
   <advance width="468" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="50" y="658" />
+      <point name="hintSet0000" type="line" x="419" y="-178" />
+      <point x="432" y="-114" />
+      <point x="436" y="-54" />
+      <point type="curve" x="436" y="14" />
+      <point x="436" y="288" />
+      <point x="300" y="554" />
+      <point type="curve" x="66" y="682" />
+      <point type="line" x="50" y="658" />
       <point x="166" y="598" />
       <point x="259" y="498" />
       <point type="curve" x="320" y="379" />
@@ -12,7 +19,7 @@
       <point x="144" y="269" />
       <point x="232" y="307" />
       <point type="curve" x="333" y="354" />
-      <point x="353" y="309" />
+      <point x="353" y="310" />
       <point x="370" y="263" />
       <point type="curve" x="382" y="215" />
       <point type="line" x="94" y="83" />
@@ -26,20 +33,13 @@
       <point x="408" y="-48" />
       <point x="404" y="-110" />
       <point type="curve" x="390" y="-173" />
-      <point type="line" x="419" y="-178" />
-      <point x="432" y="-114" />
-      <point x="436" y="-54" />
-      <point type="curve" x="436" y="14" />
-      <point x="436" y="288" />
-      <point x="300" y="554" />
-      <point type="curve" x="66" y="682" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f7e1137f25a642f28cbcc43b225a7f3d618854052bb458317709f546e3e0b8cb8eb1fa55751fcf236bdca72345df4f55eeb834aba1a97f34f0268533dae36a0d">
+        <hintSetList id="d4133fe61599b284d82d8b9ae8ea4d49c7a6d3741fac0ad7cab7be6ea6b8a810d648d4bf60eec6031dd80b34e21e5140e93b836185b979a1c3f75ee26e19a005">
           <hintset pointTag="hintSet0000">
             <hstem pos="-178" width="860" />
             <vstem pos="408" width="28" />

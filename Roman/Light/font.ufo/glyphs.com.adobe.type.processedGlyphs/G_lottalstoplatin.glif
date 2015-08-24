@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Glottalstoplatin">
+  <advance width="403" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="158" y="0" />
+      <point type="line" x="202" y="0" />
+      <point type="line" x="202" y="242" />
+      <point x="325" y="301" />
+      <point x="399" y="364" />
+      <point type="curve" x="399" y="486" />
+      <point x="399" y="607" />
+      <point x="310" y="671" />
+      <point type="curve" x="189" y="671" />
+      <point x="83" y="671" />
+      <point x="28" y="620" />
+      <point type="curve" x="-17" y="575" />
+      <point type="line" x="9" y="544" />
+      <point x="51" y="588" />
+      <point x="97" y="632" />
+      <point type="curve" x="189" y="632" />
+      <point x="297" y="632" />
+      <point x="353" y="574" />
+      <point type="curve" x="353" y="487" />
+      <point x="353" y="386" />
+      <point x="298" y="327" />
+      <point type="curve" x="158" y="268" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="-1757515801582681896321896712020202242286202976322983273106713253013533863534873535743993643994863996074035158883671954497632">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="632" width="39" />
+            <vstem pos="158" width="44" />
+            <vstem pos="353" width="46" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Iebreve">
+<glyph format="2" name="Iebreve">
   <advance width="538" />
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     <contour>
       <point name="hintSet0012" type="curve" x="286" y="701" />
       <point x="406" y="701" />
-      <point x="447" y="762" />
+      <point x="446" y="762" />
       <point type="curve" x="451" y="836" />
       <point type="line" x="352" y="836" />
       <point x="350" y="793" />
@@ -29,7 +29,7 @@
       <point x="222" y="793" />
       <point type="curve" x="220" y="836" />
       <point type="line" x="121" y="836" />
-      <point x="125" y="762" />
+      <point x="126" y="762" />
       <point x="166" y="701" />
     </contour>
   </outline>
@@ -37,7 +37,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="cba921ff5ffce30af02ac71ca9d0ed58cb3839ecf994265d1515aa081b916ae61d55ca8e577e471d390b1590e71dafa88e0239e64d59669b020547e6b7a7c603">
+        <hintSetList id="cd40287f674784e6eecdfcf22255fc2639c0e85fb24ed7248ea5e84c9b3c6f8d99cec2faab4a3d51874e4e8660955a34db72f8c9cd3920924d64ecdf3b06a21e">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="98" />
             <hstem pos="291" width="98" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegagrave">
+<glyph format="2" name="Omegagrave">
   <advance width="658" />
   <outline>
     <contour>
@@ -49,7 +49,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="97499c363781afe1b42c7ef8189168b91d147a7354da1df6cda0bc51c102670686c1bf07b26674e735dfc21c365dc80d92ec9f64a68e71fd260a7741e22d56aa">
+        <hintSetList id="aeebabf1fe400926dcd419545dc881b6d4e521e27c78bd3fe3329bc64bb9e5c54943895c34760e225a95d921cfd2a1f174cccdcddeb9bf63b7e588538413d926">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="28" />
             <hstem pos="642" width="30" />

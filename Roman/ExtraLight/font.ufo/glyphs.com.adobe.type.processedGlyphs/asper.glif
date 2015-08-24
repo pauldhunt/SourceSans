@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="asper">
+<glyph format="2" name="asper">
   <advance width="532" />
   <outline>
     <contour>
@@ -23,7 +23,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="532288578c296600l258612o230628o230658c230690o262706o316708c314734l256732o200712o200662c200612o244592o">
+        <hintSetList id="200612200662200712230628230658230690244592256732258612262706288578296600314734316708532">
           <hintset pointTag="hintSet0000">
             <hstem pos="708" width="26" />
             <vstem pos="200" width="30" />

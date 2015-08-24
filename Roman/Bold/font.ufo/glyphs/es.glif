@@ -3,5 +3,8 @@
   <advance width="467"/>
   <outline>
     <component base="c"/>
+    <contour>
+      <point x="278" y="516" type="move" name="aboveLC"/>
+    </contour>
   </outline>
 </glyph>

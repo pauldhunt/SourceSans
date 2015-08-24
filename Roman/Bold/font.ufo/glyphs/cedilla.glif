@@ -2,9 +2,17 @@
 <glyph name="cedilla" format="1">
   <advance width="555"/>
   <outline>
-    <contour>
-      <point x="279" y="0" type="move" name="_baseLC"/>
-    </contour>
-    <component base="cedillacmb" xOffset="279"/>
+    <component base="cedillacmb" xOffset="278"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.6294117647058824</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

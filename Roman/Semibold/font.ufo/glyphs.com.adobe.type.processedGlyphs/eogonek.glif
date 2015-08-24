@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="eogonek">
+<glyph format="2" name="eogonek">
   <advance width="507" />
   <outline>
     <contour>
@@ -37,10 +37,10 @@
       <point x="41" y="83" />
       <point x="147" y="-12" />
       <point type="curve" x="283" y="-12" />
-      <point name="hintSet0014" x="295" y="-12" />
+      <point x="295" y="-12" />
       <point x="306" y="-11" />
       <point type="curve" x="321" y="-7" />
-      <point x="295" y="-30" />
+      <point name="hintSet0015" x="295" y="-30" />
       <point x="263" y="-71" />
       <point type="curve" x="263" y="-120" />
       <point x="263" y="-178" />
@@ -60,13 +60,12 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="9ba9a8ba758e36ccf9f347266d301ee65db8d9b950d038daacd8fd11b74b2b9300cf42ae61b097fc7aeaaf983025a22e9fd2bb282293aead16ab0a8809eeba51">
+        <hintSetList id="512c1d32dbecc32ada8aaec041c21fb23ee514c1c03bc63a827d3af21cf6672fa141f5779c41c8732b0bf7c740fdee2b0d17ae24c819a4d0561d39316d51b4d8">
           <hintset pointTag="hintSet0000">
             <hstem pos="-208" width="71" />
             <hstem pos="-12" width="89" />
             <hstem pos="214" width="78" />
             <hstem pos="414" width="89" />
-            <vstem pos="41" width="111" />
             <vstem pos="263" width="79" />
             <vstem pos="370" width="100" />
           </hintset>
@@ -75,15 +74,13 @@
             <hstem pos="-12" width="89" />
             <hstem pos="214" width="78" />
             <hstem pos="414" width="89" />
-            <vstem pos="41" width="111" />
             <vstem pos="370" width="100" />
           </hintset>
-          <hintset pointTag="hintSet0014">
+          <hintset pointTag="hintSet0015">
             <hstem pos="-208" width="71" />
             <hstem pos="-12" width="89" />
             <hstem pos="214" width="78" />
             <hstem pos="414" width="89" />
-            <vstem pos="41" width="111" />
             <vstem pos="263" width="79" />
             <vstem pos="370" width="100" />
           </hintset>
@@ -92,7 +89,6 @@
             <hstem pos="-12" width="89" />
             <hstem pos="214" width="78" />
             <hstem pos="414" width="89" />
-            <vstem pos="41" width="111" />
             <vstem pos="370" width="100" />
           </hintset>
         </hintSetList>

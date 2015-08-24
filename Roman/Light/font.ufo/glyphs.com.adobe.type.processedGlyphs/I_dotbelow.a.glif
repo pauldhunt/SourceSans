@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Idotbelow.a">
+  <advance width="312" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="43" y="0" />
+      <point type="line" x="268" y="0" />
+      <point type="line" x="268" y="40" />
+      <point type="line" x="179" y="40" />
+      <point type="line" x="179" y="619" />
+      <point type="line" x="268" y="619" />
+      <point type="line" x="268" y="659" />
+      <point type="line" x="43" y="659" />
+      <point type="line" x="43" y="619" />
+      <point type="line" x="133" y="619" />
+      <point type="line" x="133" y="40" />
+      <point type="line" x="43" y="40" />
+    </contour>
+    <contour>
+      <point name="hintSet0012" type="curve" x="159" y="-195" />
+      <point x="181" y="-195" />
+      <point x="197" y="-179" />
+      <point type="curve" x="197" y="-154" />
+      <point x="197" y="-131" />
+      <point x="181" y="-115" />
+      <point type="curve" x="159" y="-115" />
+      <point x="137" y="-115" />
+      <point x="121" y="-131" />
+      <point type="curve" x="121" y="-154" />
+      <point x="121" y="-179" />
+      <point x="137" y="-195" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="45f094429207cb19cf2be50c990070b748d7e35a227c71f5652571c2fb213ae4d086ed69d45422d4d53b1d38f2dbb13448ed5612895e30c4f0050c7f33f8b651">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="40" />
+            <hstem pos="619" width="40" />
+            <vstem pos="133" width="46" />
+          </hintset>
+          <hintset pointTag="hintSet0012">
+            <hstem pos="-195" width="80" />
+            <hstem pos="0" width="40" />
+            <hstem pos="619" width="40" />
+            <vstem pos="121" width="76" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

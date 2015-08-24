@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ydotaccent">
+<glyph format="2" name="ydotaccent">
   <advance width="424" />
   <outline>
     <contour>
@@ -50,7 +50,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="367e9c9e327f797ad9938265b58071968af130e05cb18e4fc346a3d6d332a03598eec06a46d8a661ceba6284776205df5edfda3b6e6a2f923fbe2a3a9a3a4c72">
+        <hintSetList id="3942c57e0265ed341d06c0fd3cb6c926ecb0ea893501ec97b2fdd7ca06d567c79eccb7444aba0270c30f51565b15f7bc927467f046d4f2e0372141d2e65daf62">
           <hintset pointTag="hintSet0000">
             <hstem pos="-222" width="30" />
             <hstem pos="478" width="-20" />

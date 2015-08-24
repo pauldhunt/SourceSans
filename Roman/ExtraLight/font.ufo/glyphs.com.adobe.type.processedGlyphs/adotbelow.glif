@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="adotbelow">
+<glyph format="2" name="adotbelow">
   <advance width="486" />
   <outline>
     <contour>
@@ -43,25 +43,25 @@
       <point x="258" y="16" />
     </contour>
     <contour>
-      <point name="hintSet0018" type="curve" x="236" y="-190" />
-      <point x="254" y="-190" />
-      <point x="268" y="-176" />
-      <point type="curve" x="268" y="-154" />
-      <point x="268" y="-134" />
-      <point x="254" y="-120" />
-      <point type="curve" x="236" y="-120" />
-      <point x="218" y="-120" />
-      <point x="204" y="-134" />
-      <point type="curve" x="204" y="-154" />
-      <point x="204" y="-176" />
-      <point x="218" y="-190" />
+      <point name="hintSet0018" type="curve" x="242" y="-190" />
+      <point x="260" y="-190" />
+      <point x="274" y="-176" />
+      <point type="curve" x="274" y="-154" />
+      <point x="274" y="-134" />
+      <point x="260" y="-120" />
+      <point type="curve" x="242" y="-120" />
+      <point x="224" y="-120" />
+      <point x="210" y="-134" />
+      <point type="curve" x="210" y="-154" />
+      <point x="210" y="-176" />
+      <point x="224" y="-190" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="6521859674be992655b229c0a492c3c77c5cc3e5c1d3bd6f568721e220fac36e22c530a62a545488d7ac582ada914eb63e2d0d712d509e7458dd782ae7d19c85">
+        <hintSetList id="b9ed7bd0bc823531cfbf7313f4c5af34830a2dc17787df81c2a7a27d771a8a955dc1fe1b50bea365424110ccfff9d13c9cb07c6c740cf0cab4e18d64bf793fcc">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />
@@ -85,7 +85,7 @@
             <hstem pos="-12" width="28" />
             <hstem pos="462" width="28" />
             <vstem pos="60" width="32" />
-            <vstem pos="204" width="64" />
+            <vstem pos="210" width="64" />
             <vstem pos="374" width="30" />
           </hintset>
         </hintSetList>

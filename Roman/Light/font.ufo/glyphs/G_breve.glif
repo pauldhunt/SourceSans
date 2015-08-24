@@ -3,6 +3,17 @@
   <advance width="605"/>
   <outline>
     <component base="G"/>
-    <component base="brevecmb.cap" xOffset="346"/>
+    <component base="brevecmb.cap" xOffset="345"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

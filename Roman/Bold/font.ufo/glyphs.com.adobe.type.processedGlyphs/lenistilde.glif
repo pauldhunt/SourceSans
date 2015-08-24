@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="lenistilde">
+<glyph format="2" name="lenistilde">
   <advance width="555" />
   <outline>
     <contour>
@@ -45,23 +45,20 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="483a8c35b0fc8faae485b3e7c28c697487649f1daaec134403a0158285f97bb09a41f465036ae4acf1e32f049c2f568df639375469237ada903f62dced1ad5ac">
+        <hintSetList id="20fdbdc7f158cf36601f600ce8454850ff62288f20c6c224f745e89618de175721ea824c27b16d03f2bd1ce3772213ad7a515890eb436541fdc5af13ee32ed0b">
           <hintset pointTag="hintSet0000">
             <hstem pos="651" width="59" />
             <hstem pos="768" width="80" />
-            <vstem pos="122" width="75" />
             <vstem pos="264" width="96" />
           </hintset>
           <hintset pointTag="hintSet0003">
             <hstem pos="651" width="59" />
             <hstem pos="726" width="80" />
-            <vstem pos="122" width="75" />
-            <vstem pos="359" width="75" />
+            <vstem pos="264" width="96" />
           </hintset>
           <hintset pointTag="hintSet0007">
             <hstem pos="651" width="59" />
             <hstem pos="768" width="80" />
-            <vstem pos="122" width="75" />
             <vstem pos="264" width="96" />
           </hintset>
         </hintSetList>

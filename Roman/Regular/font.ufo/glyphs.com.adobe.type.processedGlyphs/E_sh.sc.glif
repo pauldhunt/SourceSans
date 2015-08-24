@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Esh.sc">
+  <advance width="471" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="44" y="0" />
+      <point type="line" x="433" y="0" />
+      <point type="line" x="433" y="66" />
+      <point type="line" x="145" y="66" />
+      <point type="line" x="314" y="265" />
+      <point type="line" x="150" y="453" />
+      <point type="line" x="412" y="453" />
+      <point type="line" x="412" y="518" />
+      <point type="line" x="47" y="518" />
+      <point type="line" x="47" y="473" />
+      <point type="line" x="231" y="264" />
+      <point type="line" x="44" y="49" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="1456615045323126431426541245341251843304336644044494714747347518">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="0" width="66" />
+            <hstem pos="453" width="65" />
+            <vstem pos="44" width="389" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

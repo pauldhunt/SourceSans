@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="upsilon">
+<glyph format="2" name="upsilon">
   <advance width="510" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="6a6cc84b0771af8a5650619949a4e8003dcd2b3e55cb49719d0d54643261aa9b6e030fbd02abecf39259c925e8bf774aa2c9a9e0c48fb7aac2fab6fd1d0ce80e">
+        <hintSetList id="9d0059369001da4834b445d3fad29cb0ae1c12aa241a23bf2035c6383129e28446ca32fc26089c8de1637719de408d213dc7868043ca442a5f24f4719d40efc1">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="68" />
             <hstem pos="498" width="-20" />

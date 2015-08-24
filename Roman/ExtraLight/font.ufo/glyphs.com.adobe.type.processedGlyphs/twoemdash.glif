@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="twoemdash">
+<glyph format="2" name="twoemdash">
   <advance width="1500" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="150040236l1460236l1460264l40264l">
+        <hintSetList id="1460236146026415004023640264">
           <hintset pointTag="hintSet0000">
             <hstem pos="236" width="28" />
             <vstem pos="40" width="1420" />

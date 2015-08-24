@@ -2,9 +2,20 @@
 <glyph name="Obarcyr" format="1">
   <advance width="664"/>
   <outline>
-    <contour>
-      <point x="332" y="678" type="move" name="aboveUC"/>
-    </contour>
     <component base="Fita"/>
+    <contour>
+      <point x="332" y="676" type="move" name="aboveUC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.6294117647058824</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

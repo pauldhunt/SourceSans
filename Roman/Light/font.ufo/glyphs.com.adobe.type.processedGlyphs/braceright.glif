@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="braceright">
+<glyph format="2" name="braceright">
   <advance width="279" />
   <outline>
     <contour>
@@ -53,7 +53,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f2dbc1c757960d144bbcb163fb94fe815b75a2f6f375c8646af70b8775cc0db7e2aad4ced64ff17ec48c2cdc87e5b45929410cf95ede8893334212d5b0d65b98">
+        <hintSetList id="2c4e9d780158237b5917824233f21523b8548a1412f287b8239e5e86d9abbd3fe24411cfbfb8035fae5a317b7cb0b171b3f2781b719190440db48c9cf7dc4c3c">
           <hintset pointTag="hintSet0000">
             <hstem pos="-152" width="29" />
             <hstem pos="262" width="32" />
@@ -64,7 +64,6 @@
             <hstem pos="-152" width="29" />
             <hstem pos="262" width="32" />
             <hstem pos="679" width="29" />
-            <vstem pos="123" width="43" />
             <vstem pos="174" width="70" />
           </hintset>
           <hintset pointTag="hintSet0006">

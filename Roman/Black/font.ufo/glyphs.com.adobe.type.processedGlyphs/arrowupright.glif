@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="arrowupright">
+  <advance width="616" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="63" y="104" />
+      <point type="line" x="160" y="7" />
+      <point type="line" x="390" y="238" />
+      <point type="line" x="376" y="68" />
+      <point type="line" x="498" y="60" />
+      <point type="line" x="506" y="447" />
+      <point type="line" x="503" y="450" />
+      <point type="line" x="116" y="442" />
+      <point type="line" x="124" y="320" />
+      <point type="line" x="294" y="334" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="1164421243201607294334376683902384986050345050644761663104">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="334" width="112" />
+            <vstem pos="390" width="112" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

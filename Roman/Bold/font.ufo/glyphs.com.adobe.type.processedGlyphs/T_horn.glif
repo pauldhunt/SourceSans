@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Thorn">
+<glyph format="2" name="Thorn">
   <advance width="617" />
   <outline>
     <contour>
@@ -33,7 +33,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="3315094b97d602fdd0d49787fb511c81e3756507b1a13755d77e0e0a1c7765a4386c522dd465b3a56e3f5601d89315db61a621d6d165707dc8429588e3516566">
+        <hintSetList id="c7f7e6f3fad2b9304611857c5b3ad9fe14c2aac14dfcf68f18dc2626db4dfd60cf18c5e40fd6c0366bf3b993c14e905043fd04bf8d9054854b1e23aca827860d">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="123" width="117" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Scaron">
+<glyph format="2" name="Scaron">
   <advance width="521" />
   <outline>
     <contour>
@@ -45,21 +45,21 @@
       <point x="173" y="-12" />
     </contour>
     <contour>
-      <point type="line" x="250" y="709" />
-      <point type="line" x="294" y="709" />
-      <point type="line" x="407" y="823" />
-      <point type="line" x="387" y="841" />
-      <point type="line" x="274" y="743" />
-      <point type="line" x="270" y="743" />
-      <point type="line" x="157" y="841" />
-      <point type="line" x="137" y="823" />
+      <point type="line" x="249" y="709" />
+      <point type="line" x="293" y="709" />
+      <point type="line" x="406" y="823" />
+      <point type="line" x="386" y="841" />
+      <point type="line" x="273" y="743" />
+      <point type="line" x="269" y="743" />
+      <point type="line" x="156" y="841" />
+      <point type="line" x="136" y="823" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="fc079717f83b6261e22174232b9a6bd960f6ff042d1d6ec873e9a189d24c5ef913f552228ff2e980c26293ec8581a9a9319a11a8f50b13e1d125fe4a61c59435">
+        <hintSetList id="3394f36f01effd3c09ab9d6cc2c0b99577d4e9dd570c4532f0c3694caf11d786a046e52d39cbc5260a6dd99cc5e3c20247aafb298ba1caa692d6f7e318170942">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="42" />
             <hstem pos="629" width="42" />

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="tonoscmb">
-  <advance width="0" />
+<glyph format="2" name="tonoscmb">
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="-16" y="566" />
@@ -13,7 +12,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="0-16566l8560l72744l34752l">
+        <hintSetList id="-16566100034752727448560">
           <hintset pointTag="hintSet0000">
             <hstem pos="560" width="192" />
             <vstem pos="-16" width="88" />

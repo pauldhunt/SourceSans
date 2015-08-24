@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Omegaaspertilde">
+<glyph format="2" name="Omegaaspertilde">
   <advance width="768" />
   <outline>
     <contour>
@@ -70,10 +70,10 @@
       <point name="hintSet0031" x="158" y="644" />
       <point x="143" y="638" />
       <point type="curve" x="126" y="638" />
-      <point name="hintSet0032" x="90" y="638" />
+      <point x="90" y="638" />
       <point x="82" y="674" />
       <point type="curve" x="32" y="674" />
-      <point x="-8" y="674" />
+      <point name="hintSet0033" x="-8" y="674" />
       <point x="-22" y="647" />
     </contour>
   </outline>
@@ -81,7 +81,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5fef28f12a4b41152e618bb930f1e6ddefa7dc74408e5264cfb018769c2274e6ee1b303e6f32e04c930cc54336b1583c0ec4bc68b9b8e005d90e302da90189ab">
+        <hintSetList id="c890d9468b752a6e5a52b9079f9e07da825cc5497a68f29989ab0d5067fcb36b6f1721951dacfe356fbdf314364e4c6427f4ecf6d6ce348123b805231c73d2b1">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="28" />
             <hstem pos="566" width="24" />
@@ -144,7 +144,7 @@
             <vstem pos="520" width="58" />
             <vstem pos="680" width="34" />
           </hintset>
-          <hintset pointTag="hintSet0032">
+          <hintset pointTag="hintSet0033">
             <hstem pos="0" width="28" />
             <hstem pos="566" width="24" />
             <hstem pos="648" width="26" />

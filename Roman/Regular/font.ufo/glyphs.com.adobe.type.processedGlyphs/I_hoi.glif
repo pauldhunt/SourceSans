@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ihoi">
+<glyph format="2" name="Ihoi">
   <advance width="263" />
   <outline>
     <contour>
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="263900l1730l173656l90656l99698l157708o210733o210791c210842o159869o72872c63824l119822o146808o146782c146757o122745o90736c">
+        <hintSetList id="11982212274514675714678214680815770815986917301736562107332107912108422636382472872900906569073699698">
           <hintset pointTag="hintSet0000">
             <hstem pos="824" width="48" />
             <vstem pos="90" width="83" />

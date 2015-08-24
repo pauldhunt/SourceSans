@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="perispomeni">
+<glyph format="2" name="perispomeni">
   <advance width="549" />
   <outline>
     <contour>
       <point name="hintSet0000" type="curve" x="343" y="575" />
       <point x="416" y="575" />
-      <point x="453" y="628" />
+      <point x="453" y="629" />
       <point type="curve" x="456" y="719" />
       <point type="line" x="382" y="723" />
       <point x="378" y="681" />
@@ -29,7 +29,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="9dc6ecfcc6d5d1cbd8b23ebaf735df739d6f3c7741ea60ce70cb34cf92a5f0686ad544520f72a604a70d4cc734ffa84f0cb1e9a2fbee821841cccab86ef331a0">
+        <hintSetList id="1327301665821706251826492057302076492466492727302765753026563426563435753666563786813827234165754536294567195499258695677">
           <hintset pointTag="hintSet0000">
             <hstem pos="575" width="81" />
             <vstem pos="92" width="74" />

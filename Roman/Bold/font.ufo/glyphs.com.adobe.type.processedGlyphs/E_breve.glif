@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ebreve">
+<glyph format="2" name="Ebreve">
   <advance width="548" />
   <outline>
     <contour>
@@ -17,27 +17,27 @@
       <point type="line" x="77" y="652" />
     </contour>
     <contour>
-      <point type="curve" x="288" y="697" />
-      <point x="387" y="697" />
-      <point x="442" y="745" />
-      <point type="curve" x="451" y="834" />
-      <point type="line" x="371" y="848" />
-      <point x="362" y="807" />
-      <point x="333" y="782" />
-      <point type="curve" x="288" y="782" />
-      <point x="243" y="782" />
-      <point x="214" y="807" />
-      <point type="curve" x="205" y="848" />
-      <point type="line" x="125" y="834" />
-      <point x="134" y="745" />
-      <point x="189" y="697" />
+      <point type="curve" x="289" y="697" />
+      <point x="388" y="697" />
+      <point x="443" y="745" />
+      <point type="curve" x="452" y="834" />
+      <point type="line" x="372" y="848" />
+      <point x="363" y="807" />
+      <point x="334" y="782" />
+      <point type="curve" x="289" y="782" />
+      <point x="244" y="782" />
+      <point x="215" y="807" />
+      <point type="curve" x="206" y="848" />
+      <point type="line" x="126" y="834" />
+      <point x="135" y="745" />
+      <point x="190" y="697" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a34f581a856ccb2de403b2d459fe4ea349a656666da88caa5d76fc07cb042bfd8b4c23f0b80530b3cc758172c9e97f85f4414a98c9cab7b3ecdc631a3404dbfb">
+        <hintSetList id="4dfbc060633dab66e865fd4dff1114bd671c88655658ba1d4ad2e760a37b964a350b595bb4cab4708fb793774546b04e5e172311e9242bb983496db45dd482f6">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="124" />
             <hstem pos="274" width="123" />

@@ -66,8 +66,6 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font S
 	<string>SourceSansPro-ExtraLight</string>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Source Sans Pro ExtraLight</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-234</integer>
@@ -87,10 +85,6 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL. This Font S
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptWeightName</key>
-	<string>ExtraLight</string>
-	<key>styleMapFamilyName</key>
-	<string>0 : SourceSansPro_0.ufo / SourceSansPro_1.ufo</string>
 	<key>styleName</key>
 	<string>ExtraLight</string>
 	<key>trademark</key>

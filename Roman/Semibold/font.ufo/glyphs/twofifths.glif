@@ -3,7 +3,18 @@
   <advance width="835"/>
   <outline>
     <component base="two.dnom" xOffset="1" yOffset="264"/>
-    <component base="five.dnom" xOffset="463"/>
     <component base="fraction" xOffset="378"/>
+    <component base="five.dnom" xOffset="463"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.6294117647058824</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

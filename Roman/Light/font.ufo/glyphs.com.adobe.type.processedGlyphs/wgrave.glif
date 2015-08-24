@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="wgrave">
+<glyph format="2" name="wgrave">
   <advance width="685" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="372" y="574" />
-      <point type="line" x="396" y="597" />
-      <point type="line" x="262" y="754" />
-      <point type="line" x="228" y="725" />
-    </contour>
-    <contour>
-      <point type="line" x="166" y="0" />
+      <point name="hintSet0000" type="line" x="166" y="0" />
       <point type="line" x="219" y="0" />
       <point type="line" x="302" y="296" />
       <point x="317" y="342" />
@@ -44,12 +38,18 @@
       <point type="line" x="72" y="480" />
       <point type="line" x="24" y="480" />
     </contour>
+    <contour>
+      <point type="line" x="371" y="574" />
+      <point type="line" x="395" y="597" />
+      <point type="line" x="261" y="754" />
+      <point type="line" x="227" y="725" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="5a8fbe388ace5d738c2679bb6d53dfceab0c049743f1c78008a3301d3bef2010a800587cb2af565093d241998d5c852393238ca15b7eed1bef9d811a653cdad2">
+        <hintSetList id="7535a15df122bbf9fad1c665e150cc4d9527e358d3d218b4cc56e04d36e5060d052e952f604a8b093ce5d85f9050fba60034fbf9286a8e1a4866078f394b9b92">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="41" />
             <hstem pos="435" width="45" />

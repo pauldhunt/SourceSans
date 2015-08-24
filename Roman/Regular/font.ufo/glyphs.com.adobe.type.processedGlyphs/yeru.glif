@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="yeru">
+<glyph format="2" name="yeru">
   <advance width="674" />
   <outline>
     <contour>
@@ -37,7 +37,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2e4b6506a2edfa5e14b56ebe0a76106b83d2f955aa49fc2460548b65a1701d97f9115d6002a5bbdfa0fa9899f53190a3ba1d0155d46e68191a24deb059377934">
+        <hintSetList id="1b67905435b8001995b535daa4a248eb079ceab6ff85fe79365836e0b319748a2687b007191f4814d3d31b4cb2767718019dac95f6efdc921554ca4e4b91aa57">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="66" />
             <hstem pos="243" width="64" />

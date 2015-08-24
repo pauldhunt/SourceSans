@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Otilde">
+<glyph format="2" name="Otilde">
   <advance width="684" />
   <outline>
     <contour>
@@ -57,7 +57,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="f75147e7dd5582a00a1745a6e0136ba7190b47c29ea64501d7f5d0a45e791d3b8f0de4ef3874540b25c6b5c8dc36fe421db5c675451aed69d9439ea0c5713408">
+        <hintSetList id="ad51a28251cee391bedd7b3a337b1055aeac0d95b82dee30c92e467e81e761aea9ef26157cbf63cc5f2568c7376f747bff44e0ff791ce797d6c2abfeba95a15a">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="127" />
             <hstem pos="537" width="127" />

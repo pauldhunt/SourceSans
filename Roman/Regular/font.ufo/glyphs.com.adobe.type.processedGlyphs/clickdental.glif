@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="clickdental">
+  <advance width="241" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="92" y="-95" />
+      <point type="line" x="150" y="-95" />
+      <point type="line" x="150" y="712" />
+      <point type="line" x="92" y="712" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="150-9515071224192-9592712">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="-95" width="807" />
+            <vstem pos="92" width="58" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

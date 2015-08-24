@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="varia">
+<glyph format="2" name="varia">
   <advance width="555" />
   <outline>
     <contour>
@@ -13,7 +13,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="555234555l332573l299793l156769l">
+        <hintSetList id="156769234555299793332573555">
           <hintset pointTag="hintSet0000">
             <hstem pos="555" width="238" />
             <vstem pos="156" width="176" />

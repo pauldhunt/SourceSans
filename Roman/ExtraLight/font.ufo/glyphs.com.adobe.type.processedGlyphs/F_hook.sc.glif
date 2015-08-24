@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="2" name="Fhook.sc">
+  <advance width="417" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="100" y="0" />
+      <point type="line" x="132" y="0" />
+      <point type="line" x="132" y="248" />
+      <point type="line" x="357" y="248" />
+      <point type="line" x="357" y="275" />
+      <point type="line" x="132" y="275" />
+      <point type="line" x="132" y="483" />
+      <point type="line" x="399" y="483" />
+      <point type="line" x="399" y="510" />
+      <point type="line" x="100" y="510" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList id="10001005101320132248132275132483357248357275399483399510417">
+          <hintset pointTag="hintSet0000">
+            <hstem pos="21" width="-21" />
+            <hstem pos="248" width="27" />
+            <hstem pos="483" width="27" />
+            <vstem pos="100" width="32" />
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

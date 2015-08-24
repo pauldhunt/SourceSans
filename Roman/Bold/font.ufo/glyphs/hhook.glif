@@ -3,9 +3,6 @@
   <advance width="571"/>
   <outline>
     <contour>
-      <point x="293" y="-22" type="move" name="belowLC"/>
-    </contour>
-    <contour>
       <point x="65" y="0" type="line"/>
       <point x="212" y="0" type="line"/>
       <point x="212" y="318" type="line"/>
@@ -39,5 +36,22 @@
       <point x="65" y="615"/>
       <point x="65" y="500" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="286" y="730" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="293" y="-20" type="move" name="belowLC"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

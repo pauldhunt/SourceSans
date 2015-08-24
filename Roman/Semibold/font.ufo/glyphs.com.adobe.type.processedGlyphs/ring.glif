@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="ring">
+<glyph format="2" name="ring">
   <advance width="549" />
   <outline>
     <contour>
@@ -35,7 +35,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="45c5101f5af0f5f552db874c5f4acd28282849c41c431f67035394b54bcef674bbc56540d1021d986dcc044a594c06274584fdb32ba467453c24bf7b5f203ac6">
+        <hintSetList id="822e15afc6361e9f30b7e60a8568fc743405221a743bb5e14916ba01091b2a015af3cd62c8ffa0d8beae02ee34ebfa0233f5a6c7abf949845d67410e63e58fad">
           <hintset pointTag="hintSet0000">
             <hstem pos="559" width="46" />
             <hstem pos="716" width="46" />

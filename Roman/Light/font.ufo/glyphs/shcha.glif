@@ -12,5 +12,8 @@
       <point x="648" y="0" type="line"/>
     </contour>
     <component base="sha"/>
+    <contour>
+      <point x="359" y="502" type="move" name="aboveLC"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="copyright">
+<glyph format="2" name="copyright">
   <advance width="740" />
   <outline>
     <contour>
@@ -63,7 +63,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="28d75ba7ca008d18a5fd65a102b378f237b912967200716feb84e2b778c3a38f2cf0198d8237f1ab53ab4227f7b634797e4e555f46ab89a9e5c8b58af324b0f3">
+        <hintSetList id="b1e9ccd9aea226fc3b2c0a147d465ee5a6e24aa1aeec77d0f90b55411f33d6a35858d0bc0661868c88a46b5db5316c245561d9bf20b1d23608f184362420d985">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="26" />
             <hstem pos="124" width="30" />

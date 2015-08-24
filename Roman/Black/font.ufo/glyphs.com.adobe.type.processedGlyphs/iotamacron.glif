@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotamacron">
+<glyph format="2" name="iotamacron">
   <advance width="316" />
   <outline>
     <contour>
@@ -33,7 +33,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="caf9cde16cb8ff3b0016974af57071b70b015dbb1868860625c169262b87d45245c402d06bdb3edddd99c27e95a5790354df137d6928085f12fbc1d59fbbddc5">
+        <hintSetList id="-10588-10696218-12220136220170220240228390232500234126264126266-12272126286128292-429613229858829869631631665817658500586492-12">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="500" width="-20" />

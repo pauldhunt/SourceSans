@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Ecaron">
+<glyph format="2" name="Ecaron">
   <advance width="548" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="208" y="702" />
-      <point type="line" x="368" y="702" />
-      <point type="line" x="458" y="812" />
-      <point type="line" x="394" y="852" />
-      <point type="line" x="290" y="768" />
-      <point type="line" x="286" y="768" />
-      <point type="line" x="182" y="852" />
-      <point type="line" x="118" y="812" />
-    </contour>
-    <contour>
-      <point type="line" x="77" y="0" />
+      <point name="hintSet0000" type="line" x="77" y="0" />
       <point type="line" x="495" y="0" />
       <point type="line" x="495" y="124" />
       <point type="line" x="224" y="124" />
@@ -26,12 +16,22 @@
       <point type="line" x="485" y="652" />
       <point type="line" x="77" y="652" />
     </contour>
+    <contour>
+      <point type="line" x="209" y="702" />
+      <point type="line" x="369" y="702" />
+      <point type="line" x="459" y="812" />
+      <point type="line" x="395" y="852" />
+      <point type="line" x="291" y="768" />
+      <point type="line" x="287" y="768" />
+      <point type="line" x="183" y="852" />
+      <point type="line" x="119" y="812" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="17928fd858c6fb0608bac0a8edea19e94e4d9017295fd3e53c61d9905ec91bd5f40881e8d6d455c6c6a0d4063edfec5a5ca056c6a7b92ddee1b37a04b0021fda">
+        <hintSetList id="119812183852209702224124224274224397224528287768291768369702395852446274446397459812485528485652495049512454877077652">
           <hintset pointTag="hintSet0000">
             <hstem pos="0" width="124" />
             <hstem pos="274" width="123" />

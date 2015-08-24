@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Igrave">
+<glyph format="2" name="Igrave">
   <advance width="232" />
   <outline>
     <contour>
@@ -19,7 +19,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="2321000l1320l132660l100660l138710l152726l34846l12822l">
+        <hintSetList id="100010066012822132013266013871015272623234846">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="660" width="-20" />

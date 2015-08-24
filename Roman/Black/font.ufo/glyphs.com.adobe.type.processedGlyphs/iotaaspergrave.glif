@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="iotaaspergrave">
+<glyph format="2" name="iotaaspergrave">
   <advance width="316" />
   <outline>
     <contour>
@@ -49,23 +49,20 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="52e78755f858b15686b35cbef0f0eeec8fc83f359fc40ee15f4204dcecdd0984e3577c96f2803945d125279ca3a247584845fc3470034b5ba7bc9b3fb231c1fa">
+        <hintSetList id="89d2e5df93757117b2d753b8306e24e910201dfdefd8012df38558d98d89d1994d4410c16a4a0589c09b34a49904c6240ae325f58120625f523a15c2dea2cde1">
           <hintset pointTag="hintSet0000">
             <hstem pos="9" width="-21" />
             <hstem pos="500" width="-20" />
-            <hstem pos="700" width="94" />
             <vstem pos="58" width="162" />
           </hintset>
           <hintset pointTag="hintSet0002">
             <hstem pos="-12" width="138" />
             <hstem pos="500" width="-20" />
-            <hstem pos="700" width="94" />
             <vstem pos="58" width="162" />
           </hintset>
           <hintset pointTag="hintSet0008">
             <hstem pos="9" width="-21" />
             <hstem pos="500" width="-20" />
-            <hstem pos="700" width="94" />
             <vstem pos="58" width="162" />
           </hintset>
           <hintset pointTag="hintSet0009">
@@ -73,7 +70,6 @@
             <hstem pos="500" width="-20" />
             <hstem pos="700" width="94" />
             <vstem pos="-64" width="112" />
-            <vstem pos="58" width="162" />
           </hintset>
         </hintSetList>
       </data>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="liraturkish">
+<glyph format="2" name="liraturkish">
   <advance width="472" />
   <outline>
     <contour>
@@ -41,7 +41,7 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="52a608054391dd61283c26bd27d94e3d163aa7da470f8ba98faef2e66941bd99a44324a50c568285bafbd72dde8a0e138836275e05584a2b04ea838a0db8f4b7">
+        <hintSetList id="fc0ce3bc3efd792dbba0df0f0c2778dd9657f9a87da43b2b0d186002fec467c638e2e5f7d0ed1d90b2e7094d77c8ce8842df1f8cd3f3422c892714a618ad5bb7">
           <hintset pointTag="hintSet0000">
             <hstem pos="-12" width="30" />
             <hstem pos="640" width="-20" />

@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="Tcaron">
+<glyph format="2" name="Tcaron">
   <advance width="524" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="239" y="709" />
-      <point type="line" x="283" y="709" />
-      <point type="line" x="396" y="823" />
-      <point type="line" x="376" y="841" />
-      <point type="line" x="263" y="743" />
-      <point type="line" x="259" y="743" />
-      <point type="line" x="146" y="841" />
-      <point type="line" x="126" y="823" />
-    </contour>
-    <contour>
-      <point type="line" x="239" y="0" />
+      <point name="hintSet0000" type="line" x="239" y="0" />
       <point type="line" x="285" y="0" />
       <point type="line" x="285" y="619" />
       <point type="line" x="495" y="619" />
@@ -22,12 +12,22 @@
       <point type="line" x="29" y="619" />
       <point type="line" x="239" y="619" />
     </contour>
+    <contour>
+      <point type="line" x="238" y="709" />
+      <point type="line" x="282" y="709" />
+      <point type="line" x="395" y="823" />
+      <point type="line" x="375" y="841" />
+      <point type="line" x="262" y="743" />
+      <point type="line" x="258" y="743" />
+      <point type="line" x="145" y="841" />
+      <point type="line" x="125" y="823" />
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="524239709l283709l396823l376841l263743l259743l146841l126823l2390l2850l285619l495619l495659l29659l29619l239619l">
+        <hintSetList id="125823145841238709239023961925874326274328270928502856192961929659375841395823495619495659524">
           <hintset pointTag="hintSet0000">
             <hstem pos="21" width="-21" />
             <hstem pos="619" width="40" />

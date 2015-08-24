@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph format="1" name="glottalstopstroke">
+<glyph format="2" name="glottalstopstroke">
   <advance width="420" />
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="167" y="0" />
       <point type="line" x="211" y="0" />
-      <point type="line" x="211" y="290" />
-      <point type="line" x="400" y="290" />
+      <point type="line" x="211" y="295" />
+      <point type="line" x="400" y="295" />
       <point type="line" x="400" y="328" />
       <point type="line" x="247" y="328" />
       <point x="331" y="384" />
@@ -30,17 +30,17 @@
       <point type="curve" x="178" y="328" />
       <point type="line" x="81" y="328" />
       <point type="line" x="5" y="324" />
-      <point type="line" x="5" y="290" />
-      <point type="line" x="167" y="290" />
+      <point type="line" x="5" y="295" />
+      <point type="line" x="167" y="295" />
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-        <hintSetList id="a7ed5705cf12b174f13d23c9cb7543ca9417d24a90822589ffc370be561f769cc148553938eb1b7b982b2092dff890329e8cc2049ed6329fd14d5473e34ff404">
+        <hintSetList id="f518d0b28ca440abf7c0c077200793fcbe7a2531d7bf5216997d034b97cfa3dda6b808f7e642f26039a87ec08199169ac4c446b1106d4fec026aceff6cf9f6de">
           <hintset pointTag="hintSet0000">
-            <hstem pos="290" width="38" />
+            <hstem pos="295" width="33" />
             <hstem pos="692" width="39" />
             <vstem pos="167" width="44" />
             <vstem pos="346" width="46" />

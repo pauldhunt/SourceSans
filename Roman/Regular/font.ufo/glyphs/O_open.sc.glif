@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oopen.sc" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="205" y="-12" type="curve" smooth="yes"/>
+      <point x="346" y="-12"/>
+      <point x="452" y="85"/>
+      <point x="452" y="258" type="curve" smooth="yes"/>
+      <point x="452" y="427"/>
+      <point x="342" y="530"/>
+      <point x="198" y="530" type="curve" smooth="yes"/>
+      <point x="132" y="530"/>
+      <point x="78" y="499"/>
+      <point x="43" y="464" type="curve"/>
+      <point x="90" y="413" type="line"/>
+      <point x="119" y="442"/>
+      <point x="153" y="460"/>
+      <point x="198" y="460" type="curve" smooth="yes"/>
+      <point x="299" y="460"/>
+      <point x="366" y="384"/>
+      <point x="366" y="260" type="curve" smooth="yes"/>
+      <point x="366" y="134"/>
+      <point x="303" y="58"/>
+      <point x="202" y="58" type="curve" smooth="yes"/>
+      <point x="150" y="58"/>
+      <point x="111" y="78"/>
+      <point x="78" y="113" type="curve"/>
+      <point x="32" y="63" type="line"/>
+      <point x="78" y="14"/>
+      <point x="133" y="-12"/>
+    </contour>
+    <contour>
+      <point x="215" y="575" type="move" name="aboveUC"/>
+    </contour>
+    <contour>
+      <point x="216" y="0" type="move" name="baseLC"/>
+    </contour>
+    <contour>
+      <point x="216" y="-22" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+</glyph>
