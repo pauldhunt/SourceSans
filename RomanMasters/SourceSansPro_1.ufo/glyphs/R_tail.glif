@@ -1,8 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <glyph name="Rtail" format="1">
   <advance width="473"/>
   <outline>
     <contour>
+      <point x="72" y="202" type="line" smooth="yes"/>
+      <point x="72" y="90"/>
+      <point x="124" y="-12"/>
+      <point x="266" y="-12" type="curve" smooth="yes"/>
+      <point x="312" y="-12"/>
+      <point x="338" y="-6"/>
+      <point x="360" y="2" type="curve"/>
+      <point x="330" y="128" type="line"/>
+      <point x="316" y="124"/>
+      <point x="306" y="122"/>
+      <point x="294" y="122" type="curve" smooth="yes"/>
+      <point x="258" y="122"/>
+      <point x="244" y="148"/>
       <point x="244" y="176" type="curve" smooth="yes"/>
       <point x="244" y="410" type="line"/>
       <point x="273" y="492.46"/>
@@ -21,19 +34,6 @@
       <point x="220" y="547" type="line"/>
       <point x="205" y="650" type="line"/>
       <point x="71.8799" y="649.8" type="line"/>
-      <point x="72" y="202" type="line" smooth="yes"/>
-      <point x="72" y="90"/>
-      <point x="124" y="-12"/>
-      <point x="266" y="-12" type="curve" smooth="yes"/>
-      <point x="312" y="-12"/>
-      <point x="338" y="-6"/>
-      <point x="360" y="2" type="curve"/>
-      <point x="330" y="128" type="line"/>
-      <point x="316" y="124"/>
-      <point x="306" y="122"/>
-      <point x="294" y="122" type="curve" smooth="yes"/>
-      <point x="258" y="122"/>
-      <point x="244" y="148"/>
     </contour>
   </outline>
 </glyph>
