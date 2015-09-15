@@ -2150,6 +2150,8 @@
 	<string>brevecmb.cyr.glif</string>
 	<key>brevecmb.cyrcap</key>
 	<string>brevecmb.cyrcap.glif</string>
+	<key>brevedoublebelowcmb</key>
+	<string>brevedoublebelowcmb.glif</string>
 	<key>brevegravecmb</key>
 	<string>brevegravecmb.glif</string>
 	<key>brevegravecmb.cap</key>

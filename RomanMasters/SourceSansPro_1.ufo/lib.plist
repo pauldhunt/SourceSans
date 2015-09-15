@@ -2051,6 +2051,7 @@
 				<string>iotasubscriptcmb</string>
 				<string>macrondoublebelowcmb</string>
 				<string>breveinverteddoublecmb</string>
+				<string>brevedoublebelowcmb</string>
 				<string>macronacutecmb</string>
 				<string>macronacutecmb.cap</string>
 				<string>gravemacroncmb</string>
@@ -7041,6 +7042,7 @@
 		<string>iotasubscriptcmb</string>
 		<string>macrondoublebelowcmb</string>
 		<string>breveinverteddoublecmb</string>
+		<string>brevedoublebelowcmb</string>
 		<string>macronacutecmb</string>
 		<string>macronacutecmb.cap</string>
 		<string>gravemacroncmb</string>
