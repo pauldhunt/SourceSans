@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pe" format="1">
-  <advance width="536"/>
-  <outline>
-    <contour>
-      <point x="96" y="0" type="line"/>
-      <point x="126" y="0" type="line"/>
-      <point x="126" y="450" type="line"/>
-      <point x="410" y="450" type="line"/>
-      <point x="410" y="0" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="440" y="478" type="line"/>
-      <point x="96" y="478" type="line"/>
-    </contour>
-    <contour>
-      <point x="268" y="500" type="move" name="aboveLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="536"/>
+	<outline>
+		<contour>
+			<point x="96" y="0" type="line"/>
+			<point x="126" y="0" type="line"/>
+			<point x="126" y="450" type="line"/>
+			<point x="410" y="450" type="line"/>
+			<point x="410" y="0" type="line"/>
+			<point x="440" y="0" type="line"/>
+			<point x="440" y="478" type="line"/>
+			<point x="96" y="478" type="line"/>
+		</contour>
+		<contour>
+			<point name="aboveLC" x="268" y="500" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

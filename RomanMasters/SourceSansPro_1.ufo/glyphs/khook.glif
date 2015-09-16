@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="khook" format="1">
-  <advance width="550"/>
-  <outline>
-    <contour>
-      <point x="58" y="0" type="line"/>
-      <point x="226" y="0" type="line"/>
-      <point x="226" y="120" type="line"/>
-      <point x="278" y="178" type="line"/>
-      <point x="378" y="0" type="line"/>
-      <point x="564" y="0" type="line"/>
-      <point x="376" y="292" type="line"/>
-      <point x="554" y="500" type="line"/>
-      <point x="368" y="500" type="line"/>
-      <point x="230" y="326" type="line"/>
-      <point x="226" y="326" type="line"/>
-      <point x="226" y="471" type="line" smooth="yes"/>
-      <point x="226" y="553"/>
-      <point x="258" y="574"/>
-      <point x="302" y="574" type="curve" smooth="yes"/>
-      <point x="318" y="574"/>
-      <point x="336" y="570"/>
-      <point x="352" y="564" type="curve"/>
-      <point x="382" y="690" type="line"/>
-      <point x="360" y="698"/>
-      <point x="322" y="708"/>
-      <point x="276" y="708" type="curve" smooth="yes"/>
-      <point x="114" y="708"/>
-      <point x="58" y="603"/>
-      <point x="58" y="486" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="277.0" y="730.0" type="move" name="aboveLC"/>
-    </contour>
-    <contour>
-      <point x="304.0" y="-22.0" type="move" name="belowLC"/>
-    </contour>
-  </outline>
+	<advance width="550"/>
+	<outline>
+		<contour>
+			<point x="58" y="0" type="line"/>
+			<point x="226" y="0" type="line"/>
+			<point x="226" y="120" type="line"/>
+			<point x="278" y="178" type="line"/>
+			<point x="378" y="0" type="line"/>
+			<point x="564" y="0" type="line"/>
+			<point x="376" y="292" type="line"/>
+			<point x="554" y="500" type="line"/>
+			<point x="368" y="500" type="line"/>
+			<point x="230" y="326" type="line"/>
+			<point x="226" y="326" type="line"/>
+			<point x="226" y="471" type="line" smooth="yes"/>
+			<point x="226" y="553"/>
+			<point x="258" y="574"/>
+			<point x="302" y="574" type="curve" smooth="yes"/>
+			<point x="318" y="574"/>
+			<point x="336" y="570"/>
+			<point x="352" y="564" type="curve"/>
+			<point x="382" y="690" type="line"/>
+			<point x="360" y="698"/>
+			<point x="322" y="708"/>
+			<point x="276" y="708" type="curve" smooth="yes"/>
+			<point x="114" y="708"/>
+			<point x="58" y="603"/>
+			<point x="58" y="486" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point name="aboveLC" x="277" y="730" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="304" y="-22" type="move"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mturned" format="1">
-  <advance width="806"/>
-  <outline>
-    <component base="m" xScale="-1" yScale="-1" xOffset="806" yOffset="478"/>
-    <contour>
-      <point x="404" y="500" type="move" name="aboveLC"/>
-    </contour>
-    <contour>
-      <point x="414" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="806"/>
+	<outline>
+		<component base="m" xScale="-1" yScale="-1" xOffset="806" yOffset="478"/>
+		<contour>
+			<point name="aboveLC" x="404" y="500" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="414" y="-20" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

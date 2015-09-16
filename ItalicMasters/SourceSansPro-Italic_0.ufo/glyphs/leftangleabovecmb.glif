@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="leftangleabovecmb" format="1">
-  <advance width="0"/>
-  <outline>
-    <contour>
-      <point x="157" y="572" type="line"/>
-      <point x="185" y="572" type="line"/>
-      <point x="211" y="706" type="line"/>
-      <point x="71" y="706" type="line"/>
-      <point x="66" y="678" type="line"/>
-      <point x="178" y="678" type="line"/>
-    </contour>
-    <contour>
-      <point x="98" y="500" type="move" name="_aboverightLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="157" y="572" type="line"/>
+			<point x="185" y="572" type="line"/>
+			<point x="211" y="706" type="line"/>
+			<point x="71" y="706" type="line"/>
+			<point x="66" y="678" type="line"/>
+			<point x="178" y="678" type="line"/>
+		</contour>
+		<contour>
+			<point name="_aboverightLC" x="98" y="500" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

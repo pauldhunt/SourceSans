@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowright" format="1">
-  <advance width="594"/>
-  <outline>
-    <contour>
-      <point x="316" y="-14" type="line"/>
-      <point x="574" y="248" type="line"/>
-      <point x="574" y="254" type="line"/>
-      <point x="316" y="516" type="line"/>
-      <point x="298" y="498" type="line"/>
-      <point x="530" y="264" type="line"/>
-      <point x="22" y="264" type="line"/>
-      <point x="22" y="238" type="line"/>
-      <point x="530" y="238" type="line"/>
-      <point x="298" y="4" type="line"/>
-    </contour>
-  </outline>
+	<advance width="594"/>
+	<outline>
+		<contour>
+			<point x="316" y="-14" type="line"/>
+			<point x="574" y="248" type="line"/>
+			<point x="574" y="254" type="line"/>
+			<point x="316" y="516" type="line"/>
+			<point x="298" y="498" type="line"/>
+			<point x="530" y="264" type="line"/>
+			<point x="22" y="264" type="line"/>
+			<point x="22" y="238" type="line"/>
+			<point x="530" y="238" type="line"/>
+			<point x="298" y="4" type="line"/>
+		</contour>
+	</outline>
 </glyph>

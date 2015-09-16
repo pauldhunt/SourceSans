@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minusmod" format="1">
-  <advance width="540"/>
-  <outline>
-    <component base="minus"/>
-  </outline>
+	<advance width="540"/>
+	<outline>
+		<component base="minus"/>
+	</outline>
 </glyph>

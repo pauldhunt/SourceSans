@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lretroflex" format="1">
-  <advance width="298"/>
-  <outline>
-    <contour>
-      <point x="242" y="-188" type="curve" smooth="yes"/>
-      <point x="283" y="-188"/>
-      <point x="306" y="-182"/>
-      <point x="326" y="-174" type="curve"/>
-      <point x="296" y="-48" type="line"/>
-      <point x="286" y="-52"/>
-      <point x="279" y="-54"/>
-      <point x="270" y="-54" type="curve" smooth="yes"/>
-      <point x="241" y="-54"/>
-      <point x="230" y="-37"/>
-      <point x="230" y="10" type="curve"/>
-      <point x="230" y="696" type="line"/>
-      <point x="58" y="696" type="line"/>
-      <point x="58" y="16" type="line" smooth="yes"/>
-      <point x="58" y="-91"/>
-      <point x="100" y="-188"/>
-    </contour>
-    <contour>
-      <point x="149" y="730.0" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="149" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="298"/>
+	<outline>
+		<contour>
+			<point x="242" y="-188" type="curve" smooth="yes"/>
+			<point x="283" y="-188"/>
+			<point x="306" y="-182"/>
+			<point x="326" y="-174" type="curve"/>
+			<point x="296" y="-48" type="line"/>
+			<point x="286" y="-52"/>
+			<point x="279" y="-54"/>
+			<point x="270" y="-54" type="curve" smooth="yes"/>
+			<point x="241" y="-54"/>
+			<point x="230" y="-37"/>
+			<point x="230" y="10" type="curve"/>
+			<point x="230" y="696" type="line"/>
+			<point x="58" y="696" type="line"/>
+			<point x="58" y="16" type="line" smooth="yes"/>
+			<point x="58" y="-91"/>
+			<point x="100" y="-188"/>
+		</contour>
+		<contour>
+			<point name="aboveUC" x="149" y="730" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="149" y="-20" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

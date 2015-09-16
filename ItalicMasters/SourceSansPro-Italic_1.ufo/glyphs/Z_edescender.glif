@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zedescender" format="1">
-  <advance width="544"/>
-  <outline>
-    <contour>
-      <point x="116" y="-192" type="line"/>
-      <point x="248" y="-192" type="line"/>
-      <point x="302" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-    </contour>
-    <component base="Ze"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.4</real>
-        <real>0.4</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="544"/>
+	<outline>
+		<contour>
+			<point x="116" y="-192" type="line"/>
+			<point x="248" y="-192" type="line"/>
+			<point x="302" y="0" type="line"/>
+			<point x="154" y="0" type="line"/>
+		</contour>
+		<component base="Ze"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0.4</real>
+				<real>0.4</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

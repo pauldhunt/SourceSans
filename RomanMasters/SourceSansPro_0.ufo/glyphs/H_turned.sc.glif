@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hturned.sc" format="1">
-  <advance width="512"/>
-  <outline>
-    <component base="Che.sc"/>
-  </outline>
+	<advance width="512"/>
+	<outline>
+		<component base="Che.sc"/>
+	</outline>
 </glyph>

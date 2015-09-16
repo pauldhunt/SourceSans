@@ -1,31 +1,31 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dhook.sc" format="1">
-  <advance width="618"/>
-  <outline>
-    <contour>
-      <point x="357" y="562" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="352" y="-22" type="move" name="belowLC"/>
-    </contour>
-    <contour>
-      <point x="93" y="301" type="curve"/>
-      <point x="110" y="325" type="line"/>
-      <point x="88" y="340"/>
-      <point x="79" y="365"/>
-      <point x="79" y="397" type="curve" smooth="yes"/>
-      <point x="79" y="458"/>
-      <point x="122" y="483"/>
-      <point x="184" y="483" type="curve" smooth="yes"/>
-      <point x="286" y="483" type="line"/>
-      <point x="286" y="510" type="line"/>
-      <point x="185" y="510" type="line" smooth="yes"/>
-      <point x="101" y="510"/>
-      <point x="48" y="473"/>
-      <point x="48" y="393" type="curve" smooth="yes"/>
-      <point x="48" y="352"/>
-      <point x="63" y="320"/>
-    </contour>
-    <component base="D.sc" xOffset="84"/>
-  </outline>
+	<advance width="618"/>
+	<outline>
+		<contour>
+			<point x="93" y="301" type="curve"/>
+			<point x="110" y="325" type="line"/>
+			<point x="88" y="340"/>
+			<point x="79" y="365"/>
+			<point x="79" y="397" type="curve" smooth="yes"/>
+			<point x="79" y="458"/>
+			<point x="122" y="483"/>
+			<point x="184" y="483" type="curve" smooth="yes"/>
+			<point x="286" y="483" type="line"/>
+			<point x="286" y="510" type="line"/>
+			<point x="185" y="510" type="line" smooth="yes"/>
+			<point x="101" y="510"/>
+			<point x="48" y="473"/>
+			<point x="48" y="393" type="curve" smooth="yes"/>
+			<point x="48" y="352"/>
+			<point x="63" y="320"/>
+		</contour>
+		<component base="D.sc" xOffset="84"/>
+		<contour>
+			<point name="aboveUC" x="357" y="562" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="352" y="-22" type="move"/>
+		</contour>
+	</outline>
 </glyph>

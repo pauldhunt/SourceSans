@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon.sups" format="1">
-  <advance width="211"/>
-  <outline>
-    <component base="period.dnom" xOffset="70" yOffset="368"/>
-    <component base="period.dnom" xOffset="108" yOffset="568"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="211"/>
+	<outline>
+		<component base="period.dnom" xOffset="70" yOffset="368"/>
+		<component base="period.dnom" xOffset="108" yOffset="568"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>
