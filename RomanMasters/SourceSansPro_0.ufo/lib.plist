@@ -2190,6 +2190,11 @@
 					<string>tildeacutecmb.cap</string>
 					<string>circlewhite</string>
 					<string>rfishhookreversedtail</string>
+					<string>ldot</string>
+					<string>Ldot</string>
+					<string>Ldot.sc</string>
+					<string>ldot.a</string>
+					<string>Bsmall</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -9310,6 +9315,7 @@
 			<string>Ldot</string>
 			<string>Ldot.sc</string>
 			<string>ldot.a</string>
+			<string>Bsmall</string>
 		</array>
 	</dict>
 </plist>

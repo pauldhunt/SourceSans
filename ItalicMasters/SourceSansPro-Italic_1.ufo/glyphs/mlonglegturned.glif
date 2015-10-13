@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mlonglegturned" format="1">
-	<advance width="834"/>
-	<outline>
-		<component base="mturned"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>1</real>
-				<real>0</real>
-				<real>0</real>
-				<real>1</real>
-			</array>
-		</dict>
-	</lib>
+  <advance width="834"/>
+  <outline>
+    <component base="mturned"/>
+    <contour>
+      <point x="417" y="520" type="move" name="aboveLC"/>
+    </contour>
+    <contour>
+      <point x="417" y="-119" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis" format="1">
-	<advance width="562"/>
-	<outline>
-		<component base="A"/>
-		<component base="dieresiscmb.cap" xOffset="244"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.3</real>
-				<integer>1</integer>
-				<real>0.5470588235</real>
-				<integer>1</integer>
-			</array>
-		</dict>
-	</lib>
+  <advance width="562"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresiscmb.cap" xOffset="246"/>
+    <contour>
+      <point x="281" y="0" type="move" name="ogonekUC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8</real>
+        <real>0.8</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

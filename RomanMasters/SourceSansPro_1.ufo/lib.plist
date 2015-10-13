@@ -206,6 +206,7 @@
 					<string>Ddotbelow</string>
 					<string>Dlinebelow</string>
 					<string>Dcroat</string>
+					<string>Dhook</string>
 					<string>Egrave</string>
 					<string>Eacute</string>
 					<string>Ecircumflex</string>
@@ -260,6 +261,7 @@
 					<string>Ldotbelowmacron</string>
 					<string>Llinebelow</string>
 					<string>Lslash</string>
+					<string>Ldot</string>
 					<string>Macute</string>
 					<string>Mdotaccent</string>
 					<string>Mdotbelow</string>
@@ -296,6 +298,7 @@
 					<string>Ohorndotbelow</string>
 					<string>Omacronacute</string>
 					<string>Oslash</string>
+					<string>Oslashacute</string>
 					<string>OE</string>
 					<string>Racute</string>
 					<string>Rcaron</string>
@@ -456,6 +459,7 @@
 					<string>ldotbelowmacron</string>
 					<string>llinebelow</string>
 					<string>lslash</string>
+					<string>ldot</string>
 					<string>macute</string>
 					<string>mdotaccent</string>
 					<string>mdotbelow</string>
@@ -493,6 +497,7 @@
 					<string>ohorntilde</string>
 					<string>ohorndotbelow</string>
 					<string>oslash</string>
+					<string>oslashacute</string>
 					<string>oe</string>
 					<string>racute</string>
 					<string>rcommaaccent</string>
@@ -509,6 +514,7 @@
 					<string>sdotaccent</string>
 					<string>sdotbelow</string>
 					<string>germandbls</string>
+					<string>longs</string>
 					<string>tcaron</string>
 					<string>tcedilla</string>
 					<string>tcommaaccent</string>
@@ -1258,12 +1264,14 @@
 					<string>quotedblright</string>
 					<string>quotesinglbase</string>
 					<string>quotedblbase</string>
+					<string>quotereversed</string>
 					<string>guilsinglleft</string>
 					<string>guilsinglright</string>
 					<string>guillemotleft</string>
 					<string>guillemotright</string>
 					<string>hyphen</string>
 					<string>sfthyphen</string>
+					<string>hyphentwo</string>
 					<string>endash</string>
 					<string>emdash</string>
 					<string>twoemdash</string>
@@ -1784,15 +1792,11 @@
 					<string>x.sups</string>
 					<string>y.sups</string>
 					<string>z.sups</string>
-					<string>glottalstopreversedmod</string>
-					<string>colontriangularmod</string>
-					<string>colontriangularhalfmod</string>
-					<string>hookrhoticmod</string>
-					<string>gammalatinsupmod</string>
-					<string>glottalstopreversedsupmod</string>
 					<string>egrave.sups</string>
 					<string>eacute.sups</string>
 					<string>schwa.sups</string>
+					<string>gammalatinsupmod</string>
+					<string>glottalstopreversedsupmod</string>
 					<string>a.supa</string>
 					<string>g.supa</string>
 					<string>l.supa</string>
@@ -1800,7 +1804,6 @@
 					<string>hyphen.sups</string>
 					<string>endash.sups</string>
 					<string>emdash.sups</string>
-					<string>degree</string>
 					<string>currency</string>
 					<string>dollar</string>
 					<string>sterling</string>
@@ -1864,6 +1867,10 @@
 					<string>approxequal</string>
 					<string>logicalnot</string>
 					<string>infinity</string>
+					<string>degree</string>
+					<string>prime</string>
+					<string>dblprime</string>
+					<string>primereversed</string>
 					<string>mu.math</string>
 					<string>partialdiff</string>
 					<string>integral</string>
@@ -1890,30 +1897,23 @@
 					<string>arrowdblright</string>
 					<string>arrowdbldown</string>
 					<string>squareblack</string>
+					<string>squareshadow</string>
 					<string>diamondblack</string>
 					<string>fisheye</string>
-					<string>squareshadow</string>
-					<string>triangleblackup</string>
-					<string>trianglewhiteup</string>
-					<string>triangleblackright</string>
-					<string>trianglewhiteright</string>
-					<string>triangleblackdown</string>
-					<string>trianglewhitedown</string>
-					<string>triangleblackleft</string>
-					<string>trianglewhiteleft</string>
 					<string>checkbox</string>
 					<string>checkedbox</string>
 					<string>check</string>
 					<string>eighthnote</string>
 					<string>lozenge</string>
-					<string>prime</string>
-					<string>dblprime</string>
-					<string>primereversed</string>
 					<string>primemod</string>
 					<string>commaturnedmod</string>
 					<string>apostrophemod</string>
 					<string>ringhalfrightmod</string>
 					<string>ringhalfleftmod</string>
+					<string>glottalstopreversedmod</string>
+					<string>colontriangularmod</string>
+					<string>colontriangularhalfmod</string>
+					<string>hookrhoticmod</string>
 					<string>grave</string>
 					<string>acute</string>
 					<string>circumflex</string>
@@ -2049,9 +2049,9 @@
 					<string>perispomenicmb</string>
 					<string>perispomenicmb.cap</string>
 					<string>iotasubscriptcmb</string>
+					<string>brevedoublebelowcmb</string>
 					<string>macrondoublebelowcmb</string>
 					<string>breveinverteddoublecmb</string>
-					<string>brevedoublebelowcmb</string>
 					<string>macronacutecmb</string>
 					<string>macronacutecmb.cap</string>
 					<string>gravemacroncmb</string>
@@ -2077,7 +2077,6 @@
 					<string>Chook</string>
 					<string>Dcircumflexbelow</string>
 					<string>Dafrican</string>
-					<string>Dhook</string>
 					<string>Ecedilla</string>
 					<string>Eturned</string>
 					<string>Eopen</string>
@@ -2104,7 +2103,6 @@
 					<string>Odieresismacron</string>
 					<string>Otildeacute</string>
 					<string>Omacrongrave</string>
-					<string>Oslashacute</string>
 					<string>Obar</string>
 					<string>Oopen</string>
 					<string>Omegalatin</string>
@@ -2150,7 +2148,6 @@
 					<string>odieresismacron</string>
 					<string>otildeacute</string>
 					<string>omacrongrave</string>
-					<string>oslashacute</string>
 					<string>omegalatin</string>
 					<string>omegalatinclosed</string>
 					<string>phook</string>
@@ -2226,14 +2223,46 @@
 					<string>Oopen.sups</string>
 					<string>oopen.sups</string>
 					<string>eopen.sups</string>
-					<string>yuan</string>
+					<string>Ldot.sc</string>
+					<string>_Aogonek</string>
+					<string>_Eogonek</string>
+					<string>_Iogonek</string>
+					<string>_Lcaron</string>
+					<string>_Oogonek</string>
+					<string>_Uogonek</string>
+					<string>_a.a</string>
+					<string>_aogonek</string>
+					<string>_eogonek</string>
+					<string>_iogonek</string>
+					<string>_iogonek.a</string>
+					<string>_oogonek</string>
+					<string>_uogonek</string>
+					<string>_ydotbelow</string>
+					<string>dotlessi.a</string>
+					<string>i.a</string>
+					<string>iacute.a</string>
+					<string>ibreve.a</string>
+					<string>icaron.a</string>
+					<string>icircumflex.a</string>
+					<string>idieresis.a</string>
+					<string>idotbelow.a</string>
+					<string>igrave.a</string>
+					<string>ihoi.a</string>
+					<string>imacron.a</string>
+					<string>itilde.a</string>
+					<string>ldot.a</string>
+					<string>rfishhookreversedtail</string>
 					<string>tildeacutecmb</string>
 					<string>tildeacutecmb.cap</string>
-					<string>rfishhookreversedtail</string>
-					<string>ldot</string>
-					<string>Ldot</string>
-					<string>Ldot.sc</string>
-					<string>ldot.a</string>
+					<string>triangleblackdown</string>
+					<string>triangleblackleft</string>
+					<string>triangleblackright</string>
+					<string>triangleblackup</string>
+					<string>trianglewhitedown</string>
+					<string>trianglewhiteleft</string>
+					<string>trianglewhiteright</string>
+					<string>trianglewhiteup</string>
+					<string>yuan</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -6016,7 +6045,21 @@
 1442361795.0 glyphs/Z_hedescender.sc.glif
 1442361795.0 glyphs/Z_linebelow.glif
 1442361795.0 glyphs/Z_linebelow.sc.glif
+1443734023.0 glyphs/_A_ogonek.glif
+1443734023.0 glyphs/_E_ogonek.glif
+1443734023.0 glyphs/_I_ogonek.glif
+1443734023.0 glyphs/_L_caron.glif
+1443734023.0 glyphs/_O_ogonek.glif
+1443734023.0 glyphs/_U_ogonek.glif
+1443734023.0 glyphs/_a.a.glif
+1443734023.0 glyphs/_aogonek.glif
+1443734023.0 glyphs/_eogonek.glif
+1443734023.0 glyphs/_iogonek.a.glif
+1443734023.0 glyphs/_iogonek.glif
 1442361795.0 glyphs/_notdef.glif
+1443734023.0 glyphs/_oogonek.glif
+1443734023.0 glyphs/_uogonek.glif
+1443734023.0 glyphs/_ydotbelow.glif
 1442361795.0 glyphs/a.a.glif
 1442361795.0 glyphs/a.glif
 1442361795.0 glyphs/a.supa.glif
@@ -6316,6 +6359,7 @@
 1442361796.0 glyphs/dotaccentcmb.cap.glif
 1442361796.0 glyphs/dotaccentcmb.glif
 1442361796.0 glyphs/dotbelowcmb.glif
+1443734023.0 glyphs/dotlessi.a.glif
 1442361796.0 glyphs/dotlessi.glif
 1442361796.0 glyphs/dotlessj.glif
 1442361796.0 glyphs/dotlessjstroke.glif
@@ -6556,26 +6600,37 @@
 1442361797.0 glyphs/hyphen.glif
 1442361797.0 glyphs/hyphen.sc.glif
 1442361797.0 glyphs/hyphen.sups.glif
+1443734023.0 glyphs/hyphentwo.glif
+1443734023.0 glyphs/i.a.glif
 1442361797.0 glyphs/i.glif
 1442361797.0 glyphs/i.sups.glif
 1442361797.0 glyphs/i.trk.glif
+1443734023.0 glyphs/iacute.a.glif
 1442361797.0 glyphs/iacute.glif
+1443734023.0 glyphs/ibreve.a.glif
 1442361797.0 glyphs/ibreve.glif
+1443734023.0 glyphs/icaron.a.glif
 1442361797.0 glyphs/icaron.glif
+1443734023.0 glyphs/icircumflex.a.glif
 1442361797.0 glyphs/icircumflex.glif
 1442361797.0 glyphs/icyr.glif
+1443734023.0 glyphs/idieresis.a.glif
 1442361797.0 glyphs/idieresis.glif
 1442361797.0 glyphs/idieresisacute.glif
+1443734023.0 glyphs/idotbelow.a.glif
 1442361797.0 glyphs/idotbelow.glif
 1442361797.0 glyphs/ie.glif
 1442361797.0 glyphs/iebreve.glif
 1442361797.0 glyphs/iegrave.glif
 1442361797.0 glyphs/ieukran.glif
+1443734023.0 glyphs/igrave.a.glif
 1442361797.0 glyphs/igrave.glif
 1442361797.0 glyphs/igravecyr.glif
+1443734023.0 glyphs/ihoi.a.glif
 1442361797.0 glyphs/ihoi.glif
 1442361797.0 glyphs/ij.glif
 1442361797.0 glyphs/ijacute.glif
+1443734023.0 glyphs/imacron.a.glif
 1442361797.0 glyphs/imacron.glif
 1442361797.0 glyphs/imacroncyr.glif
 1442361797.0 glyphs/infinity.glif
@@ -6612,6 +6667,7 @@
 1442361797.0 glyphs/ismall.glif
 1442361797.0 glyphs/istroke.d.glif
 1442361797.0 glyphs/istroke.glif
+1443734023.0 glyphs/itilde.a.glif
 1442361797.0 glyphs/itilde.glif
 1442361797.0 glyphs/iukran.glif
 1442361797.0 glyphs/izhitsa.glif
@@ -6682,6 +6738,7 @@
 1442361798.0 glyphs/llinebelow.glif
 1442361798.0 glyphs/lmiddletilde.glif
 1442361798.0 glyphs/logicalnot.glif
+1443734023.0 glyphs/longs.glif
 1442361798.0 glyphs/lowlinecmb.glif
 1442361798.0 glyphs/lownumeralsign.glif
 1442361798.0 glyphs/lozenge.glif
@@ -6919,6 +6976,7 @@
 1442361798.0 glyphs/quotedblright.sc.glif
 1442361798.0 glyphs/quoteleft.glif
 1442361798.0 glyphs/quoteleft.sc.glif
+1443734023.0 glyphs/quotereversed.glif
 1442361798.0 glyphs/quoteright.glif
 1442361798.0 glyphs/quoteright.sc.glif
 1442361798.0 glyphs/quotesinglbase.glif
@@ -7321,6 +7379,7 @@
 			<string>Ddotbelow</string>
 			<string>Dlinebelow</string>
 			<string>Dcroat</string>
+			<string>Dhook</string>
 			<string>Egrave</string>
 			<string>Eacute</string>
 			<string>Ecircumflex</string>
@@ -7375,6 +7434,7 @@
 			<string>Ldotbelowmacron</string>
 			<string>Llinebelow</string>
 			<string>Lslash</string>
+			<string>Ldot</string>
 			<string>Macute</string>
 			<string>Mdotaccent</string>
 			<string>Mdotbelow</string>
@@ -7411,6 +7471,7 @@
 			<string>Ohorndotbelow</string>
 			<string>Omacronacute</string>
 			<string>Oslash</string>
+			<string>Oslashacute</string>
 			<string>OE</string>
 			<string>Racute</string>
 			<string>Rcaron</string>
@@ -7571,6 +7632,7 @@
 			<string>ldotbelowmacron</string>
 			<string>llinebelow</string>
 			<string>lslash</string>
+			<string>ldot</string>
 			<string>macute</string>
 			<string>mdotaccent</string>
 			<string>mdotbelow</string>
@@ -7608,6 +7670,7 @@
 			<string>ohorntilde</string>
 			<string>ohorndotbelow</string>
 			<string>oslash</string>
+			<string>oslashacute</string>
 			<string>oe</string>
 			<string>racute</string>
 			<string>rcommaaccent</string>
@@ -7624,6 +7687,7 @@
 			<string>sdotaccent</string>
 			<string>sdotbelow</string>
 			<string>germandbls</string>
+			<string>longs</string>
 			<string>tcaron</string>
 			<string>tcedilla</string>
 			<string>tcommaaccent</string>
@@ -8373,12 +8437,14 @@
 			<string>quotedblright</string>
 			<string>quotesinglbase</string>
 			<string>quotedblbase</string>
+			<string>quotereversed</string>
 			<string>guilsinglleft</string>
 			<string>guilsinglright</string>
 			<string>guillemotleft</string>
 			<string>guillemotright</string>
 			<string>hyphen</string>
 			<string>sfthyphen</string>
+			<string>hyphentwo</string>
 			<string>endash</string>
 			<string>emdash</string>
 			<string>twoemdash</string>
@@ -8899,15 +8965,11 @@
 			<string>x.sups</string>
 			<string>y.sups</string>
 			<string>z.sups</string>
-			<string>glottalstopreversedmod</string>
-			<string>colontriangularmod</string>
-			<string>colontriangularhalfmod</string>
-			<string>hookrhoticmod</string>
-			<string>gammalatinsupmod</string>
-			<string>glottalstopreversedsupmod</string>
 			<string>egrave.sups</string>
 			<string>eacute.sups</string>
 			<string>schwa.sups</string>
+			<string>gammalatinsupmod</string>
+			<string>glottalstopreversedsupmod</string>
 			<string>a.supa</string>
 			<string>g.supa</string>
 			<string>l.supa</string>
@@ -8915,7 +8977,6 @@
 			<string>hyphen.sups</string>
 			<string>endash.sups</string>
 			<string>emdash.sups</string>
-			<string>degree</string>
 			<string>currency</string>
 			<string>dollar</string>
 			<string>sterling</string>
@@ -8979,6 +9040,10 @@
 			<string>approxequal</string>
 			<string>logicalnot</string>
 			<string>infinity</string>
+			<string>degree</string>
+			<string>prime</string>
+			<string>dblprime</string>
+			<string>primereversed</string>
 			<string>mu.math</string>
 			<string>partialdiff</string>
 			<string>integral</string>
@@ -9005,30 +9070,23 @@
 			<string>arrowdblright</string>
 			<string>arrowdbldown</string>
 			<string>squareblack</string>
+			<string>squareshadow</string>
 			<string>diamondblack</string>
 			<string>fisheye</string>
-			<string>squareshadow</string>
-			<string>triangleblackup</string>
-			<string>trianglewhiteup</string>
-			<string>triangleblackright</string>
-			<string>trianglewhiteright</string>
-			<string>triangleblackdown</string>
-			<string>trianglewhitedown</string>
-			<string>triangleblackleft</string>
-			<string>trianglewhiteleft</string>
 			<string>checkbox</string>
 			<string>checkedbox</string>
 			<string>check</string>
 			<string>eighthnote</string>
 			<string>lozenge</string>
-			<string>prime</string>
-			<string>dblprime</string>
-			<string>primereversed</string>
 			<string>primemod</string>
 			<string>commaturnedmod</string>
 			<string>apostrophemod</string>
 			<string>ringhalfrightmod</string>
 			<string>ringhalfleftmod</string>
+			<string>glottalstopreversedmod</string>
+			<string>colontriangularmod</string>
+			<string>colontriangularhalfmod</string>
+			<string>hookrhoticmod</string>
 			<string>grave</string>
 			<string>acute</string>
 			<string>circumflex</string>
@@ -9164,9 +9222,9 @@
 			<string>perispomenicmb</string>
 			<string>perispomenicmb.cap</string>
 			<string>iotasubscriptcmb</string>
+			<string>brevedoublebelowcmb</string>
 			<string>macrondoublebelowcmb</string>
 			<string>breveinverteddoublecmb</string>
-			<string>brevedoublebelowcmb</string>
 			<string>macronacutecmb</string>
 			<string>macronacutecmb.cap</string>
 			<string>gravemacroncmb</string>
@@ -9192,7 +9250,6 @@
 			<string>Chook</string>
 			<string>Dcircumflexbelow</string>
 			<string>Dafrican</string>
-			<string>Dhook</string>
 			<string>Ecedilla</string>
 			<string>Eturned</string>
 			<string>Eopen</string>
@@ -9219,7 +9276,6 @@
 			<string>Odieresismacron</string>
 			<string>Otildeacute</string>
 			<string>Omacrongrave</string>
-			<string>Oslashacute</string>
 			<string>Obar</string>
 			<string>Oopen</string>
 			<string>Omegalatin</string>
@@ -9265,7 +9321,6 @@
 			<string>odieresismacron</string>
 			<string>otildeacute</string>
 			<string>omacrongrave</string>
-			<string>oslashacute</string>
 			<string>omegalatin</string>
 			<string>omegalatinclosed</string>
 			<string>phook</string>
@@ -9341,14 +9396,6 @@
 			<string>Oopen.sups</string>
 			<string>oopen.sups</string>
 			<string>eopen.sups</string>
-			<string>yuan</string>
-			<string>tildeacutecmb</string>
-			<string>tildeacutecmb.cap</string>
-			<string>rfishhookreversedtail</string>
-			<string>ldot</string>
-			<string>Ldot</string>
-			<string>Ldot.sc</string>
-			<string>ldot.a</string>
 		</array>
 	</dict>
 </plist>

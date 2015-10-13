@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_ydotbelow" format="1">
+	<advance width="542"/>
+	<outline>
+		<component base="y"/>
+		<component base="dotbelowcmb" xOffset="260" yOffset="-180"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
+</glyph>

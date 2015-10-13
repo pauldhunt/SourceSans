@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcrossedtail" format="1">
-	<advance width="390"/>
-	<outline>
-		<component base="jcrossedtail.d"/>
-		<component base="dotaccentcmb" xOffset="246"/>
-		<contour>
-			<point name="belowLC" x="195" y="-20" type="move"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.typemytype.robofont.mark</key>
-			<array>
-				<real>0.7941176471</real>
-				<real>0.3</real>
-				<integer>1</integer>
-				<integer>1</integer>
-			</array>
-		</dict>
-	</lib>
+  <advance width="390"/>
+  <outline>
+    <component base="jcrossedtail.d"/>
+    <component base="dotaccentcmb" xOffset="246"/>
+    <contour>
+      <point x="195" y="-20" type="move" name="belowLC"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7941176470588236</real>
+        <real>0.30000000000000004</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>
