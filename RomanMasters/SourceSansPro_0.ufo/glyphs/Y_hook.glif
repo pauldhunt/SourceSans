@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yhook" format="1">
+	<unicode hex="01B3"/>
 	<advance width="502"/>
 	<outline>
 		<contour>
@@ -8,7 +9,7 @@
 			<point x="234" y="272" type="line"/>
 			<point x="385" y="569" type="line" smooth="yes"/>
 			<point x="400" y="599"/>
-			<point x="418.133" y="642"/>
+			<point x="418" y="642"/>
 			<point x="458" y="642" type="curve" smooth="yes"/>
 			<point x="486" y="642"/>
 			<point x="500" y="626"/>
@@ -17,8 +18,8 @@
 			<point x="515" y="654"/>
 			<point x="492" y="672"/>
 			<point x="455" y="672" type="curve" smooth="yes"/>
-			<point x="410.704" y="672"/>
-			<point x="383.95" y="626.9"/>
+			<point x="411" y="672"/>
+			<point x="384" y="627"/>
 			<point x="364" y="587" type="curve" smooth="yes"/>
 			<point x="220" y="304" type="line"/>
 			<point x="216" y="304" type="line"/>
@@ -30,4 +31,15 @@
 			<point x="202" y="272" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

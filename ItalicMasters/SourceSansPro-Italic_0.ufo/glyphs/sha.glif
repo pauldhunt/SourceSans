@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sha" format="1">
-  <advance width="776"/>
-  <outline>
-    <component base="mturned"/>
-    <contour>
-      <point x="388" y="500" type="move" name="aboveLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="776"/>
+	<outline>
+		<component base="mturned"/>
+		<contour>
+			<point name="aboveLC" x="388" y="500" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegaiotasublenisgrave" format="1">
-	<advance width="1034"/>
+	<advance width="1006"/>
 	<outline>
 		<component base="Omegalenisgrave"/>
-		<component base="iotaadscript" xOffset="806"/>
+		<component base="iotaadscript" xOffset="780"/>
 	</outline>
 	<lib>
 		<dict>

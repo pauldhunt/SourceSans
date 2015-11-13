@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kturned" format="1">
+	<unicode hex="A7B0"/>
 	<advance width="550"/>
 	<outline>
 		<component base="K" xScale="-1" xOffset="550"/>

@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="clicklateral" format="1">
-	<advance width="346"/>
+	<unicode hex="01C1"/>
+	<advance width="362"/>
 	<outline>
-		<component base="clickdental" xOffset="126"/>
+		<component base="clickdental" xOffset="140"/>
 		<component base="clickdental"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4</real>
+				<real>0.8</real>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

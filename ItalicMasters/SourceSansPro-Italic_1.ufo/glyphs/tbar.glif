@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="384"/>
-  <outline>
-    <contour>
-      <point x="8" y="224" type="line"/>
-      <point x="340" y="224" type="line"/>
-      <point x="356" y="300" type="line"/>
-      <point x="96" y="300" type="line"/>
-      <point x="22" y="294" type="line"/>
-    </contour>
-    <component base="t"/>
-    <contour>
-      <point x="192" y="520" type="move" name="aboveLC"/>
-    </contour>
-    <contour>
-      <point x="192" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="384"/>
+	<outline>
+		<contour>
+			<point x="8" y="224" type="line"/>
+			<point x="340" y="224" type="line"/>
+			<point x="356" y="300" type="line"/>
+			<point x="96" y="300" type="line"/>
+			<point x="22" y="294" type="line"/>
+		</contour>
+		<component base="t"/>
+		<contour>
+			<point name="aboveLC" x="258" y="664" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="183" y="-20" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0.4647058824</real>
+				<real>0.3</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lsmall" format="1">
-  <advance width="394"/>
-  <outline>
-    <contour>
-      <point x="44" y="0" type="line"/>
-      <point x="316" y="0" type="line"/>
-      <point x="322" y="26" type="line"/>
-      <point x="78" y="26" type="line"/>
-      <point x="168" y="478" type="line"/>
-      <point x="140" y="478" type="line"/>
-    </contour>
-    <contour>
-      <point x="150" y="500" type="move" name="aboveLC"/>
-    </contour>
-    <contour>
-      <point x="248" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="394"/>
+	<outline>
+		<contour>
+			<point x="44" y="0" type="line"/>
+			<point x="316" y="0" type="line"/>
+			<point x="322" y="26" type="line"/>
+			<point x="78" y="26" type="line"/>
+			<point x="168" y="478" type="line"/>
+			<point x="140" y="478" type="line"/>
+		</contour>
+		<contour>
+			<point name="aboveLC" x="150" y="500" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="248" y="-20" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

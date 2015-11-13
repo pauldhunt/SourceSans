@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lmiddletilde" format="1">
-  <advance width="432"/>
-  <outline>
-    <component base="L"/>
-    <component base="tildeoverlaycmb"/>
-    <contour>
-      <point x="216" y="680" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="216" y="-20" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="432"/>
+	<outline>
+		<component base="L"/>
+		<component base="tildeoverlaycmb"/>
+		<contour>
+			<point name="aboveUC" x="190" y="680" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="210" y="-20" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0.4647058824</real>
+				<real>0.3</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

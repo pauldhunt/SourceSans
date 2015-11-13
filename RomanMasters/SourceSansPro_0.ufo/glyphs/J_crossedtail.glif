@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcrossedtail" format="1">
+	<unicode hex="A7B2"/>
 	<advance width="419"/>
 	<outline>
 		<contour>
@@ -39,4 +40,15 @@
 			<point name="belowLC" x="201" y="-22" type="move"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

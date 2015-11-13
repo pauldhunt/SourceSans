@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hfishhooktailturned" format="1">
+	<unicode hex="02AF"/>
 	<advance width="608"/>
 	<outline>
 		<contour>
@@ -59,10 +60,10 @@
 		<dict>
 			<key>com.typemytype.robofont.mark</key>
 			<array>
-				<real>0.4647058824</real>
-				<real>0.3</real>
-				<integer>1</integer>
-				<integer>1</integer>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
 			</array>
 		</dict>
 	</lib>

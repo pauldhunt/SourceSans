@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gsmallhook" format="1">
+	<unicode hex="029B"/>
 	<advance width="482"/>
 	<outline>
 		<contour>

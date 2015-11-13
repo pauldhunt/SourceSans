@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hturned" format="1">
+	<unicode hex="A78D"/>
 	<advance width="572"/>
 	<outline>
 		<component base="Che"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4</real>
+				<real>0.8</real>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

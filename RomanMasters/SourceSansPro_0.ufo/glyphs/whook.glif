@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whook" format="1">
+	<unicode hex="2C73"/>
 	<advance width="737"/>
 	<outline>
 		<contour>
@@ -36,7 +37,7 @@
 			<point x="514" y="112"/>
 			<point x="526" y="156" type="curve"/>
 			<point x="610" y="459" type="line" smooth="yes"/>
-			<point x="633.267" y="542.926"/>
+			<point x="633" y="543"/>
 			<point x="667" y="581"/>
 			<point x="718" y="581" type="curve" smooth="yes"/>
 			<point x="755" y="581"/>
@@ -47,7 +48,7 @@
 			<point x="749" y="553"/>
 			<point x="721" y="553" type="curve" smooth="yes"/>
 			<point x="675" y="553"/>
-			<point x="655.634" y="512.106"/>
+			<point x="656" y="512"/>
 			<point x="636" y="444" type="curve" smooth="yes"/>
 			<point x="558" y="173"/>
 		</contour>

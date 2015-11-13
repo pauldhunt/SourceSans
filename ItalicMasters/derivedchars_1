@@ -2773,18 +2773,21 @@ EndDerived
 EndDerived
 
 /Alphalenis DerivedName
-(Alpha) Base
-(lenis.cap) 10 0 AddFlushLeft
+(Alpha) 100 0 Base
+662 Width
+(lenis.cap) AddFlushLeft
 EndDerived
 
 /Alphaasper DerivedName
-(Alpha) Base
+(Alpha) 80 0 Base
+642 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Alphagrave DerivedName
-(Alpha) Base
-(varia.cap) 40 0 AddFlushLeft
+(Alpha) 60 0 Base
+622 Width
+(varia.cap) AddFlushLeft
 EndDerived
 
 /Alphaacute DerivedName
@@ -2792,38 +2795,38 @@ EndDerived
 EndDerived
 
 /Alphalenisgrave DerivedName
-(Alpha) 106 0 Base
-626 Width
+(Alpha) 280 0 Base
+842 Width
 (lenisgrave.cap) AddFlushLeft
 EndDerived
 
 /Alphaaspergrave DerivedName
-(Alpha) 100 0 Base
-620 Width
+(Alpha) 280 0 Base
+842 Width
 (aspergrave.cap) AddFlushLeft
 EndDerived
 
 /Alphalenisacute DerivedName
-(Alpha) 106 0 Base
-626 Width
+(Alpha) 268 0 Base
+830 Width
 (lenisacute.cap) AddFlushLeft
 EndDerived
 
 /Alphaasperacute DerivedName
-(Alpha) 100 0 Base
-620 Width
+(Alpha) 268 0 Base
+830 Width
 (asperacute.cap) AddFlushLeft
 EndDerived
 
 /Alphalenistilde DerivedName
-(Alpha) 40 0 Base
-560 Width
+(Alpha) 120 0 Base
+682 Width
 (lenistilde.cap) AddFlushLeft
 EndDerived
 
 /Alphaaspertilde DerivedName
-(Alpha) 40 0 Base
-560 Width
+(Alpha) 120 0 Base
+682 Width
 (aspertilde.cap) AddFlushLeft
 EndDerived
 
@@ -2836,20 +2839,20 @@ EndDerived
 EndDerived
 
 /Epsilonlenis DerivedName
-(Epsilon) 82 0 Base
-592 Width
+(Epsilon) 180 0 Base
+716 Width
 (lenis.cap) AddFlushLeft
 EndDerived
 
 /Epsilonasper DerivedName
-(Epsilon) 82 0 Base
-592 Width
+(Epsilon) 180 0 Base
+716 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Epsilongrave DerivedName
-(Epsilon) 20 0 Base
-530 Width
+(Epsilon) 140 0 Base
+676 Width
 (varia.cap) AddFlushLeft
 EndDerived
 
@@ -2858,44 +2861,44 @@ EndDerived
 EndDerived
 
 /Epsilonlenisgrave DerivedName
-(Epsilon) 166 0 Base
-676 Width
+(Epsilon) 360 0 Base
+896 Width
 (lenisgrave.cap) AddFlushLeft
 EndDerived
 
 /Epsilonaspergrave DerivedName
-(Epsilon) 160 0 Base
-670 Width
+(Epsilon) 360 0 Base
+896 Width
 (aspergrave.cap) AddFlushLeft
 EndDerived
 
 /Epsilonlenisacute DerivedName
-(Epsilon) 166 0 Base
-676 Width
+(Epsilon) 348 0 Base
+884 Width
 (lenisacute.cap) AddFlushLeft
 EndDerived
 
 /Epsilonasperacute DerivedName
-(Epsilon) 160 0 Base
-670 Width
+(Epsilon) 348 0 Base
+884 Width
 (asperacute.cap) AddFlushLeft
 EndDerived
 
 /Etalenis DerivedName
-(Eta) 82 0 Base
-716 Width
+(Eta) 180 0 Base
+844 Width
 (lenis.cap) AddFlushLeft
 EndDerived
 
 /Etaasper DerivedName
-(Eta) 82 0 Base
-716 Width
+(Eta) 180 0 Base
+844 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Etagrave DerivedName
-(Eta) 20 0 Base
-654 Width
+(Eta) 140 0 Base
+804 Width
 (varia.cap) AddFlushLeft
 EndDerived
 
@@ -2904,44 +2907,44 @@ EndDerived
 EndDerived
 
 /Etalenisgrave DerivedName
-(Eta) 166 0 Base
-800 Width
+(Eta) 360 0 Base
+1024 Width
 (lenisgrave.cap) AddFlushLeft
 EndDerived
 
 /Etaaspergrave DerivedName
-(Eta) 160 0 Base
-794 Width
+(Eta) 360 0 Base
+1024 Width
 (aspergrave.cap) AddFlushLeft
 EndDerived
 
 /Etalenisacute DerivedName
-(Eta) 166 0 Base
-800 Width
+(Eta) 348 0 Base
+1012 Width
 (lenisacute.cap) AddFlushLeft
 EndDerived
 
 /Etaasperacute DerivedName
-(Eta) 160 0 Base
-794 Width
+(Eta) 348 0 Base
+1012 Width
 (asperacute.cap) AddFlushLeft
 EndDerived
 
 /Iotalenis DerivedName
-(Iota) 82 0 Base
-314 Width
+(Iota) 180 0 Base
+492 Width
 (lenis.cap) AddFlushLeft
 EndDerived
 
 /Iotaasper DerivedName
-(Iota) 82 0 Base
-314 Width
+(Iota) 180 0 Base
+492 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Iotagrave DerivedName
-(Iota) 20 0 Base
-252 Width
+(Iota) 140 0 Base
+452 Width
 (varia.cap) AddFlushLeft
 EndDerived
 
@@ -2950,52 +2953,54 @@ EndDerived
 EndDerived
 
 /Iotalenisgrave DerivedName
-(Iota) 166 0 Base
-398 Width
+(Iota) 360 0 Base
+672 Width
 (lenisgrave.cap) AddFlushLeft
 EndDerived
 
 /Iotaaspergrave DerivedName
-(Iota) 160 0 Base
-392 Width
+(Iota) 360 0 Base
+672 Width
 (aspergrave.cap) AddFlushLeft
 EndDerived
 
 /Iotalenisacute DerivedName
-(Iota) 166 0 Base
-398 Width
+(Iota) 348 0 Base
+660 Width
 (lenisacute.cap) AddFlushLeft
 EndDerived
 
 /Iotaasperacute DerivedName
-(Iota) 160 0 Base
-392 Width
+(Iota) 348 0 Base
+660 Width
 (asperacute.cap) AddFlushLeft
 EndDerived
 
 /Iotabreve DerivedName
 (Ibreve) Base
+312 Width
 EndDerived
 
 /Iotamacron DerivedName
 (Imacron) Base
+312 Width
 EndDerived
 
 /Omicronlenis DerivedName
-(Omicron) 60 0 Base
-708 Width
+(Omicron) 160 0 Base
+830 Width
 (lenis.cap) AddFlushLeft
 EndDerived
 
 /Omicronasper DerivedName
-(Omicron) 50 0 Base
-698 Width
+(Omicron) 140 0 Base
+810 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Omicrongrave DerivedName
-(Omicron) 10 0 Base
-658 Width
+(Omicron) 126 0 Base
+796 Width
 (varia.cap) AddFlushLeft
 EndDerived
 
@@ -3004,44 +3009,44 @@ EndDerived
 EndDerived
 
 /Omicronlenisgrave DerivedName
-(Omicron) 156 0 Base
-804 Width
+(Omicron) 346 0 Base
+1016 Width
 (lenisgrave.cap) AddFlushLeft
 EndDerived
 
 /Omicronaspergrave DerivedName
-(Omicron) 150 0 Base
-798 Width
+(Omicron) 346 0 Base
+1016 Width
 (aspergrave.cap) AddFlushLeft
 EndDerived
 
 /Omicronlenisacute DerivedName
-(Omicron) 156 0 Base
-804 Width
+(Omicron) 318 0 Base
+988 Width
 (lenisacute.cap) AddFlushLeft
 EndDerived
 
 /Omicronasperacute DerivedName
-(Omicron) 150 0 Base
-798 Width
+(Omicron) 318 0 Base
+988 Width
 (asperacute.cap) AddFlushLeft
 EndDerived
 
 /Rhoasper DerivedName
-(Rho) 82 0 Base
-624 Width
+(Rho) 180 0 Base
+776 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Upsilonasper DerivedName
-(Upsilon) 140 0 Base
-576 Width
+(Upsilon) 220 0 Base
+748 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Upsilongrave DerivedName
-(Upsilon) 80 0 Base
-516 Width
+(Upsilon) 200 0 Base
+728 Width
 (varia.cap) AddFlushLeft
 EndDerived
 
@@ -3050,43 +3055,45 @@ EndDerived
 EndDerived
 
 /Upsilonaspergrave DerivedName
-(Upsilon) 220 0 Base
-656 Width
+(Upsilon) 420 0 Base
+948 Width
 (aspergrave.cap) AddFlushLeft
 EndDerived
 
 /Upsilonasperacute DerivedName
-(Upsilon) 220 0 Base
-656 Width
+(Upsilon) 408 0 Base
+936 Width
 (asperacute.cap) AddFlushLeft
 EndDerived
 
 /Upsilonbreve DerivedName
 (Upsilon) Base
-(brevecmb.cap) AddCentered
+544 Width
+(brevecmb.cap) 8 0 AddCentered
 EndDerived
 
 /Upsilonmacron DerivedName
 (Upsilon) Base
-(macroncmb.cap) AddCentered
+544 Width
+(macroncmb.cap) 8 0 AddCentered
 EndDerived
 
 /Omegalenis DerivedName
-(Omega) 60 0 Base
-708 Width
+(Omega) 160 0 Base
+846 Width
 (lenis.cap) AddFlushLeft
 EndDerived
 
 /Omegaasper DerivedName
-(Omega) 50 0 Base
-698 Width
+(Omega) 140 0 Base
+826 Width
 (asper.cap) AddFlushLeft
 EndDerived
 
 /Omegagrave DerivedName
-(Omega) 10 0 Base
-658 Width
-(varia.cap) -314 0 AddCentered
+(Omega) 120 0 Base
+806 Width
+(varia.cap) -276 0 AddCentered
 EndDerived
 
 /Omegaacute DerivedName
@@ -3094,213 +3101,213 @@ EndDerived
 EndDerived
 
 /Omegalenisgrave DerivedName
-(Omega) 156 0 Base
-804 Width
+(Omega) 340 0 Base
+1026 Width
 (lenisgrave.cap) AddFlushLeft
 EndDerived
 
 /Omegaaspergrave DerivedName
-(Omega) 150 0 Base
-798 Width
+(Omega) 340 0 Base
+1026 Width
 (aspergrave.cap) AddFlushLeft
 EndDerived
 
 /Omegalenisacute DerivedName
-(Omega) 156 0 Base
-804 Width
+(Omega) 328 0 Base
+1014 Width
 (lenisacute.cap) AddFlushLeft
 EndDerived
 
 /Omegaasperacute DerivedName
-(Omega) 150 0 Base
-798 Width
+(Omega) 328 0 Base
+1014 Width
 (asperacute.cap) AddFlushLeft
 EndDerived
 
 /Alphaiotasub DerivedName
 (Alpha) Base
-750 Width
-(iotaadscript) 375 0 AddCentered
+848 Width
+(iotaadscript) 424 0 AddCentered
 EndDerived
 
 /Alphaiotasublenis DerivedName
 (Alphalenis) Base
-750 Width
-(iotaadscript) 375 0 AddCentered
+948 Width
+(iotaadscript) 474 0 AddCentered
 EndDerived
 
 /Alphaiotasubasper DerivedName
 (Alphaasper) Base
-750 Width
-(iotaadscript) 375 0 AddCentered
+928 Width
+(iotaadscript) 464 0 AddCentered
 EndDerived
 
 /Alphaiotasublenisgrave DerivedName
 (Alphalenisgrave) Base
-856 Width
-(iotaadscript) 428 0 AddCentered
+1128 Width
+(iotaadscript) 564 0 AddCentered
 EndDerived
 
 /Alphaiotasubaspergrave DerivedName
 (Alphaaspergrave) Base
-850 Width
-(iotaadscript) 425 0 AddCentered
+1128 Width
+(iotaadscript) 564 0 AddCentered
 EndDerived
 
 /Alphaiotasublenisacute DerivedName
 (Alphalenisacute) Base
-856 Width
-(iotaadscript) 428 0 AddCentered
+1116 Width
+(iotaadscript) 558 0 AddCentered
 EndDerived
 
 /Alphaiotasubasperacute DerivedName
 (Alphaasperacute) Base
-850 Width
-(iotaadscript) 425 0 AddCentered
+1116 Width
+(iotaadscript) 558 0 AddCentered
 EndDerived
 
 /Alphaiotasublenistilde DerivedName
 (Alphalenistilde) Base
-790 Width
-(iotaadscript) 395 0 AddCentered
+968 Width
+(iotaadscript) 484 0 AddCentered
 EndDerived
 
 /Alphaiotasubaspertilde DerivedName
 (Alphaaspertilde) Base
-790 Width
-(iotaadscript) 395 0 AddCentered
+968 Width
+(iotaadscript) 484 0 AddCentered
 EndDerived
 
 /Etaiotasub DerivedName
 (Eta) Base
-864 Width
-(iotaadscript) 432 0 AddCentered
+950 Width
+(iotaadscript) 475 0 AddCentered
 EndDerived
 
 /Etaiotasublenis DerivedName
 (Etalenis) Base
-946 Width
-(iotaadscript) 473 0 AddCentered
+1130 Width
+(iotaadscript) 565 0 AddCentered
 EndDerived
 
 /Etaiotasubasper DerivedName
 (Etaasper) Base
-946 Width
-(iotaadscript) 473 0 AddCentered
+1130 Width
+(iotaadscript) 565 0 AddCentered
 EndDerived
 
 /Etalenistilde DerivedName
-(Eta) 160 0 Base
-794 Width
+(Eta) 236 0 Base
+900 Width
 (lenistilde.cap) AddFlushLeft
 EndDerived
 
 /Etaaspertilde DerivedName
-(Eta) 160 0 Base
-794 Width
+(Eta) 236 0 Base
+900 Width
 (aspertilde.cap) AddFlushLeft
 EndDerived
 
 /Etaiotasublenisgrave DerivedName
 (Etalenisgrave) Base
-1030 Width
-(iotaadscript) 515 0 AddCentered
+1310 Width
+(iotaadscript) 655 0 AddCentered
 EndDerived
 
 /Etaiotasubaspergrave DerivedName
 (Etaaspergrave) Base
-1024 Width
-(iotaadscript) 512 0 AddCentered
+1310 Width
+(iotaadscript) 655 0 AddCentered
 EndDerived
 
 /Etaiotasublenisacute DerivedName
 (Etalenisacute) Base
-1030 Width
-(iotaadscript) 515 0 AddCentered
+1298 Width
+(iotaadscript) 649 0 AddCentered
 EndDerived
 
 /Etaiotasubasperacute DerivedName
 (Etaasperacute) Base
-1024 Width
-(iotaadscript) 512 0 AddCentered
+1298 Width
+(iotaadscript) 649 0 AddCentered
 EndDerived
 
 /Etaiotasublenistilde DerivedName
 (Etalenistilde) Base
-1024 Width
-(iotaadscript) 512 0 AddCentered
+1186 Width
+(iotaadscript) 593 0 AddCentered
 EndDerived
 
 /Etaiotasubaspertilde DerivedName
 (Etaaspertilde) Base
-1024 Width
-(iotaadscript) 512 0 AddCentered
+1186 Width
+(iotaadscript) 593 0 AddCentered
 EndDerived
 
 /Omegaiotasub DerivedName
 (Omega) Base
-878 Width
-(iotaadscript) 439 0 AddCentered
+972 Width
+(iotaadscript) 486 0 AddCentered
 EndDerived
 
 /Omegaiotasublenis DerivedName
 (Omegalenis) Base
-938 Width
-(iotaadscript) 469 0 AddCentered
+1132 Width
+(iotaadscript) 566 0 AddCentered
 EndDerived
 
 /Omegaiotasubasper DerivedName
 (Omegaasper) Base
-928 Width
-(iotaadscript) 464 0 AddCentered
+1112 Width
+(iotaadscript) 556 0 AddCentered
 EndDerived
 
 /Omegalenistilde DerivedName
-(Omega) 120 0 Base
-768 Width
+(Omega) 176 0 Base
+862 Width
 (lenistilde.cap) AddFlushLeft
 EndDerived
 
 /Omegaaspertilde DerivedName
-(Omega) 120 0 Base
-768 Width
+(Omega) 176 0 Base
+862 Width
 (aspertilde.cap) AddFlushLeft
 EndDerived
 
 /Omegaiotasublenisgrave DerivedName
 (Omegalenisgrave) Base
-1034 Width
-(iotaadscript) 517 0 AddCentered
+1312 Width
+(iotaadscript) 656 0 AddCentered
 EndDerived
 
 /Omegaiotasubaspergrave DerivedName
 (Omegaaspergrave) Base
-1028 Width
-(iotaadscript) 514 0 AddCentered
+1312 Width
+(iotaadscript) 656 0 AddCentered
 EndDerived
 
 /Omegaiotasublenisacute DerivedName
 (Omegalenisacute) Base
-1034 Width
-(iotaadscript) 517 0 AddCentered
+1300 Width
+(iotaadscript) 650 0 AddCentered
 EndDerived
 
 /Omegaiotasubasperacute DerivedName
 (Omegaasperacute) Base
-1028 Width
-(iotaadscript) 514 0 AddCentered
+1300 Width
+(iotaadscript) 650 0 AddCentered
 EndDerived
 
 /Omegaiotasublenistilde DerivedName
 (Omegalenistilde) Base
-1002 Width
-(iotaadscript) 503 0 AddCentered
+1148 Width
+(iotaadscript) 574 0 AddCentered
 EndDerived
 
 /Omegaiotasubaspertilde DerivedName
 (Omegaaspertilde) Base
-1002 Width
-(iotaadscript) 503 0 AddCentered
+1148 Width
+(iotaadscript) 574 0 AddCentered
 EndDerived
 
 /alphalenis DerivedName
@@ -4262,20 +4269,20 @@ EndDerived
 EndDerived
 
 /Iotalenistilde DerivedName
-(Iota) 160 0 Base
-392 Width
+(Iota) 236 0 Base
+548 Width
 (lenistilde.cap) AddFlushLeft
 EndDerived
 
 /Iotaaspertilde DerivedName
-(Iota) 160 0 Base
-392 Width
+(Iota) 236 0 Base
+548 Width
 (aspertilde.cap) AddFlushLeft
 EndDerived
 
 /Upsilonaspertilde DerivedName
-(Upsilon) 220 0 Base
-656 Width
+(Upsilon) 280 0 Base
+808 Width
 (aspertilde.cap) AddFlushLeft
 EndDerived
 

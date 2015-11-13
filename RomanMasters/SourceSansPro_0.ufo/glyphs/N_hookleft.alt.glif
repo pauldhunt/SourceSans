@@ -40,4 +40,15 @@
 			<point name="aboveUC" x="322" y="682" type="move"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

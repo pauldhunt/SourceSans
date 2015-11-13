@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obar" format="1">
+	<unicode hex="019F"/>
 	<advance width="648"/>
 	<outline>
 		<component base="Fita"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.4</real>
+				<real>0.8</real>
+				<real>1</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

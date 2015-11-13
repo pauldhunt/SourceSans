@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilonlatin" format="1">
+	<unicode hex="01B1"/>
 	<advance width="652"/>
 	<outline>
 		<contour>
@@ -39,4 +40,15 @@
 			<point x="252" y="660" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

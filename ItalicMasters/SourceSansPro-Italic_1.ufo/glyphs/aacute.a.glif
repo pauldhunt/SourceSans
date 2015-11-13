@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute.a" format="1">
-  <advance width="522"/>
-  <outline>
-    <component base="a.a"/>
-    <component base="acutecmb" xOffset="210"/>
-    <contour>
-      <point x="261" y="0" type="move" name="ogonekLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="522"/>
+	<outline>
+		<component base="a.a"/>
+		<component base="acutecmb" xOffset="210"/>
+		<contour>
+			<point name="ogonekLC" x="320" y="0" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0.4647058824</real>
+				<real>0.3</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

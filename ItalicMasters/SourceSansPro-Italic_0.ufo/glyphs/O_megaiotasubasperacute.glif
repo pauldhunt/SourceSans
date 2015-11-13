@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegaiotasubasperacute" format="1">
-	<advance width="1028"/>
+	<advance width="1000"/>
 	<outline>
 		<component base="Omegaasperacute"/>
-		<component base="iotaadscript" xOffset="800"/>
+		<component base="iotaadscript" xOffset="774"/>
 	</outline>
 	<lib>
 		<dict>

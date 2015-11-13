@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessjstrokehook" format="1">
-  <advance width="326"/>
-  <outline>
-    <contour>
-      <point x="57" y="220" type="line"/>
-      <point x="353" y="220" type="line"/>
-      <point x="369" y="300" type="line"/>
-      <point x="146" y="300" type="line"/>
-      <point x="72" y="294" type="line"/>
-    </contour>
-    <component base="esh" xScale="0.96"/>
-    <contour>
-      <point x="163" y="730" type="move" name="aboveUC"/>
-    </contour>
-    <contour>
-      <point x="163" y="-119" type="move" name="belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="326"/>
+	<outline>
+		<contour>
+			<point x="57" y="220" type="line"/>
+			<point x="353" y="220" type="line"/>
+			<point x="369" y="300" type="line"/>
+			<point x="146" y="300" type="line"/>
+			<point x="72" y="294" type="line"/>
+		</contour>
+		<component base="esh" xScale="0.96"/>
+		<contour>
+			<point name="aboveUC" x="163" y="730" type="move"/>
+		</contour>
+		<contour>
+			<point name="belowLC" x="163" y="-119" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

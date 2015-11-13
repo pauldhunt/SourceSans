@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotasubscript" format="1">
-  <advance width="560"/>
-  <outline>
-    <component base="iotasubscriptcmb" xOffset="280"/>
-    <contour>
-      <point x="280" y="0" type="move" name="_belowLC"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8</real>
-        <real>0.8</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
+	<advance width="560"/>
+	<outline>
+		<component base="iotasubscriptcmb" xOffset="280"/>
+		<contour>
+			<point name="_belowLC" x="280" y="0" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>0.8</real>
+				<real>0.8</real>
+				<real>0.6</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eshcurl" format="1">
+	<unicode hex="0286"/>
 	<advance width="393"/>
 	<outline>
 		<contour>

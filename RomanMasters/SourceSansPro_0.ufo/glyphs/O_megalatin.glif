@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegalatin" format="1">
+	<unicode hex="A7B6"/>
 	<advance width="848"/>
 	<outline>
 		<contour>
@@ -53,4 +54,15 @@
 			<point name="aboveUC" x="424" y="682" type="move"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.mark</key>
+			<array>
+				<real>1</real>
+				<real>0</real>
+				<real>0</real>
+				<real>1</real>
+			</array>
+		</dict>
+	</lib>
 </glyph>

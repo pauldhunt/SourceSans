@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shortequalsmod" format="1">
+	<unicode hex="A78A"/>
 	<advance width="472"/>
 	<outline>
 		<component base="equal"/>
